@@ -1,0 +1,453 @@
+#HELPS
+0 'INT' 'WIS' 'STR' 'CON' 'DEX'~
+These are the statistics that form your character.  Each one is
+important.  They can be boosted by training at a trainer, which costs train
+points and some zenni.  
+ 
+str:
+Strength is important for combat.  It determines the amount of damage you
+can do, and the amount you can defend against.
+Nameks and humans have the hardest time increasing their strength.
+ 
+dex:
+Dexterity is also important for combat.  High dexterity will help you hit
+opponents, as well as dodge them.  
+Saiya-jins and half-breeds can increase their dexterity the easiest,
+while icers have trouble.
+ 
+con:
+Constitution is equivalent to stamina. Increasing constitution will give
+more hitpoints and ki.
+Saiya-jins, androids and bio-androids can increase their constituion
+easily.
+ 
+int:
+Intelligence is your smarts.  Higher intelligence boosts damage with ki
+attacks, helps you defend against them, and increases the speed at which
+you gain skills.  It will also help ki gains.
+Nameks, humans and icers are the most intelligent.
+ 
+wis:
+Wisdom is your collected knowledge.  Higher wisdom will allow you to gain
+powerlevel faster and give you more ki.  
+Icers are the most unwise race.
+~
+
+0 COMBAT~
+Syntax: attack [light/medium/heavy] <target>
+
+Combat is controlled totally by the player, not the mud itself -- in other
+words, there are no set combat pulses.  The main form of combat is ATTACK,
+which attacks with whatever is in your main hand.  This is usually your
+fists. ATTACK can do varying amounts of damage by using the light, medium or
+heavy toggles.  Each does increasingly more damage, but drains more ki.
+Other attacks include kick, elbow and knee, or precise manuvers, such as
+throat shot or sweep.  These target specific part of the body and cause
+other affects besides damage to your opponent.
+When in a fight be careful to watch your ki.  Everything you do will drain it.
+If you run out of ki your current powerlevel will drop to zero and you will
+be an easy, weak, exhausted target for your attackers.
+Also read HELP BALANCE and HELP CHARGE.
+~
+
+0 BALANCE~
+Syntax: balance
+Syntax: defend
+Syntax: retreat
+
+Balance is important in fights.  Without good balance your attacks will
+lack speed, power and accuracy.  Also, it will be far harder to defend
+against enemy attacks.  Many things affect balance.  Hitting your opponent
+with a sweep will help knock him offbalance.  Missing a hit can also cause
+this to happen.  Sometimes, even receiving a blow can make you falter.
+Almost everything is affected by your balance, making it important not to
+overlook it during a fight.
+There are several ways to regain balance.  It naturally comes back over time.
+Or, more aggresively, you can attack your oppenent to throw him off balance,
+and possibly help yours.  Finally, there are two defensive commands: DEFEND
+and RETREAT. DEFEND causes you to drop into a defensive state, which will
+quickly recover some balance.  With RETREAT, you back away from combat
+totally. It recovers more balance than DEFEND, but takes longer.
+~
+
+0 CHARGE~
+Syntax: <skill> <target> [release]
+Syntax: release
+Syntax: cancel
+
+Most ki attacks are charged, which boosts their normal power.  The longer you
+allow an attack to charge the greater its power is. Charging occurs naturally
+when a skill is used.  Simply using an attack (i.e. kamehameha android) will
+begin to charge that attack.  Then, you wait.  Ki is constantly added into the
+attack, causing the attack to grow in power.  Once a minimum charging time has
+been reached, a message will appear and the attack can be released.  The
+RELEASE command will do this.  However, an attack can be charged indefinately
+until you run out of ki.  Running out of ki will ruin the attack, so be
+careful.
+CANCEL will stop any skill that you are currently charging.
+When using a skill, the [release] toggle can be used to immeadiately release
+the skill.  This negate any charging; however, an uncharged attack is far
+weaker.  Use this only when fighting weaker oppenents, or as a last resort.
+See each attack's help file to find out if it can be chargedor not.  
+~
+
+0 POWERLEVEL PL POWER~
+Syntax: power base/max
+Syntax: power <amount>
+
+Powerlevel is equivalent to your total strength.  Powerlevel affects
+everything: chance of hitting, damage, speed, defence and more. Still, your
+ability as a fighter will be proven inbattle where your choices will decide
+if you when or loose.  Fightingsomeone whose powerlevel is much higher then
+yours can be dangerous since theywill hit harder and move faster.
+Everybody has a maximum powerlevel.  This is their true, total power.
+However, it is possible to operate at any powerlevel from 1 to your max. This
+current powerlevel can be set by using the POWER command.  Again, current
+powerlevel can be set from one to your maximum.  It is also important to note
+that higher powerlevels means more ki is lost through actions.
+Base powerlevel is defined as one quarter maximum powerlevel.  At this level,
+ki losses are minimal.  When resting, your powerlevel should be kept at base,
+since maximum gains each tick are acheived.  This is easily acheived by POWER 
+BASE.  Anything beyond base powerlevel increases ki losses.  You must weigh 
+your own power against the rate at which you tire.  It is very important not
+to become exhausted.  POWER MAX can be used to quickly set your powerlevel to
+its maximum value.  At this level, you are in your most powerful state -- the
+ki losses are, however, phenomenal.
+~
+
+0 'NEWBIE INFO'~
+Welcome!
+
+This help file will help you learn this mud and point out a fewother help
+files that will make things easier to start.
+ 
+Combat here is different than many other muds.  The combat system does not
+revolve around set combat pulses.  Everything is real-time, in which you
+choose what to do and choose quickly, as to not get beaten into a pulp.
+See HELP COMBAT.
+
+Also, everything is based upon your stats (strength, wisdom, etc.), skills
+and powerlevel.  A new player begins with low stats, based on her race.
+She also receive the skills hand to hand, kick and dodge.  Stats and
+powerlevel determine your hit points and ki.  Hit points are how much abuse
+you can take before perishing.  Ki is the total amount of energy you have
+to use, before you become exhausted.  Everything uses up ki.
+
+There are no levels here.  Instead, you become stronger through raising
+your powerlevel (pl). At creation your powelevel will be a maximum of 1000.
+However, your current power level is at 250.  250 is the considered your
+base powerlevel (250 is 1/4 of 1000).  Base powerlevel minimizes ki loss.
+Powerlevel can be set anywhere from 1 to the maximum.  Higher powerlevels 
+make you stronger, but are far more draining to your ki.  The higher over
+your base, the faster you will lose ki.  If your ki reaches 0, your 
+powerlevel will drop. If your powerlevel reaches 0, you will be EXTREMLY
+easy to kill: consider yourself dead.  See HELP POWERLEVEL for more details.
+ 
+Also, most ki attacks can be charged by pumping ki into them, making them
+hit much harder. It can be dangerous to charge too much, since you can
+totally drain yourself.  While charging, you cannot do anything else, such
+as attack or kick.  HELP CHARGE will tell you more about this.
+~
+
+-1 WIZLIST~
+.
+                  *********************     
+                  ** {RDBZ {YArena {xGods  **
+                  *********************
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+The New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen, Adam Debus and especially Gary Turkington
+    (author of the ROM FAQ) for help spotting bugs
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+
+-1 AGREEMENT~
+If hire you are required to agree to the following.
+ 
+1) If you build something it will remain even if you quit/are fired/whatever.
+   No whining and trying to take your areas with you.
+
+2) Understand that if myself or the headbuilder talk to you about your area
+   we aren't trying to bitch at you just pointing out things that need to
+   be done differently.
+
+3) Remember that if your here to build and people are annoying you
+   theres always wizinvis and incog.
+~
+
+-1 SOCIALS~
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose        laces
+tank         starve      aargh        homework	    puff        differ
+yae          lightbulb   voodoo       ogg           confused    beam
+bite         discodance  scuff        whap          lag         chortle
+zerbert      twitch
+ 
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+Also see "help ROM" for information about the Rivers of Mud code base.
+~
+
+-1 GREETING~
+.                     {Y /\-.   `
+                      \ `.  `
+                       \  \ |
+              __.._    |   \.
+       ..---''     ' . |    |
+         '-.    /\.   `|    |
+            `.   \ \.        `''--.
+              \   \  \.       .    '. {MS O N - G O K U{Y
+               \   |   \     / \     \__. . -- -  .
+         .-----/    \   |   /  |     `````---...._
+      .-'___        ,'/  ,'/ ,'\          __...---```
+            '\'\'-.  _ /._\_( ,(/_. 7,-.    ``---...__
+           ___.>-  {W/"{BV{W"`_/"{BV{W"\   6){Y    ___...--'''
+            ``--._ {W\`--') `---/   9'{Y  _..--'''
+                  '{W\   /_        /{Y`-.--''
+                   {W \   ---    /'   \_
+                      \. " _.-/     | '-.,{R-------._
+                  ...{W_../''   ./      {R .-'    .-'''-{B.
+            {R,--''' ,'{W...\` _./.----''.'{R/    /'{B#######`-
+        _.-{R(      |{W\    `/' _____..-' {R/    /{B######_.-''{W`.
+       {B/###{R|     /{W. ^---''''       ' {R/    /{B#####,'{W  '.   \
+      {B(####{R/    ({W  .           _ ' {R/'    /{B####,/{W      \   )
+      ({B`.#{R|     `\{W   - - - - '   {R/'      ({B###/{W         .  |
+       \.{B\{R|       \            /'        \{B##|{W`.           /
+       /.'{B\{R\      `\         /'           '-\{W         .  /\
+      {W/,   {R(        `\     /'                `.{W___..-      \
+     {W| |    {R\         `\_/'                  /{W/      \.     |
+     | |     {R|                 {M_Seal_{R      /'{W |       |     |
+
+    {RDB{YArena{x by Antor, 2001.
+    ROM 2.4 copyright (c) 1993-1998 Russ Taylor, Michael Seifert, and
+    Sebastian Hammer.  Based on MERC 2.1 code by Hatchet, Furey, and
+    Kahn.  Original DikuMUD by Hans Staerfeldt, Katja Nyboe, Tom Madsen.
+      To everyone who helped make MUDs: thanks!
+
+                     Welcome to
+                       . . .
+               {RDRAGON BALL {YARENA{x
+
+{B[{xName{B]{x ~
+
+-1 MOTD~
+-Know the rules! See '{Crules{x'
+{B[{xHit Return{B]{x
+~
+
+3 IMOTD~
+Welcome Arena Staff
+
+You are reponsible for knowing the rules of this mud.  Any abuse or just plain meaness
+to other imms or mortals will not be tolerated.  Remember the whole point of making
+a mud is for the players to enjoy it.  Conduct yourselfs with some class and you'll
+be fine.
+Vegeta
+
+
+{B[{xHit Return{B]{x
+~
+
+-1 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+Player killing and player stealing are allowed to all clan members
+(including loners), provided the victim is is within 8 levels of the
+character and is also in a clan.  This will flag you as a "killer" or
+"thief", allowing any character to attack, and also provoking action
+from the city guard.
+~
+
+-1 RULES~
+These are the rules of the Arena.  If something is not covered here use some
+common sense and you'll be fine.
+
+* {RNO PLAYERKILLING{x
+* Playerkilling is for serious roleplay only. The follow do not count as
+  roleplaying reasons: "I'm evil", or "He said something about me on ooc".
+  If you playerkill without a good reason we will delete your character
+  and/or ban you.  This is a roleplay mud first, playerkill mud second.
+* Cursing is fine for roleplay but if taken to extremes it will get you
+  silenced, No racial or sexist commants will be tolerated
+* {RNO TRIGGERS.{x  Anyone caught using triggers or macros to train and gain
+  powerlevel at a higher rate than normal will be deleted
+* No multiplaying is allowed.  One character at a time is plenty.  You may
+  own more than one character in the game as long as you don't play more than
+  one at a time.  You also may not have any interaction between two characters
+  you own.
+* Do not steal kills from other players.  If they say you can jump in the
+  fight go ahead but don't assume they need your help.  Yes, it is coded
+  against this, but dont work around it.
+* Cheaters will be dealt with swiftly and severely.  Cheating includes
+  exploiting bugs, giving help to mortals, accepting help from immortals, or
+  anything else that is unfair.
+
+Changes to these rules may be made without warning.
+~
+
+0 SUICIDE DELETE~
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.
+~
+
+-1 GAIN~
+The gain command is used to learn new skills, once the proper trainer has 
+been found. (Check New Thalos) The following options can be used with gain:
+
+gain list:    list all groups and skills that can be learned
+gain points:  lower your creation points by 1 (costs two sessions)
+gain <name>:  add a skill or skill group, at the listed cost
+gain convert: turns 10 practices into one training session
+
+Gain uses training sessions, not practices. (see 'help train')
+Gained skills and groups do NOT increase your experience per level or total
+number of creation points. 
+~
+
+0 SKILLS~
+The skills command is used to display your character's list of available skills.
+~
+
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT AUTOALL~
+ROM uses various automatic actions to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac   : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassit : makes you help group members in combat
+autoall   : turns all autos on or off at once
+
+Typing a command sets the action , typing it again removes it. Use
+autoall on|off to save yourself some keystrokes.
+~
+
+-1 AFFECTS AFFECT~
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+
+-1 $~
+
+#$

@@ -1,0 +1,16 @@
+DragonBall Arena 2 was written by Matt Brown (Antor), arkaine@sympatico.ca, from 2000-2002.
+
+I've simply run out of time to work on this anymore, so I'm releasing the code.  A lot of things are half-done, but still interesting. Be sure to check out:
+   -random areas and weapons (to be extended to random items in general)
+   -missions (faster method of searching for mobs)
+   -fusion code
+   -new skill system
+   -real-time combat
+   -auto-backups
+   -the 'remold' script to remove old player files
+Also, there is a bug that causes crashes.  It has something to do with mobs being in a NULL room after being extracted, but still attacking players.  Please find it; again, I've run out of time.
+
+Please enjoy this code.  Thanks to the writers of all previous codebases and snippets.  Share your work too, and follow all other licenses!
+
+Matt Brown
+arkaine@sympatico.ca

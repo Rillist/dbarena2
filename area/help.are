@@ -1,0 +1,900 @@
+#HELPS
+-1 SUMMARY~
+There currently is no summary.
+~
+
+0 COLOUR COLOR ANSI~
+Syntax: colour    Toggles colour mode on/off
+
+        You may also talk in colour; the format is like this:
+        the 'escape character' to specify a colour is the left
+        handed brace '{{', following
+        that you should use one of the following letters,  
+        {r{{r     red      {c{{c     cyan
+        {g{{g     green    {y{{y     yellow
+        {b{{b     blue     {w{{w     white
+        {m{{m     magenta  {x{{x     clear(reset colour)
+        {{{{     {{ char   {{*     beep
+        {{/     newline
+        When using colour, it looks better if you finish the line
+        with whatever colour it would normally be in, such as a
+        gossip, the colour is magenta, so:
+                {mLope gossips '{ghello,{r world{m'{x
+        looks better than:
+                {mLope gossips '{ghello,{r world'{x
+
+        ColoUr is written by Lope (ant@solace.mh.se)
+~
+
+0 COLOUR2 COLOR2 ANSI2~
+Syntax: colour <field> <colour>
+
+        You may configure your colour setting for personal preference.
+        current setting are indicated by colour.
+
+fields are:                                    
+  {ttext         {aauction      {dgossip       {emusic        {qquestion
+  {fanswer       {hclass_text   {Hclass_name   {iimmtalk_text
+
+{Iimmtalk_type
+  {jinfo         {ktell         {lreply        {ngtell_text   {Ngtell_type
+  {Zwiznet       {sroom_title   {Sroom_text    {oroom_exits
+
+{Oroom_things
+  {pprompt       {1fight_death  {2fight_yhit   {3fight_ohit   {4fight_thit
+  {5fight_skill{x
+
+   colours are: ( Hi- )
+   {rred          {ggreen        {bblue         {yyellow       {mmagenta
+   {ccyan         {wwhite{x
+
+eg. to make the gossip channel red type 'colour gossip red'
+    to make your hits in fights magenta type 'colour fight_yhit magenta'
+~
+
+-1 DIKU~
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+
+~
+
+-1 ZENNI MONEY~
+The universal currency is zenni.  This type of coin is accepted on any
+planet.
+~
+
+0 BRIEF COMPACT~
+Brief and compact help set your display options for the game. Typing brief
+toggles on and off the showing of room descriptions when you move around
+(considerably reducing the text to be processed), and typing compact 
+removes the extra blank line before your prompt.
+~
+
+-1 DEAF~
+The deaf toggle turns off incoming tells, helpfull if you are being bombarded
+by messages from other players.  You can still use reply (see 'help reply') to
+reply to people who were telling you before you went deaf, although you
+cannot reply to a deaf person unless you or they are a diety (it's mostly 
+useful for sending a quick "I'm being spammed so I went deaf" message to
+a person).
+~
+
+-1 AFK~
+Typing AFK puts your character in a tell-saving mode as follows: any tell
+to you is stored in a special buffer, and can be seen later by typing
+recall.  This is useful when you need to leave the mud for 5 or 10 minutes,
+but don't want to miss tells.  AFK shows up in your prompt until it is
+turned off.
+
+Tells to link-dead players are stored in a similar fashion, and can also be
+seen by typing replay (unless, of course, the character logs off before
+reading them).
+~
+
+-1 PROMPT~
+Syntax: prompt
+Syntax: prompt all
+Syntax: prompt <%*>
+ 
+PROMPT with out an argument will turn your prompt on or off.
+ 
+PROMPT ALL will give you the standard prompt.
+ 
+PROMPT <%*> where the %* are the various variables you may set yourself.
+ 
+       Var   Result
+       ===   ======= 
+       %h    Current hits
+       %H    Maximum hits
+       %k    Current ki
+       %K    Maximum ki
+       %p    Current powerlevel
+       %P    Maximum powerlevel
+       %g    Zenni
+       %a    Alignment
+       %r    Room name you are in
+       %w    How long you are currently waiting (seconds)
+       %q    How long you have charged (seconds)
+       %e    Exits from the room in NESWDU style
+       %c    Carriage return (useful for multi-line prompts)
+       
+        IMMORTAL ONLY:
+       %R    Vum you are in
+       %z    Area name you are in
+       %o    Editor you are using
+       %O    What you are editing
+ 
+Example:  PROMPT <%hhp %kki %ppl>
+        Will set your prompt to "<10hp 100ki 10000pl>"
+ 
+~
+
+0 DEATH~
+Death is truly the worst scenario to end combat.  Unless you are new to
+the game, you will lose both powerlevel and a point off your highest
+statistic.  Finally, you are brought to Snakeway, where you will be judged
+by Enma and sent to either Heaven or Hell.  
+~
+
+0 PET PETS~
+You can buy pets in the pet shop.  You may own only one pet at a time, after 
+the old one dies you may purchase a replacement.
+~
+
+0 TICK~
+Many of the game actions are based upon interval timers, including combat,
+most autonomous monster actions, hp/mana/move regeneration, spell duration,
+weather, and area resetting.
+
+Of these timers, the hp/mana/move regeneration timer is popularly called the
+'tick'.  Ticks on this mud average 30 seconds of real time, but the actual
+amount varies randomly from 15 seconds to 45 seconds.
+
+Area resetting happens roughly every 3 minutes if no one is in the area; less
+often (15 minutes) if some one is.  Also note that objects lying on the ground
+will not be regenerated if anyone is in the area when it resets.
+~
+
+0 !~
+Syntax: !
+
+! repeats the last command you typed.
+~
+
+0 NORTH SOUTH EAST WEST UP DOWN~
+Syntax: north
+Syntax: south
+Syntax: east
+Syntax: west
+Syntax: up
+Syntax: down
+
+Use these commands to walk in a particular direction.
+~
+
+0 EXITS~
+Syntax: exits
+
+Tells you the visible exits of the room you are in.  Not all exits are visible.
+You can use the 'bump' technique to find hidden exits.  (Try to walk in a
+certain direction and see what you bump into).
+~
+
+0 DROP GET GIVE PUT TAKE~
+Syntax: drop <object>
+Syntax: drop <amount> coins
+Syntax: get  <object>
+Syntax: get  <object> <container>
+Syntax: give <object> <character>
+Syntax: give <amount> coins <character>
+Syntax: put  <object> <container>
+
+DROP drops an object, or some coins, on the ground.
+
+GET gets an object, either lying on the ground, or from a container, or even
+from a corpse.  TAKE is a synonym for get.
+
+GIVE gives an object, or some coins, to another character.
+
+PUT puts an object into a container.
+
+DROP, GET and PUT understand the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.
+~
+
+0 EQUIPMENT INVENTORY~
+Syntax: equipment
+Syntax: inventory
+
+EQUIPMENT lists your equipment (armor, weapons, and held items).
+INVENTORY lists your inventory.
+~
+
+0 COMPARE~
+Syntax: compare <object-1> <object-2>
+Syntax: compare <object>
+ 
+COMPARE compares two objects in your inventory.  If both objects are weapons,
+it will report the one with the better average damage.  If both objects are
+armor, it will report the one with the better armor class.
+ 
+COMPARE with one argument compares an object in your inventory to the object
+you are currently wearing or wielding of the same type.
+ 
+COMPARE doesn't consider any special modifiers of the objects.
+~
+
+0 FLEE~
+Syntax: flee
+Syntax: rescue   <character>
+
+Once you start a fight, you can't just walk away from it.  If the fight
+is not going well, you can attempt to FLEE, or another character can
+RESCUE you.
+
+If you lose your link during a fight, then your character will keep
+fighting.
+~
+
+0 EXAMINE LOOK~
+Syntax: look
+Syntax: look    <object>
+Syntax: look    <character>
+Syntax: look    <direction>
+Syntax: look    <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+Syntax: examine <container>
+Syntax: examine <corpse>
+
+LOOK looks at something and sees what you can see.
+
+EXAMINE is short for 'LOOK container' followed by 'LOOK IN container'.
+~
+
+0 ORDER~
+Syntax: order <character> command
+Syntax: order all command
+
+ORDER orders one or all of your charmed followers (including pets) to
+perform any command.  The command may have arguments.  You are responsible
+for the actions of your followers, and others who attack your followers
+will incur the same penalty as if they attacked you directly.
+
+Most charmed creatures lose their aggresive nature (while charmed).
+
+If your charmed creature engages in combat, that will break the charm.
+~
+
+0 REST SLEEP STAND WAKE~
+Syntax: rest
+Syntax: sleep
+Syntax: stand
+Syntax: wake
+
+These commands change your position.  When you REST or SLEEP, you 
+regenerate hit points, mana points, and movement points faster.
+However, you are more vulnerable to attack, and if you SLEEP,
+you won't hear many things happen.
+
+Use STAND or WAKE to come back to a standing position.  You can
+also WAKE other sleeping characters.
+~
+
+0 GTELL ; REPLY SAY TELL~
+Syntax: gtell <message>
+Syntax: say   <message>
+Syntax: tell  <character> <message>
+
+All of these commands send messages to other players.  GTELL sends a message to
+all of the characters in your group, wherever they are, even if they are
+sleeping or stunned or dying.  ';' is a synonym for GTELL.
+
+SAY sends a message to all awake players in your room.  The single quote '''
+is a synonym for SAY.
+
+TELL sends a message to one awake player anywhere in the world.
+
+REPLY sends a message to the last player who sent you a TELL.  REPLY will work
+even if you can't see the player, and without revealing their identity.  This
+is handy for talking to invisible or switched immortal players.
+~
+
+0 NOTE 'NOTE WRITE' 'NOTE READ' BOARD 'NOTE SYSTEM' BOARDS~
+Syntax:
+
+board [number|name]                     Shows or changes board.
+note                                    Reads next note.
+note read [number]                      Reads a certain note.
+note remove <number>                    Removes a note written by you.
+note list [number]                      Shows up to number notes.
+note write                              Posts a note.
+note catchup                            Marks all notes in this board read.
+
+These commands are used for the new note system. Instead of just one board, 
+there are several, each with its special purpose. 
+
+Changing between the boards is accomplished using the BOARD command. BOARD
+without any arguments gives you a list of all boards together with number of
+unread message. To change, type BOARD <number> or BOARD <name of the board>.
+
+To read next unread note, type NOTE. To read a note with a specified number,
+type NOTE READ <number>. Typing NOTE while in a board with no unread notes
+shifts you to the next board. Note that unlike the standard note system, a 
+note has the same number in NOTE LIST and NOTE READ.
+
+Posting a message is as simple as writing NOTE WRITE. You will be moved 
+into interactive mode, where all you see are prompts for the fields like 
+To:, From: etc. You will be automatically put AFK while writing a note.
+
+To see the list of the notes in the current board, type NOTE LIST. Typing
+NOTE LIST <number> will list only <number> of the last notes in the area.
+
+You can remove your own note by using NOTE REMOVE <number>. Implementors may
+remove other people's notes. Implementors can also select how many days
+their note is kept before being purged. Purging happens automatically at
+bootup. Purged notes are not deleted, but saved into a file.
+
+To let only immortals see your note, address it to "imm". To let players of
+a specific level and above, address it to that level (no other recipients may
+appear in that case).
+
+This board system was created by Erwin S. Andreasen, erwin@pip.dknet.dk, aka
+Phunk/Drylock and is freely available. The general outlook was based on
+Mystic Adventure's note system (mud.gel.ulaval.ca 4000).
+~
+
+0 GOSSIP CGOSSIP . SHOUT YELL~
+Syntax: gossip  <message>
+Syntax: shout   <message>
+Syntax: yell    <message>
+
+SHOUT sends a message to all awake players in the world.  To curb excessive
+shouting, SHOUT imposes a three-second delay on the shouter.
+
+GOSSIP is a variant of SHOUT (without the delay).  '.' is a 
+synonym for GOSSIP.
+
+YELL sends a message to all awake players within your area.
+
+Type a channel name by itself to turn it off.
+~
+
+0 EMOTE PMOTE SOCIAL~
+Syntax: emote <action>
+
+EMOTE is used to express emotions or actions.  Besides EMOTE, there are
+several dozen built-in social commands, such as CACKLE, HUG, and THANK
+(type socials or help socials for a listing).
+
+PMOTE is similar to emote, but will substitute you and your for a target's
+name (i.e. pmote bonks Alander will be read as bonks you by Alander, and
+as bonks Alander by everyone else).
+~
+
+0 HOLD REMOVE WEAR WIELD~
+Syntax: hold   <object>
+Syntax: remove <object>
+Syntax: wear   <object>
+Syntax: wear   all
+Syntax: wield  <object>
+
+Three of these commands will take an object from your inventory and start using
+it as equipment.  HOLD is for light sources, wands, and staves.  WEAR is for
+armor.  WIELD is for weapons.
+
+WEAR ALL will attempt to HOLD, WEAR, or WIELD each suitable item in your
+inventory.
+
+You may not be able to HOLD, WEAR, or WIELD an item if its alignment does not
+match yours, if it is too heavy for you, or if you are not experienced enough
+to use it properly.
+
+REMOVE will take any object from your equipment and put it back into your
+inventory.
+~
+
+0 BUG TYPO~
+Syntax: bug <message>
+Syntax: idea <message>
+Syntax: typo <message>
+
+These commands will take your message and record it into a file as feedback
+to the mud implementors.
+~
+
+0 CREDITS~
+Syntax: credits
+
+This command shows the list of the original Diku Mud implementors.
+~
+
+0 AREAS COMMANDS REPORT SCORE TIME~
+Syntax: areas
+Syntax: commands
+Syntax: report
+Syntax: score
+Syntax: time
+Syntax: weather
+
+AREAS shows you a list of areas in the game.
+
+COMMANDS shows you all the commands in the game.
+
+REPORT shows your current statistics to you and also announces them to other
+players in the room.  SCORE shows much more detailed statistics to you only.
+Your ability scores are shown as true value(current value), so for example
+Str: 15(23) means you have a 15 strength from training, but a 23 strength
+from other factors (spells or items).
+
+TIME shows the game time, as well as the time the mud was last started,
+and the current local time for the host computer.
+
+WEATHER shows the current game weather.
+~
+
+0 WHO~
+Syntax: who
+Syntax: who <race>
+Syntax: who <clan name>
+Syntax: who <race> <clan name>
+
+WHO shows the people currently in the game.  Some people may choose to
+remain unseen and won't appear on the WHO
+ 
+WHO without any arguments shows all of the (visible) people currently playing.
+
+With arguments, WHO can show players of certain classes or levels.
+For example:
+ 
+who immortal     lists all immortals playing
+who saiya-jin    lists all saia-jins playing
+
+Races may be abbreviated.
+~
+
+0 WHOIS~
+Syntax: whois <name>
+The whois command identifies any user who matches the name given. For
+example, 'whois a' shows all characters whose name begins with A.
+~
+
+0 WHERE~
+Syntax: where
+Syntax: where <character>
+
+WHERE without an argument tells you the location of visible players in the same
+area as you are.
+
+WHERE with an argument tells you the location of one character with that name
+within your area, including monsters.
+~
+
+0 HELP~
+Syntax: help
+Syntax: help <keyword>
+
+HELP without any arguments shows a one-page command summary.
+
+HELP <keyword> shows a page of help on that keyword.  The keywords include
+all the commands, spells, and skills listed in the game.
+~
+
+0 DESCRIPTION DESC~
+Syntax: description <string>
+Syntax: description + <string>
+Syntax: description - 
+
+Sets your long description to the given string.  If the description string
+starts with a '+', the part after the '+' is appended to your current
+description, so that you can make multi-line descriptions. You can delete
+lines by uses description -.
+~
+
+0 PASSWORD~
+Syntax: password <old-password> <new-password>
+
+PASSWORD changes your character's password.  The first argument must be
+your old password.  The second argument is your new password.
+
+The PASSWORD command is protected against being snooped or logged.
+~
+
+0 TITLE~
+Syntax: title <string>
+
+Sets your title to a given string.
+
+The game supplies a title when your character is created and when you
+advance a level.  You can use TITLE to set your title to something else.
+~
+
+0 WIMPY~
+Syntax: wimpy
+Syntax: wimpy <number>
+
+WIMPY sets your wimpy value.  When your character takes damage that reduces
+your hit points below your wimpy value, you will automatically attempt to flee.
+You will only flee if your character is not in a wait state -- i.e. has not
+been using combat commands like cast, trip and bash, and has not been
+tripped or bash by an enemy.
+
+WIMPY with no argument sets your wimpy value to 20% of your maximum hit points.
+
+Some monsters are wimpy.
+~
+
+0 OPEN CLOSE LOCK UNLOCK PICK~
+Syntax: open   <object|direction>
+Syntax: close  <object|direction>
+Syntax: lock   <object|direction>
+Syntax: unlock <object|direction>
+Syntax: pick   <object|direction>
+
+OPEN and CLOSE open and close an object or a door.
+
+LOCK and UNLOCK lock and unlock a closed object or door.  You must have
+the requisite key to LOCK or UNLOCK.
+
+PICK can open a lock without having the key.  In order to PICK successfully,
+you must practice the appropriate skill.
+~
+
+0 DRINK EAT FILL POUR~
+Syntax: drink <object>
+Syntax: eat   <object>
+Syntax: fill  <object>
+Syntax: pour  <object> out
+Syntax: pour  <object> <object>
+Syntax: pour  <object> <character>
+
+When you are thirsty, DRINK something.
+
+When you are hungry, EAT something.
+
+FILL fills a drink container with water.
+
+POUR transfers a liquid to a container, or empties one.
+You can also pour from an object into something a character is holding.
+~
+
+0 BUY LIST SELL VALUE~
+Syntax: buy   <object>
+Syntax: list
+Syntax: sell  <object>
+Syntax: value <object>
+
+BUY buys an object from a shop keeper.
+When multiple items of the same name are listed, type 'buy n.item', where n
+is the position of the item in a list of that name.  So if there are two
+swords, buy 2.sword will buy the second. If you want to buy multiples of
+an item, use an * (buy 5*pie will buy 5 pies).  These can be combined into
+(for example) buy 2*2.shield, as long as the * is first.  
+
+LIST lists the objects the shop keeper will sell you.
+List <name> shows you only objects of that name.
+
+SELL sells an object to a shop keeper.
+
+VALUE asks the shop keeper how much he, she, or it will buy the item for.
+~
+
+0 SACRIFICE~
+Syntax: sacrifice <object>
+
+SACRIFICE offers an object to Mota, who may reward you.
+The nature of the reward depends upon the type of object.
+~
+
+0 SCROLL~
+Syntax: scroll
+Syntax: scroll <number>
+
+This command changes the number of lines the mud sends you in a page (the 
+default is 24 lines).  Change this to a higher number for larger screen
+sizes, or to 0 to disabling paging.
+~
+
+0 CONSIDER~
+Syntax: consider <character>
+
+CONSIDER tells you what your chances are of killing a character.
+Of course, it's only a rough estimate.
+~
+
+0 FOLLOW GROUP~
+Syntax: follow <character>
+Syntax: group
+Syntax: group <character>
+
+FOLLOW starts you following another character.  To stop following anyone else,
+just FOLLOW <yourself>.
+
+GROUP <character> makes someone who is following you a member of your group.
+Group members share experience points from kills and may use the GTELL and
+SPLIT commands.  If anyone in your group is attacked, you will automatically
+join the fight.
+
+If the <character> is already a member of your group, then GROUP will
+kick out the <character> from your group.  Characters can also leave your
+group by using a FOLLOW command to stop following you.
+
+GROUP with no argument shows statistics for each character in your group.
+
+You may FOLLOW and GROUP only with characters who are within five levels of
+your own.
+~
+
+0 VISIBLE~
+VISIBLE cancels your hiding and sneaking, as well as any invisibility,
+making you visible again.
+~
+
+0 QUIT RENT SAVE~
+Syntax: QUIT
+Syntax: SAVE
+
+SAVE saves your character and object.  The game saves your character every
+15 minutes regardless, and is the preferred method of saving.  Typing save
+will block all other command for about 20 seconds, so use it sparingly.
+(90+ players all typing save every 30 seconds just generated too much lag)
+
+Some objects, such as keys and potions, may not be saved.
+
+QUIT leaves the game.  You may QUIT anywhere.  When you re-enter the game 
+you will be back in the same room.
+
+QUIT automatically does a SAVE, so you can safely leave the game with just one
+command.  Nevertheless it's a good idea to SAVE before QUIT.  If you get into
+the habit of using QUIT without SAVE, and then you play some other mud that
+doesn't save before quitting, you're going to regret it.
+
+There is no RENT in this mud.  Just SAVE and QUIT whenever you want to leave.
+~
+
+-1 SPLIT~
+Syntax: SPLIT <silver> <gold>
+
+SPLIT splits some coins  between you and all the members of your
+group who are in the same room as you.  It's customary to SPLIT
+the loot after a kill.  The first argument is the amount of silver
+the split (0 is acceptable), and the second gold (optional).
+Examples:
+split 30 	--> split 30 silver
+split 20 50	--> split 20 silver, 50 gold
+split  0 10	--> split 10 gold
+~
+
+0 STEAL~
+Syntax: STEAL coins <character>
+Syntax: STEAL <object> <character>
+
+STEAL attempts to steal coins, or an object, from a character.
+
+There are penalties for using STEAL on other players.
+
+In order to STEAL successfully, you must practice the appropriate skill.
+~
+
+0 TRAIN~
+Syntax: train <str int wis dex con>
+
+TRAIN increases one of your attributes.  When you start the game, your
+character has standard attributes based on your race, and 50 initial
+training sessions.  You can increase your attributes by using these
+sessions at a trainer (there are several nearby).  As you increase in
+power, you can gain more sessions.
+
+The number of sessions needed to improve an attribute depends on your
+race.  Some races need only 4 to increase a certain, while others can
+take as many as 7.  See help <str int wis dex con> for more
+information.
+~
+
+0 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+~
+
+0 COUNT~
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~
+
+0 RACE~
+The following races are playable on Dragon Ball Arena:
+
+human        -   Planet Earth
+saiya-jin    -   Planet Vegeta
+namek        -   Planet Namek
+android      -   Planet Earth
+bio-android  -   Planet Earth
+icer         -   Planet Freezer
+half-breed   -   Planet Earth
+~
+
+0 HUMAN MAN~
+Originating on the planet Earth, the Human race is not known to be a people
+of great fighting skill.  Some, however, take their fighting seriously enough
+to compete with any other fighter in the universe.  With the use of skills
+such as Solar Flare, Destructo Disk and the Kamehameha, this race can learn
+to be powerful in battle.  Those that become strong enough can master control
+of thier ki and may achieve the title of Super Human.  It is foretold that
+humans can become Mystics, though it has never happened before.  
+~
+
+0 SAIYAN SAIYA-JIN~
+The Saiyan race is a very powerful and militant one.  They have a level of
+pride that is unsurpassed, and the muscle to back it up.  They also possess
+the ability to become Super Saiyans, taking that power and raising it to
+great levels.  
+~
+
+0 MAJIN MA-JIN~
+This race now stands for pure evil and destruction of all other races.  They
+have powerful moves like mouth beam and powerbomb.  Majins may learn to
+compress thier evil and hate, which allows them to shrink down.  This 
+transformation makes them child sized, but with speed and power rival to any
+Mystic, Ascended Saiyan, or any other race.  Unlike a bio android they do not
+use anything from thier prior race.
+~
+
+0 NAMEK~
+Nameks are a race from the planet with the same name.  They possess the
+ability to regenerate limbs and heal quickly.  They may also become Hyper and
+Super Nameks if they become powerful enough.  Nameks are the only race
+capable of using the devastating Special Beam Cannon attack. Some may even
+learn to heal their friends, making Nameks good allies and powerful foes.
+~
+
+0 HALFBREED HALF-BREED~
+The child of a Saiyan and a Human is known as a Half-breed.  Half-breeds have
+the potential to become devastating in battle.  Like their Saiyan parent, they
+have the ability to become Super Saiyans.  Some even become Mystics and are
+extremely powerful.  Half-breeds learn moves such as Kamehameha, Final Flash
+and Solar Flare.  Most live on Earth, but a few have travelled to the
+homeworld of Vegeta.  However, pure Saiya-jins are not fond of the
+Half-breeds.
+~
+
+0 ICER~
+Their 5 transformations differ from most of the others because they
+drastically change in appearance: small and massive, smooth skin or covered
+in horns.  They have better use of the Destructo Disk than any other race,
+and have eye and finger beams to back that.  They are born with the meaness
+that is symbolic of the race.  
+~
+
+0 ANDROID DROID~
+Though originaly created by Dr.  Gero it is unknown who currently makes
+these metalic threats.  Most are made from a living person though others are
+made of completly metal.  When they reach certain power they can be upgraded
+and eventualy become able to self fuse.  They originate from earth and most
+do not think highly of the human race.  
+~
+
+0 BIO-ANDROID BIOANDROID~
+Bio androids differ from androids in that they are not created from a
+single person.  Bio androids are made up of the cells of many races.  This
+allows them to learn a wide range of abilitys.  Through absorbing they are
+able to change thier form in pursuit of thier ultimate goal....... 
+Perfection.  It is rumored that even a perfect bio-android can reach a
+higher plane of power though it is unknown for sure.  
+~
+
+0 HYPER HYPERNAMEK~
+When Nameks reache a certain power they are able to transform into Hyper 
+Nameks.  While in this transfromation a Namek's muscles become slightly
+slightly larger and its speed increases.  A bright white aura is created
+around the Namek and, depending on the power of the fighter, can be 
+blinding.
+~
+
+0 SUPERNAMEK SN~
+When a Namek's power reaches an incredible height, it becomes able to
+multiply its power greatly and become a Super Namek.  This creates a bright
+green glow around the Namek and causes a massive power increase.  This is
+the last Namek form but its power allows Nameks to rival any other race in
+the galaxy.  
+~
+
+0 SUPERSAIYAN2 ASCENDEDSAIYAN ASCENDED SSJ2~
+When a Saiyan with the ability to become a Super Saiyan reaches another point 
+of rage he can again increase his power.  Referred to as "Ascending" in the 
+Saiyan race, the second level of this transformation causes the hair to
+lengthen and stand almost completly straight up.  The golden aura around the
+fighter becomes brighter and bolts of pure ki arc out around him.  
+~
+
+0 SUPERSAIYAN3 SSJ3~
+The third stage of Super Saiyan is much like the first two.  When the power
+and rage have built up to the point where they are about to burst the Saiyan
+will become surrounded by a large golden glow.  The eyebrows will disappear
+and the hair becomes very long and thick.  The power and speed boost far
+exceeds the previous transformations.
+~
+
+0 SUPERSAIYAN4 SSJ4~
+Tee fourth and final stage of the Super Saiyan transformations is completly 
+different from the others.  The golden aura is replaced by a bright red aura
+accompanied by red fur on everywhere except the chest.  The eyes become lined
+with red and the hair becomes slightly longer then stage two, and blackens.
+The power of this transformation is great and makes it a formatible weapon in
+any battle.  
+~
+
+0 MYSTIC~
+The Mystic form is an art attainable by Humans and Half-breeds.  Its power
+boost is massive and allows a Half-breed or a Human to fight with the
+greatest fighters of any race.  Even though it has great power, it causes
+no visible change at all in the person transformed.
+~
+
+0 SUPERHUMAN~
+When a human reaches a certain power she becomes able to increase her power.
+Super Human causes the muscles to swell up, but no other changes occur.  A
+Super Human has no signs that a passerby can recognize as a transformation.
+~
+
+0 FORM1 1ST 1STFORM~
+The first form is the form Icers are born in, and spend most of their time
+in to conserve ki.  It is about half the size of a human male, with small
+horns that grow out of the sides of the head.  
+~
+
+0 FORM2 2NDFORM 2ND~
+When an Icer's power grows to a certain level he becomes able to transform
+into the second stage.  His size increases greatly and his muscles swell
+to extremly large sizes.  The horns on the sides of his head also grow longer
+and turn upwards.  
+~
+
+0 FORM3 3RDFORM THIRDFORM~
+The third Icer form shrinks slightly from the second.  Though smaller,
+spikes grow out of their backs, horns shrink into nothing, and their head
+becomes very long.  The power is much greater than the previous forms.  
+~
+
+0 FORM4 4THFORM FORTHFORM~
+Fourth form causes the Icer to shrink down to a size just smaller than a
+human and their head becomes round again.  Thier power is much higher than the
+forms before it.  While in this stage they greatly resemble a child, in both
+looks and sound, but don't be fooled, because their power is enormous.
+~
+
+0 FORM5 5THFORM 5TH~
+The final form of the Icer race has the look of a fighter, which is fitting for
+this race of warriors.  When an Icer has pushed his body and mind to this
+point he becomes a very dangerous combatant.  He swells slightly from the
+fourth form, but his head becomes slightly longer and spikes grow in a half
+circle around the head, pointing up.  
+~
+
+-1 $~
+
+#$

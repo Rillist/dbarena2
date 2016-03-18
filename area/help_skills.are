@@ -1,0 +1,194 @@
+#HELPS
+0 DODGE~
+Dodge is the ability to do just that, dodge attacks.  This skill is very
+important and as such it is the foundation of defense.  Dodging an attack
+can throw the oppenent off balance and save you from any damage.
+~
+
+0 PARRY~
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is succesful more often than dodge.  Parry requires a weapon for
+full success, the hand-to-hand skill may also be used, but results in reduced
+damage instead of no damage.  The best chance of parrying occurs when the
+defender is skilled in both his and his opponent's weapon type.
+~
+
+0 'SHIELD BLOCK'~
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield.  Beware, flails ignore shield blocking attempts, and
+whips have an easier time getting around them.  Axes may split shields in two.
+~
+
+0 SWORD~
+Just as with any other weapon a sword has a chance of breaking and
+leaving you to fight hand to hand.  A sword can tear up the equipment of
+another player but due to the long blade it can be broken easier then most
+other weapons.  
+~
+
+0 'HAND TO HAND'~
+Hand to hand is your ability to fight with your fists.  This can only be
+done if your not wielding a weapon of any kind.  Being that this is the
+basics behind fighting anyone that has studied martial arts can teach you
+the basics of this.  
+~
+
+0 KICK~
+Kicking is the basic form of attacking with the legs.  A well placed kick
+can be painful for an opponent but a missed kick can leave you very off
+balance.  
+~
+
+0 'EYE GOUGE'~
+Syntax: eye <target>
+
+Eye gouge is a move that blinds your opponent for ashort amount of time,
+allowing you to gain an advantage in the criticalmoments of a fight.  This
+attack is preformed by simply slamming two fingers into the eyes of an
+opponent.  Eye gouge is one of the several precise shots that can be learned
+if one takes timeto master their hand to hand and kick skills.  
+~
+
+0 KNEE~
+Syntax: knee <target>
+
+Knee is simply that.  This move can cause a fair amount of damage, as well
+as stun your oppenent for a moment.
+~
+
+0 SWEEP~
+Syntax: sweep <target>
+
+The sweep is preformed by clipping your opponents legs out fromunder her,
+causing her to loose her balance and fall.  This is a very basic move and
+can behelpful in close battles to gain an advantage.  A sweep that misses,
+or even sometimes hits, can cause the attacker to lose balance as well,
+albeit not as much as the reciepient.
+~
+
+0 BASH~
+Syntax: bash <target>
+
+Bash consits of dashing forward and slamming your shoulder into your
+opponent.  This maneuver can deal a lot of damage as well as stun your
+oppenent and knock him off balance.  It is very dangerous to miss and run
+past your target, since you yourself will be thrown to the ground.
+~
+
+0 'THROAT SHOT'~
+Syntax: throat <target>
+
+Throat shot is a precise attack that involves a quick shot to the throat.
+The attack is very stunning and will leave an opponent open to attack for a few seconds.
+This skill does no damage.
+~
+
+0 'HEART SHOT'~
+Syntax: heart <target>
+
+Heart shot is a powerful blow delivered to the chest of an opponent.  If
+landed correctly it can cause MAJOR damage.
+~
+
+0 ELBOW~
+Syntax: elbow <target>
+
+Elbow is a quick attack that consists of slamming your elbow into the face
+of your opponent.  It is a fast attack that will deal light damage.  It
+also has an increased chance of disrupting an oppenent charging an attack.
+~
+
+0 KAMEHAMEHA~
+Syntax: kamehameha all
+Syntax: kamehameha <target>
+
+The Kamehameha was developed by Master Roshi and is the most widely known ki
+attack.  Many races may use this attack, so be wary.  The rolling energy of
+Kamehameha is like waves rising on anocean.  It is preformed by cupping one's
+hands at one's side and calling the name of the attack.  As the "ha!" at the
+end is reached, the hands are pushedforward in an open clam-like shape, firing
+the beam forward.  This attack can be devastating.  Skilled warriors can direct
+the energy into an entire group of enemies.
+~
+
+0 SCATTERSHOT~
+Syntax: scattershot <target>
+
+The scattershot technique is preformed by throwing many balls of ki from
+the hands at an alarming rate.  The accuracy of this move is less than most
+of the other ki attacks but the power can be devastating.  Since each of the
+many balls must be dodged, the target's balance is thrown off.  Unlike many
+skills, this attack cannot be charged.
+~
+
+0 'FINAL FLASH'~
+Syntax: final all
+Syntax: final <target>
+
+The Final Flash is a ki attack that may be learned only by Saiya-jins and
+Half-Breeds.  Much like the Kamehameha, ki is fired from cupped handsheld
+infront of the fighter, arms spread to either side.  The Final Flash is 
+incredibly destructive and at higher levels may be directed at entire areas
+(rooms) of opponents.
+~
+
+0 'ENERGY BALL'~
+Syntax: ball <target>
+
+This weak, basic skill is the starting point for warriors and is needed to
+learn many of the more powerful attacks.  Energy is collected in the palms
+of the hands andthrown much like a baseball.  The attack will hit a single
+oppenent with a condensed ball of energy.  This skill can lead to more
+powerful ones, such as Death Ball or Spirit Bomb.
+~
+
+0 'ENERGY BEAM'~
+Syntax: beam <target>
+
+The energy beam is the basic move needed for more powerful beams such asthe
+Final Flash or Kamehameha.  It involves firing a beam of ki out of the palm
+of one hand.  If trained high enough it is possible for it to hitmore than
+once.
+~
+
+0 'SOLAR FLARE'~
+Syntax: solar <target>
+
+Solar Flare is a technique that involves using the light of the sun to
+make a bright flash and blind your opponents.  The blindness does not last
+very long but a good fighter will have enough time to turn the tables in his
+favor.  Care needs to be used, since everything in the vicinity will be
+affected.
+~
+
+0 'DESTRUCTO DISK'~
+Syntax: destructo <target>
+
+The destructo disk (or keinzen disk) is a flat plate of energy ringed with a
+sharp edge.  It can cut through most anything and cause massive damage.  It
+is preformed by drawing out ki and forming a disk the floatsjust above the
+hand.  The disk is then thrown at the target.  Masters of the technique can
+throw two discs at once.
+~
+
+0 'SPECIAL BEAM CANNON' SBC~
+Syntax: special <target>
+Syntax: sbc <target>
+
+The Special Beam Cannon is a skill unique to the Namek race.  It is charged
+with the fore finger and middle finger pressed to one's forehead.  When it
+has been charged, the fingers are pointed at the target, releasing a beam of
+yellow ki with a second ray spiralling around it.  The beam can pierce
+through almost anything, making it very powerful.
+~
+
+-1 'FAST HEALING'~
+The ability to heal fast is unique to two races in the arena universe.
+The nameks and the majin are born with the ability to heal themselves MUCH
+faster then the other races.
+~
+
+-1 $~
+
+#$

@@ -1,0 +1,181 @@
+#AREADATA
+Name Limbo~
+Builders None~
+VNUMs 1 30
+Credits Antor   ---   Limbo~
+Security 9
+End
+
+
+#OBJECTS
+#1
+coin zenni gcash~
+a zenni~
+One miserable zenni.~
+zenni~
+1
+money 0 A
+A 0 0 0 0
+0 10 0 P
+#2
+coins zenni gcash~
+%d zenni~
+A pile of zenni.~
+zenni~
+1
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+1
+npc_corpse 0 A
+0 0 0 A 0
+0 1000 0 D
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+1
+pc_corpse O A
+0 0 0 A 0
+0 1000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+1
+trash 0 A
+0 0 0 0 0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+1
+food 0 A
+E E 0 0 0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+1
+food 0 A
+CE CE 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+1
+food 0 A
+CE CE 0 0 0
+0 50 0 D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+1
+food 0 A
+AC AC 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+1
+food 0 A
+BD BD 0 0 0
+0 20 0 D
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+1
+light A A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+water~
+1
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+1
+container GMPUYZ AQ
+0 E 0 0 0
+0 0 0 P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+1
+portal GOT 0
+0 0 0 0 0
+0 0 0 P
+#29
+random~
+a random object~
+Use for random objects.~
+~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#30
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects~
+~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 3145740 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+D4
+~
+~
+0 -1 2
+S
+#0
+
+#$
