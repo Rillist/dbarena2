@@ -1,3 +1,7 @@
+/src/dbarena
+/src/lost_help.txt
+/src/shutdown.txt
+/player/*
 # Object files
 *.o
 *.ko
