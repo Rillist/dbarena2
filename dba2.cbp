@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="dba2" />
+		<Option makefile_is_custom="1" />
+		<Option execution_dir="/home/chris/Desktop/dba2/src" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="src/dbarena" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="/home/chris/Desktop/dba2/src" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<MakeCommands>
+					<Build command="$make -f $makefile" />
+					<CompileFile command="$make -f $makefile $file" />
+					<Clean command="$make -f $makefile clean" />
+					<DistClean command="$make -f $makefile distclean$target" />
+					<AskRebuildNeeded command="$make -q -f $makefile" />
+					<SilentBuild command="$make -f $makefile &gt; $(CMD_NULL)" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="src/act_comm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/act_enter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/act_info.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/act_move.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/act_obj.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/act_wiz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/alias.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/ban.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/bit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/board.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/board.h" />
+		<Unit filename="src/clan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/comm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/const.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/db.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/db.h" />
+		<Unit filename="src/db2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/effects.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/fight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/flags.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/fusion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/handler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/hedit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/interp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/interp.h" />
+		<Unit filename="src/lookup.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lookup.h" />
+		<Unit filename="src/mem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/merc.h" />
+		<Unit filename="src/mission.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/mob_cmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/mob_cmds.h" />
+		<Unit filename="src/mob_prog.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/nanny.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/olc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/olc.h" />
+		<Unit filename="src/olc_act.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/olc_mpcode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/olc_save.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/rand.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/rand.h" />
+		<Unit filename="src/recycle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/recycle.h" />
+		<Unit filename="src/save.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/scan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/skills.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/special.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/tables.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/tables.h" />
+		<Unit filename="src/telnet.h" />
+		<Unit filename="src/update.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/weather.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
