@@ -356,7 +356,7 @@ int main (int argc, char **argv)
     /*
      * Get the port number.
      */
-    port = 4000;
+    port = 6000;
     if (argc > 1)
     {
         if (!is_number (argv[1]))
