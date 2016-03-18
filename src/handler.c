@@ -744,8 +744,8 @@ int get_age (CHAR_DATA * ch)
 /* command for retrieving stats */
 int get_curr_stat (CHAR_DATA * ch, int stat)
 {
-    return 1000;
-    /*
+    /*return 1000;
+    */
     int max;
 
     if (IS_NPC (ch) || ch->level > LEVEL_IMMORTAL)
@@ -765,7 +765,6 @@ int get_curr_stat (CHAR_DATA * ch, int stat)
     }
 
     return URANGE (1, ch->perm_stat[stat] + ch->mod_stat[stat], max);
-    */
 }
 
 /*
@@ -2065,7 +2064,7 @@ void extract_char (CHAR_DATA * ch, bool fPull)
 		}
 		if (ch->pNextSame)
 		    ch->pNextSame->pPrevSame = ch->pPrevSame;
-		if (ch->pPrevSame) 
+		if (ch->pPrevSame)
 			ch->pPrevSame->pNextSame = ch->pNextSame;
 		ch->pNextSame = NULL;
 		ch->pPrevSame = NULL;
@@ -2840,7 +2839,7 @@ char *extra_bit_name (int extra_flags)
 	if (extra_flags & ITEM_SCOUTER)
 		strcat (buf, " scouter");
 	if (extra_flags & ITEM_RANDOM)
-		strcat (buf, " random");        
+		strcat (buf, " random");
     return (buf[0] != '\0') ? buf + 1 : "none";
 }
 
@@ -2883,7 +2882,7 @@ char *act_bit_name (int act_flags)
         if (act_flags & ACT_UPDATE_ALWAYS)
             strcat (buf, " update_always");
         if (act_flags & ACT_ANIMAL)
-            strcat (buf, " animal");                        
+            strcat (buf, " animal");
         if (act_flags & ACT_CIVILIAN)
             strcat (buf, " civilian");
         if (act_flags & ACT_WARRIOR)
@@ -3069,12 +3068,12 @@ char *wear_bit_name (int wear_flags)
     if (wear_flags & ITEM_WEAR_FLOAT)
         strcat (buf, " float");
     if (wear_flags & ITEM_WEAR_TAIL)
-        strcat (buf, " tail");        
+        strcat (buf, " tail");
     if (wear_flags & ITEM_WEAR_EYE)
         strcat (buf, " eye");
     if (wear_flags & ITEM_WEAR_EAR)
         strcat (buf, " ear");
-                
+
     return (buf[0] != '\0') ? buf + 1 : "none";
 }
 
@@ -3303,7 +3302,7 @@ OBJ_DATA *get_scouter (CHAR_DATA *ch) {
     OBJ_DATA *obj;
 	int iWear;
 	for (iWear = 0; iWear < MAX_WEAR; iWear++) {
-        if ((obj = get_eq_char (ch, iWear)) != NULL) 
+        if ((obj = get_eq_char (ch, iWear)) != NULL)
 			if (IS_OBJ_STAT (obj, ITEM_SCOUTER))
 				return obj;
 	}
@@ -3318,7 +3317,7 @@ char *get_pl_from_scouter (CHAR_DATA *ch, CHAR_DATA* victim) {
 	char rand_let[10] = {'6', '1', 'F', '&', '/', '4', '8', '0', 'L', '0'};
 	int n = number_range (3,10), i;
     long long int llPl;
-    
+
     if (victim->llSuppressPl > -1 && get_skill(victim, gsn_suppress) > get_skill(ch, gsn_sense))
         llPl = victim->llSuppressPl;
     else
@@ -3579,10 +3578,10 @@ int GetTrans (CHAR_DATA *pCh) {
     else if (get_skill(pCh, gsn_upgrade3) > 0)
         return TRANS_UPGRADE3;
     else if (get_skill(pCh, gsn_upgrade2) > 0)
-        return TRANS_UPGRADE2;               
+        return TRANS_UPGRADE2;
     else if (get_skill(pCh, gsn_upgrade1) > 0)
         return TRANS_UPGRADE1;
-        
+
     else if (get_skill(pCh, gsn_ultraperfect) > 0)
         return TRANS_BIO5;
     else if (get_skill(pCh, gsn_perfect) > 0)
@@ -3591,7 +3590,7 @@ int GetTrans (CHAR_DATA *pCh) {
         return TRANS_BIO3;
     else if (get_skill(pCh, gsn_imperfect) > 0)
         return TRANS_BIO2;
-    
+
     else if (is_affected(pCh, gsn_form5) > 0)
         return TRANS_ICER5;
     else if (is_affected(pCh, gsn_form4) > 0)
@@ -3614,12 +3613,12 @@ int GetTrans (CHAR_DATA *pCh) {
 
     else if (is_affected (pCh, gsn_mystic))
         return TRANS_MYSTIC;
-        
+
     else if (is_affected (pCh, gsn_hypern))
         return TRANS_HYPERN;
     else if (is_affected (pCh, gsn_supern))
         return TRANS_SUPERN;
-    
+
     else if (is_affected (pCh, gsn_superh))
         return TRANS_SUPERH;
     else
