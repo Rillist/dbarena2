@@ -81,10 +81,10 @@ void save_area_list ()
     extern HELP_AREA *had_list;
     HELP_AREA *ha;
 
-    if ((fp = fopen ("area.lst", "w")) == NULL)
+    if ((fp = fopen (AREA_LIST, "w")) == NULL)
     {
         logstr (LOG_BUG, "Save_area_list: fopen", 0);
-        perror ("area.lst");
+        perror (AREA_LIST);
     }
     else
     {
@@ -92,7 +92,7 @@ void save_area_list ()
          * Add any help files that need to be loaded at
          * startup to this section.
          */
-        fprintf (fp, "social.are\n");    /* ROM OLC */
+        fprintf (fp, "../area/social.are\n");    /* ROM OLC */
 
         for (ha = had_list; ha; ha = ha->next)
             if (ha->area == NULL)
@@ -945,7 +945,7 @@ void save_area (AREA_DATA * pArea)
         logstr (LOG_BUG, "Open_area: fopen", 0);
         perror (pArea->file_name);
     }
-    
+
     if (IS_SET(pArea->area_flags, AREA_DONTSAVE))
         return;
 

@@ -2296,7 +2296,7 @@ char *    crypt        args( ( const char *key, const char *salt ) );
 #define NULL_FILE       "/dev/null"          /* To reserve one stream  */
 #endif
 
-#define AREA_LIST       "area.lst"            /* List of areas         */
+#define AREA_LIST       "../area/area.lst"            /* List of areas         */
 #define BUG_FILE        "bugs.txt"            /* For 'bug' and bug()   */
 #define TYPO_FILE       "typos.txt"           /* For 'typo'            */
 #define SHUTDOWN_FILE   "shutdown.txt"        /* For 'shutdown'        */
