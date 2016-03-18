@@ -313,8 +313,8 @@ struct    weather_data
 #define CON_GET_NEW_RACE	      	 -7
 #define CON_GET_NEW_SEX			     -6
 #define CON_GET_ALIGNMENT		     -4
-#define CON_DEFAULT_CHOICE		     -3 
-#define CON_GEN_GROUPS			     -2 
+#define CON_DEFAULT_CHOICE		     -3
+#define CON_GEN_GROUPS			     -2
 #define CON_SET_STATS			     -1
 #define CON_PLAYING			          0
 #define CON_READ_IMOTD			      1
@@ -599,7 +599,7 @@ struct    kill_data
 #define Z     33554432
 #define aa    67108864  /* doubled due to conflicts */
 #define bb   134217728
-#define cc   268435456    
+#define cc   268435456
 #define dd   536870912
 #define ee  1073741824
 
@@ -752,14 +752,14 @@ struct    kill_data
 #define VULN_WOOD               (X)
 #define VULN_SILVER             (Y)
 #define VULN_IRON               (Z)
- 
+
 /* body form */
 #define FORM_EDIBLE             (A)
 #define FORM_POISON             (B)
 #define FORM_MAGICAL            (C)
 #define FORM_INSTANT_DECAY      (D)
 #define FORM_OTHER              (E)  /* defined by material bit */
- 
+
 /* actual form */
 #define FORM_ANIMAL             (G)
 #define FORM_SENTIENT           (H)
@@ -767,7 +767,7 @@ struct    kill_data
 #define FORM_CONSTRUCT          (J)
 #define FORM_MIST               (K)
 #define FORM_INTANGIBLE         (L)
- 
+
 #define FORM_BIPED              (M)
 #define FORM_CENTAUR            (N)
 #define FORM_INSECT             (O)
@@ -775,7 +775,7 @@ struct    kill_data
 #define FORM_CRUSTACEAN         (Q)
 #define FORM_WORM               (R)
 #define FORM_BLOB               (S)
- 
+
 #define FORM_MAMMAL             (V)
 #define FORM_BIRD               (W)
 #define FORM_REPTILE            (X)
@@ -972,7 +972,7 @@ struct    kill_data
 #define ITEM_MELT_DROP      (U)
 #define ITEM_HAD_TIMER      (V)
 #define ITEM_SELL_EXTRACT   (W)
-#define ITEM_INDESTRUCTIBLE (X) 
+#define ITEM_INDESTRUCTIBLE (X)
 #define ITEM_BURN_PROOF     (Y)
 #define ITEM_NOUNCURSE      (Z)
 #define ITEM_SCOUTER        (aa)
@@ -1101,15 +1101,15 @@ struct    kill_data
  * Defined in #ROOMS.
  */
 #define ROOM_VNUM_LIMBO       2
-#define ROOM_VNUM_CHAT        2
-#define ROOM_VNUM_TEMPLE      2
-#define ROOM_VNUM_ALTAR       2
-#define ROOM_VNUM_SCHOOL      2
-#define ROOM_VNUM_BALANCE     2
-#define ROOM_VNUM_CIRCLE      2
-#define ROOM_VNUM_DEMISE      2
-#define ROOM_VNUM_HONOR       2
-#define ROOM_VNUM_SNAKEWAY    2
+#define ROOM_VNUM_CHAT     2600
+#define ROOM_VNUM_TEMPLE   2600
+#define ROOM_VNUM_ALTAR    2600
+#define ROOM_VNUM_SCHOOL   2600
+#define ROOM_VNUM_BALANCE  2600
+#define ROOM_VNUM_CIRCLE   2600
+#define ROOM_VNUM_DEMISE   2600
+#define ROOM_VNUM_HONOR    2600
+#define ROOM_VNUM_SNAKEWAY 1800
 
 
 
@@ -1431,7 +1431,7 @@ struct mem_data
 {
     MEM_DATA     *next;
     bool    valid;
-    int        id;     
+    int        id;
     int     reaction;
     time_t     when;
 };
@@ -1872,7 +1872,7 @@ struct    skill_type {
     bool           command;           /* True if the skill can be used as a command, ie typing 'bash' would work with no need for do_bash in command table */
     // Learning stuff:
     bool           bCanLearn;         // Can the skill be learned
-    bool           bCanImprove;       // Can the skill be improved 
+    bool           bCanImprove;       // Can the skill be improved
     char          *skill_prereq[5];   /* What skills are needed before this one can be learned */
     sh_int         skill_value[5];    /* What each of those skills need to be */
     sh_int         stat_prereq[MAX_STATS]; /* What stats need to be to learn */
@@ -2249,7 +2249,7 @@ char *    crypt        args( ( const char *key, const char *salt ) );
 int    fclose        args( ( FILE *stream ) );
 int    fprintf        args( ( FILE *stream, const char *format, ... ) );
 #if    defined(SYSV)
-siz_t    fread        args( ( void *ptr, size_t size, size_t n, 
+siz_t    fread        args( ( void *ptr, size_t size, size_t n,
                 FILE *stream) );
 #elif !defined(__SVR4)
 int    fread        args( ( void *ptr, int size, int n, FILE *stream ) );
@@ -2448,9 +2448,9 @@ void         AddTopList        args( ( CHAR_DATA *pCh ) );
   * Colour stuff by Lope
   */
 int      colour              args( ( char type, char *string ) );
-void     colourconv          args( ( char *buffer, const char *txt, CHAR_DATA *ch)); 
+void     colourconv          args( ( char *buffer, const char *txt, CHAR_DATA *ch));
 void     sendch_bw           args( ( const char *txt, CHAR_DATA *ch ) );
-void     page_to_char_bw     args( ( const char *txt, CHAR_DATA *ch ) );    
+void     page_to_char_bw     args( ( const char *txt, CHAR_DATA *ch ) );
 
 
 /* effect.c */
@@ -2595,7 +2595,7 @@ void	p_act_trigger	args( ( char *argument, CHAR_DATA *mob,
 				CHAR_DATA *ch, const void *arg1,
 				const void *arg2, int type ) );
 bool	p_percent_trigger args( ( CHAR_DATA *mob, OBJ_DATA *obj,
-				ROOM_INDEX_DATA *room, CHAR_DATA *ch, 
+				ROOM_INDEX_DATA *room, CHAR_DATA *ch,
 				const void *arg1, const void *arg2, int type ) );
 void	p_bribe_trigger  args( ( CHAR_DATA *mob, CHAR_DATA *ch, int amount ) );
 bool	p_exit_trigger   args( ( CHAR_DATA *ch, int dir, int type ) );
@@ -2708,7 +2708,7 @@ int      liq_lookup          args( ( const char *name) );
  * Global Constants
  */
 extern    char *    const    dir_name        [];
-extern    const    sh_int    rev_dir         [];    
+extern    const    sh_int    rev_dir         [];
 extern    const    struct    spec_type    spec_table    [];
 
 /*
