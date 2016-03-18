@@ -572,7 +572,7 @@ void game_loop_unix (int control)
 
             if (d->character != NULL && d->character->daze > 0)
                 --d->character->daze;
-            
+
             read_from_buffer (d);
             if (d->incomm[0] != '\0')
             {
@@ -1217,6 +1217,19 @@ void bust_a_prompt (CHAR_DATA * ch)
             default:
                 i = " ";
                 break;
+            case 'a':
+                if (ch->level > 9)
+                    sprintf (buf2, "%d", ch->alignment);
+                else
+                    sprintf (buf2, "%s",
+                             IS_GOOD (ch) ? "good" : IS_EVIL (ch) ? "evil" :
+                             "neutral");
+                i = buf2;
+                break;
+            case 'b':
+                sprintf (buf2, "%s%d{x", get_colour_percent(ch->balance, 10), ch->balance);
+                i = buf2;
+                break;
             case 'e':
                 found = FALSE;
                 doors[0] = '\0';
@@ -1267,15 +1280,6 @@ void bust_a_prompt (CHAR_DATA * ch)
                 break;
             case 'g':
                 sprintf (buf2, "%ld", ch->zenni);
-                i = buf2;
-                break;
-            case 'a':
-                if (ch->level > 9)
-                    sprintf (buf2, "%d", ch->alignment);
-                else
-                    sprintf (buf2, "%s",
-                             IS_GOOD (ch) ? "good" : IS_EVIL (ch) ? "evil" :
-                             "neutral");
                 i = buf2;
                 break;
             case 'r':
@@ -1849,7 +1853,7 @@ void sendch (const char *txt, CHAR_DATA * ch)
 	char *point2;
     char buf[MAX_STRING_LENGTH * 4];
 	int skip = 0;
-	
+
     buf[0] = '\0';
     point2 = buf;
     if (txt && ch->desc)
@@ -2274,7 +2278,7 @@ void act_new (const char *format, CHAR_DATA * ch, const void *arg1,
 		 *point++ = *str++;
 		}
 		*point   = '\0';
-		 
+
 		for( obj = ch->in_room->contents; obj; obj = obj_next )
 		{
 			obj_next = obj->next_content;
@@ -2303,8 +2307,8 @@ void act_new (const char *format, CHAR_DATA * ch, const void *arg1,
 
 
 // colour codes: {_
-// 6 say           k tell              n gtell          t clan       
-// 7 say_text      K tell_text         N gtell_text     T clan_text            
+// 6 say           k tell              n gtell          t clan
+// 7 say_text      K tell_text         N gtell_text     T clan_text
 // a auction       q question/answer   e music
 // A auction_text  Q question/ans_text E music_text
 // i immtalk       d gossip            h quote          Z wiznet
