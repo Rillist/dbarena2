@@ -130,10 +130,12 @@ char *GenRoomDescr (DescrData *pDescr) {
         szArg1[0] = '\0';
         szArg2[0] = '\0';
         szArg3[0] = '\0';
+	logstr (LOG_GAME, "GenRoomDescr: about to strcpy");
         while (pDescr[nLine].szOption1[0][0] != '\0') { // Make sure there is actually an option
             nArg = number_range(0,2);
             if (pDescr[nLine].szOption1[nArg][0] == '\0')
                 continue;
+	    logstr (LOG_GAME, "strcpy: a");
             strcpy (szArg1, pDescr[nLine].szOption1[nArg]);
             break;
         }
@@ -141,6 +143,7 @@ char *GenRoomDescr (DescrData *pDescr) {
             nArg = number_range(0,2);
             if (pDescr[nLine].szOption2[nArg][0] == '\0')
                 continue;
+	    logstr (LOG_GAME, "strcpy: b");
             strcpy (szArg2, pDescr[nLine].szOption2[nArg]);
             break;
         }
@@ -148,7 +151,15 @@ char *GenRoomDescr (DescrData *pDescr) {
             nArg = number_range(0,2);
             if (pDescr[nLine].szOption3[nArg][0] == '\0')
                 continue;
-            strcpy (szArg3, pDescr[nLine].szOption3[nArg]);
+	    logstr (LOG_GAME, "strcpy: c");
+	    logstr (LOG_GAME, szArg3);
+	    //logstr (LOG_GAME, nLine);
+	    //logstr (LOG_GAME, nArg);
+	    //logstr (LOG_GAME, pDescr);
+	    //logstr (LOG_GAME, pDescr[nLine]);
+	    //logstr (LOG_GAME, pDescr[nLine].szOption3);
+	    //logstr (LOG_GAME, pDescr[nLine].szOption3[nArg]);
+            //strcpy (szArg3, pDescr[nLine].szOption3[nArg]);
             break;
         }
         if (szArg1[0] == '\0')
@@ -254,7 +265,7 @@ void CreateMap (int nMapVnum, MapData *pMap) {
         if (bBreak)
             break;
     }
-
+    logstr (LOG_GAME, "CreateMap: about to strcpy");
     strcpy (buf, "{x");
     for (y = nYLower; y <= nYUpper; ++y) {
         for (x = nXLower; x <= nXUpper; ++x) {
