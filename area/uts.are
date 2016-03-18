@@ -1,0 +1,1307 @@
+#AREADATA
+Name U.T.S.         Goku~
+Builders Terraco-d Kube-d Alik-d~
+VNUMs 2600 2699
+Credits Goku --- UTS~
+Security 9
+End
+
+
+
+#MOBILES
+#2600
+Bob~
+Doctor Bob~
+A small icer stands here, waiting to help those in need
+~
+~
+icer~
+ABa JT 0 0
+100
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+S 0 ACDEFGKLMNOPQRTXYZ 0
+stand stand male 0
+AHM ABCDEFGHIJKPQUVX small unknown
+F for V
+M GREET 2600 100~
+M SPEECH 2601 heal~
+#2601
+john jonny~
+Jonny-5 the android~
+Jonny-5 the android is standing here
+~
+You are looking at the android called Jonny-5.  He has short brown hair
+and green eyes, and is dressed in a white shirt and blue coveralls.  
+~
+android~
+ABG 0 0 0
+50
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+#2603
+test~
+test~
+Test
+~
+This is a test mob...  Blah blah blah 
+~
+saiya-jin~
+AT 0 0 0
+1
+10 10 10 10 10 
+100 100
+slice
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMVX ABCDEFGHIJK medium unknown
+M GREET 2602 100~
+#2604
+Bartender~
+A bartender~
+A bartender stands here mixing a drink.
+~
+This average sized human is the bartender of the Jazz bar.  He is not
+strong but just a regular human.  
+~
+human~
+ABQ 0 0 0
+4
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#2605
+Receptionist~
+Receptionist~
+A receptionist is selling rooms.
+~
+~
+human~
+AB 0 0 0
+0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 2601 100~
+M GREET 2600 100~
+#2606
+Human trainer~
+A human trainer~
+A human trainer awaits an attack.
+~
+~
+human~
+AB d 0 0
+-33
+0 5 5 0 5 
+100 100
+punch
+0 0 0 0
+0 Z 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2610
+tester~
+goku's test~
+Goku's test
+~
+~
+human~
+AB 0 0 0
+0
+1 1 1 1 1 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#2600
+{wA map of the {rU{w.{bT{r.{wS{b. {wStation{n~
+map~
+Map~
+Tough looking parchment~
+1
+map ABY AP
+0 0 0 0 0
+1 0 0 P
+E
+map~
+=====================================================================================
+                                    {bThe U.T.S.{w
+=====================================================================================
+-----------------------------------------[9]-----------------------------------------
+-----------------------------------------|++|----------------------------------------
+---------------------------------------__|  |__--------------------------------------
+-----------------------------------[7]|__    __|[8]----------------------------------
+-----------------------------------------|  |----------------------------------------
+------------------------------------_____|  |_____-----------------------------------
+---------------------------------[6]| ___    __  |[5]--------------------------------
+------------------------------------| |__|  |__| |-----------------------------------
+------------------------------------|____    ____|-----------------------------------
+-----------------------------------------|  |----------------------------------------
+-----------------------------------------|  |----------------------------------------
+-----------------------------------------|  |----------------------------------------
+-----------------------------------______|  |______----------------------------------
+----------------------------------|                |---------------------------------
+----------------------------------|______[ 2]______|---------------------------------
+---------------------------------[3]-----|  |-----[4]--------------------------------
+-----------------------------------------|++|----------------------------------------
+-----------------------------------------[1]-----------------------------------------
+-------------------------------------------------------------------------------------
+=====================================================================================
+=====================================================================================
+                                       {b-=Key=-
+                                    1. Entrance
+                                    2. Receptionist
+                                    3. Hotel
+                                    4. U.T.S. Healer
+                                    5. Weapon/Armour shop
+                                    6. Item shop
+                                    7. Transporter room to
+                                       Earth and namek
+                                    8. Transporter to Vegeta
+                                       and freezer
+                                    9. Transporter to android
+                                       planet and mutant planet{n
+ 
+~
+#2601
+map~
+map~
+You see a map lying here.~
+lamenated paper~
+1
+map AB AO
+0 0 0 0 0
+0 0 0 P
+E
+map~
+{w+===========================+NG+===========================+{b    -/-Key-/-
+{w| +--------\  \-------------+  +-------------/  /--------+ |  {b1.  U.T.S.
+{w| |   _______\  \__[3]__[4]_|  |______[6]__/  /______    | |  {b2.  The Pub
+{w| |   |  ______\  \_________    _________/  /______  |   | |  {b3.  Weapon Shop
+{w| |   | |    ____\  \_______|  |_______/  /____    |  [8]| |  {b4.  Clothes Shop
+{w| |[2]  |   | _____\  \_____    _____/  /____  |   | |   | |  {b5.  Temple
+{w| |   | |   | |      \  \   |__|   /  /      | |   | |   | |  {b6.  Armory
+{w| |   | |[5]| |        \  \_|*1|_/  /        |  [7]| |   | |  {b7.  Bank
+{w+ +---+ +---+ +----------\|      |/----------+ +---+ +---+ +  {b8.  Sparring Arena
+{wWG                         Square                         EG  {b9.  The city dump
+{w+ +---+ +---+ +----------/|__  __|\----------+ +---+ +---+ +  {b10. Inn
+{w| |   | |   | |        /  / |  | \  \        | |   | |   | |  {b11. Item Shop
+{w| |   | |   | |______/  /___|  |___\  \______| |   | |   | |  {b12. Library
+{w| |   |  [9]|______/  /_____    __  _\  \______|   | |   | |  {b13. Grocery
+{w| |   | |        /  /       |  | [12]  \  \        | |   | |
+{w| |   | |______/ _/_________|  |_________\  \______| |   | |
+{w| |   |______/  /___ ____  _    _______  __\  \______|   | |
+{w| |        /  /    [11] [10]|  |      [13]   \  \        | |
+{w| +------/  /---------------+  +---------------\  \------+ |
+{w+===========================+SG+===========================+{n
+~
+#2602
+bo~
+a wooden bo-ken~
+This small bo-ken is made from the finest wood in the world.  It is a perfect weapon for a novice.~
+unknown~
+1
+trash 0 ANO
+0 0 0 0 0
+0 1 1 P
+#2603
+portal~
+a shining portal~
+A shining portal~
+unknown~
+1
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef H A 0 0
+0 0 0 P
+#2604
+Shot of whisky~
+shot of whisky~
+A shot of whisky from the Jazz bar~
+glass~
+1
+drink 0 A
+1 1 'whisky' 0 0
+0 0 5 P
+#2605
+A brewski~
+a brewski~
+A cool brewski~
+glass~
+1
+drink 0 A
+10 10 'beer' 0 0
+0 0 20 P
+#2606
+Healing pool~
+healing pool~
+A large healing pool takes up the room.~
+unknown~
+1
+portal 0 0
+0 I A AEGJL 0
+0 0 0 P
+#2607
+Exit hatch~
+exit hatch~
+Exit hatch~
+unknown~
+1
+portal 0 0
+0 I A BEFJL 0
+0 0 0 P
+#2608
+room key~
+hotel key~
+A Universal room key~
+copper~
+1
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#2609
+sturdy bed~
+a sturdy bed~
+A sturdy bed set against the wall.~
+unknown~
+1
+furniture 0 0
+B FHJKPQ BEHK DGH DGH
+0 100 0 P
+#2610
+Senzu bean~
+a senzu bean~
+A senzu bean lies here.~
+unknown~
+11
+food S A
+A A 0 0 CFG
+100 1 0 P
+#2611
+Senzu bag~
+a senzu bean bag.~
+A senzu bean bag.~
+unknown~
+1
+container 0 A
+10000 0 0 10000 10000
+0 0 0 P
+#2699
+shuttle~
+a shuttle to Earth~
+A shuttle to take new fighters to Earth~
+unknown~
+1
+portal 0 0
+0 0 0 DGH 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2600
+Welcome to the Arena~
+Welcome to Dragon Ball Arena.  This Mud is based on the Dragon Ball Z -
+GT television series.  Knowledge of this show will help greatly in this Mud
+but one can always learn.  The Immortals that rule here are newbie friendly
+so if you have a question feel free to ask.  This world is full of adventure
+and fun.  Finding the seven dragon balls will be a challenge and with them
+power shall come.  
+~
+0 2106372 0
+D0
+~
+~
+0 0 2601
+S
+#2601
+PL Explanation~
+Your powerlevel (or pl) is your basic ability as a fighter.  It helps to
+determine the ammount of damage you can do, how fast you can move in battle,
+and other things as well.  Be forewarned though that just because your pl is
+higher then your opponent that doesnt mean you'll have an easy fight.  Pl is
+only what you are capable of doing.  If you dont know how to fight when the
+time comes it will mean little.  
+~
+0 0 0
+D0
+~
+~
+0 0 2602
+D2
+~
+~
+0 0 2600
+D4
+~
+~
+0 0 2656
+M 150 H 150
+S
+#2602
+Checkin block~
+The air here is thick with noise from the people crowding this large
+station.  Most of the people here seem to be booking flights for travels to
+different planets.  A large line seems to lead up to a busy woman who is
+taking money for tickets.  To the north are the docking stations.  To the
+east are the recreation facilities.  Over in the west wing are the the
+explanations of the different worlds.  
+~
+0 8 0
+D0
+~
+~
+0 0 2603
+D1
+~
+~
+0 0 2609
+D2
+~
+~
+0 0 2601
+D3
+~
+~
+0 0 2607
+M 150 H 150
+S
+#2603
+Tunnel to docking stations~
+This tunnel links the docking stations to the rest of the station.  The
+tunnel is made of a clear substance that is neither glass nor metal.  This
+allows for a beautifull view of space and the planets.  To the north the
+tunnel ends at the docks.  To the south is the main station.  
+~
+0 8 0
+D0
+~
+~
+0 0 2604
+D2
+~
+~
+0 0 2602
+S
+#2604
+Shuttle dock~
+Shuttles line this large dock waiting to be boarded.  A few flight
+attendants walk to thier ships ready to serve passengers.  This dock seems
+to be dome shaped with openings at the top for the ships to leave and enter.
+Behind a glass window workers regulate the atmosphere and open the hatches. 
+Thier job is hard but it needs to be done.  
+~
+0 0 0
+D2
+~
+~
+0 0 2603
+D3
+~
+~
+0 0 2655
+S
+#2605
+{BThe U.T.S. mini-mall{n~
+{wYou have entered the U.  T.  S.  Mini-mall.  There are shops around you
+where you can buy such things as weapons, armor, and items.  This place
+should contain everything that you will need for whatever journey you have
+planned.{n  
+~
+0 0 0
+D0
+~
+~
+0 0 2606
+D1
+~
+~
+0 0 2611
+D3
+~
+~
+0 0 2627
+S
+#2606
+{BU.T.S. mini-mall square{n~
+{wYou are standing in the U.  T.  S.  Square.  There is a show going on,
+on a platform where people are singing and dancing.  There is also a
+fountain here, but the line is {RHUGE!  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2614
+D2
+~
+~
+0 0 2605
+M 500 H 500
+S
+#2607
+Earth tutorial~
+The planet Earth is a violent planet filled with power hungry humans. 
+Yet most humans are weak and lazy.  A select few are gifted with extreme
+powers and can be generally good.  But some with those powers torment others
+but are challenged by the good earthlings.  The planet has a variety of
+climates.  From freezing arctics to tropical islands.  There are many great
+cities on this planet but they are the most dangerous areas.  Over all Earth
+is a good planet to live on but training power is hard.  
+~
+0 0 0
+D1
+~
+~
+0 0 2602
+D3
+~
+~
+0 0 2608
+S
+#2608
+Vegeta tutorial~
+The planet Vegeta is the home of the mighty saiya-jins.  It is generally
+a dark planet ruled by the strongest saiya-jins.  Most races are tolerated
+on the planet.  Icers shouldnt tread on Vegeta's soil for icers are greatly
+hated on the planet and may be attacled.  Humans are picked on because of
+thier generally weak race but they are left alone.  
+~
+0 0 0
+D1
+~
+~
+0 0 2607
+D3
+~
+~
+0 0 2652
+S
+#2609
+Recreation core~
+This is the central core of the recreational facilities.  All of the
+luxury of the station connects here.  To the north is the bar.  To the south
+a hotel.  To the east are the healing tanks.  
+~
+0 0 0
+D0
+~
+~
+0 0 2640
+D1
+~
+~
+0 0 2610
+D2
+~
+~
+0 0 2642
+D3
+~
+~
+0 0 2602
+S
+#2610
+Healing dock~
+The majority of this white room is taken up by a massive pool of bluish
+green liquid.  There are a few people resting in it healing up before
+traveling again.  There seems to be an entrance to the pool on top.  Other
+than the pool there is not much to see except a few towels and changing
+rooms.  
+~
+0 0 0
+D3
+~
+~
+0 0 2609
+M 1 H 1
+S
+#2611
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D1
+~
+~
+0 0 2628
+D3
+~
+~
+0 0 2605
+S
+#2612
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2613
+D2
+~
+~
+0 0 2628
+S
+#2613
+{BU.T.S. weapon and armour shop{n~
+~
+0 1032 0
+D2
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 2626
+S
+#2614
+{BU.T.S. mini-mall{n~
+{wYou are before an exit to the mini-mall.  Going north will take you
+into a hallway toward the transporter rooms.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2615
+D1
+~
+~
+0 0 2626
+D2
+~
+~
+0 0 2606
+D3
+~
+~
+0 0 2632
+S
+#2615
+{BBefore a hallway door{n~
+{wYou are just before the transporter room.  It seems to be only about
+fifteen or twenty feet away, but when apprehensive something small can seem
+quite large.  You look at your surroundings and see that the walls have went
+from a clean bright white, to a shiny metal of which you have never seen. 
+The walls seem to be really solid, maybe to contain the intense energy
+required for the teleportation to take place.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2616
+D2
+~
+~
+0 0 2614
+S
+#2616
+{BA step in the doorway{n~
+{wYou have taken the first step toward the transport room.  You begin
+sweating and breathing heavily, as if the oxygen has been decreased and the
+pressure is a lot greater.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2617
+D2
+~
+~
+0 0 2615
+S
+#2617
+{BInside the hallway{n~
+{WStanding in front of this doorway, sweat begins pouring out of every
+pore, and breathing becomes very difficult.  With every step taken, it
+becomes harder to breath and the sweating more severe.  
+~
+0 0 0
+D0
+~
+~
+0 0 2618
+D2
+~
+~
+0 0 2616
+S
+#2618
+{BWalking down the hallway{n~
+{gW{walki{gn{wg down t{gh{we hal{glw{wa{gy {wthe temperature suddenly
+{gsk{wy r{goc{wket{gs{w.  {gTh{we temperature sudd{ge{wnl{gy
+{wbe{gc{wo{gme{ws s{go se{wver{ge{w, that it is {gal{wmo{gs{wt
+un{gb{we{wr{gab{wle.  
+~
+0 0 0
+D0
+~
+~
+0 0 2619
+D2
+~
+~
+0 0 2617
+S
+#2619
+{b?{g?{w?{m?{c?{n~
+{bN{co{mw {wa{gl{bl {ct{mh{wa{gt {bc{ca{mn {wb{ge {bs{ce{me{wn {ga{br{ce {mr{wa{gn{bd{co{mm {ws{gp{bo{ct{ms {wo{gf {bc{co{ml{wo{gr{b.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+ {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c.{b.{g.{w.{m.{c. {b.{g.{w.{m.{c.{b.{g.{w.{m.{c.
+~
+0 0 0
+D0
+~
+~
+0 0 2620
+D2
+~
+~
+0 0 2618
+S
+#2620
+{WIn a bright, white light{n~
+{WYou close your eyes, and try to get rid of the spots, and when you open
+them you are in a very bright white light.  You can't tell which way you
+were going, so you just walk in the white, white light.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2621
+D2
+~
+~
+0 0 2619
+S
+#2621
+{BIn a room with metallic walls{n~
+{WContinueing in this bright white light, a feeling of chronic fatigue
+sets in, and a battle with conciousness begins.  Suddenly, everything is
+back to normal, and the white light is gone.  Now the room looks like the
+the one viewed before the trip down the hall, but now a sign can be seen on
+the far wall.  It reads: 
+ 
+   {MYou have been put through a test to prove your worthyness of the transporters.
+   You have succeeded where many have failed, and are now free to go to any planet
+   that is available.
+   congratulations, and good luck!
+          Sincerely,
+                      {y-=The U.T.S. Staff=-{n
+~
+0 0 0
+D0
+~
+~
+0 0 2622
+D2
+~
+~
+0 0 2620
+S
+#2622
+{bEntrance to the transport rooms{n~
+{WAfter stepping through the doorway, an airlock door closes from behind.
+The room is a translucent blue color, and exits are in every direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 2623
+D1
+~
+~
+0 0 2624
+D2
+~
+~
+0 0 2621
+D3
+~
+~
+0 0 2625
+S
+#2623
+{mTransport room to planet {GEarth{n~
+{WThis pitch-black room contains a portal that will take you to planet
+{GEarth{W.  To enter this portal go north.  {n 
+~
+0 0 0
+D2
+~
+~
+0 0 2622
+S
+#2624
+{mTransport room to planet {BFreeza {mand {YVegeta{n~
+{WThis room contains a transporter that will take you to planet {BFreeza
+{Wor planet {YVegeta{W.  To go to {BFreeza {Wgo up, or go down to get to
+{YVegeta{W.  
+~
+0 0 0
+D3
+~
+~
+0 0 2622
+S
+#2625
+{mTransport to planet {RNamek {mand {cDarkstar{n~
+{WThis room contains a transporter taht will take you to planet {RNamek
+{Wor {cDarkstar{W.  If you want to go to {RNamek {Wgo up, or if you want to
+go to {cDarkstar {Wgo down.  {n 
+~
+0 0 0
+D1
+~
+~
+0 0 2622
+S
+#2626
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D1
+~
+~
+0 0 2613
+D3
+~
+~
+0 0 2614
+S
+#2627
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D1
+~
+~
+0 0 2605
+D3
+~
+~
+0 0 2629
+S
+#2628
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 2611
+S
+#2629
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2630
+D1
+~
+~
+0 0 2627
+S
+#2630
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D0
+~
+~
+0 0 2631
+D2
+~
+~
+0 0 2629
+S
+#2631
+{BU.T.S. item shop{n~
+{wYou have entered the U.  T.  S.  Item shop.  Here you can buy just
+about any provision that you will need.  We have everything from canteens to
+shirts and shoes.  We also have food and drink, so if you want a meal, just
+get your order and take a seat, or get it to go.  {n 
+~
+0 0 0
+D1
+~
+~
+0 0 2632
+D2
+~
+~
+0 0 2630
+S
+#2632
+{BWandering the U.T.S. mini-mall{n~
+{wYou are wandering the U.  T.  S.  Mini-mall, and all around you are
+people pushing through each other to get to the shops that they are trying
+to get to.  {n 
+~
+0 0 0
+D1
+~
+~
+0 0 2614
+D3
+~
+~
+0 0 2631
+S
+#2633
+Healing tank~
+~
+0 4 0
+S
+#2634
+.~
+~
+0 4 0
+S
+#2635
+.~
+~
+0 4 0
+S
+#2636
+.~
+~
+0 4 0
+S
+#2637
+.~
+~
+0 4 0
+S
+#2639
+Goten's play room~
+This room is very small it seems to have little holes in the walls all
+over...  It has loud rock music playing from somewhere in the far corner of
+the room.  There is a small bed to the right, and a workout station to the
+left.  There is a picture of a beautiful women on the ceiling above the bed.
+On the floor there are several fragments of something like silk but of a
+much better fabric.  There is a small item underneath the chair to the right
+of the door.  
+~
+0 1048588 0
+S
+#2640
+Jazz bar~
+The Jazz bar is one of the most popular bars this side of the galaxy. 
+Many people from all over come here for a rest and a drink.  Up in the
+corner a band plays jazz tunes on a black stage.  A bartender laughs with
+the customers while making the different drink people order.  The light is
+dim and gives a cool calm look to the place.  
+~
+0 1024 0
+D2
+~
+~
+0 0 2609
+R RANDOM 2600 70~
+S
+#2641
+Healing pool~
+This pool is filled with a liquid that heals on contact.  It is used
+throughout most of the galaxy.  It is a perfect place to heal unwanted
+wounds and scars.  It is said that using the pool to much is the same as
+using a sensory deprivation chamber.  The user may halucinate or be able to
+sense things normaly unsensable.  
+~
+0 263172 0
+M 2000 H 2000
+S
+#2642
+The lobby~
+The lobby is not very active.  A bored receptionist is selling tickets
+from behind a bare oak desk.  A gas run fire burns behind glass shutters in
+its fireplace.  The glow illuminates most of room but a few flourescent
+lights do the rest.  A few plants give the room some decoration and a couple
+chairs are here for relaxing.  
+~
+0 1024 0
+D0
+~
+~
+0 0 2609
+D4
+~
+~
+0 0 2643
+S
+#2643
+Hallway~
+A long hallway strecthes far to the north.  The carpet is a red velvet
+that covers the length of the hall.  On both sides of the hall are rooms for
+people to stay in.  To enter these rooms one must have a key supplied by the
+receptionist in the lobby.  Each room is numbered with gold plated metal. 
+The doors are solid oak so they are almost unbreakable.  
+~
+0 0 0
+D0
+~
+~
+0 0 2646
+D1
+~
+~
+1 2608 2645
+D3
+~
+~
+1 2608 2644
+D5
+~
+~
+0 0 2642
+S
+#2644
+Room 1~
+This is a typical hotel room.  A sturdy bed is against the north wall.  A
+desk with a lamp on it is next to the bed.  A porthole window gives a
+dazzling view of outer space and the planets.  
+~
+0 512 0
+D1
+~
+~
+1 2608 2643
+S
+#2645
+Room 2~
+This is a typical hotel room.  A sturdy bed is against the north wall.  A
+desk with a lamp on it is next to the bed.  A porthole window gives a
+dazzling view of outer space and the planets.  
+~
+0 512 0
+D3
+~
+~
+1 2608 2643
+S
+#2646
+Hallway~
+A long hallway stretches far to the north.  The carpet is a red velvet
+that covers the length of the hall.  On both sides of the hall are rooms for
+people to stay in.  To enter these rooms one must have a key supplied by the
+receptionist in the lobby.  
+~
+0 0 0
+D0
+~
+~
+0 0 2647
+D1
+~
+~
+1 2608 2649
+D2
+~
+~
+0 0 2643
+D3
+~
+~
+1 2608 2648
+S
+#2647
+Hallway~
+A long hallway stretches far to the south.  The carpet is a red velvet
+that covers the length of the hall.  On both sides of the hall are rooms for
+people to stay in.  To enter these rooms one must have a key supplied by the
+receptionist in the lobby.  
+~
+0 0 0
+D1
+~
+~
+1 2608 2651
+D2
+~
+~
+0 0 2646
+D3
+~
+~
+1 2608 2650
+S
+#2648
+Room 3~
+This is a typical hotel room.  A sturdy bed is against the north wall.  A
+desk with a lamp on it is next to the bed.  A porthole window gives a
+dazzling view of outer space and the planets.  
+~
+0 512 0
+D1
+~
+~
+1 2608 2646
+S
+#2649
+Room 4~
+This is a typical hotel room.  A sturdy bed is against the north wall.  A
+desk with a lamp on it is next to the bed.  A porthole window gives a
+dazzling view of outer space and the planets.  
+~
+0 512 0
+D3
+~
+~
+1 2608 2646
+S
+#2650
+Room 5~
+This is a typical hotel room.  A sturdy bed is against the north wall.  A
+desk with a lamp on it is next to the bed.  A porthole window gives a
+dazzling view of outer space and the planets.  
+~
+0 512 0
+D1
+~
+~
+1 2608 2647
+S
+#2651
+Room 6~
+This is a typical hotel room.  A sturdy bed is against the north wall.  A
+desk with a lamp on it is next to the bed.  A porthole window gives a
+dazzling view of outer space and the planets.  
+~
+0 512 0
+D3
+~
+~
+1 2608 2647
+S
+#2652
+Namek tutorial~
+The planet Namek is one of the most peacefull planets there is.  Yet the
+people of Namek are very strong.  Namek is a planet that has faced terrible
+times but it has always made it through without losing heart.  Namek is the
+home of the Dragon Balls.  The namekians are able to create them for wishes.
+Namek doesnt have cities but they have small settlements scattered across
+the lands.  Each settlement is governed by an elder and they are governed by
+Guru father of all Nameks.  
+~
+0 0 0
+D1
+~
+~
+0 0 2608
+D3
+~
+~
+0 0 2653
+S
+#2653
+Freezer tutorial~
+The planet Freezer is an evil planet ruled by the icer tyrants.  Most
+icers are evil creatures that send thier minions to destroy planets.  But
+some have good hearts and fight evil.  But the are banished from the planet
+and considered traitors to the icer race.  Most races are allowed but
+saiya-jins are captured and kept as slaves.  These slaves can be bought from
+the planet from slave traders.  But this is seen as an evil act to good
+people.  
+~
+0 0 0
+D1
+~
+~
+0 0 2652
+S
+#2654
+Fighting test~
+This is a padded room for a first fight with the human trainer.  There is
+enough room to fight without fault.  A few strange lights stick out of the
+walls they seem to be for healing hurt fighters.  
+~
+0 2097156 0
+D0
+~
+~
+0 0 2610
+M 10000 H 10000
+S
+#2655
+Workers room~
+This computer filled room is the working station for the dock staff. 
+There is a glass window giving a view of the shuttles on the east wall.  The
+rest of the room is filled with different types of computer terminals.  Some
+blink and beep others glow with artificial light.  A few workers dash to and
+from the computers doing thier busy work.  
+~
+0 0 0
+D1
+~
+~
+0 0 2604
+S
+#2656
+Battle system~
+The fighting system of the Arena is different than other muds.  You dont
+fight with kill or murder.  For a basic attack you would use the command
+attack.  After learning more skills you can use them for a better fighting
+advantage.  When using ki attacks it is possible to charge it.  For example
+Kamehameha (target) will begin charging a kamehameha.  All ki attacks have a
+minimum charge that has to go into them.  When it has charged as long as you
+want type release and it will fire.  You can not attack while charging. 
+Kamehameha (target) release will fire a ki attack without any charging
+though it will be weak.  
+~
+0 0 0
+D5
+~
+~
+0 0 2601
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2643 1 2
+D 0 2643 3 2
+D 0 2644 1 2
+D 0 2645 3 2
+D 0 2646 1 2
+D 0 2646 3 2
+D 0 2647 1 2
+D 0 2647 3 2
+D 0 2648 1 2
+D 0 2649 3 2
+D 0 2650 1 2
+D 0 2651 3 2
+O 0 2699 0 2604 A shuttle to earth loaded to Shuttle dock
+O 0 2606 0 2610 Healing pool loaded to Healing dock
+M 0 2601 1 2613 1 Load Jonny-5 the android
+M 0 2604 1 2640 1 Load A bartender
+G 0 2604 0 Shot of whisky is given to A bartender
+G 0 2605 0 A brewski is given to A bartender
+O 0 2607 0 2641 Exit hatch loaded to Healing pool
+M 0 2605 1 2642 1 Load Receptionist
+O 0 2609 0 2644 A sturdy bed loaded to Room 1
+O 0 2609 0 2645 A sturdy bed loaded to Room 2
+O 0 2609 0 2648 A sturdy bed loaded to Room 3
+O 0 2609 0 2649 A sturdy bed loaded to Room 4
+O 0 2609 0 2650 A sturdy bed loaded to Room 5
+O 0 2609 0 2651 A sturdy bed loaded to Room 6
+M 0 2606 1 2654 1 Load A human trainer
+O 0 2699 0 2655 A shuttle to earth loaded to Workers room
+S
+
+
+
+#SHOPS
+2601 0 0 0 0 0 100 100 0 23
+2604 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#2600
+act $n arrives from the north
+say Welcome to Universal Hotel the cost for a room is 100 zenni.
+mob echo The receptionist holds out her hand for your money.
+~
+#2601
+act $n gives receptionist 100 zenni
+mob oload 2608
+give key $n
+say That key unlocks all rooms in this hotel pick one that isnt used please.
+mob echo The receptionist points up the stairs.
+say But only two people in at one time please space is limited per room.
+~
+#2602
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#2600
+room echo Soothing jazz music drifts down from stage.
+~
+#2601
+~
+#0
+
+#$

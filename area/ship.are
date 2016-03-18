@@ -1,0 +1,1090 @@
+#AREADATA
+Name Ship of Thaur~
+Builders Kube-d~
+VNUMs 4600 4660
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#4600
+biomess~
+the biomess~
+A biomess oozing along the floor
+~
+~
+human~
+AGQ 0 0 0
+100000000 500
+50 50 50 50 50 
+100 100
+punch
+0 0 0 0
+0 0 0 DEFG
+stand stand none 0
+GS M medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4601
+icerian bot~
+{wIceria{cn Pre{Cdat{cor B{wot{x~
+{wIceria{cn Pre{Cdat{cor B{wot{x
+~
+~
+android~
+AS 0 0 0
+800000000 1414
+84 84 84 84 84 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 4204
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 4601 bad bot~
+#4602
+jaxx jaxx71~
+Jaxx71~
+Jaxx71 is here, floating slightly above the ground
+~
+What a hideious beast.  Its upper body is metal armor seemingly fused
+onto flesh, and its lower body appears to be rotting.  A scouter is attached
+to the side of its headpiece and covers that eye, but the other is a deep,
+burning red.  One of its arms has been replaced by a gattling gun of some
+sort, and the other is twisted in rage.  
+~
+android~
+AGS T 0 0
+400000000 2000
+130 130 130 130 130 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 3818
+AHMV ABCDEFGHIJK large unknown
+#4603
+Icer Trainer~
+An Icer Trainer~
+An Icer trainer stands here, waiting to train those in need
+~
+A rather tall, Icerian stands here. He has
+a huge purple aura about him, chanting mystical
+words, with a foreign tongue hard to understand.
+~
+human~
+ABGJY 0 -1000 0
+40 38729
+371 371 371 371 371 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 16802
+CH ABCDEFGHIJKQW large unknown
+F for AMV
+M GREET 4603 100~
+#4604
+barkeepe~
+the clan barkeepe~
+The clan barkeepe
+~
+~
+icer~
+ABGYa 0 0 0
+100000 15
+8 8 8 8 8 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 444
+AHMV ABCDEFGHIJK large unknown
+#4605
+Rottweiler~
+A huge {DBlack {SRottweiler{x~
+A huge {DBlack {SRottweiler{x
+~
+~
+wolf~
+APab TZ 0 0
+1680 2
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+FH 0 0 0
+stand stand none 160
+AGV ACDEFJKQV large unknown
+M SPEECH 4605 follow~
+M SPEECH 4604 sabre~
+M SPEECH 4602 sit~
+M SPEECH 4608 come~
+#4606
+Thrax~
+{GThrax{x the Virus~
+A nasty looking virus lurks here
+~
+You see a very nasty looking virus standing here.  It seems to ooze
+a very potent slime as it eats away the ground as it slithers to you.
+In the middle of this green blob, you notice its DNA strains that spell
+out a name.  The name says Kaath as it begins to shudder and ooze slime.
+-
+~
+snake~
+ABIab T 0 0
+1680 2
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 L I
+stand stand none 160
+AGXYc ADEFKLQVX large unknown
+M SPEECH 4606 follow~
+#4607
+A gordon setter~
+Gabe's dog Connor~
+A Gordon Setter with Black and Brown fur waits here
+~
+~
+wolf~
+ABIab TZ 0 0
+1234 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+FH 0 0 0
+stand stand none 148
+AGV ACDEFJKQV large unknown
+M SPEECH 4607 follow~
+#0
+
+
+
+#OBJECTS
+#4600
+wall map~
+a electronic wall map~
+An electronic wall map~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4601
+shuttle ship~
+a small brick wall~
+A small brick wall stands here.~
+unknown~
+1
+portal 0 0
+0 0 0 DEFGHIM 0
+0 0 0 P
+#4602
+ship earth portal~
+a transport to earth~
+A transport heading to Earth~
+unknown~
+1
+portal 0 0
+0 0 0 DGH 0
+0 0 0 P
+#4603
+giant test tube~
+a giant test tube~
+A giant test tube is standing here~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4604
+key docking~
+a docking bay key~
+A key for the docking bay doors~
+unknown~
+1000000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4605
+armband syndicate~
+{WArm{xba{Dnd with {BSyndicate {xI{Dn{xs{Di{xg{Dn{xi{Da{x~
+{WArm{xba{Dnd with {BSyndicate {xI{Dn{xs{Di{xg{Dn{xi{Da{x~
+unknown~
+2147483647
+jewelry AX AI
+0 0 0 0 0
+1 1 4 P
+#4606
+Namekian Robe~
+{WWhite {gNam{Gek{gian {WRobe{x~
+{WWhite {gNam{Gek{gian {WRobe{x~
+robe~
+1
+armor ABX AD
+CFG CFG CFG CFG 0
+100000 1 10 P
+#4607
+key alik~
+a frozen key~
+A key covered in frost~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4608
+Destruction Key~
+the Destruction Key~
+The Destruction Key~
+key~
+1
+key X AO
+0 0 0 0 0
+0 1 1000000000 P
+#4609
+Power Key~
+the Power Key~
+The Power Key~
+key~
+1
+key X AO
+0 0 0 0 0
+0 1 1000000000 P
+#4610
+Hot-tub~
+a roomy hot-tub~
+A roomy hot-tub~
+Hot-tub~
+1
+furniture 0 0
+ABFG JLOPRTUXYZbcd F CEFGHI CEFGHI
+0 16960 0 P
+#4611
+key iann~
+a chilled key~
+A chilled key lies here~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4612
+futon~
+{DA rather large Futon with a {rDragon {Ddesign on it{x~
+{DA rather large Futon with a {rDragon {Ddesign on it{x~
+Futon~
+1
+furniture 0 0
+B ABCDEFGHIJKLMNOPQRSTUVWXYZabcde EFHIKL GJOQRST GJOQRST
+0 1000 1000 P
+#4613
+desk~
+{DA {rDragon Scale{D designed desk with "{mSayichia{D" written on it{x~
+{DA {rDragon Scale{D designed desk with "{mSayichia{D" written on it{x~
+Desk~
+1
+furniture 0 0
+A JLOPRTUXYZbcd DEF GJOQRST GJOQRST
+0 1000 1000000000 P
+#4614
+healing pool slide~
+a slide to healing pool~
+A hidden slide to the healing pool~
+unknown~
+1
+portal 0 0
+0 0 0 ABCDJM 0
+0 0 0 P
+#4615
+key waylander~
+a turban icon key~
+A key with a turban icon upon it~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4616
+A spiked collar~
+{SA Spiked {DCollar{x~
+{SA Spiked {DCollar{x~
+dog collar~
+1
+armor AX AC
+CFG CFG CFG CFG 0
+0 1 1000 P
+#4619
+key thaur~
+a penguin key~
+A key in the form of a penguin~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4623
+key front door~
+the front door key~
+A key for the front door~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4630
+bush george~
+george W. Bush~
+George W. Bush~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#4660
+Spine of a {YSaiya-jin{x~
+the spine of a {YSaiya-jin{x.~
+The Spine of a {YSaiya-jin{x lays here, ripped from yet another 'spineless' {YSaiya-jin{x coward.~
+Spine of a Saiya-jin~
+2147483647
+weapon ABC AN
+exotic 0 0 grep F
+1 1 1000000000 P
+#0
+
+
+
+#ROOMS
+#4600
+Docking Bay ~
+Small one-man vessels are scattered about.  Weapons such as missiles and
+other miscellaneous items are laid about the room.  Huge bay doors are open
+for easy loading and unloading of the ship.  A door on the far wall leads up
+into the rest of the ship and the living quarters.  
+~
+0 8 0
+D0
+~
+~
+1 4604 4601
+S
+#4601
+Lower Deck~
+Nothing special about this room.  A few crawl spaces go off in many
+different directions to get to any part of the ship.  A ladder hangs down
+from the ceiling leading to the upperdeck and cockpit area.  To the east is
+Waylander's domain, and the west is Iann's.  Further up to the north of the
+lower deck is Alik's domain.  
+~
+0 8 0
+D0
+~
+~
+0 0 4606
+D1
+~
+~
+1 4615 4615
+D2
+~
+~
+1 4604 4600
+D3
+~
+~
+1 4611 4611
+D4
+~
+~
+0 0 4602
+S
+#4602
+Upper Deck~
+There is the ladder in the floor leading to the lower section of the
+ship.  To the north is the cockpit, the east the War-Room, the west is the
+sparring arena.  To the south is Thaur's quarters.  As was the Lower Deck,
+there are many crawlspaces going off in many directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 4603
+D1
+~
+~
+0 0 4605
+D2
+~
+~
+1 4619 4619
+D3
+~
+~
+0 0 4604
+D5
+~
+~
+0 0 4601
+S
+#4603
+Cockpit~
+A chair is sitting directly in the center of the room.  Obviously the
+Captain's chair.  Computer panels line the walls.  On one monitor, a small
+model of the ship and its entire structure can be seen.  On another monitor,
+strategic battle plans are under way.  On yet another monitor, the weapons
+array is being displayed, ready at an instant to destroy whatever its
+ordered to.  
+~
+0 8 0
+D2
+~
+~
+0 0 4602
+S
+#4604
+Sparring Chamber~
+Small steel panels line every wall and the floor.  They are there for
+absorbing energy that isn't used in the spar.  The panels absorb the energy
+and send it directly to the Power Core of the ship.  The room is in the
+shape of a huge dome to allow maximum movement and excellent fighting.  Many
+of the strongest warriors in the universe have come to this sparring chamber
+to test their skills.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 4602
+D4
+~
+~
+0 0 4623
+S
+#4605
+War Room~
+Here is a long table for meeting and discussing war tactics.  Four chairs
+are strewn about the table.  On the far wall there is a map of Earth.  But
+with a flick of a switch, it can be changed to Namek, Vegeta, or Freezer. 
+It can be changed to see Thaur, Alik, and Iann's home planet in their
+dimension as well.  
+~
+0 8 0
+D3
+~
+~
+0 0 4602
+S
+#4606
+Lower Deck~
+Nothing special about this room.  A few crawl spaces go off in many
+different directions to get to any part of the ship.  To the north of this
+room is Alik's domain.  Further south, a ladder leading up and 2 doors,
+heading east and west, can be seen.  
+~
+0 8 0
+D0
+~
+~
+1 4607 4607
+D2
+~
+~
+0 0 4601
+D5
+~
+~
+0 0 4624
+S
+#4607
+Alik's Library~
+From floor to ceiling, the walls are lined with books on thick wooden
+bookshelves.  All the books seem to be based on the History of Icers, or the
+history of War and War Strategy.  
+~
+0 8 0
+D0
+~
+~
+0 0 4608
+D1
+~
+~
+0 0 4610
+D2
+~
+~
+1 4607 4606
+D3
+~
+~
+0 0 4609
+S
+#4608
+Alik's Chambers~
+The metallic walls seem to shine even in the dim light provided here. 
+Against the eastern wall sits a small cot, barely large enough for a single
+person of any race.  This room is quite cold, how fitting for an Icer's
+slumber.  
+~
+0 8 0
+D2
+~
+~
+0 0 4607
+S
+#4609
+Alik's War Room~
+The walls in this room are made from some type of metal, the metal shines
+brightly due to the florescent lights in the ceiling.  In the center of the
+room is a large round wooden table.  On the north wall is a map of, Alik's
+homeworld, the planet Phrost.  This room is ideal for planning battle
+strategies.  
+~
+0 8 0
+D1
+~
+~
+0 0 4607
+S
+#4610
+Alik's Shower Room~
+A small stainless steel chamber for showering.  The temperature in here
+is so low, it's amazing that water could run out of the showerhead, and down
+through the drain without freezing.  
+~
+0 8 0
+D3
+~
+~
+0 0 4607
+S
+#4611
+Iann's Living Room~
+This room is very large and has a pool table, a card table, and a large
+video-screen.  This is where he spends most of his time when he doesnt
+train.  
+~
+0 8 0
+D0
+~
+~
+0 0 4613
+D1
+~
+~
+1 4611 4601
+D2
+~
+~
+0 0 4614
+D3
+~
+~
+0 0 4612
+S
+#4612
+Iann's Chambers~
+This room is quite large, it has a large bed against one wall and a
+weight set for when he gets bored.  The air is rather cold and there is
+little oxygen in here.  
+~
+0 8 0
+D1
+~
+~
+0 0 4611
+S
+#4613
+Iann's Bathroom~
+For when nature calls....  And when it really wants an answer 
+~
+0 8 0
+D2
+~
+~
+0 0 4611
+S
+#4614
+Isolation Chamber~
+This place is freezing!  And there is practiacaly no oxygen!  This is
+where Iann comes to meditate, he trains his mind and body to survive in such
+harsh conditions.  
+~
+0 8 0
+D0
+~
+~
+0 0 4611
+S
+#4615
+Waylander's Living Room~
+A sofa, TV and few other small items lay about the room.  Magazines pile
+next to the couch.  Hanging from the ceiling are four flourescent lights
+that with a flick of a switch, change the room from light, to black-light.  
+~
+0 8 0
+D0
+~
+~
+0 0 4617
+D1
+~
+~
+0 0 4616
+D2
+~
+~
+0 0 4618
+D3
+~
+~
+1 4615 4601
+S
+#4616
+Waylander's Chambers~
+A bed lays against the far wall.  A few cushions and such are scattered
+about the room for company and such.  Upon the wall is a turban rack made of
+solid oak, with a peculiar little sign engraved upon it.  
+~
+0 8 0
+E
+sign~
+You see this upon the rack:
+{C({Y-M-{C){x
+~
+D3
+~
+~
+0 0 4615
+S
+#4617
+Waylander's Play Room~
+This is the biological experiments room.  A few beakers and test-tubes
+hold samples of skin and DNA of assorted creatures.  Some with the creature
+in the tube with it.  A weapon-rack is mounted on the far wall with a few
+assorted weapons for torture or warfare, whichever comes first.  A saiya-jin
+is in a tube being poked and prodded with many needles.  In another tube, a
+human is being slowly drowned.  
+~
+0 8 0
+D2
+~
+~
+0 0 4615
+S
+#4618
+Waylander's Bathroom~
+A toilet, shower, and sink.  Only the bare essentials.  A faint light
+emits from the light hanging down.  Nothing special about this room.  Its
+where a guy thinks, reads the paper, and spends a good portion of his day.  
+~
+0 8 0
+D0
+~
+~
+0 0 4615
+S
+#4619
+Thaur's Living Room~
+A sofa sits on the far wall.  A TV placed in the center of the room.  A
+skin hanging on the wall seems to take up the whole wall.  It is complete
+with a long tail and fuzzy ears.  As if an Oozaru once wore this skin.  
+~
+0 8 0
+D0
+~
+~
+1 4619 4602
+D1
+~
+~
+0 0 4621
+D2
+~
+~
+0 0 4620
+D3
+~
+~
+0 0 4622
+S
+#4620
+Thaur's Chambers~
+Here is a bed looking as if it is used for military purposes.  A few
+smaller items and such are spread all through the room.  A chair, a table,
+and a few small weapons used for the art of war, an Icer's favorite
+past-time don't you know.  
+~
+0 8 0
+D0
+~
+~
+0 0 4619
+S
+#4621
+Thaur's Office~
+A large desk sits in the center of the room.  Bookshelves cover every
+wall.  Filled with books on destruction, war and utter chaos.  It is the
+perfect office for a general of all Icerian Armies.  
+~
+0 8 0
+D3
+~
+~
+0 0 4619
+S
+#4622
+Thaur's Bathroom~
+Nothing much here but a toilet, a shower, and four walls.  Nothing
+special.  Looking down at the floor, a small design can be made out in the
+tile.  It appears to be a penguin.  
+~
+0 8 0
+D1
+~
+~
+0 0 4619
+S
+#4623
+Healing Pool~
+Embedded into a wall is the exit of the slide from the sparring sphere. 
+The metallic walls reflect the little light a small opening in the ceiling
+lets in.  The bluish liquid has the special property of healing whomever
+submerged in it or even at close proximity of it.  A small sign on a wall
+reads 'say transport to get out of here'.  
+~
+0 1028 0
+D5
+~
+~
+0 0 4604
+M 15000 H 15000
+R SPEECH 4623 transport~
+S
+#4624
+Lower Deck: Sub-section 1~
+The room is rather dull in comparison with some of the rest
+of the ship. The walls are a deep metal gray. A hatch leads up
+back in through the ship, to the north is the living quarters of
+Deisle and Danthalas, the south is the recreational area for both
+the guests of the ship, and the inhabitants.
+~
+0 0 0
+D0
+~
+~
+0 0 4625
+D2
+~
+~
+0 0 4633
+D3
+~
+~
+0 0 4632
+D4
+~
+~
+0 0 4606
+S
+#4625
+Corridor to Living Quarters~
+This corridor leads to two of the most prestigous members of Shadow
+Syndicate's rooms.  To the east is the powerful Saiya-jin Deisle's quarters 
+To the west is the eager and talented Danthalas' room.  Back to the
+south is the recreational area and leads back up through the rest of the
+ship.  Only a smal sofa sits here, for visitors to have a smoke or whatever
+ails them. 
+~
+0 0 0
+D1
+~
+~
+1 4609 4626
+D2
+~
+~
+0 0 4624
+D3
+~
+~
+1 4608 4629
+S
+#4626
+Deisle's Living Room~
+~
+0 0 0
+D0
+~
+~
+0 0 4628
+D1
+~
+~
+0 4609 4627
+D3
+~
+~
+1 4609 4625
+S
+#4627
+Deisle's Bathroom~
+~
+0 0 0
+D3
+~
+~
+0 0 4626
+S
+#4628
+Deisle's Living Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 4626
+S
+#4629
+Danthalas' Sitting Room~
+~
+0 0 0
+D0
+~
+~
+0 0 4631
+D1
+~
+~
+1 4608 4625
+D3
+~
+~
+0 0 4630
+S
+#4630
+Danthalas' Bathroom~
+~
+0 0 0
+D1
+~
+~
+0 0 4629
+S
+#4631
+Danthalas' Sleeping Chamber~
+~
+0 0 0
+D2
+~
+~
+0 0 4629
+S
+#4632
+Training Room~
+Upon entering the room, the Trainer greets you with his
+kind words. Don't let his words fool you, for while you chant
+with him, he speaks insults in foreign toungues. The room is
+made for one big training pit. A large mat covers the floor
+from wall to wall. Looking around, mirrors cover every wall,
+as if so the fighter can watch himself as he practices and
+find his weaknesses.
+~
+0 1032 0
+D1
+~
+~
+0 0 4624
+S
+#4633
+Wreck Room~
+The Wreck Room is a place where everyone can meet and relax.  A place for
+talk or just relaxation.  A few sofas and other small pieces of furniture
+are scattered about for the comfort of those that may happen to stay here. 
+A sign hangs on the eastern wall that says "Utilities", on the western wall
+is a sign that reads "Adults only!"  , and to the south is a sign that
+readys "Miller Light".  Its easily guessed what the inhabitants find
+entertaining.  
+~
+0 0 0
+D0
+~
+~
+0 0 4624
+D1
+~
+~
+0 0 4634
+D2
+~
+~
+0 0 4636
+D3
+~
+~
+1 0 4635
+S
+#4634
+Public Facilities~
+The public facility is a large, white room with a line of 
+cubicles along one wall. Taps are across the room on the wall
+to the left and mirrors are above. An unappetising smell comes
+from the cubicle furthest away, and there's a little sign on it 
+saying: 'Thaur's private dingy.'
+~
+0 0 0
+D3
+~
+~
+0 0 4633
+S
+#4635
+Adult Lounge~
+The adult lounge is a smaller room than most others in the ship.  The
+furniture is a velvetty red and a masseuse table is in the middle of the
+room, almost like a centrepiece.  A rack of towels hangs on a nearby wall. 
+A hot-tub sits close to the far wall.  The water seems to be cold, as if
+made for the Icer inhabitants of this ship.  
+~
+0 0 0
+D1
+~
+~
+1 0 4633
+S
+#4636
+Bar~
+The bar is a large room with the lights dimmed.  An earth style bar is at
+the far end, the top of beer taps poking up.  Stools line the bar and a
+private table is in the corner.  The ground is made of slate and is kinda
+dirty.  A few broken beer bottles are scattered about the floor, showing a
+few past bar brawls.  
+~
+0 8 0
+D0
+~
+~
+0 0 4633
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4600 0 2
+D 0 4601 1 2
+D 0 4601 2 2
+D 0 4601 3 2
+D 0 4602 2 2
+D 0 4606 0 2
+D 0 4607 2 2
+D 0 4611 1 2
+D 0 4615 3 2
+D 0 4619 0 2
+D 0 4625 1 2
+D 0 4625 3 2
+D 0 4626 3 2
+D 0 4629 1 2
+D 0 4633 3 1
+D 0 4635 1 1
+O 0 4602 0 4600 A transport to earth loaded to Docking Bay 
+M 0 4601 1 4602 1 Load {wIceria{cn Pre{Cdat{cor B{wot{x
+O 0 4614 0 4604 A slide to healing pool loaded to Sparring Chamber
+O 0 4600 0 4605 A electronic wall map loaded to War Room
+O 0 4600 0 4609 A electronic wall map loaded to Alik's War Room
+M 0 4600 1 4617 1 Load the biomess
+O 0 4603 0 4617 A giant test tube loaded to Waylander's Play Room
+M 0 4605 1 4620 1 Load A huge {DBlack {SRottweiler{x
+E 0 4616 0 3 {sa spiked {dcollar{x is loaded around the neck (1) of A huge {DBlack {SRottweiler{x
+M 0 4603 1 4632 1 Load An Icer Trainer
+O 0 4610 0 4635 A roomy hot-tub loaded to Adult Lounge
+M 0 4604 1 4636 1 Load the clan barkeepe
+S
+
+
+
+#SHOPS
+4604 17 19 0 0 0 50 20 0 23
+0
+
+
+
+#MOBPROGS
+#4601
+cower
+~
+#4602
+if name $n 'Thaur'
+rest
+else
+mob echoat $n $I hikes its leg and pisses on your shoes.
+mob echoaround $n $I hikes its leg and pisses on $n's shoes.
+endif
+~
+#4603
+say Hello, I am the Icerian Trainer. You may either train under my infinite wisdom, or sit and chant with me. What will it be?
+~
+#4604
+if name $n 'Thaur'
+mob emote jumps to Thaur's side to give him his mighty {CIcerian {B0Battle {xSabre.
+give sab $n
+else
+mob echoat $n $I growls {Dsadiciously {xand {Rlunges{x at you.
+mob echoaround $n $I growls {Dsadiciously {xand {Rlunges{x at $n.
+endif
+~
+#4605
+if name $n 'Thaur'
+follow $n
+else
+mob echoat $n $I snarls and snaps at you.
+mob echoaround $n $I snarls and snaps at $n.
+endif
+~
+#4606
+if name $n 'Kaath'
+follow $n
+else
+mob echoat $n $I oozes and spits a {Ggreen{x, contagious mist at you.
+mob echoaround $n $I oozes and spits a {Ggreen{x contagious mist at $n.
+endif
+~
+#4607
+if name $n 'Gabe'
+follow $n
+else
+mob echoat $n $I snarls and snaps at you.
+mob echoaround $n $I snarls and snaps at $n.
+endif
+~
+#4608
+if name $n 'Thaur'
+stand
+else
+mob echoat $n $I squats and takes a crap on your shoes.
+mob echoaround $n $I squats and takes a crap on $n's shoes.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#4623
+room transfer $n 4604
+~
+#0
+
+#$

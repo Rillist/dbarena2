@@ -1,0 +1,640 @@
+#AREADATA
+Name Snakeway~
+Builders Terraco-d Kube-d Alik-d~
+VNUMs 1800 1899
+Credits Vegeta --- Snakeway~
+Security 9
+End
+
+
+
+#MOBILES
+#1800
+Enma-sama~
+The Enma-sama~
+Standing roughly 200 feet, the huge Enma-sama judges those that have died.
+~
+Standing roughly 200 feet, the huge Enma-sama judges those that have
+died.  He looks about middle age and has a mustache and a beard.  
+~
+human~
+A 0 0 0
+100
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1800 100~
+#0
+
+
+
+#OBJECTS
+#1800
+scouter~
+a Scouter~
+This is a scouter.  It scans for powerlevel.~
+steel~
+1
+light Aa AS
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+10000 10 150 P
+#1801
+scouter ultra~
+an -=Ultra Scouter=-~
+This is an incredibly powerful scouter.~
+unknown~
+10000
+jewelry ABXa AS
+0 0 0 0 0
+50000000000000 10 10000 P
+#0
+
+
+
+#ROOMS
+#1800
+Begining of Snakeway~
+This is the grand snakeway.  It extends well off into the distance making
+the end immpossible to see.  It is said that at the end is where the dead
+are judged for thier actions.  It continues north from here.  The path
+itself is flat on top with the underside of a snake.  Thus giving it its
+name.  {rSNAKEWAY 
+~
+0 1024 0
+D0
+~
+~
+0 0 1801
+S
+#1801
+Snakeway~
+Snakeway continues north here.  Off the sides you can see the barrier of
+clouds that keep those that have been sent to hell in thier new home.
+Snakeway stretches off into the distance making the end still not visible.  
+~
+0 0 0
+D0
+~
+~
+0 0 1802
+D2
+~
+~
+0 0 1800
+S
+#1802
+Snakeway~
+Snakeway curves west here.  Off the sides you see the barrier of clouds
+that kepp those that have been sent to hell in thier new home.  Snakeway
+stretches off into the distance making the end still to far to see.  
+~
+0 0 0
+D2
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 1803
+S
+#1803
+Snakeway~
+Snakeway goes down here.  It can still be seen winding off into the
+distance making the end impossible to see.  Care should be taken from this
+point on as falling off the way will send you straight to hell.  Those that
+would otherwise being going to the grand kai's training grounds will miss
+out on it if they fall.  
+~
+0 0 0
+D1
+~
+~
+0 0 1802
+D5
+~
+~
+0 0 1804
+S
+#1804
+Snakeway~
+Snakeway continues east here.  The orange clound here look fluffy and
+close.  Close enough in fact that some could be grabbed if someone wanted to
+risk getting that close to the edge of the path.  Falling from here will
+send you straight to hell.  
+~
+0 0 0
+D1
+~
+~
+0 0 1805
+D4
+~
+~
+0 0 1803
+S
+#1805
+Snakeway~
+Snakeway continues north here.  The path here goes under the part above
+it as snakeway curves back on itself here.  From what can be seen farther
+down the path it does this alot.  The underside of the path can be seen well
+here and the resemblince between it and the underside of a real snae are
+remarkable.  
+~
+0 0 0
+D0
+~
+~
+0 0 1806
+D3
+~
+~
+0 0 1804
+S
+#1806
+Snakeway~
+Snakeway continues north.  The path here has alot of small hills in it
+that make the waling more unstable.  The end of the path is still not
+visible through the dence clounds that surround the path.  It also appears
+to stay straight for a while now.  
+~
+0 0 0
+D0
+~
+~
+0 0 1807
+D2
+~
+~
+0 0 1805
+S
+#1807
+Snakeway~
+Snakeway continues north here.  The small hills in it make the footing
+very unstable and walking here very dangerous as falling results in a trip
+to hell.  The end is still not visible as the dense clouds make seeing at
+any great distance impossible.  
+~
+0 0 0
+D0
+~
+~
+0 0 1808
+D2
+~
+~
+0 0 1806
+S
+#1808
+Snakeway~
+Snakeway continues north here.  The hills in it have stopped and the path
+has become flat again.  Though the clouds are just as think here as anywhere
+else a small shadow can be seen off in the distance here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1809
+D2
+~
+~
+0 0 1807
+S
+#1809
+Snakeway~
+Snakeway continues down.  The path spirals down here and comes very close
+to the barrier of clouds that devide snakway from hell.  The shadow off in
+the distance has not become any clearer as to what it is.  Though it is a
+little larger now.  
+~
+0 0 0
+D2
+~
+~
+0 0 1808
+D5
+~
+~
+0 0 1810
+S
+#1810
+Snakeway~
+Snakeway continues west.  The path spirals like a corkscrew here straight
+down to the could barrier.  However this offers people a chance to once
+again see the underside of the snake and the great detail that has went into
+it.  THe shadow still seems to lurk in the distance through the clouds.  
+~
+0 0 0
+D3
+~
+~
+0 0 1811
+D4
+~
+~
+0 0 1809
+S
+#1811
+Snakeway~
+Snakeway continues north.  This corkscrew part of the snake continues to
+do so well down to the cloud barrier.  The underside of the snake can be
+seen well here and the amazing detail of the belly is breath taking.  The
+small shadow still lurks in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 1812
+D1
+~
+~
+0 0 1810
+S
+#1812
+Snakeway~
+Snakeway continues east Traveling down this spiral part of the snake the
+cloud barrier is getting closer.  The underside of the snake can be seen
+here in all its detail.  The shadow to the north still has no shape to it.  
+~
+0 0 0
+D1
+~
+~
+0 0 1813
+D2
+~
+~
+0 0 1811
+S
+#1813
+Snakeway~
+Snakeway continues south.  The spiral continues going around here as it
+gets lower towards the clouds below.  Now the barrier is almost touching the
+underside of the snake.  The shadow to the north still has no real shape to
+it.  
+~
+0 0 0
+D2
+~
+~
+0 0 1814
+D3
+~
+~
+0 0 1812
+S
+#1814
+Snakeway~
+Snakeway continues west.  Almost to the bottom of the spiral and almost
+at the same level of the barrier this part of the snake makes it possible to
+see the path stretching north from the end of the spiral.  The shadow behind
+the coulds is still has no real shape to it though it seems a bit larger
+now.  
+~
+0 0 0
+D0
+~
+~
+0 0 1813
+D3
+~
+~
+0 0 1815
+S
+#1815
+Snakeway~
+Snake way continues north.  At the bottom of the spiral here the clouds
+are just blow the bottom of the snake.  By looking up it is possible to see
+the bottom of the snake from the part already traveled on.  The path stays
+north from here from what can bee seen and goes into the clouds with the
+shadow behind them.  
+~
+0 0 0
+D0
+~
+~
+0 0 1816
+D1
+~
+~
+0 0 1814
+S
+#1816
+Snakeway~
+Snakeway continues north.  The path a little ahead of here has small
+hills in it.  The cloud is just under the belly of the snake here and holds
+the residents of hell in there.  The small shadow behind the clouds to the
+north is starting to become much larger as you wake towards it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1817
+D2
+~
+~
+0 0 1815
+S
+#1817
+Snakeway~
+Snakeway continues up.  The path has hills in it here that seem to stop
+not to far ahead.  The clouds below are so thick that no view of hell can be
+seen but the cries from below reach even up here.  
+~
+0 0 0
+D2
+~
+~
+0 0 1816
+D4
+~
+~
+0 0 1818
+S
+#1818
+Snakeway~
+Snakeway continues north.  A little higher now and the shape to the north
+is starting to look like a large building.  A low rumble can barly be heard
+here from the direction of the shadow.  
+~
+0 0 0
+D0
+~
+~
+0 0 1819
+D5
+~
+~
+0 0 1817
+S
+#1819
+Snakeway~
+Snakeway continues down.  From here the shadow is no clearer and due to
+the other hils in front of you the path can't be seen.  There is a large dig
+in the path north here that looks to go down to the bottom of a larger hill.
+~
+0 0 0
+D2
+~
+~
+0 0 1818
+D5
+~
+~
+0 0 1820
+S
+#1820
+Snakeway~
+Snakeway continues north.  Inbetween two hills here not much can be seen.
+Faint cries from the clouds below rise up here showing how terrible the
+place is.  The low rumbles to the north continue even though the shadow
+can't be seen.
+~
+0 0 0
+D0
+~
+~
+0 0 1821
+D4
+~
+~
+0 0 1819
+S
+#1821
+Snakeway~
+Snakeway continues up.  About halfway up the second hill the cries below
+sound like whispers.  The top of the shadow in the north and the rumbling
+seem to be slightly louder.  This hill goes up just a little further.  
+~
+0 0 0
+D2
+~
+~
+0 0 1820
+D4
+~
+~
+0 0 1822
+S
+#1822
+Snakeway~
+Snakeway continues north.  The path north is blocked by the last hill
+here to the north.  It is the tallest of the three and makes only to top
+half of the shadow visible from here.  The cries from below are quiet though
+the rumble to the north is still able to be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 1823
+D5
+~
+~
+0 0 1821
+S
+#1823
+Snakeway~
+Snakeway continues down.  The hill to the north of this one is blocking
+the view.  The path dips back down here as it heads towards the bottom of
+the last hill.  
+~
+0 0 0
+D2
+~
+~
+0 0 1822
+D5
+~
+~
+0 0 1824
+S
+#1824
+Snakeway~
+Snakeway continues down.  All that is visible here are the clouds below
+and the path going up and down here.  The shadow to the north is hidden now
+bhind the hill.  
+~
+0 0 0
+D4
+~
+~
+0 0 1823
+D5
+~
+~
+0 0 1825
+S
+#1825
+Snakeway~
+Snakeway continues north.  Between the second and last hills here nothing
+but the sky and the clouds below are visible.  Even the large shadow to the
+north is completly blocked out by the large hill north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1826
+D4
+~
+~
+0 0 1824
+S
+#1826
+Snakeway~
+Snakeway continues up.  At the bottom of the third hill nothing is
+visible but the clouds to the sides and down from here.  Even the large
+shadow to the north is compltly blocked by the large hill.  
+~
+0 0 0
+D2
+~
+~
+0 0 1825
+D4
+~
+~
+0 0 1827
+S
+#1827
+Snakeway~
+Snakeway continues up.  About one third of the way up this hill only the
+clouds and the top of the shadow to the north can be seen.  The shadow seems
+to be taking a definite shape now.  
+~
+0 0 0
+D4
+~
+~
+0 0 1828
+D5
+~
+~
+0 0 1826
+S
+#1828
+Snakeway~
+Snakeway continues up.  The top of the this hill is right above here.  A
+little more of te shadow is visible here but making out what it is will be
+hard till the whole thing is visible again.  
+~
+0 0 0
+D4
+~
+~
+0 0 1829
+D5
+~
+~
+0 0 1827
+S
+#1829
+Snakeway~
+Snakeway continues north.  The large building to the north is becoming
+visible and appears to be a large building with aircraft taking off from it.
+It must be where the dead are judged.  The path continues north through the
+clouds infront of the building.
+~
+0 0 0
+D0
+~
+~
+0 0 1830
+D5
+~
+~
+0 0 1828
+S
+#1830
+End of Snakeway~
+The large building to the north is where the Enma-sama judges those
+that have passed away in the mortal world.  The good at heart will go the
+the grand kai's planet to train with those other fighters that have died. 
+Those that are evil will go to hell and be miserable.  
+~
+0 4 0
+D0
+~
+~
+0 0 1831
+D2
+~
+~
+0 0 1829
+S
+#1831
+Standing before Enma-sama.~
+A giant desk and a giant man tower over everything here.  He sits reading
+though your history scratching the side of his head.  
+~
+0 0 0
+D2
+~
+~
+0 0 1830
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1800 1 1831 1 Load The Enma-sama
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1800
+if isgood $n
+mob echoat $n Enma-sama turns his head towards you and smiles.
+mob echoaround $n Enma-sama turns his head towards $n and smiles.
+say You have lived a good life $n, now reap the rewards of your sacrifice.
+mob echoat $n Enma bangs his gavel and you are gone.
+mob echoaround $n Enma bangs his gavel and $n is gone.
+mob transfer $n 3100
+else
+if isevil $n
+say Why $n, you should be ashamed of yourself.
+say You spent your life hurting others now you will suffer in hell.
+mob echoat $n Enma bangs his gavel down and you are gone.
+mob echoat $n Enma bangs his gavel down and $n is gone.
+mob transfer $n 2400
+else
+if isneutral $n
+mob echo Enma gets a confused look on his face.
+Well $n since you did not do enough right to get into heaven i have but one choice
+mob echoat $n Enma bangs his gavel down and you are gone.
+mob echoaround $n Enma bangs his gavel down and $n is gone.
+mob transfer $n 2400
+endif
+ 
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

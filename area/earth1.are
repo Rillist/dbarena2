@@ -1,0 +1,2295 @@
+#AREADATA
+Name Training Dome  Vegeta~
+Builders Terraco-d Kube-d Alik-d~
+VNUMs 200 299
+Credits Vegeta --- Earth's Newbie Area~
+Security 9
+End
+
+
+
+#MOBILES
+#200
+Human nurse~
+Human nurse~
+A human nurse stands here making you comfortable.
+~
+This is a student nurse here to heal you.  
+~
+human~
+ABGL 0 250 0
+0
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AMV ABCDEFGHIJK medium unknown
+F for H
+M GREET 203 100~
+#201
+Shopkeeper~
+Shopkeeper~
+The shopkeeper stands here waiting to sell you something.
+~
+~
+human~
+ABG 0 350 0
+0
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV 0 medium unknown
+F par ABCDEFGHIJK
+M GREET 202 100~
+#202
+android droid fighter~
+an small android fighter~
+A small android fighter is here for you to pound on
+~
+This android is small and looks fairly old.  It doesn't look like it
+could take much abuse.  
+~
+android~
+AG 0 0 0
+11
+3 3 3 3 30 
+1000 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 20
+AHMV ABCDEFGHIJK medium unknown
+#203
+trainer master~
+The master~
+A martial arts master stands here training younger students
+~
+Even though his age is probably great the martial arts he practices keep him in good enough shape to still look
+fairly young.
+He is lean built but still very strong looking.
+~
+human~
+ABGJKb 0 350 0
+0
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 208 elbow~
+M SPEECH 207 kick~
+M GREET 200 100~
+M SPEECH 201 yes~
+M SPEECH 204 bash~
+M SPEECH 205 sweep~
+#204
+medium android~
+A Medium sized android~
+An average sized android is here helping train people
+~
+It looks about the size of the average man but is stronger due to being a
+machine.  A fairly old model it doesnt more around well making it an easy
+target for people that are past the weaker bots of the above level 
+~
+android~
+AG 0 0 0
+17
+5 5 5 5 50 
+1000 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 20
+HMV ABCDEFGHIJK medium unknown
+F for A
+#205
+Large android~
+A large android~
+A large android is here looking for people to fight.
+~
+He stands ruffly 7 feet tall and looks very strong.  One of the more up
+to date androids around he more much like a human making hhis fighting more
+formatable then the androids on the top two levels.  
+~
+android~
+AG 0 0 0
+30
+5 5 5 5 100 
+1000 100
+punch
+0 0 0 0
+0 P 0 0
+stand stand none 55
+AHMV ABCDEFGHIJK medium unknown
+#206
+barkeep~
+A short fat barkeep~
+A short fat barkeep servering the newbies drinks
+~
+Hes short and fat.  Looks about 10 years older then he is from his
+massive drinking to.  He almost looks like he is about to pass out drunk but
+somehow keeps moving around.  
+~
+human~
+AG 0 0 0
+2500
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#207
+Advanced android fighter~
+An advanced android fighter~
+An advanced android fighter
+~
+This is the most advanced android that is made.  This movements, style,
+and power are realistic as any other fighter of his power in the galaxy.  
+~
+android~
+AFG 0 0 0
+62
+5 5 5 5 50 
+1000 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 60
+HMV ABCDEFGHIJK medium unknown
+F for A
+#210
+ki master~
+The ki master~
+The ki master sits here surrounded by a burning aura.
+~
+~
+human~
+ABGJ 0 0 0
+0
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 207 100~
+M SPEECH 209 full~
+#211
+Goko~
+A man named Goko~
+A man named Goko stands here waiting for the trainee
+~
+~
+human~
+AB 0 0 0
+0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 KZ 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#298
+cloud black~
+a small {Dblack{x storm cloud~
+A small black storm cloud floats about the ground.
+~
+Angelina's cloud that seems to follow her everywhere, foreshadowing her
+impending doom.  
+~
+human~
+Aab T 0 0
+1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 148
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 297 follow~
+#299
+Delucia~
+Delucia~
+Delucia Goku's head servant stands here.
+~
+Delucia is the most beautifull human you have ever seen.  Her lovely
+green eyes gaze at you softly.  Her long golden hairs sparkles with light. 
+She wears a silk dress that show the curves of her perfect body.  
+~
+human~
+ABG 0 1000 0
+0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 P 0 0
+stand stand female 0
+AHMV ABCDEGHIJK medium unknown
+F par F
+M SPEECH 298 goku~
+#0
+
+
+
+#OBJECTS
+#200
+Tank top newbie~
+a newbie tank top~
+A white tank top with a large N on the back~
+unknown~
+100
+armor 0 AD
+AC AC AC AC 0
+1000 1 50 P
+E
+bag~
+This bag is basic training bag for capsule corp training.  
+~
+E
+gym~
+This bag is basic training bag for capsule corp training.  
+~
+#201
+White pants~
+a pair of {wWhite{x pants~
+A pair of {wWhite{x pants~
+unknown~
+1
+armor 0 AF
+AC AC AC AC 0
+1 1 50 P
+#202
+black leather boots~
+a pair of black leather boots~
+A pair of black leather boots~
+leather~
+1
+armor 0 AG
+AC AC AC AC 0
+1 1 50 P
+#203
+welcome sign~
+a sign hangs here with {rW{wE{rL{wO{rM{wE{x written on it~
+A sign hangs here with {RW{wE{RL{wC{RO{wM{RE {xwritten on it~
+unknown~
+1
+map O 0
+0 0 0 0 0
+0 0 0 P
+#204
+door airlock~
+door to airlock~
+Door to Airlock~
+unknown~
+1
+portal 0 0
+0 I A ABCEGH 0
+0 0 0 P
+#205
+Door Nurse station~
+door to the nurses station~
+Door to the nurses station~
+unknown~
+1
+portal 0 0
+0 0 0 ACDGH 0
+0 0 0 P
+#206
+A bottle of Bud~
+a bottle of Bud~
+A 16 ounce bottle of budweiser~
+unknown~
+1
+drink 0 A
+5 5 'beer' 0 0
+0 5 3 P
+#207
+beer old english 40~
+a cold 40 ounce of Old English~
+A 40 ounce of old english with frost on the bottle~
+unknown~
+1
+drink 0 A
+10 10 'red wine' 0 0
+0 10 5 P
+#208
+Tequila Shot~
+a Tequila Shot~
+A shot of jose cuervo tequila~
+unknown~
+1
+drink 0 0
+1 1 'rum' 0 0
+0 1 2 P
+#209
+white leather gloves~
+some {wWhite Leather{x gloves~
+Some {wWhite Leather{x gloves~
+unknown~
+1
+weapon 0 AH
+exotic 3 3 punch 0
+1 1 50 P
+#210
+scroll~
+an unrolled scroll~
+An unrolled scroll~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+scroll~
+You must find:
+
+Dragon Ball 1
+Dragon Ball 2
+Dragon Ball 3
+Dragon Ball 4
+~
+#211
+scroll~
+a unrolled scroll~
+A unrolled scroll~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+scroll~
+Bring 4 people to me
+And make sure they are stong
+Only then will I have
+Another scroll for you
+ 
+You may show the scroll to your 4 chosen
+but no one else
+~
+#212
+Mustaing~
+a black Mustang~
+A 1965 mustang shelbe GT~
+unknown~
+1
+furniture 0 0
+C EIJKN F CFG CFG
+0 0 0 P
+#213
+A Transport to Namek~
+a Transport to Namek~
+A Transport to Namek~
+unknown~
+1
+portal 0 0
+0 0 0 EJKL 0
+0 0 0 P
+#214
+A transport to Vegeta~
+a transport to Vegeta~
+A transport to Vegeta a small sing to the left *warning* only the strongest fighters should go to vegeta.~
+unknown~
+1
+portal 0 0
+0 0 0 BEFIM 0
+0 0 0 P
+#215
+scouter~
+a scouter~
+A cheap scouter beeps here.~
+unknown~
+1
+jewelry a AS
+0 0 0 0 0
+100000 0 300 P
+#216
+fine scouter~
+a fine scouter~
+A fine scouter to detect someones power level~
+electronic gizmo~
+50
+jewelry a AS
+0 0 0 0 0
+2000000 5 1000 P
+#217
+umbrella~
+a {rred{x umbrella~
+A {rred{x umbrella has been left here accidentally.~
+unknown~
+500
+trash 0 AO
+0 0 0 0 0
+0 0 50 P
+#296
+shuttle Yardrat~
+a spherical shuttle to Yardrat~
+A spherical shuttle ready to head back to Yardrat.~
+unknown~
+1
+portal 0 0
+0 0 0 CDFI 0
+0 0 0 P
+#297
+shuttle vegeta~
+a shuttle to Vegeta~
+A shuttle headed to Vegeta is here~
+unknown~
+1
+portal 0 0
+0 0 0 EFIM 0
+0 0 0 P
+#298
+plane tounment island~
+a large plane to Tournment Island~
+A large plane to Tournment Island~
+unknown~
+1
+portal 0 0
+0 0 0 DGIKL 0
+0 0 0 P
+#299
+shuttle UTS~
+shuttle to UTS~
+A shuttle to UTS~
+unknown~
+1
+portal 0 0
+0 0 0 CDFJL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#200
+Landing bay~
+The run way here seems to be longer then ones used for planes to land
+and take off.  Different forms of planet to planet travel are parked in
+groups together in different sections of the landing pad.  Some look like
+the spaceships the humans have used while others are saiyan space capsules. 
+Even a few icer ships and a capsule corp ship.  Ships sit here waiting on
+their owners to use them.  Of course there are shuttles that make the run to
+UTS.  Looking off to the north a huge dome can be seen and behind it is what
+appers to be a city.  
+~
+0 1028 1
+D0
+~
+~
+0 0 201
+D1
+~
+~
+0 0 201
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 201
+M 150 H 150
+S
+#201
+Welcome Area~
+The roof of this dome looks as if the center is a hundred feet in the
+air.  Hanging down in the middle is a large welcome sign for the visitors to
+this planet.  From the west many powers seem to be moving around while east
+sits a shop selling the basics needed to survive training.  Many beeping
+sounds seem to be coming from the stairway leading down.  The open area of
+the dome continues north of here.  
+~
+0 1036 0
+D0
+~
+~
+0 0 203
+D1
+~
+~
+0 0 202
+D2
+~
+~
+0 0 200
+D3
+~
+~
+0 0 204
+D4
+~
+~
+0 0 279
+D5
+~
+~
+0 0 205
+M 5 H 150
+S
+#202
+Training store~
+Standing in a little shop that is stocked with the things needed for the
+proper training.  The walls are covered in capsule corp posters and
+whatnots.  Looking around the little shop shelves, lined up in a row, are
+filled with clothing and attire and a bunch of jewelry type trinkets occupy
+another shelf.  
+~
+0 1024 0
+D3
+~
+~
+0 0 201
+M 150 H 150
+S
+#203
+Second dome~
+This is the northern part of the training domes, a safe area.  Screams
+and battle cries come in from the east from what appears to be a dojo where
+many people are training.  The sounds of singing and even the occasional
+fight come in from the west where the bar sits.  The sound of many people
+and machines moving come from the north from what appears to be the
+enterance to a large city.  
+~
+0 4 0
+D0
+~
+~
+0 0 201
+D1
+~
+~
+0 0 206
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 207
+M 150 H 150
+S
+#204
+Battle Training Entrance~
+This looks like it is the last safe room before you enter actual combat.
+Things that have been placed on the top two levels are barly more then
+punching bags that can hit back.  However the things in the third and fourth
+levels can be rather mean.  They have been known to attack without reason
+just to try and make you bleed.  If you are venturing into the lower levels
+please be carful.  
+~
+0 4 0
+D1
+~
+~
+0 0 201
+D3
+~
+~
+0 0 208
+M 150 H 150
+S
+#205
+Nurse Station~
+A single nurse stands here healing those that are in bad health and
+directing the ones severly hurt to the airlock.  Many people have choosen to
+forgo the long lines at the healing tanks and just let the nurse treat them.
+~
+0 1024 0
+D4
+~
+~
+0 0 201
+M 300 H 300
+S
+#206
+Masters quarters~
+{b The floor, walls, and even the roof here are covered in thin blue mats
+{bthat look just thick enough to allow someone to fall without being hurt {b
+to badly.  An older looking man stands here instructing people that wish {b
+to learn in the basics of some simpler moves and stances.  Some people {b
+activly take part in the training while others sit back and watch {b
+wondering if they can take the kind of punishment that comes with a life {b
+of fighting.  
+~
+0 1024 0
+D3
+~
+~
+0 0 203
+M 150 H 150
+S
+#207
+Newbie Bar~
+This is the bar for those to weak or to scared to venture out in to the
+world and see what else there is.  This selection is very limited but those
+that come here usualy only want a beer and a place to relax and talk with
+friends.  A fat bartends stands behind a ten foot long oak bar walking back
+and forth between customers filling orders and muttering to himself.  About
+half a dozzen tables are spred thoughout the room for those that dont want
+to sit at the bar.  
+~
+0 1024 0
+D1
+~
+~
+0 0 203
+M 150 H 150
+S
+#208
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by energy blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+north and south.  
+
+~
+0 0 0
+D0
+~
+~
+0 0 209
+D1
+~
+~
+0 0 204
+D2
+~
+~
+0 0 230
+M 150 H 150
+S
+#209
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by energy blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 210
+D2
+~
+~
+0 0 208
+M 150 H 150
+S
+#210
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by energy blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 211
+M 150 H 150
+S
+#211
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by energy blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 210
+D3
+~
+~
+0 0 212
+M 150 H 150
+S
+#212
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by energy blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 211
+D3
+~
+~
+0 0 220
+S
+#213
+Healing Tank #1~
+The wounds suffered in battle heal at an alarming rate.  This blue
+liquid seems to have a greater healing power then ever though of.  Perhaps
+sleeping is a good idea while you heal.  
+~
+0 3076 0
+D2
+~
+~
+0 0 215
+M 1000 H 1000
+S
+#214
+Healing Tank #3~
+The wounds suffered in battle heal at an alarming rate.  This blue
+liquid seems to have a greater healing power then you ever thought of. 
+Perhaps sleeping is a good idea while you heal.  
+~
+0 3072 0
+D0
+~
+~
+0 0 215
+M 1000 H 1000
+S
+#215
+Airlock~
+This is the airlock that leads to the 6 healing tanks.  It is generaly
+not nice to cut in line but things do happen.  There is a tank
+north, south, east, west, down, and up
+~
+0 0 0
+D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 216
+D2
+~
+~
+0 0 214
+D3
+~
+~
+0 0 217
+D4
+~
+~
+0 0 218
+D5
+~
+~
+0 0 219
+S
+#216
+Healing Tank #2~
+{c  The wounds suffered in battle heal at an alarming rate.  This blue
+liquid seems to have a greater healing power then you ever thought of. 
+Perhaps sleeping is a good idea while you heal.
+~
+0 3072 0
+D3
+~
+~
+0 0 215
+M 1000 H 1000
+S
+#217
+Healing Tank #4~
+{c  The wounds suffered in battle heal at an alarming rate.  This blue
+liquid seems to have a greater healing power then you ever thought of. 
+Perhaps sleeping is a good idea while you heal.
+~
+0 3072 0
+D1
+~
+~
+0 0 215
+M 1000 H 1000
+S
+#218
+Healing Tank #5~
+{c  The wounds suffered in battle heal at an alarming rate.  This blue
+liquid seems to have a greater healing power then you ever thought of. 
+Perhaps sleeping is a good idea while you heal.
+~
+0 3072 0
+D5
+~
+~
+0 0 215
+M 1000 H 1000
+S
+#219
+Healing Tank #6~
+{c  The wounds suffered in battle heal at an alarming rate.  This blue
+liquid seems to have a greater healing power then you ever thought of. 
+Perhaps sleeping is a good idea while you heal.
+~
+0 3072 0
+D4
+~
+~
+0 0 215
+M 1000 H 1000
+S
+#220
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 212
+D3
+~
+~
+0 0 221
+S
+#221
+Battle Training Level One~
+This level of the battle training is outside.  This is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 220
+D2
+~
+~
+0 0 222
+S
+#222
+Battle Training Level One~
+This level of the battle training is outside.  This is in the shape of a
+large square and has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 221
+D2
+~
+~
+0 0 223
+S
+#223
+Stairs leading down~
+A set of stairs here lead to the underground part of the training dome. 
+The creatures below are stronger then the ones on this level.  Caution is
+advised as death is more possible the deeper you go.  Level two of the
+battle dome is down while level one continues north and south from here.  
+~
+0 4 0
+D0
+~
+~
+0 0 222
+D2
+~
+~
+0 0 224
+D5
+~
+~
+0 0 231
+S
+#224
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 223
+D2
+~
+~
+0 0 225
+S
+#225
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 224
+D1
+~
+~
+0 0 226
+S
+#226
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 227
+D3
+~
+~
+0 0 225
+S
+#227
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 228
+D3
+~
+~
+0 0 226
+S
+#228
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is drit with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 229
+D3
+~
+~
+0 0 227
+S
+#229
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metal
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it though
+the earth seems to be good at absorbing the blood.  The square continues
+north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 230
+D3
+~
+~
+0 0 228
+S
+#230
+Battle Training Level One~
+This level of the battle training is outside.  It is in the shape of a
+large square that has tall metal walls on two sides.  It is a shiny metall
+that is about 12 inches thick to help guard against holes being blown in it
+by ki blasts.  The ground is dirt with no signs of grass or plant life
+growing on it.  Many footprints and dried up pools of blood are on it
+thought the earth seems to be good at absorbing the blood.  The square
+continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 208
+D2
+~
+~
+0 0 229
+S
+#231
+Stair leading up~
+The first level of the battle dome is up the stairs in this room.  From
+there you can get back to the main part of the dome where you can rest,
+heal, buy what you need, of relax in the bar.  The second level of the
+training dome goes north and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 232
+D2
+~
+~
+0 0 246
+D4
+~
+~
+0 0 223
+S
+#232
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D0
+~
+~
+0 0 233
+D2
+~
+~
+0 0 231
+S
+#233
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 234
+D2
+~
+~
+0 0 232
+S
+#234
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 235
+D3
+~
+~
+0 0 233
+S
+#235
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 236
+D3
+~
+~
+0 0 234
+S
+#236
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 237
+D3
+~
+~
+0 0 235
+S
+#237
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D2
+~
+~
+0 0 238
+D3
+~
+~
+0 0 236
+S
+#238
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D0
+~
+~
+0 0 237
+D2
+~
+~
+0 0 239
+S
+#239
+Stairs leading down~
+{r WARNING{x The next two levels have creatures that are powerful and
+have the tendency to attack you before you can attack them.  If your not to
+sure about your abilites you should try to stay near the stairs.
+~
+0 4 0
+D0
+~
+~
+0 0 238
+D2
+~
+~
+0 0 240
+D5
+~
+~
+0 0 247
+S
+#240
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D0
+~
+~
+0 0 239
+D2
+~
+~
+0 0 241
+S
+#241
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D0
+~
+~
+0 0 240
+D3
+~
+~
+0 0 242
+S
+#242
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 241
+D3
+~
+~
+0 0 243
+S
+#243
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 242
+D3
+~
+~
+0 0 244
+S
+#244
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D1
+~
+~
+0 0 243
+D3
+~
+~
+0 0 245
+S
+#245
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D0
+~
+~
+0 0 246
+D1
+~
+~
+0 0 244
+S
+#246
+Battle Training Level Two~
+For being underground its surprising light here.  Along the ceiling where
+it meets the walls are lights spaced about 6 inches apart that run around
+the entire length of the inner and outter wall throughout the whole second
+level.  The walls are nothing more then dirt that has been smoothed over
+though stray ki blasts have created holes in them.  The floor is covered in
+a thick layer of sand to help soak up the blood and sweat to keep it from
+being to slick.  Alot more power can be sensed down in this level.  
+~
+0 0 0
+D0
+~
+~
+0 0 231
+D2
+~
+~
+0 0 245
+S
+#247
+Stairs going up~
+The stairs from here go up the the second level of the training dome. 
+The power sensed on this level easily puts the top two to shame.  Take into
+account that the creatures here tend to attack without being provoked and
+the danger is much higher then above.  
+~
+0 0 0
+D0
+~
+~
+0 0 248
+D2
+~
+~
+0 0 262
+D4
+~
+~
+0 0 239
+S
+#248
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  Level three continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 249
+D2
+~
+~
+0 0 247
+S
+#249
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 250
+D2
+~
+~
+0 0 248
+S
+#250
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 251
+D3
+~
+~
+0 0 249
+S
+#251
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 252
+D3
+~
+~
+0 0 250
+S
+#252
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 253
+D3
+~
+~
+0 0 251
+S
+#253
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D2
+~
+~
+0 0 254
+D3
+~
+~
+0 0 252
+S
+#254
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D0
+~
+~
+0 0 253
+D2
+~
+~
+0 0 255
+S
+#255
+Stairway leading down~
+{r WARNING{x The mobs below will attack at first sight and are the
+strongest in this dome.  They are the best for training but you may end up
+having to take on 2 or 3 at a time if your not carful.  Please proceed with
+caution.  
+~
+0 0 0
+D0
+~
+~
+0 0 254
+D2
+~
+~
+0 0 256
+D5
+~
+~
+0 0 263
+S
+#256
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D0
+~
+~
+0 0 255
+D2
+~
+~
+0 0 257
+S
+#257
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D0
+~
+~
+0 0 256
+D3
+~
+~
+0 0 258
+S
+#258
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 257
+D3
+~
+~
+0 0 259
+S
+#259
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 258
+D3
+~
+~
+0 0 260
+S
+#260
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D1
+~
+~
+0 0 259
+D3
+~
+~
+0 0 261
+S
+#261
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D0
+~
+~
+0 0 262
+D1
+~
+~
+0 0 260
+S
+#262
+Battle Training Level Three~
+The lights on this level are done the same as the level above.  The walls
+are cinderblocks that have large chips knocked out of them and even a couple
+holes that look like they are the right size for a mans head to have made
+them.  The floor is also not as forgiving as it is made of marble that has
+about the same texture of the walls.  The blood and sweat runs down the
+drain in the middle.  
+~
+0 0 0
+D0
+~
+~
+0 0 247
+D2
+~
+~
+0 0 261
+S
+#263
+Stairs leading up~
+This is the begining of the hardest part of training.  The power sensed
+here is more then the top three levels combined.  There is a sign reading
+"You are safe here.  Venture north or south and you are fair game."
+~
+0 1028 0
+D0
+~
+~
+0 0 264
+D2
+~
+~
+0 0 278
+D4
+~
+~
+0 0 255
+S
+#264
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 265
+D2
+~
+~
+0 0 263
+S
+#265
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 266
+D2
+~
+~
+0 0 264
+S
+#266
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 267
+D3
+~
+~
+0 0 265
+S
+#267
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 268
+D3
+~
+~
+0 0 266
+S
+#268
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 269
+D3
+~
+~
+0 0 267
+S
+#269
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D2
+~
+~
+0 0 270
+D3
+~
+~
+0 0 268
+S
+#270
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 269
+D2
+~
+~
+0 0 271
+S
+#271
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 270
+D2
+~
+~
+0 0 272
+S
+#272
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 271
+D2
+~
+~
+0 0 273
+S
+#273
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 272
+D3
+~
+~
+0 0 274
+S
+#274
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 273
+D3
+~
+~
+0 0 275
+S
+#275
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 274
+D3
+~
+~
+0 0 276
+S
+#276
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D1
+~
+~
+0 0 275
+D3
+~
+~
+0 0 277
+S
+#277
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 278
+D1
+~
+~
+0 0 276
+S
+#278
+Battle Training Level Four~
+While the lights are done the same way as the second and third floors,
+the rest of it is totaly different.  The ceiling, walls, and floor are all
+concrete.  The floor slants slightly to the right where a drain lines the
+corner.  With nothing to break your fall the training here is more brutal
+then the upper levels.  
+~
+0 0 0
+D0
+~
+~
+0 0 263
+D2
+~
+~
+0 0 277
+S
+#279
+Sparring sphere~
+This is the sparring sphere where fighters safely test themselves against
+others.  It is in a sphere shape that allows for easy movement.  Most of the
+area is padded except for the bottom which is the door to the sphere.  There
+are sweat and blood stains dabbed around the room.  On the south wall there
+is a two foot hole from being punched out by some person.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 297
+D3
+~
+~
+0 0 298
+D5
+~
+~
+0 0 201
+M 5 H 100
+S
+#289
+Dojo lobby~
+The dojo lobby is very small.  It is also dilapitated from years of no
+maintenance.  The smell of incense drifts in from the main dojo area.  A few
+trophies sit in a dirty glass case.  The dojo is to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 290
+D3
+~
+~
+0 0 201
+S
+#290
+The dojo~
+The dojo is large but not very clean.  A few ragged mats lie on the floor
+to offer minor protection from a fall.  The walls are all scorched black and
+so is the ceiling.  A few glassles windows line the wals it seems they have
+been all broken.  
+~
+0 0 0
+D3
+~
+~
+0 0 289
+S
+#297
+Sparring Sphere~
+This is the sparring sphere where fighters safely test themselves against
+others.  It is in a sphere shape that allows for easy movement.  Most of the
+area is padded except for the bottom which is the door to the sphere.  There
+are sweat and blood stains dabbed around the room.  
+~
+0 2097152 0
+D3
+~
+~
+0 0 279
+S
+#298
+Sparring Sphere~
+This is the sparring sphere where fighters safely test themselves against
+others.  It is in a sphere shape that allows for easy movement.  Most of the
+area is padded except for the bottom which is the door to the sphere.  There
+are sweat and blood stains dabbed around the room.  
+~
+0 2097156 0
+D1
+~
+~
+0 0 279
+S
+#299
+Goku's office~
+This quiet office holds many things to look at.  In the center there is a
+mohagany desk with many papers stacked up.  Behind the desk is a comfortable
+looking black leather chair.  A french window with white drapes gives a
+lovely view of the open countryside.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 297 0 200 A shuttle to vegeta loaded to Landing bay
+O 0 299 0 200 Shuttle to uts loaded to Landing bay
+O 0 296 0 200 A spherical shuttle to yardrat loaded to Landing bay
+O 0 203 0 201 A sign hangs here with {rw{we{rl{wo{rm{we{x written on it loaded to Welcome Area
+M 0 201 1 202 1 Load Shopkeeper
+G 0 200 0 A newbie tank top is given to Shopkeeper
+G 0 201 0 A pair of {wwhite{x pants is given to Shopkeeper
+G 0 202 0 A pair of black leather boots is given to Shopkeeper
+G 0 209 0 Some {wwhite leather{x gloves is given to Shopkeeper
+G 0 215 0 A scouter is given to Shopkeeper
+G 0 216 0 A fine scouter is given to Shopkeeper
+M 0 200 1 205 1 Load Human nurse
+O 0 204 0 205 Door to airlock loaded to Nurse Station
+M 0 203 1 206 1 Load The master
+M 0 206 1 207 1 Load A short fat barkeep
+G 0 207 0 A cold 40 ounce of old english is given to A short fat barkeep
+G 0 206 0 A bottle of bud is given to A short fat barkeep
+G 0 208 0 A tequila shot is given to A short fat barkeep
+M 0 202 10 208 1 Load an small android fighter
+M 0 202 10 209 1 Load an small android fighter
+M 0 202 10 210 1 Load an small android fighter
+M 0 202 10 211 1 Load an small android fighter
+M 0 202 10 212 1 Load an small android fighter
+O 0 205 0 215 Door to the nurses station loaded to Airlock
+M 0 202 10 220 1 Load an small android fighter
+M 0 202 10 221 1 Load an small android fighter
+M 0 202 10 222 1 Load an small android fighter
+M 0 202 10 223 1 Load an small android fighter
+M 0 202 10 224 1 Load an small android fighter
+M 0 202 10 225 1 Load an small android fighter
+M 0 202 10 226 1 Load an small android fighter
+M 0 202 10 227 1 Load an small android fighter
+M 0 202 10 228 1 Load an small android fighter
+M 0 202 10 229 1 Load an small android fighter
+M 0 202 10 230 1 Load an small android fighter
+M 0 204 10 231 1 Load A Medium sized android
+M 0 204 10 232 1 Load A Medium sized android
+M 0 204 10 233 1 Load A Medium sized android
+M 0 204 10 234 1 Load A Medium sized android
+M 0 204 10 235 1 Load A Medium sized android
+M 0 204 10 236 1 Load A Medium sized android
+M 0 204 10 237 1 Load A Medium sized android
+M 0 204 10 238 1 Load A Medium sized android
+M 0 204 10 239 1 Load A Medium sized android
+M 0 204 10 240 1 Load A Medium sized android
+M 0 204 10 241 1 Load A Medium sized android
+M 0 204 10 242 1 Load A Medium sized android
+M 0 204 10 243 1 Load A Medium sized android
+M 0 204 10 244 1 Load A Medium sized android
+M 0 204 10 245 1 Load A Medium sized android
+M 0 204 10 246 1 Load A Medium sized android
+M 0 205 10 247 1 Load A large android
+M 0 205 10 248 1 Load A large android
+M 0 205 10 249 1 Load A large android
+M 0 205 10 250 1 Load A large android
+M 0 205 10 251 1 Load A large android
+M 0 205 10 252 1 Load A large android
+M 0 205 10 253 1 Load A large android
+M 0 205 10 254 1 Load A large android
+M 0 205 10 255 1 Load A large android
+M 0 205 10 256 1 Load A large android
+M 0 205 10 257 1 Load A large android
+M 0 205 10 258 1 Load A large android
+M 0 205 10 259 1 Load A large android
+M 0 205 10 260 1 Load A large android
+M 0 205 10 261 1 Load A large android
+M 0 205 10 262 1 Load A large android
+M 0 207 10 263 1 Load An advanced android fighter
+M 0 207 10 264 1 Load An advanced android fighter
+M 0 207 10 265 1 Load An advanced android fighter
+M 0 207 10 266 1 Load An advanced android fighter
+M 0 207 10 267 1 Load An advanced android fighter
+M 0 207 10 268 1 Load An advanced android fighter
+M 0 207 10 269 1 Load An advanced android fighter
+M 0 207 10 270 1 Load An advanced android fighter
+M 0 207 10 271 1 Load An advanced android fighter
+M 0 207 10 272 1 Load An advanced android fighter
+M 0 207 10 273 1 Load An advanced android fighter
+M 0 207 3 273 1 Load An advanced android fighter
+M 0 207 10 274 1 Load An advanced android fighter
+M 0 207 1 274 1 Load An advanced android fighter
+M 0 207 3 274 1 Load An advanced android fighter
+M 0 207 10 275 1 Load An advanced android fighter
+M 0 207 10 276 1 Load An advanced android fighter
+M 0 207 10 277 1 Load An advanced android fighter
+M 0 207 10 278 1 Load An advanced android fighter
+M 0 210 1 290 1 Load The ki master
+M 0 299 1 299 1 Load Delucia
+S
+
+
+
+#SHOPS
+201 0 0 0 0 0 100 100 0 23
+206 0 17 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#200
+act $n arrives from the west
+say Hello $n, have you come to train under me?
+~
+#201
+speech $n says 'yes'
+say Very well $n.
+say These are the skills you can learn under my training.
+say Sweep, Bash, and Elbow.  More advanced moves can be learned from the Ki master in Satan City.
+~
+#202
+act $n arrives from the west
+say what do you want?
+ 
+~
+#203
+act $n arrives from above
+say Greetings $n, feel free to rest here or enter one of the tanks that are empty.
+mob echo The nurse points towards the airlock doors.
+~
+#204
+mob gainskill bash $n
+~
+#205
+mob gainskill sweep $n
+~
+#206
+say Welcome young student have you come to train under me?
+~
+#207
+say Welcome young trainee.
+say I can teach you energy ball, energy beam, heart shot and throat shot.
+say Say full to get the whole package.
+~
+#208
+mob gainskill elbow $n
+~
+#209
+mob gainskill energy $n
+mob gainskill 'energy beam' $n
+mob gainskill heart $n
+mob gainskill throat $n
+~
+#297
+if name $n 'Angelina'
+follow $n
+else
+mob echoat $n $I shoots a lightning bold straight at you.
+mob echoaround $n $I shoots a lightning bolt straight at $n.
+endif
+~
+#298
+mob gainskill kame $n
+mob gainskill heart $n
+mob gainskill solar $n
+mob gainskill scatter $n
+~
+#299
+mob echoat $n Delucia falls on her knees and begs you not to hurt her.
+mob echoaround $n Delucia falls on her knees and begs $n not to hurt her.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#200
+act $n arrives from the west
+pecho $n The door to the tank shuts with a click and a blue liquid fills the tank
+~
+#201
+room mload 202
+room echo Another training droid is pushed onto the training floor.
+~
+#0
+
+#$
