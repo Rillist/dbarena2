@@ -135,7 +135,7 @@ char *format_obj_to_char (OBJ_DATA * obj, CHAR_DATA * ch, bool fShort)
 			strcat (buf, "(Stolen Aura)");
 	}
 
-    if (fShort) 
+    if (fShort)
     {
         if (obj->short_descr != NULL)
             strcat (buf, obj->short_descr);
@@ -766,7 +766,7 @@ void do_autolist (CHAR_DATA * ch, char *argument)
         sendch ("{GON{x\n\r", ch);
     else
         sendch ("{ROFF{x\n\r", ch);
-    
+
     sendch ("autoweather    ",ch);
     if (IS_SET(ch->act,PLR_AUTOWEATHER))
         sendch ("{GON{x\n\r",ch);
@@ -918,7 +918,7 @@ void do_autosplit (CHAR_DATA * ch, char *argument)
 void do_autoattack (CHAR_DATA *ch, char *argument) {
    if (IS_NPC (ch))
 	return;
-   
+
    sendch ("Autoattack has been removed due to misuse.\n\r", ch);
    REMOVE_BIT (ch->act, PLR_AUTOATTACK);
    return;
@@ -1059,7 +1059,7 @@ void do_prompt (CHAR_DATA * ch, char *argument)
     }
 
     if (!strcmp (argument, "all"))
-        strcpy (buf, "{x[%p/%P]{cPL%c{x[%h]{cHEALTH {x[%k]{cKI{x> [%e] ");
+        strcpy (buf, "{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{X%b{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x");
     else
     {
         if (strlen (argument) > 100)
@@ -1637,7 +1637,7 @@ void do_score( CHAR_DATA *ch, char *argument ) {
     else if ( ch->alignment > -700 ) sendch( "{bevil.{x\n\r",    ch );
     else if ( ch->alignment > -900 ) sendch( "{rdemonic.{x\n\r", ch );
     else                             sendch( "{rsatanic.{x\n\r", ch );
-        
+
     sprintf( buf,"{cZenni :{W %-15ld\n\r", ch->zenni );
     sendch( buf, ch );
 
@@ -1715,7 +1715,7 @@ void do_affects (CHAR_DATA * ch, char *argument)
 						 affect_loc_name (paf->location), paf->modifier);
 				sendch (buf, ch);
 			}
-            
+
             if (paf->bitvector != AFF_NONE)
 				printf_to_char (ch, "grants {W%s {c", affect_bit_name (paf->bitvector));
 

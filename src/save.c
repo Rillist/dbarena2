@@ -195,8 +195,8 @@ void fwrite_char (CHAR_DATA * ch, FILE * fp)
         fprintf (fp, "Desc %s~\n", ch->description);
     if (ch->immtitle != NULL)
     fprintf( fp, "Immtitle %s~\n",  ch->immtitle);
-    if (ch->prompt != NULL || !str_cmp (ch->prompt, "{x[%p/%P]{cPL%c{x[%h]{cHEALTH {x[%k]{cKI{x> [%e] ")
-        || !str_cmp (ch->prompt, "[%p/%P]PL%c[%h]HEALTH [%k]KI> [%e] "))
+    if (ch->prompt != NULL || !str_cmp (ch->prompt, "{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{X%b{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x")
+        || !str_cmp (ch->prompt, "<Wa[%w] Ch[%q] Ba[%b]>%c<Hp[%h] Ki[%k] PL[%p/%P]>"))
         fprintf (fp, "Prom %s~\n", ch->prompt);
     fprintf (fp, "Race %s~\n", pc_race_table[ch->race].name);
     if (ch->clan)
@@ -249,8 +249,8 @@ void fwrite_char (CHAR_DATA * ch, FILE * fp)
         fprintf (fp, "Dam   %d\n", ch->damroll);
     if (ch->wimpy != 0)
         fprintf (fp, "Wimp  %d\n", ch->wimpy);
-    
-	fprintf( fp, "AC %d %d %d %d\n",	
+
+	fprintf( fp, "AC %d %d %d %d\n",
 			ch->armor[0],
 			ch->armor[1],
 			ch->armor[2],
@@ -262,8 +262,8 @@ void fwrite_char (CHAR_DATA * ch, FILE * fp)
              ch->perm_stat[STAT_WIL],
              ch->perm_stat[STAT_DEX],
 			 ch->perm_stat[STAT_CHA]);
-	
-	if (!IS_NPC (ch)) 
+
+	if (!IS_NPC (ch))
 	    fprintf (fp, "AttrProg %d %d %d %d %d\n",
                  ch->pcdata->nStatProgress[STAT_STR],
                  ch->pcdata->nStatProgress[STAT_INT],
@@ -587,7 +587,7 @@ bool load_char_obj (DESCRIPTOR_DATA * d, char *name)
     ch->race = race_lookup ("human");
     ch->act = PLR_NOSUMMON;
     ch->comm = COMM_COMBINE | COMM_PROMPT;
-    ch->prompt = str_dup ("{x[%p/%P]{cPL%c{x[%h]{cHEALTH {x[%k]{cKI{x> [%e]");
+    ch->prompt = str_dup ("{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{X%b{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x");
     ch->pcdata->confirm_delete = FALSE;
 	ch->pcdata->board = &boards[DEFAULT_BOARD];
     ch->pcdata->pwd = str_dup ("");
@@ -846,7 +846,7 @@ void fread_char (CHAR_DATA * ch, FILE * fp)
                     fMatch = TRUE;
                     break;
                 }
-                
+
 				if (!str_cmp (word, "AttrProg"))
                 {
                     int stat;
@@ -962,7 +962,7 @@ void fread_char (CHAR_DATA * ch, FILE * fp)
                     fMatch = TRUE;
                     break;
                 }
-		
+
                 break;
 
             case 'I':
@@ -1001,7 +1001,7 @@ void fread_char (CHAR_DATA * ch, FILE * fp)
                 KEY ("Pos", ch->position, fread_number (fp));
 				KEYS ("Prompt", ch->prompt, fread_string (fp));
                 KEY ("Prom", ch->prompt, fread_string (fp));
-                
+
                 if (!str_cmp (word, "Pose")) {
                     ch->pcdata->pose = fread_string (fp);
                     if (ch->pcdata->pose[0] != '.'
@@ -1174,7 +1174,7 @@ void fread_pet (CHAR_DATA * ch, FILE * fp)
                 KEY ("AfBy", pet->affected_by, fread_flag (fp));
                 KEY ("Alig", pet->alignment, fread_number (fp));
 
-                
+
 			    if (!str_cmp(word,"AC")) {
 					int i;
 
