@@ -229,7 +229,7 @@ int top_vnum_mob;                /* OLC */
 int top_vnum_obj;                /* OLC */
 int top_mprog_index;            /* OLC */
 int top_oprog_index;
-int top_rprog_index; 
+int top_rprog_index;
 int mobile_count = 0;
 int newmobs = 0;
 int newobjs = 0;
@@ -406,6 +406,7 @@ void boot_db ()
                 }
 
                 word = fread_word (fpArea);
+                logstr (LOG_ALL, word);
 
                 if (word[0] == '$')
                     break;
@@ -1496,7 +1497,7 @@ void reset_room (ROOM_INDEX_DATA * pRoom)
                 /*
                  * Some more hard coding.
                  */
-                if (number_range(1,2) == 1 
+                if (number_range(1,2) == 1
                     && pRoom->vnum >= VNUM_RANDOM_LOW && pRoom->vnum <= VNUM_RANDOM_HIGH)
                     obj_to_char (CreateRandWeapon(pMob->nDifficulty/25), pMob);
 
@@ -1746,7 +1747,7 @@ CHAR_DATA *create_mobile (MOB_INDEX_DATA * pMobIndex)
 	mob->pPrevSame = NULL;
 	if (mob->pNextSame)
 		mob->pNextSame->pPrevSame = mob;
-	    
+
 	mob->pIndexData = pMobIndex;
 
     mob->name = str_dup (pMobIndex->player_name);    /* OLC */
@@ -1877,7 +1878,7 @@ CHAR_DATA *create_mobile (MOB_INDEX_DATA * pMobIndex)
     mob->position = mob->start_pos;
 
     ResetDiff(mob);
-    
+
     if (pMobIndex->wealth == 0)
         mob->zenni = 0;
     else {
