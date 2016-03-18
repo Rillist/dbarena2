@@ -29,6 +29,43 @@
 //   Matt Brown (Antor), arkaine@sympatico.ca, 2000-2002
 // Please follow all previous licenses. Enjoy!
 
+struct flag_type
+{
+    char *name;
+    int bit;
+    bool settable;
+};
+
+struct clan_type
+{
+    char 	*name;
+    char 	*who_name;
+    sh_int 	hall;
+    bool	independent; /* true for loners */
+};
+
+struct position_type
+{
+    char *name;
+    char *short_name;
+};
+
+struct sex_type
+{
+    char *name;
+};
+
+struct size_type
+{
+    char *name;
+};
+
+struct	bit_type
+{
+	const	struct	flag_type *	table;
+	char *				help;
+};
+
 /* game tables */
 extern	const	struct	clan_type	clan_table[MAX_CLAN];
 extern	const	struct	position_type	position_table[];
@@ -75,39 +112,4 @@ extern	const	struct	flag_type	position_flags[];
 extern	const	struct	flag_type	ac_type[];
 extern	const	struct	bit_type	bitvector_type[];
 
-struct flag_type
-{
-    char *name;
-    int bit;
-    bool settable;
-};
 
-struct clan_type
-{
-    char 	*name;
-    char 	*who_name;
-    sh_int 	hall;
-    bool	independent; /* true for loners */
-};
-
-struct position_type
-{
-    char *name;
-    char *short_name;
-};
-
-struct sex_type
-{
-    char *name;
-};
-
-struct size_type
-{
-    char *name;
-};
-
-struct	bit_type
-{
-	const	struct	flag_type *	table;
-	char *				help;
-};
