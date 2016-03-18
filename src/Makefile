@@ -26,7 +26,7 @@ OBJ_FILES := $(patsubst %.c,$(OBJ_DIR)/%.o,$(SRC_FILES))
 
 rom: $(OBJ_FILES)
 	$(RM) -f $(EXE)
-	$(CC) $(L_FLAGS) -o $(EXE) $(OBJ_FILES)
+	$(CC) $(L_FLAGS) -o $(EXE) $(OBJ_FILES) -lm
 
 $(OBJ_DIR)/%.o: %.c
 	$(CC) $< $(C_FLAGS) -c -o $@
