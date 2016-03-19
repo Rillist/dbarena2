@@ -1,6 +1,6 @@
                            Sax 441
                          Buffy 400
-                       Rillist 400
                           Alik 400
                          Chris 400
+                       Rillist 400
 END
