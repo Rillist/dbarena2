@@ -141,11 +141,16 @@ void SendStatData (DESCRIPTOR_DATA *d) {
     int i;
     char buf[MAX_STRING_LENGTH];
 
-    send_to_desc ("Statistics:\n\r", d);
-    for (i = 0; i < MAX_STATS; ++i) {
-        sprintf (buf, "    {b[{B%d.%-13s{b]{x  %d\n\r",
-            i+1, stat_table[i], ch->perm_stat[i]);
-        send_to_desc (buf, d);
+    send_to_desc ("Customize Stats:\n\r", d);
+    if (ch->pcdata->nGenStatPoints > 0) {
+        for (i = 0; i < MAX_STATS; ++i) {
+            if (i == MAX_STATS-1) {
+                continue;//hiding charisma
+            }
+            sprintf (buf, "    {b[{B%d.%-13s{b]{x  %d\n\r",
+                i+1, stat_table[i], ch->perm_stat[i]);
+            send_to_desc (buf, d);
+        }
     }
     sprintf (buf, "    {b[{B%d.reset        {b]{x\n\r", MAX_STATS+1);
     send_to_desc (buf, d);
@@ -593,11 +598,17 @@ void nanny (DESCRIPTOR_DATA * d, char *argument)
                 return;
             }
             else if (ch->pcdata->nGenStatPoints > 0 && nValue > 0 && nValue <= MAX_STATS) {
-                ++ch->perm_stat[nValue-1];
-                --ch->pcdata->nGenStatPoints;
+                if (nValue == MAX_STATS) {//prevent charisma
+                    send_to_desc ("{RThat's not an option!{x\n\r", d);
+                } else {
+                    ++ch->perm_stat[nValue-1];
+                    --ch->pcdata->nGenStatPoints;
+                }
+            } else if (ch->pcdata->nGenStatPoints == 0){
+                send_to_desc ("{YYou're out of points!{R Choose either reset, or done.{x\n\r", d);
             }
             else
-                send_to_desc ("That's not an option.\n\r", d);
+                send_to_desc ("{YThat's not an option!{x\n\r", d);
             SendStatData (d);
 			break;
 
