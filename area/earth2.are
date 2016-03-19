@@ -1,0 +1,4025 @@
+#AREADATA
+Name Satan City~
+Builders Terraco-d~
+VNUMs 900 999
+Credits Efrin --- Satan City~
+Security 9
+End
+
+
+
+#MOBILES
+#900
+Satan~
+Satan~
+Satan is here telling tales of his old battles.
+~
+A man stands here in a brown suit with black buits and a white cape.  His
+muscles ripple all over his body.  He has big baby blue eyes, and thick dark
+black hair.  He has a fair but rough complexion and is always smiling.  
+~
+human~
+ABGR Ja 100 0
+500000 235
+50 50 50 50 50 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 80
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 901 loser~
+M ACT 902 bow~
+M GREET 900 100~
+M ACT 931 errupt~
+#901
+felipe~
+Felipe~
+Felipe is here, obviously very confused.
+~
+A large men with huge muscles stands here.  His uniform is very clean and
+he is clean shaven.  The smell of musk permeates the air about him.  He has
+brown hair and big brown eyes.  
+~
+human~
+AG 0 750 0
+400000 210
+45 45 45 45 45 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 80
+AHMV ABCDEFGHIJK large unknown
+M KILL 904 100~
+M GREET 903 100~
+#902
+A backup officer~
+a backup officer~
+A backup officer is here
+~
+A man in uniform that has a wild look in his eyes.
+~
+elf~
+ABG J 750 0
+50000 55
+20 20 20 20 20 
+100 100
+punch
+0 0 0 0
+R 0 B Z
+stand stand male 55
+AHMV ABCDEFGHIJK medium unknown
+#903
+A drunk man~
+a drunk~
+A drunk lies here singing the blues.
+~
+A raggedy man with torn and battered clothes.  He smells of strong
+liqours and flies hang about him.  He's very disgusting.  
+~
+human~
+ABG J 0 0
+5000 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 905 100~
+#904
+Inmate~
+an inmate~
+An inmate is here, doing nothing
+~
+A man in prison garbs stands here.  He's obviously not learned his
+lesson, from his bitter expression and clenched fists.  
+~
+human~
+AFG J -500 0
+75000 68
+25 25 25 25 25 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand male 65
+AHMV ABCDEFGHIJK medium unknown
+#905
+A Jail Guard~
+a jail guard~
+A jail guard is here making her rounds.
+~
+A female human patrols the hallways, keeping the prison safe from riots
+and keeping the inmates safe from one another.  
+~
+human~
+ABGR J 750 0
+85000 20
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand female 30
+AHMV ABCDEFGHIJK medium unknown
+M GREET 906 100~
+M EXIT 907 1~
+#906
+A receptionist~
+a receptionist~
+A woman is here greeting everyone who comes by.
+~
+A short fat woman with green eyes is here.
+~
+human~
+ABG J 750 0
+10 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 908 100~
+#907
+A Doctor~
+a doctor~
+A doctor is here running around trying to get to every patient.
+~
+A doctor is a very tall man.  He wears a large white jacket and has a
+stethoscope around his neck.  His fair complexion and brown hair make him
+very attractive.  
+~
+human~
+AG J 750 0
+10000 7
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown
+M ENTRY 909 100~
+#908
+A nurse~
+a nurse~
+A nurse is here checking on every patient.
+~
+A woman with a white hat and a big red cross is running around with
+thermometers and a stethoscope, checking every patient to make sure that
+they're ok.  
+~
+human~
+AG J 500 0
+5000 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 B 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#909
+An orderly~
+an orderly~
+An orderly is here running about doing what the nurses tell him to.
+~
+A young boy who wear riduculous colors and shapes and prints on his
+uniform.  He's here to entertain and brighten up the day of the patients. 
+One day, this boy plans to be a doctor.  
+~
+human~
+AG 0 0 0
+7500 2
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#910
+a patient~
+a patient~
+A patient lies here suffering
+~
+A man lies here suffering in agony. He looks very old and decrepit.
+~
+human~
+ABG J 0 0
+20 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#911
+Elevator man~
+elevator man~
+An elevator man is here
+~
+He's quite sleek and sly.
+~
+saiya-jin~
+ABG BJPQ 1000 0
+5000 3333333
+220 220 220 220 220 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 910 one~
+M SPEECH 911 two~
+M SPEECH 912 three~
+#912
+A fireman~
+a fireman~
+A fireman is here not doing much of anything.
+~
+This man looks severly overweight and depressed.  He isn't shaved and
+smells like he's not bathed either.  This man is in very poor shape.
+~
+human~
+AG 0 0 0
+35000 62
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 60
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#913
+EMS crew~
+ems crew~
+One of the EMS crew is here looking over things.
+~
+A man in a blue uniform is here.  He's very tiny and obviously hasn't
+eaten in a few days.  
+~
+human~
+AG 0 0 0
+25000 31
+15 15 15 15 15 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 50
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#914
+A snooty waiter~
+a snooty waiter~
+A snooty waiter stands here checking reservations.
+~
+A man in richly ordained clothes stands before you.  He has his hair
+slicked back and his nose in the air, he's very high class.  
+~
+human~
+ABGJK J 0 0
+10000000 1054
+15 15 15 15 15 
+100 100
+punch
+0 0 0 0
+0 0 B 0
+stand stand male 105
+AHMV ABCDEFGHIJK small unknown
+M BRIBE 913 500~
+M GREET 914 100~
+#915
+A waitress~
+a waitress~
+A waitress is here serving food and filling orders.
+~
+A lady is here clad in a black uniform with a white button-down shirt. 
+She always bears a smile, hoping to be tipped largely.  
+~
+human~
+ABGJK 0 0 0
+1000 3
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 916 refill~
+M SPEECH 915 table~
+#916
+A belligerant man~
+a man~
+A fat man sits here eating to his heart's content.
+~
+A fat man dressed in rich clothes sits before you.  He has grease all
+over his chin and his short stubby fat fingers can be sure to be holding
+food.  
+~
+human~
+ABGP J 250 0
+750 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+sit sit male 5
+AHMV ABCDEFGHIJK large unknown
+M RANDOM 917 20~
+#917
+A bartender~
+a bartender~
+A bartender stands here serving drinks
+~
+A short man with a white apron stands before you.
+~
+human~
+AG 0 0 0
+1000000000 7905
+141 141 141 141 141 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+M GREET 918 100~
+#918
+A bouncer~
+a bouncer~
+A bouncer is here guarding a door.
+~
+A large man with buldging muscles stands here.
+~
+human~
+ABGS J 250 0
+12000000000 14907
+220 220 220 220 220 
+100 100
+punch
+0 0 0 0
+0 0 B 0
+stand stand male 105
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 920 7500~
+M EXIT 919 3~
+#919
+The zen master~
+the zen master~
+The zen master sits here meditating.
+~
+The zen master sits here meditating in his quiet corner.
+~
+human~
+ABGS J 1000 0
+20000000 1490
+22 22 22 22 22 
+100 100
+punch
+0 0 0 0
+0 0 B 0
+stand stand male 105
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 921 hi~
+M SPEECH 921 hello~
+M SPEECH 921 greetings~
+M SPEECH 921 what's~
+M SPEECH 921 master~
+M SPEECH 923 senzu~
+M SPEECH 922 riddle~
+#920
+A cajun chef~
+a cajun chef~
+A cajun chef stands here.
+~
+A man in a chef's hat runs around the kitchen stirring various pots and
+sampling his cooking.  
+~
+human~
+ABG J 750 0
+1000 500
+10 10 10 10 10 
+100 100
+slap
+0 0 0 0
+0 0 B 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 925 sample~
+M GREET 924 100~
+#921
+an asian man~
+an asian man~
+An asian man stands behind a counter reading the news.
+~
+A man with a towel wrapped around his head is here.
+HOW ODD !!!!!
+~
+human~
+ABGLP J 0 0
+2500 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+M EXIT 927 1~
+M GREET 926 100~
+#922
+a citizen~
+a citizen~
+A citizen stand here.
+~
+A citizen of Satan City wanders about the city doing their daily routine.  
+~
+human~
+AGP J 0 0
+10000 33
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#923
+An officer~
+an officer~
+A police officer stands here on guard.
+~
+A police officer walks the streets, keeping it safe for everyone.  
+~
+human~
+AGR J 750 0
+200000 149
+27 27 27 27 27 
+100 100
+punch
+0 0 0 0
+R 0 B 0
+stand stand none 80
+AHMV ABCDEFGHIJK medium unknown
+#924
+a small child~
+a small child~
+A small child plays in the streets.
+~
+A ratty child with ragged clothing plays here.
+~
+human~
+AGP J 200 0
+3000 13
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 B 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#925
+A student~
+a student~
+A student carries their books to school.
+~
+A student wear the symbol of Orange City High School.  That's the same
+school that Gohan attended.  
+~
+human~
+AGP J 0 0
+2500 16
+7 7 7 7 7 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand none 30
+AHMV ABCDEFGHIJK medium unknown
+#926
+a shopper~
+a shopper~
+A shopper travels to shops across town.
+~
+A lady with a purse and a credit card, watch out !
+~
+human~
+AGP J 100 0
+95 3
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 K B 0
+stand stand female 10
+AHMV ABCDEFGHIJK medium unknown
+#927
+A consumer~
+a consumer~
+A consumer shops at various points throughout the mall.
+~
+A lady is here and she's ready to shop, look out world, here she comes !  
+~
+human~
+AGP J 0 0
+125 2
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 B Z
+stand stand female 5
+AHMV ABCDEFGHIJK medium unknown
+#928
+a mall security guard~
+mall security~
+A mall security guard patrols the mall.
+~
+A young man in a crisp uniform walks about the mall.  He plans to be a
+cop one day.  
+~
+human~
+AGR J 150 0
+900 10
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+R 0 B Z
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+M KILL 928 100~
+#929
+Sorhib~
+sorhib~
+Sorhib is here selling leather goods.
+~
+A short human man stands before you.  He's very thin and fragile and
+might break if you hit him too hard.  
+~
+human~
+ABG J 100 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 929 100~
+#930
+Rustim~
+rustim~
+Rustim is here selling armor.
+~
+A fat pudgy human is here selling armor.  He has a big grin and a wide
+cash wallet, watch out.  
+~
+human~
+ABG J 100 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 929 100~
+#931
+Dwane~
+dwane~
+Dwane is here selling clothes.
+~
+An odd looking man is here dressed in unusual apparel.  
+~
+human~
+ABG J 100 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 929 100~
+#932
+Radiant~
+radiant~
+Radiant is here selling jewelry.
+~
+A very rich man stands here selling all kinds of jewelry.  
+~
+human~
+ABG J 100 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 929 100~
+#933
+A burly sailor~
+a burly sailor~
+A burly sailor walks around loading and unloading boxes.
+~
+A husky bulry man stands here.  He has huge buldging muscles and wears a
+wool cap down over his ears to keep them warm.  
+~
+human~
+AGR 0 1 0
+4000 21
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 30
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#934
+A ship rat~
+a ship rat~
+A rat is here running between the goods.
+~
+A huge smelly black rat it here.  
+~
+human~
+AGP 0 0 0
+150 4
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#935
+A Drunken Sailor~
+a drunken sailor~
+A drunken sailor wanders about.
+~
+A sailor here, obviously drunk, stumbles about the dock, falling into and
+over things as he tried to make his way back to his ship.  
+~
+human~
+AGR 0 0 0
+2500 16
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 30
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#936
+A shrouded figure~
+A shrouded figure~
+A shrouded figure is walking about the docks.
+~
+A man cloaked in black wanders about here.  
+~
+namek~
+AGS 0 0 0
+500000 235
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 80
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 932 holochamber~
+M GREET 933 100~
+#937
+A Cloaked Figure~
+cloaked figure~
+A cloaked figure roams about Satan City.
+~
+~
+human~
+AS P 0 0
+100000000 1000
+110 110 110 110 110 
+100 100
+punch
+0 0 0 0
+H 0 E 0
+stand stand none 2700
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#999
+The Black Hole Mob~
+the black hole mob~
+The Black Hole mob is here watching over the black hole.
+~
+A black hole mob looks like a shadow.  Wait...  That's your shadow !  Now
+he's coming toward you, oh no !  
+~
+namek~
+AG 0 0 0
+1000 10
+5 5 5 5 5 
+10 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#900
+A key~
+a key~
+An odd-shaped piece of metal lies here~
+unknown~
+1
+key X AO
+0 0 0 0 0
+1 0 0 P
+#901
+An officer's uniform~
+officer's uniform~
+A shirt lies here~
+cloth~
+10
+armor 0 AD
+AC AC AC AC 0
+10 0 100 P
+#902
+An officer's badge~
+an officer's badge~
+An odd shaped piece of gold lies here~
+gold~
+500
+armor 0 AK
+A A A A 0
+100 0 300 P
+#903
+Constable's Uniform~
+constable's Uniform~
+A set of durable clothes lies here.~
+cloth~
+100
+armor 0 AD
+ABC ABC ABC ABC 0
+100 0 300 P
+#904
+A prison garb~
+a prison garb~
+An orange set of clothes lies here~
+unknown~
+100
+armor 0 AD
+AB AB AB AB 0
+1000 0 50 P
+#905
+night stick~
+a night stick~
+An odd shaped club lies here~
+unknown~
+500
+weapon 0 AN
+exotic 0 0 smash 0
+400 0 300 P
+#906
+An elevator~
+an elevator~
+An elevator is here.~
+unknown~
+1
+portal X 0
+GJOQRST K A AFGHIJK 0
+0 0 500 P
+#907
+A keypad~
+a keypad~
+A keypad sits in the wall.~
+metal~
+1
+trash X 0
+0 0 0 0 0
+0 0 500 P
+#908
+A doctor's uniform~
+a doctor's uniform~
+A long white robe lies here.~
+cloth~
+1
+trash 0 AD
+0 0 0 0 0
+0 0 300 P
+#909
+Nurse's Scrubs~
+nurse's scrubs~
+A set of scrubs lies here.~
+unknown~
+1
+trash 0 AD
+0 0 0 0 0
+0 0 100 P
+#910
+Orderly's Scrubs~
+orderly's scrubs~
+A set of scrubs lies here.~
+unknown~
+1
+trash 0 AD
+0 0 0 0 0
+0 0 100 P
+#911
+a stethoscope~
+a stethoscope~
+An odd device lays here.~
+unknown~
+1
+trash 0 AC
+0 0 0 0 0
+0 0 100 P
+#912
+a scapel~
+a scapel~
+A long narrow tool lays here~
+unknown~
+1
+weapon 0 AN
+dagger 5 3 stab 0
+0 0 100 P
+#913
+An insulin packet~
+an insulin packet~
+A packet of something lies here~
+unknown~
+1
+pill 0 AO
+10 '' '' '' ''
+1000 0 10 P
+#914
+A closet~
+a closet~
+A closet sits here.~
+wood~
+1
+container X 0
+10000 0 0 30 10000
+0 0 500 P
+#915
+gauze~
+gauze~
+Some gauze lies here~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 1 P
+#916
+A bed~
+a bed~
+A bed sits here~
+unknown~
+1
+furniture X 0
+C DHIJM EHK CFG CFG
+0 0 500 P
+#917
+An operating table~
+an operating table~
+An operating table lies here~
+unknown~
+1
+furniture 0 0
+B DHIJM 0 BEF BEF
+0 0 500 P
+#918
+A fire truck~
+a fire truck~
+A bright red shiny fire truck is here.~
+unknown~
+1
+furniture X 0
+BD DHIJM CFIL 0 0
+0 0 500 P
+#919
+An ambulance~
+an ambulance~
+An ambulance is here, ready to roll.~
+unknown~
+1
+furniture X 0
+BD DHIJM CFIL 0 0
+0 0 500 P
+#920
+A fireman's outfit~
+fireman's outfit~
+A sturdy set of clothes lies here.~
+unknown~
+1
+trash 0 AD
+0 0 0 0 0
+0 0 0 P
+#921
+A EMS Uniform~
+an ems uniform~
+A set of blue clothes lies here.~
+unknown~
+1
+trash 0 AD
+0 0 0 0 0
+0 0 100 P
+#922
+A sink~
+a sink~
+A sink sits here.~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sink~
+There's a huge stack of dirty dishes in this sink.  Watch out or you'll
+have to do them !  
+~
+#923
+A cot~
+a cot~
+A cot is here.~
+unknown~
+1
+furniture 0 0
+A DEFHIJL EHK BD BD
+0 0 100 P
+#924
+A refrigerator~
+a refrigerator~
+A refrigerator sits here.~
+unknown~
+1
+container 0 0
+15 A 0 15 2
+0 0 100 P
+#925
+A menu~
+a menu~
+A piece of cardboard lies here.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+menu~
+Carcajou Corner:
+ 
+1. Our sizzling steak is grilled with onions and peppers
+and seared to perfection just the way you like it done.
+ 
+2. We offer our honey glazed chicken, which is very popular
+with any person with noble blood in them. It's marinated
+in a chile-lime sauce and then sautaed to indescribable
+tantilizing pleasure.
+ 
+3. We off lamb veal, served over noodles in a rich tomatoe 
+sauce. It is served slighlty baked with a coating of
+mazarella cheese and oregeno.
+ 
+Side Dishes: Mashed potatoes, corn, stuffing.
+ 
+Beverages: Water, wine. (our best choice select wine)
+ 
+*note-* Dinner rolls are not included in the main meal.
+~
+#926
+A table~
+a table~
+A table sits here.~
+unknown~
+1
+furniture 0 0
+0 DFGHIJ DEG 0 0
+0 0 0 P
+#927
+A comfortable chair~
+a comfortable chair~
+A comfortable looking chair sits here.~
+unknown~
+1
+furniture 0 0
+A DHIJM BE BD BD
+0 0 0 P
+#928
+a cup~
+a cup~
+A cup of water lies here~
+unknown~
+1
+drink 0 AO
+3 3 'water' 0 0
+0 0 1 P
+#929
+Steak (well_done)~
+steak (well_done)~
+A steak lies here.~
+flesh~
+1
+food 0 AO
+A A 0 0 0
+0 0 10 P
+#930
+Chicken ~
+chicken~
+A piece of meat lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 10 P
+#931
+Steak (rare)~
+steak (rare)~
+A piece of meat lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 10 P
+#932
+Steak (medium)~
+steak (medium)~
+A piece of meat lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 10 P
+#933
+Mashed Potatoes~
+mashed potatoes~
+A lump of white stuff lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 5 P
+#934
+a glass of wine~
+a glass of wine~
+A glass of red liquid lies here.~
+unknown~
+1
+drink 0 AO
+5 5 'red wine' 0 0
+0 0 30 P
+#935
+Lamb Chops~
+lamb chops~
+A piece of meat lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 10 P
+#936
+stuffing~
+stuffing~
+A mass clump of bread-like material lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 5 P
+#937
+corn~
+corn~
+Some corn lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 5 P
+#938
+A roll~
+a roll~
+A piece of bread lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 1 P
+#939
+another chair~
+another chair~
+Another chair sits here.~
+unknown~
+1
+furniture 0 0
+A DHIJM BE BD BD
+0 0 0 P
+#940
+a sturdy chair~
+a sturdy chair~
+A very sturdy chair sits here.~
+unknown~
+1
+furniture 0 0
+A DHIJM BE BD BD
+0 0 0 P
+#941
+a dark chair~
+a dark chair~
+A very dark chair sits here.~
+unknown~
+1
+furniture 0 0
+A DHIJM BE BD BD
+0 0 0 P
+#942
+A set of bar stools~
+a set of bar stool~
+A set of bar stools sits here.~
+unknown~
+1
+furniture 0 0
+BD FINPQRS E 0 0
+0 0 0 P
+#943
+A bar~
+a bar~
+A bar stands here.~
+unknown~
+1
+container 0 0
+1000000000 AE 0 1000000 0
+0 0 0 P
+#944
+A glass of beer~
+a glass of beer.~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'beer' 0 0
+0 0 10 P
+#945
+A glass of red wine~
+a glass of red wine~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'red wine' 0 0
+0 0 20 P
+#946
+A glass of white wine~
+a glass of white wine~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'white wine' 0 0
+0 0 20 P
+#947
+a glass of champagne~
+a glass of champagne~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'champagne' 0 0
+0 0 20 P
+#948
+A glass of firebreather~
+a glass of firebreather~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'firebreather' 0 0
+0 0 20 P
+#949
+The Local specialty~
+the local specialty~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'local specialty' 0 0
+0 0 30 P
+#950
+a glass of vodka~
+a glass of vodka~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'vodka' 0 0
+0 0 30 P
+#951
+a glass of brandy~
+a glass of brandy~
+A glass lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'brandy' 0 0
+0 0 30 P
+#952
+a mug of rum~
+a mug of rum~
+A mug lies here.~
+unknown~
+1
+drink 0 AO
+3 3 'rum' 0 0
+0 0 30 P
+#953
+a black bag~
+a black bag~
+A bag lies here.~
+unknown~
+1
+container 0 ALO
+1000 0 0 200 200
+0 0 0 P
+#954
+a black senzu bean~
+a black senzu bean~
+A black bean lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 HKPRSTU
+0 0 0 P
+#955
+an eye patch~
+an eye patch~
+A long shrap of cloth lies here.~
+unknown~
+1
+armor 0 AEO
+BD BD BD BD 0
+0 0 100 P
+#956
+A chef's hat~
+a chef's hat~
+A hat lies here.~
+unknown~
+1
+armor 0 AE
+AC 0 AC 0 0
+0 0 10 P
+#957
+some cajun soup~
+a bowl of cajun soup~
+Some soup lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 0 P
+#958
+some milk~
+milk~
+A gallon of milk lies here.~
+unknown~
+1
+drink 0 AO
+1 1 'milk' 0 0
+0 0 10 P
+#959
+some water~
+water~
+A gallon of water~
+unknown~
+1
+drink 0 AO
+1 1 'water' 0 0
+0 0 10 P
+#960
+a chocolate bar~
+chocolate bar~
+A bar of chocolate lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 10 P
+#961
+A piece of candy~
+piece of candy~
+A piece of candy lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 1 P
+#962
+a piece of gum~
+gum~
+A piece of gum lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 0
+0 0 5 P
+#963
+a counter~
+counter~
+A counter sits here.~
+unknown~
+1
+container 0 0
+10 0 0 100 10
+0 0 100 P
+#964
+a yoyo~
+a yoyo~
+A small toy lies here.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 5 P
+#965
+some books~
+some books~
+A pile of books lies here.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 10 P
+E
+book~
+Shakespear !?! What's this ?
+~
+#966
+a purse~
+a purse~
+A purse lies here.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 10 P
+#967
+a leather jacket~
+a leather jacket~
+A jacket lies here.~
+leather~
+1
+trash 0 AK
+0 0 0 0 0
+0 0 100 P
+#968
+a leather wristband~
+a leather wristband~
+A long strap of leather lies here.~
+leather~
+1
+trash 0 AM
+0 0 0 0 0
+0 0 50 P
+#969
+a leather canteen~
+a leather canteen~
+A canteen lies here~
+leather~
+1
+drink 0 AO
+1 1 'water' 0 0
+0 0 25 P
+#970
+a leather bag~
+a leather bag~
+A bag lies here.~
+leather~
+1
+container 0 AO
+100 A 0 50 10
+0 0 10 P
+#971
+A leather whip~
+a leather whip~
+A long whip of leather lies here.~
+leather~
+100
+weapon 0 AN
+whip 0 0 slash A
+0 0 100 P
+#972
+head band~
+a head band~
+A head band lies here~
+cloth~
+100
+armor S AE
+BD BD BD BD 0
+0 0 200 P
+#973
+padded jacket~
+a padded jacket~
+A jacket with protective pads lies here~
+leather~
+1000
+armor 0 AD
+BD BD BD BD 0
+0 1 200 P
+#974
+fingerless gloves~
+fingerless gloves~
+A pair of fingerless gloves~
+crystal~
+1000
+armor A AH
+BD BD BD BD 0
+0 0 200 P
+#975
+gray boots~
+gray boots~
+A pair of gray boots lie here~
+leather~
+1000
+armor 0 AG
+BD BD BD BD 0
+0 0 400 P
+#976
+A red cape~
+a red cape~
+A red cape lies here.~
+felt~
+1000
+armor 0 AK
+BCDE BCDE BCDE BCDE 0
+0 0 10000 P
+#977
+a hat~
+a hat~
+A hat lies here~
+unknown~
+1
+trash 0 AE
+0 0 0 0 0
+0 0 10 P
+#978
+a pair of  gloves~
+a pair of gloves~
+A pair of gloves lies here.~
+unknown~
+1
+trash 0 AH
+0 0 0 0 0
+0 0 10 P
+#979
+a pair of jeans~
+a pair of jeans~
+A pair of jeans~
+unknown~
+1
+trash 0 AF
+0 0 0 0 0
+0 0 15 P
+#980
+a polo shirt~
+a polo shirt~
+A shirt lies here.~
+unknown~
+1
+trash 0 AD
+0 0 0 0 0
+0 0 15 P
+#981
+sunglasses~
+sunglasses~
+A pair of sunglasses lie here.~
+unknown~
+1
+trash 0 AS
+0 0 0 0 0
+0 0 5 P
+#982
+Snake Earring~
+a snake earring~
+An odd shaped piece of metal lies here.~
+metal~
+15
+jewelry I AT
+0 0 0 0 0
+100 0 50 P
+#983
+A tiger earring~
+a tiger earring~
+A small odd shaped piece of metal lies here.~
+metal~
+400
+trash 0 AT
+0 0 0 0 0
+500 1 50 P
+#984
+Necklace of power~
+the necklace of power~
+A long strand of metal lies here out of place.~
+metal~
+30
+jewelry A AC
+0 0 0 0 0
+0 0 10 P
+#985
+Necklace of Vitality~
+the necklace of vitality~
+A long strip of metal lies here.~
+metal~
+60
+jewelry B AC
+0 0 0 0 0
+500 0 100 P
+#986
+A golden Necklace~
+a golden necklace~
+A long strip of golden material lies here.~
+gold~
+120
+jewelry 0 AC
+0 0 0 0 0
+1000 0 200 P
+#994
+flashlight~
+a black platic flashlight~
+A black platic flashlight~
+unknown~
+1
+light 0 AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+50000 0 0 P
+#999
+Saiyan Armor~
+a suit of Saiyan Armor~
+Some odd metal lies here.~
+unknown~
+2147483647
+armor 0 AD
+DHIJM DHIJM DHIJM DHIJM 0
+1 0 500000 P
+#0
+
+
+
+#ROOMS
+#900
+The road to Satan City~
+A large well-traveled road winds it's way up to the city up ahead.  Cars
+and trucks zoom in and out of the grand city leaving behind a great cloud of
+smoke that rises all about the highway.  The buildings in the city tower
+overhead.  Great colors and flashing lights entice the eye as one gazes upon
+the grand city.  
+~
+0 4 0
+D0
+~
+~
+0 0 901
+D1
+~
+~
+0 0 1143
+D2
+~
+~
+0 0 203
+D3
+~
+~
+0 0 1127
+S
+#901
+The road to Satan City~
+Drawing closer to the city the road becomes more and more traversed and
+along the outskirts of the city all sorts of thugs and lowlifes can be seen
+wandering about.  This is considered to be one of the most unsafe parts of
+the city, as the cops do not patrol here.  There are many stories told about
+those who have been robbed along this part of the highway.  
+~
+0 0 0
+D0
+~
+~
+0 0 902
+D2
+~
+~
+0 0 900
+D3
+~
+~
+0 0 1128
+S
+#902
+Entering the City~
+The cluster of buildings begins to grow upon entering the great city.  To
+the south the main highway leading into the city is still visible.  Up ahead
+guards are standing watch, looking for anything out of place or unordinary. 
+The city itself if fairly clean and orderly.  Each roadway bustling with
+activity, each corner revealing new sounds and smells to tantilate the
+senses.  
+~
+0 4 1
+D0
+~
+~
+0 0 903
+D1
+~
+~
+0 0 3500
+D2
+~
+~
+0 0 901
+S
+#903
+Intersection of Main Street and Roundabout Way~
+The main street of Satan City travels right through the heart of the city
+itself.  All the main shops and famous sites fo the city are along this
+road.  The most famous spot perhaps being the town square.  However, a trip
+down some of the side streets may prove worthy, as you never know what
+you'll find in a city such as this.  Roundabout Way Continues to the East
+and West.  
+~
+0 0 1
+D0
+~
+~
+0 0 904
+D1
+~
+~
+0 0 968
+D2
+~
+~
+0 0 902
+D3
+~
+~
+0 0 923
+S
+#904
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 905
+D1
+~
+~
+0 0 3903
+D2
+~
+~
+0 0 903
+S
+#905
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 906
+D1
+~
+~
+0 0 289
+D2
+~
+~
+0 0 904
+S
+#906
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 907
+D2
+~
+~
+0 0 905
+S
+#907
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 908
+D1
+~
+~
+0 0 3921
+D2
+~
+~
+0 0 906
+S
+#908
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 909
+D2
+~
+~
+0 0 907
+S
+#909
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 910
+D2
+~
+~
+0 0 908
+S
+#910
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  The General Hospital is just to the west of
+here.  
+~
+0 0 1
+D0
+~
+~
+0 0 911
+D1
+~
+~
+0 0 2224
+D2
+~
+~
+0 0 909
+D3
+~
+~
+0 0 2013
+S
+#911
+Town Square~
+The town square is huge and massive.  A circle of at least 1000 feet has
+been cleared out for the grand display.  The cobblestones which make up the
+road are colored brown and grey, and huge banners fly from every window
+about the square.  Entertainers fill the streets trying to get a few laughs
+out of people here and there.  There is a huge fountain in the center of the
+square.  In the center of the fountain is a statue of a great stout man,
+posing flexing his buldging muscles.  
+~
+0 0 1
+E
+fountain~
+A statue of a great man flexing his muscles stands here.  Water spurts
+out of 3 spouts on the sides and back of the fountain, giving the figure the
+appearance of great power.  A plaque on the bottom of the fountain reads:
+"Hercule, earth's greatest champion."  
+~
+D0
+~
+~
+0 0 912
+D1
+~
+~
+0 0 2001
+D2
+~
+~
+0 0 910
+D3
+~
+~
+0 0 2000
+S
+#912
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  The Police station is just east of here and
+the Fire station is to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 913
+D1
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 911
+D3
+~
+~
+0 0 2023
+S
+#913
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  To the east on this road is a small building
+with a sign above it that reads   "Satan city realestate" 
+~
+0 0 1
+D0
+~
+~
+0 0 914
+D1
+~
+~
+1 0 3599
+D2
+~
+~
+0 0 912
+S
+#914
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 915
+D2
+~
+~
+0 0 913
+S
+#915
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 916
+D2
+~
+~
+0 0 914
+S
+#916
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 917
+D2
+~
+~
+0 0 915
+S
+#917
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 918
+D2
+~
+~
+0 0 916
+S
+#918
+Main Street~
+The Main Street travels right through the center of all the hubub and
+happenings in the town.  All the main shops and famous sites of the city lie
+along this road.  The well-paved walkways, and bright shining windows add to
+the spendor of the great city.  
+~
+0 0 1
+D0
+~
+~
+0 0 919
+D2
+~
+~
+0 0 917
+S
+#919
+Intersection of Main Street and Roundabout Way~
+The main street of Satan City travels right through the heart of the city
+itself.  All the main shops and famous sites fo the city are along this
+road.  The most famous spot perhaps being the town square.  However, a trip
+down some of the side streets may prove worthy, as you never know what
+you'll find in a city such as this.  Roundabout Way Continues to the East
+and West.  
+~
+0 0 1
+D0
+~
+~
+0 0 920
+D1
+~
+~
+0 0 946
+D2
+~
+~
+0 0 918
+D3
+~
+~
+0 0 945
+S
+#920
+Entering the City~
+The cluster of buildings begins to grow upon entering the great city.  To
+the south the main highway leading into the city is still visible.  Up ahead
+guards are standing watch, looking for anything out of place or unordinary. 
+The city itself if fairly clean and orderly.  Each roadway bustling with
+activity, each corner revealing new sounds and smells to tantilate the
+senses.  
+~
+0 0 1
+D0
+~
+~
+0 0 921
+D2
+~
+~
+0 0 919
+S
+#921
+The road to Satan City~
+Drawing closer to the city the road becomes more and more traversed and
+along the outskirts of the city all sorts of thugs and lowlifes can be seen
+wandering about.  This is considered to be one of the most unsafe parts of
+the city, as the cops do not patrol here.  There are many stories told about
+those who have been robbed along this part of the highway.  
+~
+0 0 0
+D0
+~
+~
+0 0 922
+D1
+~
+~
+0 0 1174
+D2
+~
+~
+0 0 920
+D3
+~
+~
+0 0 1176
+S
+#922
+The road to Satan City~
+A large well-traveled road winds it's way up to the city up ahead.  Cars
+and trucks zoom in and out of the grand city leaving behind a great cloud of
+smoke that rises all about the highway.  The buildings in the city tower
+overhead.  Great colors and flashing lights entice the eye as one gazes upon
+the grand city.  
+~
+0 0 0
+D1
+~
+~
+0 0 1173
+D2
+~
+~
+0 0 921
+D3
+~
+~
+0 0 1177
+D4
+~
+~
+0 0 1179
+S
+#923
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 903
+D3
+~
+~
+0 0 924
+S
+#924
+Intersection of Roundabout Way and Jade Lane~
+Roundabout Way continues on to the east and west, just north of here
+begins Jade Lane.  Although it's off the main drag, this is the place for
+all the common folk to sell their wares.  There are many run-down stores
+down this street, but a trip down it might prove worthwhile.  
+~
+0 0 1
+D0
+~
+~
+0 0 969
+D1
+~
+~
+0 0 923
+D3
+~
+~
+0 0 925
+S
+#925
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 924
+D3
+~
+~
+0 0 926
+S
+#926
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 927
+D1
+~
+~
+0 0 925
+S
+#927
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 928
+D2
+~
+~
+0 0 926
+S
+#928
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 929
+D2
+~
+~
+0 0 927
+S
+#929
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 930
+D2
+~
+~
+0 0 928
+S
+#930
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 931
+D2
+~
+~
+0 0 929
+S
+#931
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 932
+D2
+~
+~
+0 0 930
+S
+#932
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 933
+D2
+~
+~
+0 0 931
+S
+#933
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 934
+D2
+~
+~
+0 0 932
+S
+#934
+Junction of Roundabout Way and Axis Road~
+Roundabout Way continues on to the north and south, as Axis Road begins
+to the east.  Axis Road leads to the town square from all other roads in
+town.  If there's an easier way to get from one end of the city to the
+other, you're going to use Axis Road.  
+~
+0 0 1
+D0
+~
+~
+0 0 935
+D1
+~
+~
+0 0 999
+D2
+~
+~
+0 0 933
+S
+#935
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 936
+D2
+~
+~
+0 0 934
+S
+#936
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  To the west of
+here the scent smells of the sea and a rickety boardwalk can be seen
+trailing off towards the sea.  
+~
+0 0 1
+D0
+~
+~
+0 0 937
+D2
+~
+~
+0 0 935
+D3
+~
+~
+0 0 2200
+S
+#937
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 938
+D2
+~
+~
+0 0 936
+S
+#938
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 939
+D2
+~
+~
+0 0 937
+S
+#939
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 940
+D2
+~
+~
+0 0 938
+S
+#940
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 941
+D2
+~
+~
+0 0 939
+S
+#941
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 942
+D2
+~
+~
+0 0 940
+S
+#942
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 943
+D2
+~
+~
+0 0 941
+S
+#943
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 944
+D3
+~
+~
+0 0 942
+S
+#944
+Intersection of Roundabout Way and Jade Lane~
+Roundabout Way continues on to the east and west, just south of here
+begins Jade Lane.  Although it's off the main drag, this is the place for
+all the common folk to sell their wares.  There are many run-down stores
+down this street, but a trip down it might prove worthwhile.  
+~
+0 0 1
+D1
+~
+~
+0 0 945
+D2
+~
+~
+0 0 983
+D3
+~
+~
+0 0 943
+S
+#945
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 919
+D3
+~
+~
+0 0 944
+S
+#946
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 947
+D3
+~
+~
+0 0 919
+S
+#947
+Intersection of Roundabout Way and Emerald Avenue~
+Roundabout Way continues on to the east and west, but to the south begins
+Emerald Avenue.  This is the street set aside for residences.  At a quick
+glance all one can see is run down shacks and small buildings, but at a
+closer look one could see the richer higher class houses in toward the
+center of the street.  
+~
+0 0 1
+D1
+~
+~
+0 0 948
+D2
+~
+~
+0 0 998
+D3
+~
+~
+0 0 946
+S
+#948
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 949
+D3
+~
+~
+0 0 947
+S
+#949
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D2
+~
+~
+0 0 950
+D3
+~
+~
+0 0 948
+S
+#950
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 949
+D2
+~
+~
+0 0 951
+S
+#951
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 950
+D2
+~
+~
+0 0 952
+S
+#952
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 951
+D2
+~
+~
+0 0 953
+S
+#953
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 952
+D2
+~
+~
+0 0 954
+S
+#954
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  The cities mall
+is just to the east of here.  
+~
+0 0 1
+D0
+~
+~
+0 0 953
+D1
+~
+~
+0 0 2041
+D2
+~
+~
+0 0 955
+S
+#955
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 954
+D2
+~
+~
+0 0 956
+S
+#956
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 955
+D2
+~
+~
+0 0 957
+S
+#957
+Junction of Roundabout Way and Axis Road~
+Roundabout Way continues on to the north and south, as Axis Road begins
+to the west.  Axis Road leads to the town square from all other roads in
+town.  If there's an easier way to get from one end of the city to the
+other, you're going to use Axis Road.  
+~
+0 0 0
+D0
+~
+~
+0 0 956
+D2
+~
+~
+0 0 958
+D3
+~
+~
+0 0 2002
+S
+#958
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 957
+D2
+~
+~
+0 0 959
+S
+#959
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 958
+D2
+~
+~
+0 0 960
+S
+#960
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 959
+D2
+~
+~
+0 0 961
+S
+#961
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 960
+D2
+~
+~
+0 0 962
+S
+#962
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 961
+D2
+~
+~
+0 0 963
+S
+#963
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 962
+D2
+~
+~
+0 0 964
+S
+#964
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 963
+D2
+~
+~
+0 0 965
+S
+#965
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D0
+~
+~
+0 0 964
+D3
+~
+~
+0 0 966
+S
+#966
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 965
+D3
+~
+~
+0 0 967
+S
+#967
+Intersection of Roundabout Way and Emerald Avenue~
+Roundabout Way continues on to the east and west, but to the north begins
+Emerald Avenue.  This is the street set aside for residences.  At a quick
+glance all one can see is run down shacks and small buildings, but at a
+closer look one could see the richer higher class houses in toward the
+center of the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 984
+D1
+~
+~
+0 0 966
+D3
+~
+~
+0 0 968
+S
+#968
+Roundabout Way~
+This road was one of the first built in the city.  It borders the entire
+city and one can walk on it forever as it continually loops about the city. 
+It was once the shining achievement of the city, but has since degraded and
+become a sort of slums.  Most of the common folk and lower class citizens of
+the city find this to be the most affordable place to live.  
+~
+0 0 1
+D1
+~
+~
+0 0 967
+D3
+~
+~
+0 0 903
+S
+#969
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 970
+D2
+~
+~
+0 0 924
+S
+#970
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+E
+east~
+~
+E
+door~
+A HUGE SIGN SITS BY THIS HOUSE READING:
+ 
+For Sale, Please contact Vegeta if interested
+in buying. 
+~
+D0
+~
+~
+0 0 971
+D1
+~
+~
+1 0 2053
+D2
+~
+~
+0 0 969
+S
+#971
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 972
+D1
+~
+~
+0 0 2039
+D2
+~
+~
+0 0 970
+S
+#972
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 973
+D2
+~
+~
+0 0 971
+S
+#973
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN NEAR THE HOUSE READS:
+ 
+For sale by Vegeta, please contact him if you
+wish to buy this property.
+~
+E
+west~
+A HUGE SIGN NEAR THE HOUSE READS:
+For sale by owner by Vegeta. Please contact
+him if you wish to buy this property.
+~
+D0
+~
+~
+0 0 974
+D2
+~
+~
+0 0 972
+D3
+~
+~
+1 0 2057
+S
+#974
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 975
+D2
+~
+~
+0 0 973
+S
+#975
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 976
+D2
+~
+~
+0 0 974
+S
+#976
+Junction of Jade Lane and Axis Road~
+Jade Road continues on to the north and south, while Axis Road begins
+here.  To the west is Roundabout Way and to the east is the town square.  
+~
+0 0 1
+D0
+~
+~
+0 0 977
+D1
+~
+~
+0 0 2000
+D2
+~
+~
+0 0 975
+D3
+~
+~
+0 0 999
+S
+#977
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 978
+D2
+~
+~
+0 0 976
+S
+#978
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 979
+D2
+~
+~
+0 0 977
+S
+#979
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN NEAR THE HOUSE READS:
+ 
+For sale by Vegeta, please contact him if you
+wish to buy this property.
+~
+D0
+~
+~
+0 0 980
+D2
+~
+~
+0 0 978
+D3
+~
+~
+1 0 2061
+S
+#980
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 981
+D2
+~
+~
+0 0 979
+D3
+~
+~
+0 0 2040
+S
+#981
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN BY THE HOUSE READS:
+ 
+For sale by Vegeta, please contact him if 
+you are interested in purchasing this property.
+~
+D0
+~
+~
+0 0 982
+D1
+~
+~
+1 0 2065
+D2
+~
+~
+0 0 980
+S
+#982
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 983
+D2
+~
+~
+0 0 981
+S
+#983
+Jade Lane~
+This street is run-down and very old looking.  It's buildings look unkept
+and it doesn't appear as if anyone has been here in years.  If it weren't
+for all the people wandering about, one would think that this part of the
+city was abandoned a long time ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 944
+D2
+~
+~
+0 0 982
+S
+#984
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 985
+D2
+~
+~
+0 0 967
+S
+#985
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN BY THIS HOUSE READS:
+ 
+For sale by Vegeta, if interested in buying
+please contact him.
+~
+D0
+~
+~
+0 0 986
+D1
+~
+~
+1 0 2069
+D2
+~
+~
+0 0 984
+S
+#986
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 987
+D2
+~
+~
+0 0 985
+S
+#987
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 988
+D2
+~
+~
+0 0 986
+D3
+~
+~
+0 0 2037
+S
+#988
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 989
+D2
+~
+~
+0 0 987
+S
+#989
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN BY THE HOUSE READS:
+ 
+For sale by Vegeta, please contact him if you
+are interested in buying it.
+ 
+~
+D0
+~
+~
+0 0 990
+D2
+~
+~
+0 0 988
+D3
+~
+~
+1 0 2077
+S
+#990
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 991
+D2
+~
+~
+0 0 989
+S
+#991
+Junction of Emerald Avenue and Axis Road~
+Emerald Road continues on to the north and south, while Axis Road begins
+here.  To the east is Roundabout Way and to the west is the town square.  
+~
+0 0 0
+D0
+~
+~
+0 0 992
+D1
+~
+~
+0 0 2002
+D2
+~
+~
+0 0 990
+D3
+~
+~
+0 0 2001
+S
+#992
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 993
+D2
+~
+~
+0 0 991
+S
+#993
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN BY THE HOUSE READS:
+ 
+For sale by Vegeta, contact him if you want
+to buy it.
+~
+D0
+~
+~
+0 0 994
+D1
+~
+~
+1 0 2085
+D2
+~
+~
+0 0 992
+S
+#994
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 995
+D2
+~
+~
+0 0 993
+S
+#995
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 996
+D1
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 994
+S
+#996
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 997
+D2
+~
+~
+0 0 995
+S
+#997
+Emerald Avenue ~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+E
+door~
+A HUGE SIGN BY THE HOUSE READS:
+ 
+For sale by Vegeta, please contact him to
+buy it.
+~
+D0
+~
+~
+0 0 998
+D2
+~
+~
+0 0 996
+D3
+~
+~
+1 0 2093
+S
+#998
+Emerald Avenue~
+This street is cluttered with houses.  Each appears to be a semi-detached
+as every house is right up next to the house beside it.  THere are only two
+gaps on both sides of the street, in each row of houses.  Anyone could tell
+why in a matter of seconds.  The gaps serperate the high class homes from
+the low class homes.  There is little else in-between them other than the
+gap of air, as it is said that here in Satan City, home security is better
+than anywhere else in the world.  
+~
+0 0 1
+D0
+~
+~
+0 0 947
+D2
+~
+~
+0 0 997
+S
+#999
+Axis Road~
+This road leads right to the center of town.  It's a well traveled and
+beaten path.  There are no shops along this road.  This road was built after
+the city was already formed as a means of easier travel within the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 976
+D3
+~
+~
+0 0 934
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 913 1 1
+D 0 970 1 2
+D 0 973 3 2
+D 0 979 3 2
+D 0 981 1 2
+D 0 985 1 2
+D 0 989 3 2
+D 0 993 1 2
+D 0 997 3 2
+M 0 923 100 902 3 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 924 100 904 3 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 925 100 906 3 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 926 100 910 3 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 900 1 911 1 Load Satan
+M 0 937 2 911 2 Load cloaked figure
+M 0 922 5 912 5 Load a citizen
+M 0 923 5 914 5 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 924 5 916 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 925 100 918 3 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 926 100 922 3 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 922 5 924 5 Load a citizen
+M 0 923 5 926 5 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 924 5 928 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 925 5 930 5 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 924 5 930 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 926 5 934 5 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 922 5 936 5 Load a citizen
+M 0 923 5 938 5 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 923 5 940 5 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 925 5 942 5 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 924 5 942 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 926 5 946 5 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 922 5 948 5 Load a citizen
+M 0 923 100 952 3 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 925 100 954 3 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 924 100 954 3 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 926 5 958 5 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 922 5 960 5 Load a citizen
+M 0 923 5 964 5 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 924 5 966 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 925 5 967 5 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+E 0 966 0 17 A purse is loaded held in the hands of a student
+M 0 926 5 970 5 Load a shopper
+M 0 922 5 972 5 Load a citizen
+M 0 923 5 976 5 Load an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+M 0 924 5 978 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 925 5 979 5 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 926 5 982 5 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 922 5 984 5 Load a citizen
+M 0 923 5 988 5 Load an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+M 0 924 5 990 5 Load a small child
+E 0 964 0 17 A yoyo is loaded held in the hands of a small child
+M 0 923 5 990 5 Load an officer
+E 0 901 0 5 Officer's uniform is loaded on the body of an officer
+E 0 902 0 12 An officer's badge is loaded about the shoulders of an officer
+M 0 925 5 991 5 Load a student
+E 0 965 0 17 Some books is loaded held in the hands of a student
+M 0 926 5 994 5 Load a shopper
+E 0 966 0 17 A purse is loaded held in the hands of a shopper
+M 0 922 5 996 5 Load a citizen
+S
+
+
+
+#SHOPS
+915 19 0 0 0 0 200 50 0 24
+917 0 17 0 0 0 200 100 5 23
+920 0 9 0 0 0 50 25 0 23
+921 0 0 0 0 0 100 100 0 23
+926 0 19 0 0 0 100 100 0 23
+929 0 9 0 0 0 200 100 0 23
+930 0 9 0 0 0 300 100 0 23
+931 0 9 0 0 0 200 100 0 23
+932 0 33 0 0 0 400 100 0 23
+0
+
+
+
+#MOBPROGS
+#900
+say Hello $n, I am the greatest fighter ever known to man, bow down before earth's greatest champion.
+grin 
+chuckle
+~
+#901
+mob echo Satan hops up on the fountain and begins to hop around like a little kid.
+say Fans of all ages, gather round to hear me, earth's greatest champion speak. I concoured all my foes in battle and there is none like me.
+flex
+smile
+say Bow down before earth's greatest champion.
+grin chuckle
+~
+#902
+say Gather around while I, earth's greatest champion, put on an exibition for you.
+mob echo Satan pulls out two cinderblocks and in-between them places 8 boards neatly stacked on top of them.
+say I will now break all these boards with one shot.
+mob echo Satan brings down his fist upon the boards with a mighty *THWAP*!
+mob echo The boards shatter in two.
+say I am the strongest man who ever lived !
+~
+#903
+mob echo Felipe stands up from his desk obviously surprised you're there.
+say What do you want here ? And how in the world did you get in here ?
+~
+#904
+if mobs >= 10
+break
+else
+mob echo Felipe reaches for a radio that sits nearby.
+say Officer being attacked I need assistance right away.
+mob echoat $n Backup officers rush into the room and attack you !
+mob echoaround $n Backup officers rush into the room and attack $n !
+mob mload 902
+mob mload 902
+mob mload 902
+mob vforce 902 kill $n
+endif
+~
+#905
+mob echo A drunk tries to stand up and falls back on his rear end.
+say Howd didi uooo git in heeear ?
+~
+#906
+mob echo Stops her patrol and looks at you.
+say How'd you get in here ?
+~
+#907
+mob echo A jail guard moves in your way and won't let you pass.
+say You can't go back there, sorry... you'll have to turn around.
+~
+#908
+say Hello, I'm sorry but we don't have room for any more patients right now, you'll have to get your injury treated somewhere else.
+~
+#909
+mob echo A doctor looks all about frantically as if looking for someone.
+say Has anyone seen nurse Sinclair ?
+~
+#910
+mob echo The elevator keypad begins to glow as the elevator shifts and takes $n to the first floor.
+mob echoat $n Coming to your floor you step out of the elevator.
+mob transfer $n 2014
+~
+#911
+mob echo The elevator keypad begins to glow as the elevator shifts to take $n to the second floor.
+mob echoat $n Coming to your floor you step out of the elevator.
+mob transfer $n 2019
+~
+#912
+mob echo The elevator keypad begins to glow as the elevator shifts to take $n to the third floor.
+mob echoat $n Coming to your floor, you step out of the elevator.
+mob transfer $n 2021
+~
+#913
+say What was the name again ....
+mob echoat $n A snooty waiter flips a few pages and pretends to be looking for your name.
+mob echoaround $n A snooty waiter flips a few pages in his book.
+say Ah! A million apologies $n, you're reservation is right here. How clumsy of me ! If you'll go right this way there's a waitress waiting to serve you. Once you find the setting to your liking, simply say "TABLE" and you'll be seated.
+mob echoat $n A snooty waiter ushers you into the restaurant.
+mob echoaround $n A snooty waiter ushers $n into the restaurant.
+mob transfer $n 2034
+~
+#914
+say Hello, I do not think you are on the reservation list. However, our special customers are always welcome.
+mob echoat $n A snooty waiter rubs his thumb against his fingers and winks at you.
+mob echoaround $n A snooty waiter rubs his thumbs against his fingers and winks at $n.
+~
+#915
+say Please be seated $n, here's your menu, I'll be right with you. By the way, we charge for our food up front.
+mob oload 925
+give menu $n
+mob oload 928
+give cup $n
+~
+#916
+if carries $n 928
+mob remove $n 928
+mob oload 928
+mob echoat $n A waitress takes your cup and refills it.
+mob echoaround $n $n gives their cup to a waitress and she refills it.
+give cup $n
+say There you are $n.
+else
+if carries $n 934
+mob remove $n 934
+mob oload 934
+mob echoat $n A waitress takes your glass of wine and refills it.
+mob echoaround $n $n hands their glass of wine to a waitress and she refills it for them.
+give glass $n
+say There you are $n.
+else
+say You don't have a cup. If you need a refill, you have to hold your cup.
+endif
+~
+#917
+say Waitress, I need more food !
+mob echo A belligerant man looks all around for the waitress.
+say Where is that wench !?! I need a refill on my wine as well.
+~
+#918
+say Hullo, what can I get for you to drink today ?
+~
+#919
+mob echoat $n A bouncer steps in your way and won't let you pass.
+mob echoaround $n A bouncer steps in front of $n and won't let them pass.
+say No one gets in to see the master, unless they can match his payroll, which I doubt as he pays very well.
+~
+#920
+say Very well, you may see him, but he's a harsh man, it's your funeral.
+mob echoat $n A bouncer allows you to pass and go into the secret room.
+mob echoaround $n A bouncer allows $n to pass into the secret room.
+mob transfer $n 2038
+~
+#921
+say Ah, hello $n, I see you've come to visit me today.
+mob echo The zen master looks all about the room.
+say Well, if you can answer my riddle I'll reward you greatly, just say 'RIDDLE' and I'll tell you my riddle.
+~
+#922
+smile
+say Ok, here's the riddle: "I'm small but do great things. I must be destroyed in order to heal.  I can't speak, hear or see, what am I ?"
+grin
+~
+#923
+say Ah, that's right $n.
+mob oload 953
+mob oload 954
+mob oload 954
+mob oload 954
+mob oload 954
+mob oload 954
+put all.senzu bag
+give bag $n
+say There's your reward, now git !
+mob echoat $n A zen master wiggles his fingers and you're gone !
+mob echoaround $n A zen master wiggles his fingers and $n is gone !
+mob transfer $n 911
+chuckle
+~
+#924
+say Glad to be meetin' ya $n, if yu'd like ta try some good ol' cajun cookin', just say SAMPLE and try my best. You'll find it most enjoyable, I guarantee !
+mob echo A cajun chef nods at you sagely.
+~
+#925
+mob oload 957 
+give soup $n
+say There you be $n, now tell me dat ain' da bestest soup you'se eva had !
+~
+#926
+say Hello my friend, please just take what you want and do not kill me.
+~
+#927
+say Thank you, please come again.
+mob transfer $n 980
+~
+#928
+mob echo A mob security guard reaches for his walkie talkie and calls for backup.
+say Officer down and in need of assistance come right away !
+mob echoat $n Security guards run out of everywhere and rush you !
+mob echoaround $n Security guards run out of everywhere and rush you $n!
+mob mload 902
+mob vforce 902 attack $n
+mob mload 902
+mob vforce 902 attack $n
+mob mload 902
+mob vforce 902 attack $n
+~
+#929
+say Hello $n, what can I do for you today ?
+~
+#930
+say You fight well for such a weakling. Tell ya what, as your reward I'll send you somewhere you can train to become even better.
+mob echoat $n A shrouded figure nods at you.
+mob echoaround $n A shrouded figure nods at $n.
+mob echo A shrouded figure begins to glow, then sheds his claoks showing the figure of a Namek !
+mob echoat $n A namek glows brightly and then disappears, leaving you stranded somewhere.
+mob echoaround $n A namek glows brightly and then is gone !
+mob transfer $n 2250
+mob goto 2299
+~
+#931
+mob echo Satan looks about quite worried.
+say I've seen those light tricks before... you're not... no you could'nt be those guys from the Cell games..
+mob echo Satan jumps up on the fountain.
+say Have no fear people of Satan City, I will protect you from these villians, I'm not scared of their light tricks !
+~
+#932
+mob echo at $n A shrouded figure says, "{GVery well then $n, have fun and try not to get yourself killed.{W"
+grin
+mob echo around $n A shrouded figure says, "{GVery well then $n, have fun and try not to get yourself killed.{W"
+mob echo at $n A shrouded figure wiggles it's fingers and you're gone.
+mob echo around $n A shrouded figure wiggles it's fingers and $n is gone.
+mob transfer $n 3799
+~
+#933
+grin
+say Hello, wanna go to a place where you can test your might ? All you have to do is say HOLOCHAMBER and I'll take you there.
+~
+#999
+say Very well then $n, you now know Spirit Bomb.
+set skill $n spirit 10
+~
+#0
+
+#OBJPROGS
+#900
+~
+#901
+~
+#902
+~
+#0
+
+#ROOMPROGS
+#998
+~
+#999
+room echo An eerie chill sweeps all around as everything disappears.
+room purge
+~
+#0
+
+#$

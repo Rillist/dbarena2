@@ -1,0 +1,882 @@
+#AREADATA
+Name Satan3~
+Builders Terraco-d~
+VNUMs 2200 2299
+Credits .~
+Security 9
+End
+
+
+
+#MOBILES
+#2200
+Captain Amenia~
+captain amenia~
+Captain Amenia stands here watching his crew work on his ship.
+~
+Captain Amenia is a heavy-set man in his mid 40's.  He has a long dark
+brown beard and a patch over his eye.  It is rumored that the patch is
+unnecessary, but that he wears it anyway to accent his rugged pirate look.  
+~
+human~
+AB 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M BRIBE 2200 100~
+M GREET 2201 100~
+#2299
+Blurg~
+blurg~
+Blurg is a four leged beast with no skin driping blood everywhere and long whip like forked tounge and claws that look like they can rip steal to nothing
+~
+~
+human~
+AB 0 0 0
+800000000000 89442
+532 532 532 532 532 
+100 100
+punch
+8 8 8 8
+0 0 0 0
+stand stand none 25535
+0 ABCDEHQ large unknown
+F for AHMV
+F par FGIJK
+M RANDOM 2299 20~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2200
+The Boardwalk~
+A rickety board walk begins here.  Surrounded by a small strip of beach,
+this large boardwalk leads right out into the ocean.  It's many planks sway
+as the tides roll in and out.  
+~
+0 0 0
+D1
+~
+~
+0 0 936
+D3
+~
+~
+0 0 2201
+S
+#2201
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 2200
+D3
+~
+~
+0 0 2202
+S
+#2202
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 2201
+D2
+~
+~
+0 0 2211
+D3
+~
+~
+0 0 2203
+S
+#2203
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2209
+D1
+~
+~
+0 0 2202
+D3
+~
+~
+0 0 2204
+S
+#2204
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 2203
+D2
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2205
+S
+#2205
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2207
+D1
+~
+~
+0 0 2204
+D3
+~
+~
+0 0 2206
+S
+#2206
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2215
+S
+#2207
+A Dock~
+A short strip of boardwalk juts out from the rest, leading off to the
+north.  This strip is slightly more narrow than the rest of the main
+boardwalk.  Various crates and boxes line the rim of the planks, making it
+more difficult to see what's up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 2208
+D2
+~
+~
+0 0 2205
+S
+#2208
+Dock leading to the ship "Isinia"~
+For someone who has never seen an ocean hover-ship before, these are very
+impressive shiny things.  Someone like Goku might even think it was a bird
+or something to eat.  Sailors line the dock here, loading and unloading
+imports and exports to go out on the next shipment.  This was long ago
+outdated as a from of travel, but they are still cost effective ways to ship
+goods back and forth about the earth.  
+~
+0 0 0
+D2
+~
+~
+0 0 2207
+S
+#2209
+A Dock~
+A short strip of boardwalk juts out from the rest, leading off to the
+north.  This strip is slightly more narrow than the rest of the main
+boardwalk.  Various crates and boxes line the rim of the planks, making it
+more difficult to see what's up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 2210
+D2
+~
+~
+0 0 2203
+S
+#2210
+Dock leading to the ship "Tandra"~
+For someone who has never seen an ocean hover-ship before, these are very
+impressive shiny things.  Someone like Goku might even think it was a bird
+or something to eat.  Sailors line the dock here, loading and unloading
+imports and exports to go out on the next shipment.  This was long ago
+outdated as a from of travel, but they are still cost effective ways to ship
+goods back and forth about the earth.  
+~
+0 0 0
+D2
+~
+~
+0 0 2209
+S
+#2211
+A Dock~
+A short strip of boardwalk juts out from the rest, leading off to the
+south.  This strip is slightly more narrow than the rest of the main
+boardwalk.  Various crates and boxes line the rim of the planks, making it
+more difficult to see what's up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 2202
+D2
+~
+~
+0 0 2212
+S
+#2212
+Dock leading to the ship "Amenia"~
+For someone who has never seen an ocean hover-ship before, these are very
+impressive shiny things.  Someone like Goku might even think it was a bird
+or something to eat.  Sailors line the dock here, loading and unloading
+imports and exports to go out on the next shipment.  This was long ago
+outdated as a from of travel, but they are still cost effective ways to ship
+goods back and forth about the earth.  
+~
+0 0 0
+D0
+~
+~
+0 0 2211
+D1
+~
+~
+0 0 2250
+S
+#2213
+A Dock~
+A short strip of boardwalk juts out from the rest, leading off to the
+south.  This strip is slightly more narrow than the rest of the main
+boardwalk.  Various crates and boxes line the rim of the planks, making it
+more difficult to see what's up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 2204
+D2
+~
+~
+0 0 2214
+S
+#2214
+Dock leading to the ship "Syclya"~
+For someone who has never seen an ocean hover-ship before, these are very
+impressive shiny things.  Someone like Goku might even think it was a bird
+or something to eat.  Sailors line the dock here, loading and unloading
+imports and exports to go out on the next shipment.  This was long ago
+outdated as a from of travel, but they are still cost effective ways to ship
+goods back and forth about the earth.  
+~
+0 0 0
+D0
+~
+~
+0 0 2213
+S
+#2215
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2206
+D2
+~
+~
+0 0 2216
+S
+#2216
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2215
+D3
+~
+~
+0 0 2218
+S
+#2218
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 2216
+D3
+~
+~
+0 0 2219
+S
+#2219
+The Boardwalk~
+The Boardwalk continues off into the ocean.  The farther out one goes,
+the more sway is in the boards, giving the person a queasy feeling.  Every
+once in a while a wave will break near the huge pillars holding up the dock,
+causing a mist of spray to permeate about the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2221
+D1
+~
+~
+0 0 2218
+D3
+~
+~
+0 0 2220
+S
+#2220
+The End of the Boardwalk~
+The Boardwalk ends here.  Looking out over the vast ocean, one can't help
+but gaze at it's wonder and beauty.  The waves grow larger just a few feet
+from where the dock ends and waves break more violently and rapidly out
+here, cause more spraying and swaying on the old rickety boardwalk.  
+~
+0 0 0
+D1
+~
+~
+0 0 2219
+S
+#2221
+A Dock~
+A short strip of boardwalk juts out from the rest, leading off to the
+north.  This strip is slightly more narrow than the rest of the main
+boardwalk.  Various crates and boxes line the rim of the planks, making it
+more difficult to see what's up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 2222
+D2
+~
+~
+0 0 2219
+S
+#2222
+A Dock~
+A short strip of boardwalk juts out from the rest, leading off to the
+north.  This strip is slightly more narrow than the rest of the main
+boardwalk.  Various crates and boxes line the rim of the planks, making it
+more difficult to see what's up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 2223
+D2
+~
+~
+0 0 2221
+S
+#2223
+Dock leading to the ship "Gindra"~
+For someone who has never seen an ocean hover-ship before, these are very
+impressive shiny things.  Someone like Goku might even think it was a bird
+or something to eat.  Sailors line the dock here, loading and unloading
+imports and exports to go out on the next shipment.  This was long ago
+outdated as a from of travel, but they are still cost effective ways to ship
+goods back and forth about the earth.  
+~
+0 0 0
+D2
+~
+~
+0 0 2222
+S
+#2224
+Main Foyer in Orange Star High School~
+~
+0 0 0
+D1
+~
+~
+0 0 2225
+D3
+~
+~
+0 0 910
+S
+#2225
+Main Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 2226
+D3
+~
+~
+0 0 2224
+S
+#2226
+Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 2231
+D1
+~
+~
+0 0 2227
+D2
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2225
+S
+#2227
+Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 2238
+D2
+~
+~
+0 0 2237
+D3
+~
+~
+0 0 2226
+D4
+~
+~
+0 0 2228
+S
+#2228
+Main Hall 2nd Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 2240
+D2
+~
+~
+0 0 2239
+D3
+~
+~
+0 0 2229
+D5
+~
+~
+0 0 2227
+S
+#2229
+Main Hall 2nd Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 2241
+D1
+~
+~
+0 0 2228
+D2
+~
+~
+0 0 2242
+D3
+~
+~
+0 0 2230
+S
+#2230
+Main Hall 2nd Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 2243
+D1
+~
+~
+0 0 2229
+D2
+~
+~
+0 0 2244
+S
+#2231
+A Hallway of Lockers~
+~
+0 0 0
+D0
+~
+~
+0 0 2232
+D2
+~
+~
+0 0 2226
+S
+#2232
+A Hallway of Lockers~
+~
+0 0 0
+D0
+~
+~
+0 0 2233
+D2
+~
+~
+0 0 2231
+S
+#2233
+A Hallway of Lockers~
+~
+0 0 0
+D2
+~
+~
+0 0 2232
+D5
+~
+~
+0 0 2245
+S
+#2234
+A Hallway of Lockers~
+~
+0 0 0
+D0
+~
+~
+0 0 2226
+D2
+~
+~
+0 0 2235
+S
+#2235
+A Hallway of Lockers~
+~
+0 0 0
+D0
+~
+~
+0 0 2234
+D2
+~
+~
+0 0 2236
+S
+#2236
+A Hallway of Lockers~
+~
+0 0 0
+D0
+~
+~
+0 0 2235
+S
+#2237
+The English Classroom~
+~
+0 0 0
+D0
+~
+~
+0 0 2227
+S
+#2238
+The Mathematics Classroom~
+~
+0 0 0
+D2
+~
+~
+0 0 2227
+S
+#2239
+The History Classroom~
+~
+0 0 0
+D0
+~
+~
+0 0 2228
+S
+#2240
+The Chemistry Lab~
+~
+0 0 0
+D2
+~
+~
+0 0 2228
+S
+#2241
+The Girl's Bathroom~
+~
+0 0 0
+D2
+~
+~
+0 0 2229
+S
+#2242
+The Boy's Bathroom~
+~
+0 0 0
+D0
+~
+~
+0 0 2229
+S
+#2243
+A Study Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 2230
+S
+#2244
+The In-school Suspension Room~
+~
+0 0 0
+D0
+~
+~
+0 0 2230
+S
+#2245
+A Set of Spiral Steps~
+~
+0 0 0
+D4
+~
+~
+0 0 2233
+D5
+~
+~
+0 0 2246
+S
+#2246
+A Dark Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 2247
+D4
+~
+~
+0 0 2245
+S
+#2247
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2246
+D2
+~
+~
+0 0 2248
+S
+#2248
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 2247
+D1
+~
+~
+1 0 2249
+S
+#2249
+The Janitors Closet~
+~
+0 0 0
+D3
+~
+~
+1 0 2248
+S
+#2250
+On the Deck of the "Amenia"~
+A large ship hovers here in the dock.  This is the imfamous ship Amenia,
+which really hasn't done anything out of the ordinary.  However, the captain
+who sails this ship claims to know the discreet location of the secret
+training island of the Saiyan Elite.  He will take anyone there who is
+willing to pay his fees.  
+~
+0 4 0
+D3
+~
+~
+0 0 2212
+S
+#2299
+Blood pit~
+Standing in a dark eerie room that seems covered in nothing but blood. 
+Pools of blood just seem to form and what ever is on the floor.  It all
+seems so think and cloting and very dead like, but moves on its own.  As the
+pools form and clot around the feet of who ever happens to be standing here
+the best of hell is never far away and only adds to the feeling of not being
+alone.  
+~
+0 1028 0
+R RANDOM 2299 75~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2248 1 1
+D 0 2249 3 1
+M 0 933 10 2200 1 Load a burly sailor
+M 0 935 10 2216 1 Load a drunken sailor
+M 0 936 1 2220 1 Load A shrouded figure
+M 0 934 10 2221 1 Load a ship rat
+M 0 2200 1 2250 1 Load captain amenia
+M 0 2299 1 2299 1 Load blurg
+S
+
+
+
+#SHOPS
+2200 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#2200
+smile
+say Alright then, $n, I will shew yu da way too da island of trainin'.
+mob echo Captain Amenia claps his hands together and his crew gets to work. Before long the ship has set sail and you have reached your destination.
+say I can't be taking you back as I have to be leavin' now, but yoo look resurcful, so I be sure yu can git ur own way back.
+grin
+laugh
+mob transfer $n 4009
+~
+#2201
+say Ah, so I see you've come in search of the famed Training Island of the Saiyan elite. I'm the only man who knows where it is ya know.
+smile
+beam
+say But don't think you're getting a free ride ! You're going to have to pay up if you want passage. 100 zenni, pay up or get off my boat !
+~
+#2299
+emote looks at $n with very hungrey eyes as the blood drips from his body and mouth and he moves like a lioness would on the hunt.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#2299
+room echo The eerie tone of dripping blood and the smell of rotting flesh succumbs the area as the feeling death overwhelms all.
+~
+#0
+
+#$

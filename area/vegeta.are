@@ -1,0 +1,3306 @@
+#AREADATA
+Name Planet Vegeta1~
+Builders Terraco-d Kube~
+VNUMs 4400 4499
+Credits (null)~
+Security 6
+End
+
+
+
+#MOBILES
+#4400
+A saiyan guard~
+A guard wearing saiyan armor~
+A guard wearing saiyan armor guarding the door
+~
+~
+saiya-jin~
+A 0 0 0
+2000000000 4472
+165 165 165 165 165 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 5709
+AHMV ABCDEFGHIJK large unknown
+M GRALL 4400 100~
+#4401
+A guard~
+A guard waeing saiyan armor~
+A guard waeing saiyan armor and portoling the streets
+~
+~
+saiya-jin~
+A 0 0 0
+700000000000 83666
+517 517 517 517 517 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 24696
+AHMV ABCDEFGHIJK large unknown
+#4402
+Granny~
+Granny sits here with a smile on her face~
+A little old lady sits here, waiting to take your order
+~
+~
+human~
+ABRSY d 0 0
+75000000000 27386
+321 321 321 321 321 
+100 100
+punch
+0 0 0 0
+AFIK DEKOZ FGH ILYZ
+stand stand none 14129
+C ABCDEFGHIJK large unknown
+F for AHMV
+#4403
+Landing pad opretive~
+Landing pad opretive~
+Landing pad opretive wearing protective gear and ear plugs
+~
+~
+saiya-jin~
+A 0 -300 0
+10000000000 10000
+218 218 218 218 218 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 400000
+AHMV ABCDEFGHIJK large unknown
+M GREET 4402 100~
+#4404
+Secretary~
+A small woman in a tight mini-skirt sits here greeting you~
+A small woman in a tight mini-skirt sits here greeting you
+~
+Rather small indeed, this woman has a fiery attitude and is twice as hot
+when you get her rialed up.  Being that she is a Saiya-jin, that is
+completely expected.  
+~
+saiya-jin~
+ABQRS T 100 0
+100000000000 10000
+218 218 218 218 218 
+100 100
+thwack
+0 0 0 0
+CFI C E DFOZ
+stand stand none 8538
+AHMV ABCDEFGHIJK large unknown
+M GREET 4404 100~
+#4405
+child~
+a running saiya-jin child~
+A running saiya-jin child
+~
+~
+saiya-jin~
+AGQ 0 0 0
+10000 5
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK large unknown
+#4406
+Check in guard~
+Check in guard~
+A check in guard wear a bighrt uniform and watches all who pass
+~
+This lady has long black hair and is always wearing the same uniform no
+matter what the day she looks like she can fight well and hit hard.  She has
+a lorge muscel base and a nice figure.  
+~
+saiya-jin~
+A 0 300 0
+20000000000 14142
+248 248 248 248 248 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 10153
+AHMV ABCDEFGHIJK large unknown
+M GREET 4406 100~
+#4407
+Porter~
+A porter~
+A porter stands here greeting people and opening the door
+~
+~
+saiya-jin~
+AB T 0 0
+40000000000 20000
+283 283 283 283 283 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 12074
+AHMV ABCDEFGHIJK large unknown
+M GREET 4407 100~
+#4408
+child~
+a running saiya-jin child~
+A running saiya-jin child
+~
+~
+saiya-jin~
+AGQ 0 0 0
+10000 5
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 250
+AHMV ABCDEFGHIJK large unknown
+#4409
+teenager rebellious~
+a rebellious teenager~
+A rebellious teenager stands here looking tough
+~
+~
+saiya-jin~
+AGQR 0 0 0
+100000 21
+38 38 38 38 38 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 462
+AHMV ABCDEFGHIJK large unknown
+#4410
+teenager rebellious~
+a rebellious teenager~
+A rebellious teenager stands here trying to impress others
+~
+~
+saiya-jin~
+AGQR 0 0 0
+100000 21
+38 38 38 38 38 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 462
+AHMV ABCDEFGHIJK large unknown
+#4411
+Bio-android Convict~
+A {GBio-android{x with a nasty {Rtemper{x~
+A {GBio-android{x with a nasty {Rtemper{x
+~
+~
+bio-android~
+ABRS T -1000 0
+150000000000 38729
+371 371 371 371 371 
+100 100
+punch
+0 0 0 0
+FIM CIQ F 0
+stand stand male 16802
+AHMV ABCDEFGHIJK huge unknown
+#4412
+Namekian Convict~
+A {GNamek{x seemingly mistried~
+A {GNamek{x seemingly mistried
+~
+~
+namek~
+ABRS T -1000 0
+95000000000 30822
+337 337 337 337 337 
+100 100
+punch
+0 0 0 0
+FHI CL 0 DO
+stand stand none 14989
+AHMV ABCDEFGHIJK large unknown
+#4413
+Commander of Royal Vegeta Guard~
+Commander of Royal Vegeta Guard~
+Commander of the Royal Vegeta Guard
+~
+~
+saiya-jin~
+ABRS T -1 0
+400000000000 44721
+394 394 394 394 394 
+100 100
+punch
+0 0 0 0
+CFI E 0 DO
+stand stand male 18055
+AHMV ABCDEFGHIJK huge unknown
+#4414
+Lieutenant Luza~
+Lieutenant Luza of Royal Vegeta Guard~
+Lieutenant Luza of Royal Vegeta Guard
+~
+~
+saiya-jin~
+ABRS T -2 0
+300000000000 54772
+430 430 430 430 430 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 19982
+AHMV ABCDEFGHIJK huge unknown
+#4415
+Royal Vegeta Guard~
+{RRoyal {MVegeta{x Guard~
+{RRoyal {MVegeta{x Guard
+~
+~
+saiya-jin~
+ABRS T -3 0
+250000000000 50000
+413 413 413 413 413 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 19091
+AHMV ABCDEFGHIJK huge unknown
+#4416
+Saiya-jin Master Trainer~
+The {YSaiya-jin{x Master~
+The {YSaiya-jin{x Master
+~
+~
+saiya-jin~
+ABJ 0 1 0
+15 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+sit sit none 49
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 4417 yes~
+M GREET 4416 100~
+#4417
+Bo~
+{DBo {RBludsken{x~
+A member of the Saiya-Elite Twins
+~
+{DBo {RBludsken{x.
+~
+saiya-jin~
+ABRS T 0 0
+200000000000 44721
+394 394 394 394 394 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 18055
+AHMV ABCDEFGHIJK huge unknown
+M GREET 4430 100~
+#4418
+Coby Bludsken~
+{BCoby {RBludsken{x~
+A member of the Saiya-Elite Twins
+~
+{BCoby {RBludsken{x
+~
+saiya-jin~
+ABRS T 0 0
+200000000000 44721
+394 394 394 394 394 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 18055
+AHMV ABCDEFGHIJK huge unknown
+M GREET 4429 100~
+#4419
+Mail Boy~
+The Mail Boy~
+A disgruntled mail boy
+~
+~
+saiya-jin~
+ABR T 0 0
+100000000000 21081
+311 311 311 311 311 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 14620
+AHMV ABCDEFGHIJK large unknown
+#4420
+Office Worker~
+Office Worker~
+A worker looking much more like a slave
+~
+~
+saiya-jin~
+AGQR T 0 0
+60000000000 12247
+247 247 247 247 247 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 12373
+AHMV ABCDEFGHIJK large unknown
+#4421
+Office Manager~
+Office Manager~
+A very tempermental Manager
+~
+~
+saiya-jin~
+ABRS T 0 0
+250000000000 50000
+413 413 413 413 413 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 19091
+AHMV ABCDEFGHIJK large unknown
+M GREET 4421 100~
+#4422
+Lobby Clerk~
+A Clerk with long {Ygolden{x hair~
+A lobby clerk
+~
+~
+saiya-jin~
+ABRS T 0 0
+125000000000 23570
+327 327 327 327 327 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 15459
+AHMV ABCDEFGHIJK large unknown
+#4423
+Pedestrian~
+A pedestrian~
+A pedestrian wandering the streets
+~
+~
+saiya-jin~
+AGR 0 0 0
+75000000000 13693
+261 261 261 261 261 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 13082
+AHMV ABCDEFGHIJK large unknown
+#4424
+Female Pedestrian~
+A woman pedestrian~
+A woman trying to get somewhere
+~
+~
+saiya-jin~
+A T 0 0
+75000000000 13693
+261 261 261 261 261 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 13082
+AHMV ABCDEFGHIJK large unknown
+#4425
+Hobo~
+A seemingly drunk hobo~
+A hobo is almost passed out
+~
+~
+saiya-jin~
+ABQRS T 0 0
+100000000000 21081
+311 311 311 311 311 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+sleep sleep male 14620
+AHMV ABCDEFGHIJK large unknown
+#4426
+Alley Cat~
+A ferocious Feline~
+A rather dubious looking cat
+~
+~
+cat~
+ABPQR Z 0 0
+50000000000 11180
+236 236 236 236 236 
+100 100
+punch
+0 0 0 0
+FH 0 0 0
+stand stand none 11821
+AGV ACDEFHJKQUV small unknown
+#4427
+Drug Store Keep~
+A salesman~
+A Store Clerk
+~
+~
+saiya-jin~
+ABQ 0 0 0
+25 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 55
+AHMV ABCDEFGHIJK large unknown
+#4428
+Clothing Salesman~
+A Saleswoman~
+A rather naughty looking saleswoman
+~
+~
+saiya-jin~
+AB 0 0 0
+50 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 66
+AHMV ABCDEFGHIJK large unknown
+#4429
+Armor Salesman~
+Armor Salesman~
+A small beady eyed man sells armor
+~
+~
+saiya-jin~
+AB 0 0 0
+25 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 55
+AHMV ABCDEFGHIJK large unknown
+#4430
+Jewelry Store Clerk~
+A jewelry salesman~
+A jewelry salesman is here, trying to talk you into buying something
+~
+~
+saiya-jin~
+AB 0 0 0
+50 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 66
+AHMV ABCDEFGHIJK large unknown
+#4431
+Galleria Exec~
+Galleria Executive~
+The head exec for the Galleria
+~
+~
+saiya-jin~
+ABRS T 0 0
+700000000000 83666
+517 517 517 517 517 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 24696
+AHMV ABCDEFGHIJK huge unknown
+#4432
+Telephone Operator~
+Telephone Operator~
+A person taking calls
+~
+~
+saiya-jin~
+ABRS T 0 0
+250000000000 50000
+413 413 413 413 413 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 19091
+AHMV ABCDEFGHIJK large unknown
+M ENTRY 4432 100~
+#4433
+Receptionist~
+A Receptionist~
+A clerical assistant to the Exec
+~
+~
+saiya-jin~
+ABRS T 0 0
+300000000000 54772
+430 430 430 430 430 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 19982
+AHMV ABCDEFGHIJK huge unknown
+M GREET 4433 100~
+#4434
+General Bludsken~
+{YGeneral {RBludsken{x~
+A ferocious man is here, waiting to strike out at a moments notice
+~
+~
+saiya-jin~
+ABRS T 0 0
+800000000000 89442
+532 532 532 532 532 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 25535
+AHMV ABCDEFGHIJK huge unknown
+#4435
+Security Guard~
+Security Guard~
+Security Guard
+~
+~
+saiya-jin~
+AGRS T 0 0
+400000000000 63245
+457 457 457 457 457 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 21472
+AHMV ABCDEFGHIJK huge unknown
+#4436
+Mother~
+A Mother~
+A mother watching her child
+~
+~
+saiya-jin~
+AGR T 0 0
+65000000000 16996
+282 282 282 282 282 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 13128
+AHMV ABCDEFGHIJK large unknown
+#4437
+Child~
+A child~
+An eight-year old kid
+~
+~
+saiya-jin~
+AGR T 0 0
+30000000000 8660
+208 208 208 208 208 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 10404
+AHMV ABCDEFGHIJK small unknown
+#4438
+Stuffed bear~
+A Teddy bear~
+A large, rather strange looking bear
+~
+~
+bear~
+AGRS T 0 0
+15000000000 6123
+174 174 174 174 174 
+100 100
+punch
+0 0 0 0
+DEO 0 EI 0
+stand stand none 8749
+AGV ABCDEFHJKUV giant unknown
+#4439
+Customer~
+A customer~
+A customer at Grannies
+~
+~
+saiya-jin~
+ABRS T 0 0
+30000000000 8660
+208 208 208 208 208 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 10404
+AHMV ABCDEFGHIJK large unknown
+#4498
+Icerian Convict~
+A sadistic {CIcerian{x with {Rblood{x on his chin~
+A sadistic {CIcerian{x with {Rblood{x on his chin
+~
+Standing around 6'5", a rather sadistic looking
+Icer stands here. His eyes glow a deep blood red,
+his skin is a dark grey, showing his years in this
+cell. A few scars cover his body, apparent battle
+scars from haneous battles gone by.
+~
+icer~
+ABRS T -1000 0
+100000000000 55
+200 200 200 200 200 
+100 100
+chill
+0 0 0 0
+FIM EI 0 HZ
+stand stand male 35000
+AHMV ABCDEFGHIJK huge unknown
+#4499
+CEO~
+CEO of Stocks~
+A very wealthy man stands here with a nice suit on.
+~
+A rather large yet athletic looking man is here.
+~
+saiya-jin~
+ABGRS AT -1000 0
+600000000000 77459
+500 500 500 500 500 
+-13824 25
+punch
+0 0 0 0
+AEFIKO ELPTYZ AEKPQYZ DFGHIO
+stand sit male 23763
+AHM ABCDEFGHIJK huge unknown
+F for V
+#0
+
+
+
+#OBJECTS
+#4400
+The bones of a {YSaiya-jin {DRib-cage{x.~
+the bones of a {YSaiya-jin {DRib-cage{x.~
+The bones of a {YSaiya-jin {DRib-cage{x have been fused together with extreme heat to create the armor laid before you.~
+Saiya-jin Rib-cage~
+1000
+armor ABCGX ADP
+DHIJM DHIJM DHIJM DHIJM 0
+250000000 1 1000000000 P
+#4401
+Bread~
+a loaf of bread~
+A loaf of bread~
+bread~
+1
+food P AO
+A A 0 0 CFG
+0 1 10 P
+#4402
+Hospital Healing Cot~
+a hospital bed with amazing healing properties~
+A hospital bed with amazing healing properties~
+cot~
+1
+furniture A 0
+DFGHIJ ABCDEFGHIJKLMNOPQRSTUVWXYZabcde EFHIKL EIJKN EIJKN
+0 16960 1000000000 P
+#4403
+Garbage Can~
+a Dented Garbage Can~
+A small metal trash can~
+trash can~
+1
+container X AN
+10000 A 0 1000000 -75
+0 1 1000 P
+#4404
+Bean Pill~
+a small {Bblue{x pill~
+A small {Bblue{x pill~
+unknown~
+1
+food 0 AO
+AC AC 0 0 CFG
+0 1 15 P
+#4405
+Can of Soda~
+a can of soda~
+A can of soda~
+unknown~
+1
+drink 0 AO
+5 5 'coke' 0 0
+0 1 5 P
+#4406
+Coffee~
+cup of Coffee~
+Steaming cup of coffee~
+unknown~
+1
+drink 0 AO
+5 5 'coffee' 0 0
+0 1 5 P
+#4407
+Booth~
+a large booth~
+A rather large booth that sits quite a few~
+unknown~
+1
+furniture 0 0
+BD INOPQSUVWXYa DF 0 0
+0 1000 1000 P
+#4408
+A blue gi top~
+a {BBlue{x Gi Top~
+A {BBlue{x Gi Top~
+unknown~
+1
+armor 0 AD
+BCDE BCDE BCDE BCDE 0
+0 1 10000 P
+#4409
+Red Gi Top~
+a {RRed{x Gi Top~
+A {RRed{x Gi Top~
+unknown~
+1
+armor 0 AO
+ABF ABF ABF ABF 0
+0 1 10000 P
+#4410
+Red Gi Pants~
+a pair of {RRed{x Gi pants~
+A pair of {RRed{x Gi pants~
+unknown~
+1
+armor 0 AFO
+DF DF DF DF 0
+0 1 15000 P
+#4411
+Blue Gi Pants~
+a pair of {BBlue {xGi pants~
+A pair of {BBlue {xGi pants~
+unknown~
+1
+armor 0 AF
+ABF ABF ABF ABF 0
+0 1 15000 P
+#4412
+Black Gi top~
+a {DBlack {xGi top~
+A {DBlack {xGi top~
+unknown~
+1
+armor 0 AD
+BEF BEF BEF BEF 0
+0 1 20000 P
+#4413
+Black Gi Pants~
+a pair of {DBlack {xGi pants~
+A pair of {DBlack {xGi pants~
+unknown~
+1
+armor 0 AF
+ABCEF ABCEF ABCEF ABCEF 0
+0 1 25000 P
+#4414
+Saiya-jin Hat~
+a {RRed{x {YSaiya-jin{x Hat~
+A {RRed{x {YSaiya-jin{x Hat~
+unknown~
+1
+trash 0 AE
+0 0 0 0 0
+0 1 10000 P
+#4415
+Black Jacket~
+a {DBlack {xjacket with a {YS {xon the back of it~
+A {DBlack {xjacket with a {YS {xon the back of it~
+unknown~
+1
+armor 0 AK
+ABCD ABCD ABCD ABCD 0
+0 1 20000 P
+#4416
+Black Boots~
+{DBlack Boots{x~
+{DBlack Boots{x~
+unknown~
+1
+armor 0 AG
+ABCD ABCD ABCD ABCD 0
+0 1 15000 P
+#4417
+Black Gloves~
+{DBlack Gloves{x~
+{DBlack Gloves{x~
+unknown~
+1
+armor 0 AH
+ABCD ABCD ABCD ABCD 0
+0 1 10000 P
+#4418
+Sunglasses~
+a pair of Ray-Bands~
+A pair of Ray-Bands~
+unknown~
+1
+armor 0 AS
+AC AC AC AC 0
+0 1 5000 P
+#4419
+Light Necklace~
+{YLight {SNecklace{x~
+{YLight {SNecklace{x~
+unknown~
+1
+armor AK AC
+BD BD BD BD 0
+0 1 15000 P
+#4420
+Dark Amulet~
+{DDark {RAmulet{x~
+{DDark {RAmulet{x~
+unknown~
+1
+armor BJ AC
+BD BD BD BD 0
+0 1 15000 P
+#4421
+Light Ring~
+{YLight {SRing{x~
+{YLight {SRing{x~
+unknown~
+1
+armor AK AB
+BD BD BD BD 0
+0 0 0 P
+#4422
+Dark Ring~
+{DDark {RRing{x~
+{DDark {RRing{x~
+unknown~
+1
+armor BJ AB
+BD BD BD BD 0
+0 1 15000 P
+#4423
+Light Earring~
+{YLight {SEarring{x~
+{YLight {SEarring{x~
+unknown~
+1
+armor AK AT
+BD BD BD BD 0
+0 1 10000 P
+#4424
+Dark Earring~
+{DDark {REarring{x~
+{DDark {REarring{x~
+unknown~
+1
+armor BJ AT
+BD BD BD BD 0
+0 1 10000 P
+#4425
+Cubicle~
+a small double office cubicle~
+A small double office cubicle~
+unknown~
+1
+furniture 0 P
+B EIJKN F A A
+0 1000 100 P
+#4426
+Expert Key~
+{DAn {YExpert{D Room {xKey~
+{DAn {YExpert{D Room {xKey~
+unknown~
+1
+key ABX AO
+0 0 0 0 0
+0 1 0 P
+#4427
+Black Couch~
+a {DBlack {BSectional {CCouch{x~
+A {DBlack {BSectional {CCouch{x~
+unknown~
+1
+furniture 0 0
+ABC ABCDEFGHIJKLMNOPQRSTUVWXYZabcde FH DFGHIJ DFGHIJ
+0 1000 1000 P
+#4428
+Beer Tap Fountain~
+a {RBeer{C Tap {BFountain{x~
+A {RBeer{C Tap {BFountain{x~
+unknown~
+1
+drink 0 P
+-1 1 'beer' 0 0
+0 1000 100000 P
+#4429
+A Blunt~
+{GA fat {DBlunt{x~
+{GA {DPhatty {Gfo dis {CPimp {BDaddy{x~
+unknown~
+1
+wand ABX AN
+1 1 1 '' 0
+0 0 0 P
+#4492
+desk~
+the {RDesk{x of {C-{Y={S>{DK{S<{Y={C-{Dube{x~
+The {RDesk{x of {C-{Y={S>{DK{S<{Y={C-{Dube{x~
+desk~
+1
+furniture CGX P
+A INOPQSUVWXYa DF DEHJLMN DEHJLMN
+0 15 10 P
+#4493
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4494
+Many {YSaiya-jin{x tails~
+many {YSaiya-jin{x tails fused together~
+Many {YSaiya-jin{x tails ripped off the owners and made to cover {DKube's{x tail.~
+Fused Saiya-jin tails~
+1
+armor ABCGX AR
+DHIJM DHIJM DHIJM DHIJM 0
+250000000 1 1000000000 P
+#4495
+The Skull of a {YSaiya-jin{x~
+the fractured skull of a {YSaiya-jin{x~
+The fractured skull of a {YSaiya-jin{x lays here with flies swarming all around~
+Skull of a Saiya-jin~
+1
+armor ABCX AE
+DHIJM DHIJM DHIJM DHIJM 0
+250000000 1 1000000000 P
+#4496
+The Stolen Aura of a {YSaiya-jin{x~
+the stolen {YAura{x of a {YSaiya-jin{x~
+The stolen {YAura{x of a {YSaiya-jin{x defeated by the mighty {DKube{x~
+Aura of a Saiya-jin~
+1
+armor ABCX AK
+DHIJM DHIJM DHIJM DHIJM 0
+250000000 1 1000000000 P
+#4497
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4498
+Axe of Fire.~
+axe of Fire~
+Axe of Fire~
+unknown~
+1
+weapon AB ANO
+flail 50 50 flame A
+2500000000 3 1000000 P
+E
+bleh~
+~
+#4499
+Dragonball Radar~
+a small handheld radar ~
+A small handheld radar that looks made of metal~
+unknown~
+400000
+trash 0 AO
+0 0 0 0 0
+0 3 20000 P
+O RANDOM 4499 1~
+#0
+
+
+
+#ROOMS
+#4400
+A Landing Pad~
+The landing pad is huge almost un-ending.  The yellow light and lines of
+the strip give guidance to ships coming and going.  The area is very busy
+with people exiting and entering ships of mostly Saiyan-jin background with a
+few Nameks here and there.  There isn't a Human to be found on the pad in
+this area at all.  The ships that come and go make a terrible noise in their
+wake as the engines rev up for take off or throttle down for a landing.
+~
+0 0 0
+D0
+~
+~
+0 0 4401
+D1
+~
+~
+0 0 4403
+D3
+~
+~
+0 0 4404
+R GRALL 4400 100~
+S
+#4401
+A landing Pad~
+The landing pad is huge almost un-ending.  The yellow light and lines of
+the strip give guidance to ships coming and going.  The area is very busy
+with people exiting and entering ships of mostly Saiyan-jin background with a
+few Nameks here and there.  There isn't a Human to be found on the pad in
+this area at all.  The ships that come and go make a terrible noise in their
+wake as the engines rev up for take off or throttle down for a landing.
+~
+0 4 0
+D1
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 4400
+R GRALL 4400 100~
+S
+#4402
+A Landing Pad~
+The landing pad is huge almost un-ending.  The yellow light and lines of
+the strip give guidance to ships coming and going.  The area is very busy
+with people exiting and entering ships of mostly Saiyan-jin background with a
+few Nameks here and there.  There isn't a Human to be found on the pad in
+this area at all.  The ships that come and go make a terrible noise in their
+wake as the engines rev up for take off or throttle down for a landing.
+~
+0 0 0
+D2
+~
+~
+0 0 4403
+D3
+~
+~
+0 0 4401
+R GRALL 4400 100~
+S
+#4403
+A Landing Pad~
+The landing pad is huge almost un-ending.  The yellow light and lines of
+the strip give guidance to ships coming and going.  The area is very busy
+with people exiting and entering ships of mostly Saiyan-jin background with a
+few Nameks here and there.  There isn't a Human to be found on the pad in
+this area at all.  The ships that come and go make a terrible noise in their
+wake as the engines rev up for take off or throttle down for a landing.
+~
+0 0 0
+D0
+~
+~
+0 0 4402
+D3
+~
+~
+0 0 4400
+R GRALL 4400 100~
+S
+#4404
+A Check In Booth~
+The small office here is always busy as people come and go having their
+papers checked if of a different race.  The Saiya-jins guard everything in the
+office.  There is a man behind a desk here checking cards and products
+brought into the planet by everyone with a X-ray type machine.
+~
+0 0 0
+D1
+~
+~
+0 0 4400
+D3
+~
+~
+1 0 4405
+S
+#4405
+A Short Hallway~
+This short hallway seems to link the landing pad check-in to the entrance
+of the main building.  The walls are not painted but seem to be made out of
+a mud conrete mix and seem to just be white and smooth.  There are windows
+on both sides of the hall alowing light to come in. There is a man standing
+at the end of the hallway.
+~
+0 0 0
+D1
+~
+~
+1 0 4404
+D3
+~
+~
+0 0 4406
+S
+#4406
+A Short Hallway~
+This short hallway seems to link the landing pad check-in to the entrance
+of the main building.  The walls are not painted but seem to be made out of
+a mud conrete mix and seem to just be white and smooth.  There are windows
+on both sides of the hall alowing light to come in. There is a man standing
+at the end of the hallway.
+~
+0 0 0
+D1
+~
+~
+0 0 4405
+D3
+~
+~
+0 0 4407
+S
+#4407
+A large covered exit~
+This large covered exit is big enough for 20 people to stand under.  The
+road is infront of the porch like place.  The cover gose all the way to the
+end of the sidewalk and just hangs slightly over it.  There are small bushes
+on each side making look somewhat presentable.  A large door behind is what
+seperts the the outside air from the inside cooled and cripse air of the
+landing and check in area.  
+~
+0 0 0
+D1
+~
+~
+0 0 4406
+D3
+~
+~
+0 0 4408
+S
+#4408
+Kirra St.~
+The street is livened with activity here.  People can be seen coming and
+going from all directions.  Some coming out of the shuttle bays are carrying
+luggage and trying to hide their faces from the Saiya-jin people.  Aliens
+from all different parts of the galaxies are here, waiting for a taxi or
+just stopping off to see the sites.  A few mis-begotten Saiya-jins are
+toying with weaker beings, as if having fun.  To the south, a faint mist can
+be seen drawing in.  To the north, seems to be quiet as if a residential
+area were close by.  
+~
+0 0 0
+D0
+~
+~
+0 0 4409
+D1
+~
+~
+0 0 4407
+D2
+~
+~
+0 0 4410
+S
+#4409
+Kirra St.~
+The street's end is drawing near.  There is an intersection closeby to
+the north that looks as if a nice neighborhood is nearby.  All of the
+comotion of city-life is behind but still activity is seen to the north. 
+The road curves slightly to meet the intersection at just the right pace.  A
+few people stopping off to get a few pictures of the city are just ahead and
+standing on either side of the road.  A few children play in the streets,
+while their parents are looking on.  To the south, a few faint smeels
+luminate the area, but no distinctive smells can be made out.  
+~
+0 0 0
+D0
+~
+~
+0 0 4427
+D2
+~
+~
+0 0 4408
+S
+#4410
+Intersecion of Paragus Parkway and Kirra St.~
+The street is lined with buildings and small stores.  Most of them are
+condemned or just vacated.  A few children play in the streets.  A vile odor
+blows in from the south on a misty almost hazey breeze.  To the west, a few
+people wearing suits can be seen going in and out of a huge building.  The
+road is cracked in a few places, showing its age.  A few people walk by
+holding their bags and purses as if for dear life.  Its apparent this is a
+rough part of town.  
+~
+0 0 0
+D0
+~
+~
+0 0 4408
+D1
+~
+~
+0 0 4411
+D2
+~
+~
+0 0 4413
+D3
+~
+~
+0 0 4414
+S
+#4411
+Paragus Parkway~
+The street seems to be getting a little more quiet.  Not alot of comotion
+going on around here.  A few people venture up and down the road, but none
+staying for long.  A few faint sounds come from the west, but silence on to
+the east.  Smells of old burned cinders radiate from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 4412
+D3
+~
+~
+0 0 4410
+S
+#4412
+Paragus Parkway~
+The street ends here, over-looked by a building that seems to have burned
+down quite some time ago.  Not a soul can be seen in site.  Maybe a stray
+cat or kid here or there.  The area seems to be untouched for quite some
+time.  The smells of city living illuminate from the west.  Other than the
+building, nothing much to see on this end of the street.  
+~
+0 0 0
+D3
+~
+~
+0 0 4411
+S
+#4413
+Kirra St.~
+This area of the city seems more violent than the rest.  Trash lines the
+streets radiating a vile odor.  No one can be seen for blocks.  As if
+avoiding this area.  A whino is laid out on a bench with a newspaper over
+his face, trying to ignore the public.  Small poping noises can be heard in
+the distance, as if gun-shots were being fired off.  The only thing on this
+end of the street is a drug store off to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 4410
+D1
+~
+~
+0 0 4499
+S
+#4414
+Paragus Parkway~
+The road is more peaceful here. Not alot of comotion going
+on about the place, aside from the occassional person wandering 
+down the road. Nothing much is to be seen here aside from the
+sky-scrapers towering high above the city streets and luminating 
+through the clouds.
+~
+0 0 0
+D1
+~
+~
+0 0 4410
+D3
+~
+~
+0 0 4415
+S
+#4415
+Paragus Parkway~
+The business section of town. Important looking people can
+be seen walking in and out of the building to the south. All of 
+them looking their finest, as if trying to impress someone with
+their flashy clothes, or trying to impress themselves with all
+their glory. Either way, they seem to be the epitamy of all that 
+is wrong with society these days.
+~
+0 0 0
+D1
+~
+~
+0 0 4414
+D2
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4416
+S
+#4416
+Paragus Parkway~
+The road is more peaceful here. Not alot of comotion going
+on about the place, aside from the occassional person wandering 
+down the road. Nothing much is to be seen here aside from the 
+sky-scrapers towering high above the city streets and luminating 
+through the clouds.
+~
+0 0 0
+D1
+~
+~
+0 0 4415
+D3
+~
+~
+0 0 4417
+S
+#4417
+Paragus Parkway~
+The road widens a bit here, as if showing some sort of
+small intersection of sorts. A few people wander up and down
+the road, either coming from the road's end or heading down
+that way. A smell luminates from the alley to the south, of 
+old garbage and even, old men. To the north is Ghenna Blvd, 
+and east or west leads either up or down Paragus Parkway. To
+the east is the business section of town, to the west is more 
+the low rent distict.
+~
+0 0 0
+D0
+~
+~
+0 0 4421
+D1
+~
+~
+0 0 4416
+D2
+~
+~
+0 0 4420
+D3
+~
+~
+0 0 4418
+S
+#4418
+Paragus Parkway~
+The road ends here, with nothing much in site except 
+for a cascade of glass and brick towering high above the
+city streets. Not much activity is done around here. A few
+people wander up and down the street, some loitering
+about, and some just realizing the road ends here. A few 
+cracks stretch out over the surface of the road, pointing
+towards the alley to the south, as if leading a person to 
+wonder whats over there. Looking to the south, there is
+a mystical glow luminating from the alley.
+~
+0 0 0
+D1
+~
+~
+0 0 4417
+D2
+~
+~
+0 0 4419
+S
+#4419
+Alley~
+As you enter this alley, you notice that it is much brighter than the
+parkway.  Surprisingly, this place seems to be better kept the the Parkway
+was.  As you look at your surrondings, you see that the only ways you can
+leave is north to go back to the Parkway, or, to the west, which strangely
+enough, seems to be bustling with activity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4418
+D3
+~
+~
+0 0 4449
+S
+#4420
+Alley~
+The alley here is rather old and smells of the many scents of garbage.  A
+few small beady eyes are piering out of the shadows, almost looking a bit
+animalish.  The only escape from this vile putred excuse for an alley, is to
+the north.  A few garbage cans line the walls, a few have garbage to the
+top, and some have more of those strange eyes glaring out of the shadows of
+the can.  
+~
+0 1 0
+D0
+~
+~
+0 0 4417
+S
+#4421
+Ghenna Blvd.~
+The road widens a bit here. Small children seem to keep
+clear of the street due to traffic being heavier here than other
+parts of the street. Off to the south is more of the business
+district of the city, Paragus Parkway. People wander about
+busily here. Either on their way to work or on their way home
+from work. Some dragging children with them, and some just
+walking by themselves. Off to the east, there are horrendous
+sounds of traffic and alot of comotion going on. Back to the
+west is more peaceful and translucid.
+~
+0 0 0
+D1
+~
+~
+0 0 4424
+D2
+~
+~
+0 0 4417
+D3
+~
+~
+0 0 4422
+S
+#4422
+Ghenna Blvd.~
+A few houses and small plants roam the area. This is the
+residential area of the city. People can be seen out in their
+yards, watering their lawns or simply lazying about in their
+yard. The road seems smooth here, ideal for small children
+to play ball in the street and even run about. A few people
+wander up and down the street, looking about as if scouting
+for potential victims or maybe just people bored and looking
+for something to do. The road widens on to the east and
+comes to its end towards the west.
+~
+0 0 0
+D1
+~
+~
+0 0 4421
+D3
+~
+~
+0 0 4423
+S
+#4423
+Ghenna Blvd.~
+The road dead-ends here at a small house.  The yard is rather well kept
+and the house itself seems in good condition.  For this kind of a town, the
+place must be owned by some rich boy or one tough son of a b*tch.  The only
+other way to go is back the way you came, down Ghenna.  
+~
+0 0 0
+D1
+~
+~
+0 0 4422
+D3
+~
+~
+1 3563 3558
+S
+#4424
+Ghenna Blvd.~
+Ghenna Blvd. seems to be a residential area. The roads seem
+to be paved nicely and houses spring up all around. All around
+except in this one general area. To the north is a building with
+a huge sign on it reading, "Vegeta Dojo". Very strong looking
+fighters wander in and out of the building. Some of the men
+walking out look as if they have just been through hell. They
+are sweaty and are hanging down as if some brute force is
+inside. Across the street is a baren lot, looking as if there
+might be another building or possibly a parking lot of sorts.
+~
+0 0 0
+D0
+~
+~
+0 0 4495
+D1
+~
+~
+0 0 4425
+D3
+~
+~
+0 0 4421
+S
+#4425
+Ghenna Blvd.~
+A few houses and small plants roam the area. This is the
+residential area of the city. People can be seen out in their
+yards, watering their lawns or simply lazying about in their
+yard. The road seems smooth here, ideal for small children
+to play ball in the street and even run about. A few people
+wander up and down the street, looking about as if scouting
+for potential victims or maybe just people bored and looking
+for something to do.
+~
+0 0 0
+D1
+~
+~
+0 0 4426
+D3
+~
+~
+0 0 4424
+S
+#4426
+Ghenna Blvd.~
+A few houses and small plants roam the area. This is the
+residential area of the city. People can be seen out in their
+yards, watering their lawns or simply lazying about in their
+yard. The road seems smooth here, ideal for small children
+to play ball in the street and even run about. A few people
+wander up and down the street, looking about as if scouting
+for potential victims or maybe just people bored and looking
+for something to do.
+~
+0 0 0
+D1
+~
+~
+0 0 4427
+D3
+~
+~
+0 0 4425
+S
+#4427
+Intersection of Ghenna Blvd. and Kirra St.~
+The Intersection looks to be busy, and dirty as well.  The residential
+area stops off to the west, and seems to go down hill off to the east.  A
+few people can be made out, lurking in the shadows.  Other than the
+shadow-walkers, not many people wander around this area.  To the south is
+the rough living of Kirra St.  And to the east seems to lead to most of the
+shops in the city.  
+~
+0 0 0
+D1
+~
+~
+0 0 4428
+D2
+~
+~
+0 0 4409
+D3
+~
+~
+0 0 4426
+S
+#4428
+Ghenna Blvd.~
+The road here begins to swerve just a bit but not enough to notice
+without a keen eye.  Off to the east seems to be dark but is where most of
+the people are scurrying off to.  Back to the west is the residential part
+of the city and the intersection leading to the highly crime-rated Kirra St.
+People scurry about trying to get away from all the comotion of city-life
+and into the shops.  Aside from all the people hurrying about, not much can
+be seen around here.  
+~
+0 0 0
+D1
+~
+~
+0 0 4429
+D3
+~
+~
+0 0 4427
+S
+#4429
+Intersection of Ghenna Blvd. and Juchin Junction~
+The Intersection of Juchin Junction and Ghenna Blvd. looks to be
+touched up a bit. A single light hangs above the street, flickering off
+and on. Off to the north is Juchin Junction and a small shop or two, as
+well as Shanaw Dr. To the west is the busy happenings of city living and
+off to the east is Shakal Way and the Galleria. The intersection is rather
+void and not much goin on other than the occassional person wandering
+down the road.
+~
+0 0 0
+D0
+~
+~
+0 0 4435
+D1
+~
+~
+0 0 4430
+D3
+~
+~
+0 0 4428
+S
+#4430
+Ghenna Blvd.~
+The road seems dim here. The only activity is the people roaming
+about. The crime seems to be dimenishing the further the street goes.
+A few boarded up shops are around along with the grand entrance to
+the galleria close to the east. A few people wander about the area,
+some carrying bags with freshly bought items in them, and some with
+a pocket full of money with only ambition in their eyes. Nothing much
+else is around, or worth seeing.
+~
+0 0 0
+D1
+~
+~
+0 0 4431
+D3
+~
+~
+0 0 4429
+S
+#4431
+Ghenna Blvd.~
+The road seems dim here. The only activity is the people roaming
+about. The crime seems to be dimenishing the further the street goes.
+A few boarded up shops are around along with the grand entrance to
+the galleria close to the east. A few people wander about the area,
+some carrying bags with freshly bought items in them, and some with
+a pocket full of money with only ambition in their eyes. Nothing much
+else is around, or worth seeing.
+~
+0 0 0
+D1
+~
+~
+0 0 4432
+D3
+~
+~
+0 0 4430
+S
+#4432
+Ghenna Blvd.~
+People crowd the streets going into the Galleria.  Shoving and pulling to
+get inside the already crowded shopping center.  The noise radiating from
+the crowd is almost too much to bare.  Huge lights seem to flare up in the
+sky through huge lasers sitting atop the Galleria itself.  The lights seem
+to blind all those that stop to take a look and watch the show.  For a
+second, the people seem to turn and look in the direction of a power that
+arrives, then they blow it off and turn back to the north facing the
+Galleria.  
+~
+0 0 0
+D0
+~
+~
+0 0 4466
+D1
+~
+~
+0 0 4433
+D3
+~
+~
+0 0 4431
+S
+#4433
+Ghenna Blvd.~
+The road seems dim here. The only activity is the people roaming
+about. The crime seems to be dimenishing the further the street goes.
+A few boarded up shops are around along with the grand entrance to
+the galleria close to the west. A few people wander about the area,
+some carrying bags with freshly bought items in them, and some with
+a pocket full of money with only ambition in their eyes. Nothing much
+else is around, or worth seeing.
+~
+0 0 0
+D1
+~
+~
+0 0 4434
+D3
+~
+~
+0 0 4432
+S
+#4434
+Intersection of Ghenna Blvd. and Shakal Way~
+The Intersection of Ghenna Blvd. and Shakal Way seems to be a very
+low crime rate, null if any. All of the crazy shoving and shouting from the
+galleria is behind now and only the noises of sirens in the distance can be
+heard at this point. Back to the west is the rest of Ghenna and off to the
+north is Shakal Way, the Royal Vegeta Police Station, and the Hospital.
+Nothing much is seen around this area aside from a few pedestrians trying
+to avoid the comotion from the Galleria and heading towards a place
+that seems sane.
+~
+0 0 0
+D0
+~
+~
+0 0 4448
+D3
+~
+~
+0 0 4433
+S
+#4435
+Juchin Junction~
+Smells of freshly baked goods luminate the area. People all around are
+rubbing their stomachs, as if thinking of a meal that they have just had or
+are about to have. To the south is Ghenna Blvd. and far to the north is
+Shanaw Dr. Closer to the north is a small cafe that seems to be drawing
+alot of attention. The area seems peaceful aside from all the people in
+thought of good food.
+~
+0 0 0
+D0
+~
+~
+0 0 4436
+D2
+~
+~
+0 0 4429
+S
+#4436
+Juchin Junction~
+Hoards of people crowd the street, in anticipation of going into Granny's
+Cafe. A huge sign sits just above the door to the west leading to the cafe,
+it reads, "Granny's Home Cookin". A feel of akwardness looms about as if
+out of place from all the hunger wandering about in the area. To the far
+north is Shanaw Dr. and to the far south is Ghenna Blvd. Aside from the
+masses of people entering and exiting Granny's, the area seems quiet and
+void of anything worth while.
+~
+0 0 0
+D0
+~
+~
+0 0 4437
+D2
+~
+~
+0 0 4435
+D3
+~
+~
+0 0 4494
+S
+#4437
+Juchin Junction~
+Smells of freshly baked goods luminate the area. People all around are
+rubbing their stomachs, as if thinking of a meal that they have just had or
+are about to have. To the far south is Ghenna Blvd. and to the north is
+Shanaw Dr. Closer to the south is a small cafe that seems to be drawing
+alot of attention. The area seems peaceful aside from all the people in
+thought of good food.
+~
+0 0 0
+D0
+~
+~
+0 0 4438
+D2
+~
+~
+0 0 4436
+S
+#4438
+Intersection of Juchin Junction and Shokoku Dr.~
+The intersection of Juchin Junction and Shanaw Dr.  Looks like a normal
+intersection.  The road is clean and paved and where they meet the southern
+road seems dark and gloomy but the road east seems full of light and life. 
+There are flower beds gleaming with plantlife that starts at the begining of
+Shanaw Dr.  
+~
+0 0 0
+D1
+~
+~
+0 0 4439
+D2
+~
+~
+0 0 4437
+S
+#4439
+Shokoku Dr.~
+There are many flowers and plants growing along the road.  Colors of
+blue, green, orange, and purple steam along the road.  The light gives a
+majestic glimmer of silver inlaid roads and sparkling glitter along the
+sides or the street as the sun or moon shine its light down upon everything.
+The flowers seem more beautiful than any other plants and the trees grow
+tall with lushious green leaves.  The lights along the streets give off
+enough to keep things well light and safe for passers by.  There is no time
+when moving along the street does it seem there is a dark spot within the
+whole length of the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 4440
+D3
+~
+~
+0 0 4438
+S
+#4440
+Shokoku Dr.~
+There are many flowers and plants growing along the road.  Colors of
+blue, green, orange, and purple steam along the road.  The light gives a
+majestic glimmer of silver inlaid roads and sparkling glitter along the
+sides or the street as the sun or moon shine its light down upon everything.
+The flowers seem more beautiful than any other plants and the trees grow
+tall with lushious green leaves.  The lights along the streets give off
+enough to keep things well light and safe for passers by.  There is no time
+when moving along the street does it seem there is a dark spot within the
+whole length of the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 4441
+D3
+~
+~
+0 0 4439
+S
+#4441
+Shokoku Dr.~
+There are many flowers and plants growing along the road.  Colors of
+blue, green, orange, and purple steam along the road.  The light gives a
+majestic glimmer of silver inlaid roads and sparkling glitter along the
+sides or the street as the sun or moon shine its light down upon everything.
+The flowers seem more beautiful than any other plants and the trees grow
+tall with lushious green leaves.  The lights along the streets give off
+enough to keep things well light and safe for passers by.  There is no time
+when moving along the street does it seem there is a dark spot within the
+whole length of the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 4442
+D3
+~
+~
+0 0 4440
+S
+#4442
+Shokoku Dr.~
+There are many flowers and plants growing along the road.  Colors of
+blue, green, orange, and purple steam along the road.  The light gives a
+majestic glimmer of silver inlaid roads and sparkling glitter along the
+sides or the street as the sun or moon shine its light down upon everything.
+The flowers seem more beautiful than any other plants and the trees grow
+tall with lushious green leaves.  The lights along the streets give off
+enough to keep things well light and safe for passers by.  There is no time
+when moving along the street does it seem there is a dark spot within the
+whole length of the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 4443
+D3
+~
+~
+0 0 4441
+S
+#4443
+Shokoku Dr.~
+There are many flowers and plants growing along the road.  Colors of
+blue, green, orange, and purple steam along the road.  The light gives a
+majestic glimmer of silver inlaid roads and sparkling glitter along the
+sides or the street as the sun or moon shine its light down upon everything.
+The flowers seem more beautiful than any other plants and the trees grow
+tall with lushious green leaves.  The lights along the streets give off
+enough to keep things well light and safe for passers by.  There is no time
+when moving along the street does it seem there is a dark spot within the
+whole length of the road.  
+~
+0 0 0
+D1
+~
+~
+0 0 4444
+D3
+~
+~
+0 0 4442
+S
+#4444
+Intersection of Shokoku Dr. and Shakal Way~
+Many different assorted flowers fill the end of the street with an almost
+caleidascope of colors.  Looking back down Shanaw Dr.  , the color continues
+but to the south, is a row of shops and small buildings.  Closer to the
+north is a hospital where many go either for minor cuts and bruises or major
+contusions to bone or body.  The area is a dead silence other than the
+occassional siren or sound of conversation of passing pedestrians.  
+~
+0 0 0
+D0
+~
+~
+0 0 4490
+D2
+~
+~
+0 0 4445
+D3
+~
+~
+0 0 4443
+S
+#4445
+Shakal Way~
+Sirens can be heard far to the south and a smell of irridescent odor
+fills the area.  As if donuts were close by.  Far to the south are a few
+guards showing the entrance to the Royal Vegeta Police Department.  Closer
+to the north, looks to be a hospital of sorts.  To the north is the
+Intersection of Shakal Way and Shanawa Dr.  Only a few people and cops
+wander by but other than that, nothing much to see here other than a few
+closed shops.  
+~
+0 0 0
+D0
+~
+~
+0 0 4444
+D2
+~
+~
+0 0 4446
+S
+#4446
+Shakal Way~
+Sirens can be heard close to the south and a smell of irridescent odor
+fills the area.  As if donuts were close by.  On to the south are a few
+guards showing the entrance to the Royal Vegeta Police Department.  Further
+to the north, looks to be a hospital of sorts.  To the far north is the
+Intersection of Shakal Way and Shanawa Dr.  Only a few people and cops
+wander by but other than that, nothing much to see here other than a few
+closed shops.  
+~
+0 0 0
+D0
+~
+~
+0 0 4445
+D2
+~
+~
+0 0 4447
+S
+#4447
+Shakal Way~
+The area is littered with donut wrappers and cops wandering almost
+aimlessly around the street. Two guards stand here, as if guarding the
+station from any unwanted visitors. People wander up and down the
+street, keeping their distance from the two big brutes standing here.
+The two guards look as if they are ready for all and fear nothing, and
+are ready to strike at any time. The two of them look as if they make
+a pretty good team.
+~
+0 0 0
+D0
+~
+~
+0 0 4446
+D1
+~
+~
+0 0 4482
+D2
+~
+~
+0 0 4448
+S
+#4448
+Shakal Way~
+Sirens can be heard close to the north and a smell of irridescent odor
+fills the area. As if donuts were close by. On to the north are a few guards
+showing the entrance to the Royal Vegeta Police Department. Further to
+the north, looks to be a hospital of sorts. To the south is the Intersection
+of Shakal Way and Ghenna Blvd. Only a few people and cops wander by
+but other than that, nothing much to see here other than a few closed
+shops.
+~
+0 0 0
+D0
+~
+~
+0 0 4447
+D2
+~
+~
+0 0 4434
+S
+#4449
+Trainer's Quarters~
+As you enter this room, the smell of body odor almost knocks you to your
+knees.  This causes you to think either many people workout here, or no one
+believes in deodorant.  As you regain your senses, you see a man at a desk
+asking people to come forward.  As you approach the man, you hear him
+telling others,"Yes, I can help you train here, I will even let you train
+for free."  You think this would be an opportune time to use and extra
+trains you have.  
+~
+0 0 0
+D1
+~
+~
+0 0 4419
+S
+#4450
+Lobby of the Saiya-jin Stock Market~
+A massive room encompasses the lobby of the Saiya-jin Stock Market.  Here
+is where many important members of Saiya-jin society and their employer
+races trade in planets previously conquered.  Many different variety of
+species stand here looking at a huge board reading prices of different
+planets.  Standing behind a counter over to the far side of the room is a
+clerk helping people with stock quotes and planet purchases.  To the north
+is the exit back to Paragus Parkway and to the south is the areas where the
+work of this business is actually done.  
+~
+0 0 0
+D0
+~
+~
+0 0 4415
+D2
+~
+~
+0 0 4451
+S
+#4451
+First Floor, Stock Quotes~
+The noise in the room is excruciating. Many are running frantically from
+phone to phone or person to person trying to get the latest quotes. No
+one is still for long. The comotion is almost unbearable for those who
+are sane. Sounds of ringing and constant beeping can be heard all around.
+The exits to the west and east seem to be the only rooms to offer some
+peace and quiet.
+~
+0 0 0
+D0
+~
+~
+0 0 4450
+D1
+~
+~
+0 0 4452
+D3
+~
+~
+0 0 4454
+S
+#4452
+Corridor to the Stairs~
+The horrendous noise from the Stock Quotes room seems to have become
+quiet as the corridor blocks most of the sound.  A few potted plants are
+scattered about the room along with a few small benches.  On the wall is a
+sign reading "Stairs to the south."  Other than the sign and furniture,
+there is nothing special about the corridor other than the occasional suit
+walking to or from the stairs.  
+~
+0 0 0
+D2
+~
+~
+0 0 4453
+D3
+~
+~
+0 0 4451
+S
+#4453
+Stairs, Level 1~
+A sign hangs down reading "Stairs, Level 1." The stairs lead up to level two
+where most of the paperwork and grunt work is done. A few sounds escape
+down the stairs into the vecinity. A few occassional shouts can be heard
+ringing through the upstairs area.
+~
+0 0 0
+D0
+~
+~
+0 0 4452
+D4
+~
+~
+0 0 4455
+S
+#4454
+Mail Room~
+Memos are scattered about the floor in a very unorganized manner.  The
+mailboy frantrically tries to sort incoming mail but he can't seem to stay
+caught up.  Mail flies all about the room.  Counters have been overwhelmed
+with mail for all different parts of the building.  Under his breath, the
+mailboy can be heard cursing his superiors for putting him in this horrible
+job.  
+~
+0 0 0
+D1
+~
+~
+0 0 4451
+S
+#4455
+Stairs, Level 2~
+The second floor looks alot like the first floor.  A few plants, a few
+benches, nothin much to look at.  A sign hanging from the ceiling reads,
+"Stairs, Level 2."  A few people are hurrying up and down the stairs, but
+not too much comotion going on in this area of the building.  Another flight
+of stairs leads to the third floor, and to the east is a room set up with a
+few different office cubicles.  A hint of shouting echoes from the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 4456
+D4
+~
+~
+0 0 4463
+D5
+~
+~
+0 0 4453
+S
+#4456
+Office Cubicle #1~
+The cubicle is set up for a few different desks. People are hurrying to
+and fro trying to keep up their pace. A few people are typing away trying
+to keep up with the market. Others are doing heavy research into different
+planets to see what they can get out of the hunks of rock. A loud scream
+echoes through the office, as if shouting at the workers to pick up the
+pace.
+~
+0 0 0
+D1
+~
+~
+0 0 4457
+D2
+~
+~
+0 0 4459
+D3
+~
+~
+0 0 4455
+S
+#4457
+Office Cubicle #2~
+The cubicle is set up for a few different desks. People are hurrying to
+and fro trying to keep up their pace. A few people are typing away trying
+to keep up with the market. Others are doing heavy research into different
+planets to see what they can get out of the hunks of rock. A loud scream
+echoes through the office, as if shouting at the workers to pick up the
+pace.
+~
+0 0 0
+D2
+~
+~
+0 0 4458
+D3
+~
+~
+0 0 4456
+S
+#4458
+Office Cubicle #4~
+The cubicle is set up for a few different desks. People are hurrying to
+and fro trying to keep up their pace. A few people are typing away trying
+to keep up with the market. Others are doing heavy research into different
+planets to see what they can get out of the hunks of rock. A loud scream
+echoes through the office, as if shouting at the workers to pick up the
+pace.
+~
+0 0 0
+D0
+~
+~
+0 0 4457
+D1
+~
+~
+0 0 4462
+D2
+~
+~
+0 0 4461
+D3
+~
+~
+0 0 4459
+S
+#4459
+Office Cubicle #3~
+The cubicle is set up for a few different desks. People are hurrying to
+and fro trying to keep up their pace. A few people are typing away trying
+to keep up with the market. Others are doing heavy research into different
+planets to see what they can get out of the hunks of rock. A loud scream
+echoes through the office, as if shouting at the workers to pick up the
+pace.
+~
+0 0 0
+D0
+~
+~
+0 0 4456
+D1
+~
+~
+0 0 4458
+D2
+~
+~
+0 0 4460
+S
+#4460
+Office Cubicle #5~
+The cubicle is set up for a few different desks. People are hurrying to
+and fro trying to keep up their pace. A few people are typing away trying
+to keep up with the market. Others are doing heavy research into different
+planets to see what they can get out of the hunks of rock. A loud scream
+echoes through the office, as if shouting at the workers to pick up the
+pace.
+~
+0 0 0
+D0
+~
+~
+0 0 4459
+D1
+~
+~
+0 0 4461
+S
+#4461
+Office Cubicle #6~
+The cubicle is set up for a few different desks. People are hurrying to
+and fro trying to keep up their pace. A few people are typing away trying
+to keep up with the market. Others are doing heavy research into different
+planets to see what they can get out of the hunks of rock. A loud scream
+echoes through the office, as if shouting at the workers to pick up the
+pace.
+~
+0 0 0
+D0
+~
+~
+0 0 4458
+D3
+~
+~
+0 0 4460
+S
+#4462
+Office Manager's Office~
+The constant screaming is coming from this office. A rather large man sits
+behind a desk shouting over a loud speaker at his workers. He stops for an
+instant to scan the room, then gives an evil grin. He turns instantly back to
+the loud speaker to continue his verbal assault on his workers. His face
+is a deep red and he seems to have eaten a few too many donuts. Don't
+let his weight and blood pressure fool you, his bite is worse than his bark.
+~
+0 0 0
+D3
+~
+~
+0 0 4458
+S
+#4463
+Stairs, Level 3~
+The third floor looks alot like the first two floors.  A few plants, a
+few benches, nothin much to look at.  A sign hanging from the ceiling reads,
+"Stairs, Level 3."  A few people are hurrying down the stairs, but not too
+much comotion going on in this area of the building.  The stairs lead back
+down to the second, and to the east is a room that looks alot more
+professional than the offices below.  
+~
+0 0 0
+D1
+~
+~
+0 0 4464
+D5
+~
+~
+0 0 4455
+S
+#4464
+Secretary's Desk~
+A slight odor sweetens the room as the sound of keystrokes on a keyboard
+ring just behind the desk.  Sitting behind the desk is a rather young woman
+wearing glasses and a rather revealing mini-skirt.  She looks up for a
+second to see who may have ventured into the office, then looks back down to
+the keyboard.  The walls are covered in a flowered wallpaper and decorated
+in a few small pieces of furniture.  A door to the south has a sign on it
+reading "CEO".  
+~
+0 0 0
+D2
+~
+~
+0 0 4465
+D3
+~
+~
+0 0 4463
+S
+#4465
+CEO's Office~
+A rather large room covered in animal heads mounted on the wall and skins
+draped over the furniture.  To the far end of the room is a large wooden
+desk with a few files stacked neatly in the corner.  Behind the desk is a
+large leather chair facing away from the door.  Occassionally a cloud of
+smoke floats up from the other side of the chair.  Suddenly, the chair spins
+completely around and sitting in it is a neatly dressed, rather athletic
+looking man.  He has a pipe in his mouth, he greets whomever might venture
+in his office.  
+~
+0 0 0
+D0
+~
+~
+0 0 4464
+S
+#4466
+Foyer Into the Galleria~
+A huge fountain takes up most of the floor space, almost
+impossible to walk around. People are all around walking from
+shop to shop. Many small trees and plants are scattered about
+the only remaining floor space making the room seem closed in.
+A few children and their parents walk around, keeping close to
+one another. To the north is a row of shops and the facilities.
+~
+0 0 0
+D0
+~
+~
+0 0 4467
+D2
+~
+~
+0 0 4432
+S
+#4467
+Galleria Central Lobby~
+Crowds of people roam the area as they are shopping for items that they
+probably don't need.  Small children cling to their parents as they make
+their way from shop to shop.  The lobby area is for smoking, eating, or just
+resting from a long day of shopping.  Most of the people in the area are
+women with their children or just a couple of teenagers hanging out at the
+galleria.  To the north are the women's facilities and to the east the
+men's.  Over to the west is the escalator to the second floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 4468
+D1
+~
+~
+0 0 4470
+D2
+~
+~
+0 0 4466
+D3
+~
+~
+0 0 4471
+S
+#4468
+Galleria Walkway~
+The walkway seems to be a small lobby for the women's
+restroom. There are a few benches scattered around with a 
+few magazines made for women. Its apparent that the owner
+of the Galleria is a woman.
+~
+0 0 0
+D1
+~
+~
+0 0 4469
+D2
+~
+~
+0 0 4467
+S
+#4469
+Ladies Restroom~
+The women's room is much nicer than the men's. A sofa is 
+positioned on the far wall. A few sinks and about six stalls. 
+The smell makes it almost nice to be in. On the wall next to
+the sofa is a metal box with some female accessories in it.
+A room the men most likely will run out of, or get mad 
+because of how good the women got it.
+~
+0 0 0
+D3
+~
+~
+0 0 4468
+S
+#4470
+Men's Restroom~
+The men's room is filled with urinels and a few small stalls for taking
+care of nature when it calls.  A rack sits in the corner with the latest
+issues of Vegeta daily newsposts.  On the cover is a rather large group of
+Saiya-jin's beating on a single Icer.  The smell of the room is almost
+sickening.  To the west is the only exit and escape to fresh air.  
+~
+0 0 0
+D3
+~
+~
+0 0 4467
+S
+#4471
+Escalators Level 1~
+A humming noise emits from the escalators as it appears
+to be full of people. Almost as if its about to blow a motor.
+There is a sign hanging from the ceiling that reads "Moving
+Escalators, Keep your hands and feet, and any other moving
+body parts you may have in inside at all times."
+~
+0 0 0
+D1
+~
+~
+0 0 4467
+D4
+~
+~
+0 0 4472
+S
+#4472
+Escalator Level 2~
+The humming noise seems to get louder as you reach the
+second level. There are more people on this level and they 
+seem to be even more crowded than the first floor. To the
+north is the walkway to the apparel stores. Another sign
+hangs from the ceiling reading, "Escalator's Level 2, 
+Apparels." You can go to the stores to the north, or back
+down to the first floor. There is a staircase leading up to 
+the security floor. A sign is posted on the wall that reads
+"Employees only."
+~
+0 0 0
+D0
+~
+~
+0 0 4474
+D4
+~
+~
+0 0 4473
+D5
+~
+~
+0 0 4471
+S
+#4473
+Escalator Level 3~
+The escalators end here. The third floor is the office
+space and security HQ. To the south is the Security office.
+To the west, sounds of ringing and many voices can be
+heard. Only a few guards roam the halls here. Not much
+comotion in this area of the galleria.
+~
+0 8 0
+D2
+~
+~
+0 0 4478
+D3
+~
+~
+0 0 4480
+D5
+~
+~
+0 0 4472
+S
+#4474
+Galleria Walkway~
+In the center of the walkway is a rather large box with
+may different plants in it. The sun shoots through a large
+plate glass window in the roof. A few stores surround the
+corneacopia of flowers in the center. To the east is the
+armory. To the west is a jewelry store with all the latest
+fashions, and to the north is a clothing store with a nice
+amount of taste in their clothes.
+~
+0 0 0
+D0
+~
+~
+0 0 4477
+D1
+~
+~
+0 0 4475
+D2
+~
+~
+0 0 4472
+D3
+~
+~
+0 0 4476
+S
+#4475
+Armor Supply Store~
+Armor hangs all around on small racks attached to 
+the ceiling. Much of the armor is attached to the rack with
+thick wire as to keep from theft. The clerk stands eyeing
+those that venture in. He stands in an almost fighting
+posture ready to defend from any and all theft. Or maybe
+he is perched like that as to be able to reach the call for
+security that much faster.
+~
+0 1024 0
+D3
+~
+~
+0 0 4474
+S
+#4476
+Jewelry Store~
+Many glass cases fill the store. Incased in the glass
+are many different types of jewelry from necklaces to
+earrings. In the far corner of the store is a black safe
+which holds the most precious of jewelries. Only the
+clerk has a key to it.
+~
+0 1024 0
+E
+bleh~
+~
+D1
+~
+~
+0 0 4474
+S
+#4477
+Clothing Store~
+Racks of clothes cover the floor almost from wall towall.
+A clerk stands behind the counter watching you, ready to call
+security at a moments notice. Some clothes are laid on the
+counter, as if someone were ready to pay and then realized
+they were cheap and didn't have the zenni.
+~
+0 1024 0
+D2
+~
+~
+0 0 4474
+S
+#4478
+Galleria Security HQ~
+A huge man stands here against the wall. He has his eye
+on anything that moves or makes a sound. On his shirt, is
+a button that says in big bold letters, "CAPTAIN". A sinister
+grin comes over his face as if he is thinking something very
+bad. A few smaller guards are throughout the room. Some
+drinking coffee, some waiting for a call from downstairs
+saying trouble is afoot. The room seems a little tense. As
+if fighting can break out at any minute. The only escape
+is back through the north to the escalators.
+~
+0 8 0
+D0
+~
+~
+0 0 4473
+S
+#4479
+Kube's Chillin Spot~
+~
+0 12 0
+S
+#4480
+Galleria Phone Center~
+Rows of desks line the room. Many people are on the
+phone. Either tele-marketers, or the answering service
+for the entire Galleria, both are stationed here. Echoes
+of dial-tones and hang-ups can be heard all through the
+room. To the north is the General Manager for the whole
+Galleria's office. Back to the east comes the sounds of
+guards marching up and down the hall.
+~
+0 0 0
+D0
+~
+~
+0 0 4481
+D1
+~
+~
+0 0 4473
+S
+#4481
+Galleria Office Manager's Office~
+The General Manager sits behind a huge Oak desk.  He is dressed in a very
+nice Armani suit and slouched back in his chair as if he owns the place..  A
+few paintings and some other small forms of art are throughout the room. 
+The room is enormous, almost as big as the lobby of the Galleria itself. 
+The GM has his feet up on the desk and is in some sort of trans.  It appears
+as if he is oblivous to all.  
+~
+0 0 0
+D2
+~
+~
+0 0 4480
+S
+#4482
+Foyer into the Royal Vegeta Guard Station~
+The station seems crowded.  Cops walking in and out, seemingly criminals
+accompany them in hand cuffs.  Yet it is easily noticed that most of the
+criminals are of a different race than that of the Saiya-jin.  After passing
+the checkin, the cops walk further east to the holding and interrogation
+part of the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 4483
+D3
+~
+~
+0 0 4447
+S
+#4483
+Royal Vegeta Guard Central Post~
+This is the main hallway.  To the west is the exit out and to the east
+leads to the holding area.  To the north is Lieutenant Luza's office, a very
+nasty interrogator.  He has been known to kill a few of the people he
+supposedly interrogated.  To the south is the Commander's office.  He takes
+nothin from anyone and has the balls and power to back it up.  Nothin much
+else to see in this dim part of the building.  A sign hanging down says,
+'Holding Cells, This way'.  
+~
+0 0 0
+D0
+~
+~
+0 0 4484
+D1
+~
+~
+0 0 4486
+D2
+~
+~
+0 0 4485
+D3
+~
+~
+0 0 4482
+S
+#4484
+Lieutenant's Office~
+In the center of the room is a table with a small blood-stain on the
+corner. Two chairs sit at the table, both just across from one another.
+Hanging from the ceiling is a single light. It hangs down just over the
+table, lighting up the conversations, just to add pressure to the 
+interrogee. Luza never takes his eye off the door. Always watching for
+possible applicants for his dangerous interrogation room.
+~
+0 0 0
+D2
+~
+~
+0 0 4483
+S
+#4485
+Commander of Royal Vegeta Guard' Office~
+A desk is in the center of the room.  Just adjacent is a chair with its
+back to the door.  Behind the chair is the Commander of the Royal Vegeta
+Guard.  He is leaning back in his chair and smoking his pipe.  He turns and
+glares coldly towards whatever may enter here.  Never taking his eye off his
+target, he smiles and puts his pipe away, ready to defend against anything. 
+~
+0 0 0
+D0
+~
+~
+0 0 4483
+S
+#4486
+Guard's Post~
+Walking in, the room fills with an eerie sense.  As if being stared upon
+by many eyes.  As if someone, or something is watching every movement made. 
+To the south is a sign reading, 'Very Dangerous, Do Not Enter.  ' To the
+east is a sign saying 'Danger, Enter at own risk.  ' To the north is a sign
+reading 'Peace, love and Chicken Grease.  ' In the center of the room is a
+guard watching all prisoners.  He looks very tough and able to handle the
+dangerous criminals that loom around the corner.  
+~
+0 0 0
+D0
+~
+~
+0 0 4487
+D1
+~
+~
+0 0 4489
+D2
+~
+~
+0 0 4488
+D3
+~
+~
+0 0 4483
+S
+#4487
+Jail Cell #1~
+As you enter this room, it seems like any other cell you have seen.  It
+has a bed, a toilet, and plenty of bars.  As you look around the room, You
+notice a Namek sitting on the bed.  He seems to be in deep thought over
+something.  You wonder what might be troubling him.  You notice there is
+nothing odd about him, besides he is in the jail.  
+~
+0 0 0
+D2
+~
+~
+0 0 4486
+S
+#4488
+Jail Cell #3~
+As you enter this cell, you notice that it is badly worn.  It seems that
+this cell may have been around for a LONG time.  After you have finished
+studying the walls, you notice a figure in the corner.  The figure stands
+up, and steps into the light.  As you look at it, you notice it is a
+Bio-Android.  As you ponder what he is doing in here, you wonder, maybe this
+cell truly isn't that old, maybe this inmate has caused all the damage to
+this room.  
+~
+0 0 0
+D0
+~
+~
+0 0 4486
+S
+#4489
+Jail Cell #2~
+As you enter this room, it seems to be better lit than the other cell you
+saw.  As you look around the cell you notice a form with light surronding
+him, you think it might not be a good idea to mess with him.  Finally, the
+light subsides, and you can see the warrior form, it seems to be an Icer
+Warrior.  Maybe you shouldn't mess with him, you don't know what he is in
+here for.  
+~
+0 0 0
+D3
+~
+~
+0 0 4486
+S
+#4490
+Hospital Reception~
+A long desk sits here, behind it is a nurse that seems to be welcoming
+all that wonders in.  She points to the north, then to the east, as if
+telling those people where to go if they have some sort of ailment.  A
+certain odor fills the room, forcing thought of bengay and aspercream.  A
+few chairs sit here, for those that may be waiting for their party to finish
+healing.  A plant or two sits in the corners of the room, almost covering
+the smell of medicines.  
+~
+0 0 0
+D0
+~
+~
+0 0 4491
+D1
+~
+~
+0 0 4493
+D2
+~
+~
+0 0 4444
+S
+#4491
+Hospital Room #1~
+In the center of the room, a huge bed sits for all those that need
+medical attention. The bed seems to have extreme healing properties.
+A few beeps can be heard from machines of those that need more than
+a tad of medical attention. To the south is the reception, and to the
+east is another room for healing, if this one ever fills beyond capacity.
+~
+0 0 0
+D1
+~
+~
+0 0 4492
+D2
+~
+~
+0 0 4490
+S
+#4492
+Hospital Room #2~
+In the center of the room, a huge bed sits for all those that need
+medical attention. The bed seems to have extreme healing properties.
+A few beeps can be heard from machines of those that need more than
+a tad of medical attention. More rooms are to the south and west,
+ready for the patients that over-flow from this room.
+~
+0 0 0
+D2
+~
+~
+0 0 4493
+D3
+~
+~
+0 0 4491
+S
+#4493
+Hospital Room #3~
+In the center of the room, a huge bed sits for all those that need
+medical attention. The bed seems to have extreme healing properties.
+A few beeps can be heard from machines of those that need more than
+a tad of medical attention. To the west is the reception and to the
+north is another room for healing, if this one ever fills beyond 
+capacity.
+~
+0 0 0
+D0
+~
+~
+0 0 4492
+D3
+~
+~
+0 0 4490
+S
+#4494
+Granny's Cafe~
+A few tables line the walls with customers eating the great home cookin
+of Granny. Behind the counter is a little old lady wearing an apron and a huge
+smile about her face. It is apparent that all who come in here leave with a few
+extra pounds. A small jukebox sits in the corner playing oldies from a time
+long forgotten. A sign hangs over the counter that states, "No fighting!"
+Granny is highly skilled at more than cooking, and shall not tolerate any sort
+of fighting in her establishment.
+~
+0 0 0
+D1
+~
+~
+0 0 4436
+S
+#4495
+Saiya-jin Battle Training Lobby~
+The lobby of the Arena is a huge round room.  Nothing exists in this
+void.  Its a room filled with light, and three signs hanging from the
+ceiling.  To the east is a sign that says, "Battle Arena - Beginner".  To
+the north is a sign that states, "Battle Arena - Intermediate".  And to the
+west is a sign that reads, "Battle Arena - Expert".  Other than the exits,
+the room is a void in time and space.  Nothin exists here, except the
+occassional passerby.  
+~
+0 8 0
+D0
+~
+~
+0 0 4496
+D1
+~
+~
+0 0 4497
+D2
+~
+~
+0 0 4424
+D3
+~
+~
+1 4426 4498
+S
+#4496
+Saiya-jin Battle Training - Intermediate Class~
+The Intermediate sphere is set for those that are above Beginners but
+still not quite at the top of the game.  It is ideal for those between that
+of 50 million to 800 million powerlevel.  Nothing is in the room, it is just
+as empty as the lobby of this building, except for the occassional fighters.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4495
+S
+#4497
+Saiya-jin Battle Training - Beginner~
+The Begginer level is just that. It is a room set up for those that are
+of lower ranges in power, so as to spread out the powerlevel ranges in
+each room. The begginners are thought of as 1,000 50milion powerlevel.
+The other ranges fall into the adjourning two rooms.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4495
+S
+#4498
+Saiya-jin Battle Training - Expert~
+A sense of heavyness grips down upon entering this room.  Here is where
+the big boys play.  Those that are between that of 800million and above. 
+The layout is no different than that of the rest of the building.  No
+furniture, and lots of light.  The wall curves in circles, and there are
+very apparent scratches and cracks in the walls from wandering ki attacks or
+just practice shots.  
+~
+0 2097164 0
+D1
+~
+~
+1 4426 4495
+R ACT 4498 has arrived~
+R GRALL 4498 100~
+S
+#4499
+Drug Store~
+Smells of ointments and body sprays fill the room with a vile old-person
+smell.  Shelves filled with healing herbs and bottles of assorted pain
+relievers fill the store,almost crowding the entire place.  A clerk sits
+behind the counter waiting for you to bring your items up for check-out. 
+There are a few stock- boys filling the shelves almost as quickly as someone
+can grab an item.  The only exit is back through the front door to Kirra St.
+~
+0 1024 0
+D3
+~
+~
+0 0 4413
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4404 3 1
+D 0 4405 1 1
+D 0 4423 3 2
+D 0 4495 3 2
+D 0 4498 1 2
+M 0 4403 1 4400 1 Load Landing pad opretive
+M 0 4403 1 4400 1 Load Landing pad opretive
+M 0 4403 1 4400 1 Load Landing pad opretive
+M 0 4403 1 4401 1 Load Landing pad opretive
+M 0 4403 1 4401 1 Load Landing pad opretive
+M 0 4403 1 4401 1 Load Landing pad opretive
+O 0 3602 0 4401 A shuttle loaded to A landing Pad
+M 0 4403 1 4402 1 Load Landing pad opretive
+M 0 4403 1 4402 1 Load Landing pad opretive
+M 0 4403 1 4402 1 Load Landing pad opretive
+M 0 4403 1 4402 1 Load Landing pad opretive
+M 0 4403 1 4403 1 Load Landing pad opretive
+M 0 4403 1 4403 1 Load Landing pad opretive
+M 0 4403 1 4403 1 Load Landing pad opretive
+M 0 4403 1 4403 1 Load Landing pad opretive
+M 0 4406 1 4404 1 Load Check in guard
+M 0 4400 1 4406 1 Load A guard wearing saiyan armor
+M 0 4407 1 4407 1 Load A porter
+O 0 4601 0 4408 A small brick wall loaded to Kirra St.
+M 0 4424 1 4408 10 Load A woman pedestrian
+M 0 4423 1 4409 10 Load A pedestrian
+M 0 4408 2 4409 1 Load a running saiya-jin child
+M 0 4405 2 4409 1 Load a running saiya-jin child
+M 0 4423 1 4411 10 Load A pedestrian
+M 0 4424 1 4411 10 Load A woman pedestrian
+M 0 4424 1 4412 10 Load A woman pedestrian
+O 0 3507 0 4413 A wooden bench loaded to Kirra St.
+M 0 4425 1 4413 1 Load A seemingly drunk hobo
+M 0 4423 1 4414 10 Load A pedestrian
+M 0 4423 1 4415 10 Load A pedestrian
+M 0 4424 1 4415 10 Load A woman pedestrian
+M 0 4423 1 4417 10 Load A pedestrian
+M 0 4424 1 4417 10 Load A woman pedestrian
+M 0 4423 1 4418 10 Load A pedestrian
+M 0 4424 1 4418 10 Load A woman pedestrian
+M 0 4426 2 4420 2 Load A ferocious Feline
+O 0 4403 0 4420 A dented garbage can loaded to Alley
+O 0 4403 0 4420 A dented garbage can loaded to Alley
+M 0 4424 1 4421 10 Load A woman pedestrian
+M 0 4423 1 4422 10 Load A pedestrian
+M 0 4424 1 4422 10 Load A woman pedestrian
+M 0 4423 1 4423 10 Load A pedestrian
+M 0 4423 1 4424 10 Load A pedestrian
+M 0 4423 1 4425 10 Load A pedestrian
+M 0 4424 1 4425 10 Load A woman pedestrian
+M 0 4423 1 4426 10 Load A pedestrian
+M 0 4424 1 4427 10 Load A woman pedestrian
+M 0 4424 1 4427 10 Load A woman pedestrian
+M 0 4423 1 4429 10 Load A pedestrian
+M 0 4424 1 4429 10 Load A woman pedestrian
+M 0 4423 1 4430 10 Load A pedestrian
+M 0 4424 1 4430 10 Load A woman pedestrian
+M 0 4423 1 4431 10 Load A pedestrian
+M 0 4423 1 4432 10 Load A pedestrian
+M 0 4424 1 4432 10 Load A woman pedestrian
+M 0 4423 1 4433 10 Load A pedestrian
+M 0 4424 1 4433 10 Load A woman pedestrian
+M 0 4423 1 4434 10 Load A pedestrian
+M 0 4424 1 4434 10 Load A woman pedestrian
+M 0 4423 1 4435 10 Load A pedestrian
+M 0 4423 1 4436 10 Load A pedestrian
+M 0 4424 1 4436 10 Load A woman pedestrian
+M 0 4424 1 4437 10 Load A woman pedestrian
+M 0 4423 1 4438 10 Load A pedestrian
+M 0 4424 1 4439 10 Load A woman pedestrian
+M 0 4423 1 4440 10 Load A pedestrian
+M 0 4424 1 4441 10 Load A woman pedestrian
+M 0 4423 1 4442 10 Load A pedestrian
+M 0 4424 1 4442 10 Load A woman pedestrian
+M 0 4423 1 4444 10 Load A pedestrian
+M 0 4424 1 4445 10 Load A woman pedestrian
+M 0 4423 1 4446 10 Load A pedestrian
+M 0 4417 1 4447 1 Load {DBo {RBludsken{x
+M 0 4418 1 4447 1 Load {BCoby {RBludsken{x
+M 0 4423 1 4448 10 Load A pedestrian
+M 0 4424 1 4448 10 Load A woman pedestrian
+M 0 4416 1 4449 1 Load The {YSaiya-jin{x Master
+M 0 4422 1 4450 1 Load A Clerk with long {Ygolden{x hair
+M 0 4419 1 4454 1 Load The Mail Boy
+M 0 4420 10 4456 10 Load Office Worker
+M 0 4420 10 4457 10 Load Office Worker
+M 0 4420 10 4458 10 Load Office Worker
+M 0 4420 10 4459 10 Load Office Worker
+M 0 4420 10 4460 10 Load Office Worker
+M 0 4420 10 4461 10 Load Office Worker
+M 0 4421 1 4462 1 Load Office Manager
+O 0 1905 0 4462 A brown desk loaded to Office Manager's Office
+M 0 4404 1 4464 1 Load A small woman in a tight mini-skirt sits here greeting you
+O 0 1905 0 4464 A brown desk loaded to Secretary's Desk
+M 0 4499 1 4465 1 Load CEO of Stocks
+O 0 1905 0 4465 A brown desk loaded to CEO's Office
+M 0 4438 1 4466 1 Load A Teddy bear
+M 0 4437 1 4466 1 Load A child
+M 0 4436 1 4466 1 Load A Mother
+M 0 4424 1 4466 10 Load A woman pedestrian
+M 0 4438 1 4467 4 Load A Teddy bear
+M 0 4437 1 4467 4 Load A child
+M 0 4436 1 4467 4 Load A Mother
+M 0 4438 1 4468 1 Load A Teddy bear
+M 0 4437 1 4468 1 Load A child
+M 0 4436 1 4468 1 Load A Mother
+M 0 4438 1 4469 1 Load A Teddy bear
+M 0 4437 1 4469 1 Load A child
+M 0 4436 1 4469 1 Load A Mother
+M 0 4435 1 4472 5 Load Security Guard
+M 0 4435 1 4473 1 Load Security Guard
+M 0 4435 1 4474 5 Load Security Guard
+M 0 4429 1 4475 1 Load Armor Salesman
+G 0 4408 0 A {bblue{x gi top is given to Armor Salesman
+G 0 4409 0 A {rred{x gi top is given to Armor Salesman
+G 0 4410 0 A pair of {rred{x gi pants is given to Armor Salesman
+G 0 4411 0 A pair of {bblue {xgi pants is given to Armor Salesman
+G 0 4412 0 A {dblack {xgi top is given to Armor Salesman
+G 0 4413 0 A pair of {dblack {xgi pants is given to Armor Salesman
+M 0 4430 1 4476 1 Load A jewelry salesman
+M 0 4435 1 4476 1 Load Security Guard
+G 0 4419 0 {ylight {snecklace{x is given to Security Guard
+G 0 4420 0 {ddark {ramulet{x is given to Security Guard
+G 0 4421 0 {ylight {sring{x is given to Security Guard
+G 0 4422 0 {ddark {rring{x is given to Security Guard
+G 0 4423 0 {ylight {searring{x is given to Security Guard
+G 0 4424 0 {ddark {rearring{x is given to Security Guard
+M 0 4428 1 4477 1 Load A Saleswoman
+G 0 4414 0 A {rred{x {ysaiya-jin{x hat is given to A Saleswoman
+G 0 4415 0 A {dblack {xjacket with a {ys {xon the back of it is given to A Saleswoman
+G 0 4416 0 {dblack boots{x is given to A Saleswoman
+G 0 4417 0 {dblack gloves{x is given to A Saleswoman
+G 0 4418 0 A pair of ray-bands is given to A Saleswoman
+M 0 4435 1 4477 10 Load Security Guard
+M 0 4434 1 4478 1 Load {YGeneral {RBludsken{x
+O 0 4427 0 4479 A {dblack {bsectional {ccouch{x loaded to Kube's Chillin Spot
+O 0 4492 0 4479 The {rdesk{x of {c-{y={s>{dk{s<{y={c-{dube{x loaded to Kube's Chillin Spot
+O 0 4428 0 4479 A {rbeer{c tap {bfountain{x loaded to Kube's Chillin Spot
+M 0 4433 1 4480 1 Load A Receptionist
+M 0 4432 1 4480 1 Load Telephone Operator
+O 0 4425 0 4480 A small double office cubicle loaded to Galleria Phone Center
+M 0 4431 1 4481 1 Load Galleria Executive
+O 0 1905 0 4481 A brown desk loaded to Galleria Office Manager's Office
+M 0 4414 1 4484 1 Load Lieutenant Luza of Royal Vegeta Guard
+M 0 4413 1 4485 1 Load Commander of Royal Vegeta Guard
+M 0 4415 1 4486 1 Load {RRoyal {MVegeta{x Guard
+M 0 4412 1 4487 1 Load A {GNamek{x seemingly mistried
+M 0 4411 1 4488 1 Load A {GBio-android{x with a nasty {Rtemper{x
+M 0 4498 1 4489 1 Load A sadistic {CIcerian{x with {Rblood{x on his chin
+O 0 4402 0 4491 A hospital bed with amazing healing properties loaded to Hospital Room #1
+O 0 4402 0 4492 A hospital bed with amazing healing properties loaded to Hospital Room #2
+O 0 4402 0 4493 A hospital bed with amazing healing properties loaded to Hospital Room #3
+M 0 4402 1 4494 1 Load Granny sits here with a smile on her face
+G 0 4401 0 A loaf of bread is given to Granny sits here with a smile on her face
+G 0 4405 0 A can of soda is given to Granny sits here with a smile on her face
+G 0 4406 0 Cup of coffee is given to Granny sits here with a smile on her face
+O 0 926 0 4494 A table loaded to Granny's Cafe
+O 0 4407 0 4494 A large booth loaded to Granny's Cafe
+M 0 4439 2 4494 2 Load A customer
+M 0 4427 1 4499 1 Load A salesman
+G 0 4405 0 A can of soda is given to A salesman
+G 0 4404 0 A small {bblue{x pill is given to A salesman
+S
+
+
+
+#SHOPS
+4402 0 0 0 0 0 110 60 0 23
+4427 0 0 0 0 0 60 110 0 23
+4428 0 0 0 0 0 60 110 0 23
+4429 0 0 0 0 0 60 110 0 23
+4430 0 0 0 0 0 60 110 0 23
+0
+
+
+
+#MOBPROGS
+#4400
+emot looks at $n and nods a bit
+say Welcome to Planet Vegeta
+emot watches $n and points to the door
+~
+#4402
+say The city is on the other side of the pad, please go to the check in center.
+emot points towrds the check in center
+~
+#4404
+say Who are you? What do you want? The CEO isn't seeing anyone, go away.
+~
+#4406
+emot watches $n and moves out to the middle of the room "I must scan you" runs a scanner over $n "The exit it that way" and points behind her "The city is out there"
+~
+#4407
+emot looks at $n and open the door "Welcom to or please visit again" smiles and moves away from the door after closing it
+~
+#4416
+say Hello. I am skilled in many things, do you wish to train with me?
+~
+#4417
+say Very well then, Will you train Str, Int, Wis, Dex, or Con?
+~
+#4421
+emote glares {CIcily{x at you, his face in a rather {Rred{x tone
+~
+#4429
+say Up Yours Pal, This is our turf.
+emote looks up at you with an evil expression.
+~
+#4430
+say Hey, Screw You. You Don't want none of this.
+flex
+~
+#4432
+say I did not speak to you, you do not have an appointment.
+emote points to the door as in saying for you to leave.
+~
+#4433
+say I am sorry, you must call ahead to get an appointment with the Exec.
+say Call tomorrow and set up an appointment.
+~
+#0
+
+#OBJPROGS
+#4400
+~
+#4499
+A small beeping noise radiates from the radar. A yellow blip shows on
+the screen as the radar zeros in on the blip.
+~
+#0
+
+#ROOMPROGS
+#4400
+room echo The loud hum of the ships engines is almost defening as the take off for space, or just coming back. The people rushing all over are just as loud and are arrogant.
+~
+#4401
+~
+#4405
+~
+#4498
+if isnpc $n
+room purge
+endif
+~
+#0
+
+#$

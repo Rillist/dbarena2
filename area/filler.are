@@ -1,0 +1,723 @@
+#AREADATA
+Name filler rooms~
+Builders Terraco-d~
+VNUMs 3900 3999
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3912
+Yagtoe~
+Yagtoe~
+Yagtoe, A robed hunchbacked being.
+~
+{WThis being is wearing a {yragged {rrobe{W, which covers his entire body except for a small patch which is open for his beady {Rred {Weyes to see through.
+{WThe parts of his body you can see, his hands and his head between his eyes, are {Dblack {Win colouration, as if they were burned by fire. His form is average size, and he is hunchbacked.{x
+~
+human~
+ABS 0 -1000 0
+1600000000 42163
+250 220 220 250 220 
+100 100
+punch
+0 0 0 0
+0 O 0 0
+stand stand male 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3913
+Kondoor~
+Kondoor~
+Kondoor, an Icerian Yagtoe minion.
+~
+{WAn icer forged of {Revil {Wmagic, a minion of Yagtoe.  His only desire is to destroy those who oppose his master, his former mind too long lost to be retrieved.{x
+{WKondoor's bulky muscles have veins visibly popping out of them, and there is a small yet noticable symbol on his forehead, between his horns. The symbol is best described as a {Dblack{W '{DM{W' engraved into his forehead.{x
+~
+icer~
+AS 0 -1000 0
+3000000000 5477
+177 177 177 177 177 
+100 100
+punch
+0 0 0 0
+CHI 0 0 0
+stand stand male 6318
+AHMV ABCDEFGHIJK medium unknown
+#3914
+Stiefan~
+Stiefan~
+Stiefan, a human Yagtoe lacky.
+~
+{WA minion of Yagtoe, this human's face seems to be a constant scowl. His muscles are bulked and large, and a pure white outline surrounds them. His eyes look lifeless, as if they have lost their will.{x
+{WHis bulky muscles have veins visibly popping out of them, and there is a small yet noticable symbol in between wisps of his overhanging hair on his forehead. The symbol is best described as a {Dblack{W '{DM{W' engraved into his forehead.{x
+~
+human~
+A 0 -1000 0
+2000000000 4472
+165 165 165 165 165 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 5709
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3915
+PerfectCell~
+Perfect Cell~
+Perfect Cell, a biologically perfect warrior.
+~
+~
+bio-android~
+AS 0 -1000 0
+125000000 1118
+112 112 112 112 112 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 2854
+AHMV ABCDEFGHIJK large unknown
+#3916
+Oolong~
+Oolong~
+{x({WWeakling{x) Oolong the shapeshifter.
+~
+~
+human~
+AP 0 -100 0
+4 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 35
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3917
+Crotonius~
+Crotonius~
+Crotonius, a minion of Yagtoe.
+~
+~
+saiya-jin~
+A 0 -1000 0
+75000000 866
+106 106 106 106 106 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 2512
+AHMV ABCDEFGHIJK large unknown
+#3920
+Fat Janemba~
+Fat Janemba~
+{xA large {Yyellowish {xblobby creature bounces here.
+~
+{WThis large blobby creature looks very stupid in appearence, and the blank look on its face gives away that its no rocket scientist. Its skin is {Yyellowish{W with holes running down its chest.{x
+~
+human~
+ARS 0 -1000 0
+50000000000000 707106
+1000 1000 1000 1000 1000 
+100 100
+punch
+7071 7071 7071 7071
+0 0 0 0
+stand stand none 71796
+AHMV ABCDEFGHIJK huge unknown
+#3921
+Goku~
+Goku~
+{YGoku{x, the hope of the universe.
+~
+To be written...
+:
+~
+saiya-jin~
+ABRS 0 1000 0
+1000000000000 100000
+560 560 560 560 560 
+100 100
+punch
+1000 1000 1000 1000
+0 0 0 0
+stand stand male 27000
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#3900
+portal out~
+a portal back to the forest~
+A portal going to the forest~
+unknown~
+1
+portal 0 0
+0 0 0 CFGHKL 0
+0 0 0 P
+#3901
+puddle water portal~
+a puddle of water~
+A large puddle of water~
+unknown~
+1
+portal 0 0
+0 0 0 BEGIJKL 0
+0 0 0 P
+#3912
+A Sharp Crystal Sword~
+{WA Sharp {CC{cr{Cy{cs{Ct{ca{Cl {WS{xw{Wo{xr{Wd{x~
+{WA Sharp {CC{cr{Cy{cs{Ct{ca{Cl {WS{xw{Wo{xr{Wd{x~
+sword~
+100
+weapon AX AN
+sword 0 0 slash 0
+1 0 50000 P
+#3920
+Enhanced Armor Plating~
+{WE{xn{Wh{xa{Wn{xc{We{xd {DArmor {xP{Dl{xa{Dt{xi{Dn{xg~
+{WDetached plates of {Ddark {Warmor lie here.{x~
+Strong Metal Alloys~
+100
+armor ANRX AD
+GJOQRST GJOQRST GJOQRST GJOQRST 0
+50000000000000 500 100000000 P
+#3921
+Mega Laser~
+{WAn A{xn{Wd{xr{Wo{xi{Wd {RM{xe{Rg{xa{W-{RL{ra{Rs{re{Rr{x~
+{WA droid {Rl{Wa{Rs{We{Rr {Wlies disattached here.{x~
+Charged Metal~
+1
+weapon BNRX AN
+exotic 50 2147483647 shock G
+50000000000000 0 0 P
+#3997
+key n+v unlock~
+{Wthe {YN{R+{yV {cPad {CKey{X~
+{YN{R+{yV {cPad {CKey{W lies here, please return it to an Imm.{X~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#3900
+A Forest Path~
+The forest path winds its way through the trees, following the natural
+curves of the forest floor.  Leaves litter the path, but other than that the
+path runs clear and sound.  Flashes of white can be seen off to the north,
+the result of light bouncing off the surface of the lake.  The path its self
+runs east and west, with the trees getting a little denser to the west.  
+~
+0 4 0
+D0
+~
+~
+0 0 1707
+D1
+~
+~
+0 0 1798
+D3
+~
+~
+0 0 3901
+S
+#3901
+Deeper into the Forest~
+The trees grow thicker here, narrowing the path a little.  The path still
+runs strong and clear though, curving and heading east or north.  Off to the
+north-east glimmers of blue and white and be seen, which means the great
+lake must be close by.  The echoing sounds of dinosaurs and other forest
+creatures echos through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 3902
+D1
+~
+~
+0 0 3900
+S
+#3902
+A Forest Path~
+The path through the forest continues on to the north and south.  Tall
+trees line the sides of the path, and extend out for as far as can be seen. 
+Far off to the east glimmers of blue from a lake can be seen, but travel
+that way is barred by heavy growths of trees and brush.  
+~
+0 0 0
+D0
+~
+~
+0 0 3355
+D1
+~
+~
+0 0 1707
+D2
+~
+~
+0 0 3901
+S
+#3903
+An apartment access road~
+This small road is only wide enough for foot traffic.  The wind blows
+dust around on the road that dosn't seem to really be kept up.  But small
+gardens grow on each side holding flowers of all types and sizes.  There are
+also a few trees growing here and but nothing real big.  
+~
+0 0 0
+D1
+~
+~
+0 0 3904
+D3
+~
+~
+0 0 904
+R GRALL 3904 100~
+S
+#3904
+An apartment access road~
+This small road is only wide enough for foot traffic.  The wind blows
+dust around on the road that dosnt seem to erelly be kept up.  But small
+gardens gow on each side holding flower of all types and sizes.  There are
+also a few tress growing here and but nothing real big.  Off to the east
+there is a gate that comes into view with a guard standing infront of it.  
+~
+0 0 0
+D1
+~
+~
+0 0 3545
+D3
+~
+~
+0 0 3903
+S
+#3905
+{DWorld Rift: Half-Way To Hell...{x~
+{RThis whole plane of existance consists entirely of....  Nothing. 
+Inside this rift connecting Hell and Earth is just a black emptiness, with
+two points of light on either end signifying the exits.  {x {RNorth leads
+directly to Hell.....  While South leads to Earth....  Directly over Satan
+City.  {x 
+~
+0 1024 0
+D0
+~
+~
+1 0 2400
+D2
+~
+~
+0 0 900
+S
+#3906
+The darkened path~
+The path continues on as the dark trees above keep the sun from entering
+through the leaves.  The path below is covered in the grass just like before
+the dirt is less visible here as the path seems less and less used here. 
+The grasses stand more up right here as water drips from above in tiny
+drops.  
+~
+0 0 0
+D2
+~
+~
+0 0 3907
+S
+#3907
+The darkened path~
+The darkened path here seems to have spot of black made by a what seems
+to be fire.  The taller weeds have all been burnt away causing the path to
+become more visible.  The trees have scorch marks on them and most the
+leaves appear to be burnt away.  There is absolutly no noise that can be
+heard at all from any place behind or infront.  
+~
+0 0 0
+D0
+~
+~
+0 0 3906
+D2
+~
+~
+0 0 3908
+S
+#3908
+City Border~
+The sound of muffled shouts and faint screams can be heard from the
+south, as well as various noises such as explosions and sirens wailing. 
+Looking south, you can see some black smoke some distance away, raising into
+the air over Pepper City.  
+~
+0 0 0
+D0
+~
+~
+0 0 3907
+D2
+~
+~
+0 0 3909
+S
+#3909
+Nearing Pepper City~
+The sounds you could hear before are getting louder now, and the black
+smoke is easily viewable, it seems to cover the sky over the entire area of
+Pepper City.  You can now see the buildings which USED to exist on the
+outskirts of Pepper City.  Now, they are nothing more than piles of rubble,
+and a trail of destruction is laid before you.  
+~
+0 0 0
+D0
+~
+~
+0 0 3908
+D2
+~
+~
+0 0 3910
+S
+#3910
+Entering The City~
+As you move forward, you enter the outskirts of Pepper City on a small
+pavement, which is cracked and uneven.  Buildings around you are nothing
+more than large piles of rubble, and the road is a chared jagged mesh of
+metal and tarmac.  Loud screams reverberate around the area, confirming
+there are still people alive, yet they may not be for much longer, as the
+screams are filled with desperate agony and pain.  
+~
+0 0 0
+D0
+~
+~
+0 0 3909
+D2
+~
+~
+0 0 3911
+S
+#3911
+Nearing The Centre Of The City~
+The entire area around you is trashed, but things seem more disturbed
+than in the areas you have come from.  Almost as if all the rubble had been
+blown outwards from the south to rest where it is now.  Large fires rage
+around you, and an overturned fire engine's sirens are still wailing, the
+people who once resided inside have been corpses for a long time, their
+flesh rotting away.  Black smoke from the fires float into the air and
+surround the area.  Looking to the south, you can't see far because of a
+large hill blocking your view.  You can however sense a huge evil energy
+from beyond the hill.  
+~
+0 0 0
+D0
+~
+~
+0 0 3910
+D2
+~
+~
+0 0 3912
+S
+#3912
+Centre Of Pepper City - Large Crater~
+The rubble ends here, there is no more path, road or rubble.  All there
+is here is a large crater, seemingly made by a large energy beam.  Dust and
+smoke raises into the sky behind you, in the remanents of Pepper City.  
+~
+0 0 0
+D0
+~
+~
+0 0 3911
+S
+#3913
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3916
+D2
+~
+~
+0 0 3915
+S
+#3914
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3917
+S
+#3915
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3913
+S
+#3916
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3913
+S
+#3917
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3914
+S
+#3918
+~
+Limbo Room for Naughty Naughty People.
+~
+0 4 0
+S
+#3919
+~
+~
+0 4 0
+S
+#3920
+~
+~
+0 4 0
+S
+#3921
+A enclosed walkway~
+Surrounded by reinforced steal, the walkway heads towards some stairs
+going down into a bunker type enclosure.  All sounds are buffered and can
+barely pass through the walls.  Totally weather proof, the only trouble
+would come from torrential rains that might flood the streets.  
+~
+0 8 0
+D3
+~
+~
+0 0 907
+D5
+~
+~
+0 0 3555
+S
+#3922
+A secret cave~
+This small cave has nothing in it but some things laying on the ground in
+the middle of the room.  The walls dark and damp, and there is a musky smell
+apparently the perfect conditions for these small things on the ground or
+they wouldnt have grown there.  
+~
+0 4 0
+S
+#3923
+Coming to a tower~
+Looking to the east there is a tower base that comes into view it just
+looks like a large pole rising from the ground and headed up to the sky. 
+The clouds make it hard to see anything past their line.  But some energy
+can be felt coming from that general direction.  It all seems worth checking
+out.  
+~
+0 0 0
+D1
+~
+~
+0 0 3924
+D3
+~
+~
+0 0 1188
+S
+#3924
+Looking at the base~
+Looking at the base of a large tower the majority of it visable.  The sky
+above the base shows more of a tower but the very very top is unviewble, due
+to it being so far up.  The clouds swirl around the more visible section of
+the tower.  The tower has many many colors on it and seems to be more namek
+oriented then human 
+~
+0 0 0
+D1
+~
+~
+0 0 1000
+D3
+~
+~
+0 0 3923
+S
+#3925
+.~
+~
+0 0 0
+D4
+~
+~
+0 0 3926
+S
+#3926
+.~
+~
+0 0 0
+D4
+~
+~
+0 0 3927
+D5
+~
+~
+0 0 3925
+S
+#3927
+.~
+~
+0 0 0
+D4
+~
+~
+0 0 3928
+D5
+~
+~
+0 0 3926
+S
+#3928
+.~
+~
+0 0 0
+D4
+~
+~
+0 0 3929
+D5
+~
+~
+0 0 3927
+S
+#3929
+.~
+~
+0 0 0
+D4
+~
+~
+0 0 3930
+D5
+~
+~
+0 0 3928
+S
+#3930
+.~
+~
+0 0 0
+D5
+~
+~
+0 0 3929
+S
+#3939
+~
+~
+0 4 0
+S
+#3997
+{cEntrance to Nesoiak and Vel's Pad{X~
+The path leading to the mountain diverts to here.  To the east is a large
+Silver and gold door with a plaque mounted on it.  The plaque reads
+'{YNesoiak and Vel's Pad{X'.  If you're looking for a good time, go in!  
+~
+0 0 0
+D1
+~
+~
+1 3997 3595
+D3
+~
+~
+0 0 1103
+S
+#3998
+HQ Entrance~
+The walls are of a indestructible metallic alloy.  To the north, a large
+mural can be seen upon the wall of that room.  From time to time, the walls
+resonate for some reason.  A large metal ladder leads up to an oval door,
+that automatically seals itself after you have gone out.  
+~
+0 12 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3905 0 2
+D 0 3997 1 2
+M 0 3912 1 3912 1 Load Yagtoe
+M 0 3913 1 3912 1 Load Kondoor
+M 0 3914 1 3912 1 Load Stiefan
+O 0 954 0 3922 A black senzu bean loaded to A secret cave
+O 0 954 0 3922 A black senzu bean loaded to A secret cave
+O 0 3900 0 3922 A portal back to the forest loaded to A secret cave
+O 0 954 0 3922 A black senzu bean loaded to A secret cave
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#3904
+if carries $n passport
+room remove $n 3513
+endif
+~
+#0
+
+#$

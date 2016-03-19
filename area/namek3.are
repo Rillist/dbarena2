@@ -1,0 +1,284 @@
+#AREADATA
+Name Under Construction~
+Builders Work-2-done~
+VNUMs 100 199
+Credits {{ OLC } Vegeta  Underwater Caves~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#100
+torch~
+torch~
+Torch~
+unknown~
+1
+light 0 AO
+0 0 ABFG 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#100
+A Large Pool~
+There is a large pool of water in this room.  The pool is deep enough
+that the bottom cant be seen from here.  Off in the distance to the north
+there is a low grumbling sound while south is pitch black and quiet.  
+~
+0 5 0
+D0
+~
+~
+0 0 101
+S
+#101
+Large Cave~
+There is no light down here.  Seeing farther then about 5 feet is
+impossible.  A low rumbling sound, almost like a growl, is coming in from
+the north.  The caves run north and south from here. 
+~
+0 0 0
+D0
+~
+~
+0 0 102
+D2
+~
+~
+0 0 100
+S
+#102
+Large Cave~
+The water that has collected on the walls help to amplify the light. 
+Even still seeing very far into the cave is impossible since no natural
+light makes it this far underground.  The loud sound of running water seems
+to be coming in from all around making it difficult to hear.  From the north
+the sound of something growling still seems to be growing louder.  
+~
+0 0 0
+D0
+~
+~
+0 0 104
+D2
+~
+~
+0 0 101
+S
+#103
+Bend in the Cave~
+The cave breaks into 4 sperate tunnels here.  There is the way south with
+the sound of running water coming from it.  North and west seem to be quiet
+and dark but the loud croaking is coming from the east.  The water that has
+formed here helps to make this section of the cave extremly light.  
+~
+0 0 0
+D0
+~
+~
+0 0 113
+D1
+~
+~
+0 0 105
+D2
+~
+~
+0 0 104
+D3
+~
+~
+0 0 109
+S
+#104
+A Large Cave~
+Serveral small frogs that have been seen all around the surface of this
+planet appear to be calling this a home.  The ones found here seem a little
+larger the the ones on the surface however.  The growls are starting to
+sound more like a hundred voices croaking together.  The sound is almost
+deafening 
+~
+0 0 0
+D0
+~
+~
+0 0 103
+D2
+~
+~
+0 0 102
+S
+#105
+A Large Cave~
+The cave is causing the croaking to become almost painful in your ear. 
+The large hollow rock is echoing and amplifying the sound to deafening
+proportions.  It sounds like its coming in from the east but its getting so
+loud its hard to tell where its coming from.  
+~
+0 0 0
+D1
+~
+~
+0 0 106
+D3
+~
+~
+0 0 103
+S
+#106
+A Large Cave~
+The cave is causing the croaking to become almost painful in your ear. 
+The large hollow rock is echoing and amplifying the sound to deafening
+proportions.  It sounds like its coming in from the east but its getting so
+loud its hard to tell where its coming from.
+~
+0 0 0
+D1
+~
+~
+0 0 107
+D3
+~
+~
+0 0 105
+S
+#107
+A Large Cave~
+The sound of the croaking has become quite painful.  There now seems to
+be one that is louder then the rest and possible leading them in the chat. 
+The sound now seem to be directly south of you and is louder here then
+anywhere else in the cave.  
+~
+0 0 0
+D2
+~
+~
+0 0 108
+D3
+~
+~
+0 0 106
+S
+#108
+Frog King~
+Here stands the frog king.  Though he is about 100 times the size of the
+others he still looks like every other frog seen on planet namek.  He also
+seems to be less afraid of you as he realizes he is bigger then you and can
+probably eat you.  
+~
+0 0 0
+D0
+~
+~
+0 0 107
+S
+#109
+A Large Cave~
+The croaking is getting quieter but the frogs are still around.  The cave
+is also starting to get smaller.  The roof looks like it has come down about
+half a foot from what it was east of here.  The walls also seem to be
+narrowing and getting closer together.  
+~
+0 0 0
+D1
+~
+~
+0 0 103
+D3
+~
+~
+0 0 110
+S
+#110
+A Cave~
+The roof and walls are sloping an making the cave shrink.  The
+condinsation is making it much more moist here then east of here.  The cave
+looks like it gets smaller west of here.  East appears to open up to a
+larger room.  
+~
+0 0 0
+D1
+~
+~
+0 0 109
+D3
+~
+~
+0 0 111
+S
+#111
+A Small Cave~
+The cave is small enough that it can only be crawled through.  The cave
+looks like it opens up weast of here.  East looks go get larger.  
+~
+0 0 0
+D1
+~
+~
+0 0 110
+D3
+~
+~
+0 0 112
+S
+#112
+A Small Hole~
+There is a small in the stone just large enough for someone to crawl
+through.  There appears to be trees and many noises coming from the other
+side.  Very warm, moist air is flowing through adding to the dampness of the
+cave here.  East of here the cave gets big enough for you to walk around
+again.  
+~
+0 0 0
+D1
+~
+~
+0 0 111
+S
+#113
+A Large Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 103
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

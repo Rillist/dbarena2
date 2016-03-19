@@ -1,0 +1,1572 @@
+#AREADATA
+Name Kame Island~
+Builders Orlandu~
+VNUMs 1500 1599
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#1500
+Saiba~
+Napster's Training Mob~
+A powerful Saiba-man stands here looking you right in the eye.
+~
+~
+human~
+ABF 0 1000 0
+1000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 1000
+V ABC medium unknown
+F for AHM
+F par DEFGHIJK
+#1501
+Master Roshi~
+Master Roshi~
+Master Roshi is here.
+~
+This is the famous martial arts expert, Master Muten Roshi.  He is the
+creator of the Kamehameha attack.  He also will teach people this attack, if
+they can deal with his shinanigans.  
+~
+human~
+Ab 0 0 0
+100 0
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 82
+AHMV CDEFGHIJKM large unknown
+F par AB
+#1502
+Krillin~
+Krillin~
+Krillin is here.
+~
+This is one of Goku's best friends, Krillin.  He has been by Goku's side
+through some of the toughest battles the Earth has seen.  He is now married
+to Android 18, and has a daughter named Marin.  
+~
+human~
+ABRS 0 1000 0
+2000000000 4472
+165 165 165 165 165 
+100 100
+punch
+44 44 44 44
+0 0 0 0
+stand stand male 5709
+0 CDEFGHIJKM medium unknown
+F for AHMV
+F par AB
+#1504
+Oolong~
+Oolong~
+Oolong the shape changing pig is here.
+~
+~
+human~
+Ab 0 500 0
+100 0
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 82
+0 ABCDEFJK large unknown
+F for AHMV
+F par GHI
+#1505
+Puar~
+puar~
+Puar the shape shifting cat is here.
+~
+~
+human~
+Ab 0 0 0
+100 0
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 82
+0 ABCDEJK medium unknown
+F for AHMV
+F par FGHI
+#1506
+Yamcha~
+yamcha~
+Yamcha is here.
+~
+~
+human~
+Ab 0 0 0
+1000000000 3162
+148 148 148 148 148 
+100 100
+punch
+316 316 316 316
+0 0 0 0
+stand stand male 4801
+0 ABCDEJK large unknown
+F for AHMV
+F par FGHI
+#1507
+Baba~
+Baba~
+Baba is here.
+~
+~
+human~
+Ab 0 0 0
+100 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 79
+0 ABCDEJK large unknown
+F for AHMV
+F par FGHI
+#0
+
+
+
+#OBJECTS
+#1500
+Elite Crystal Sword~
+{Ban Elite {CCrystal {BSword{X~
+A glowing sword lies here.~
+unknown~
+20000
+weapon ABR AN
+sword 5 11 pierce D
+1000000 10 1000000 P
+#1501
+master gi~
+{RA Master's {YKarate{R Gi{X~
+A pile of rags~
+unknown~
+1
+armor NX ADOP
+DGH DGH DGH DGH 0
+0 10 0 P
+#1502
+shell~
+a large shell~
+A rock like object is laying here~
+shell~
+1
+container X AK
+10 0 0 500 1
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1500
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1523
+D1
+~
+~
+0 0 1501
+S
+#1501
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+E
+krillin~
+This picture is of Krillin after his and Goku's first Martial Arts
+Tournament, it doesn't look like his spirit is down.  How could it be, he
+looks so sharp.  
+~
+E
+goku~
+This picture is of Goku when he was he first started training under
+Master Roshi.  Man he really hasn't changed much has he?  
+~
+E
+pictures~
+Before you are 5 pictures.  To look at them type look <person's name>:
+Goku
+Krillin
+Chaoutzu
+Tien
+Bulma
+~
+D0
+~
+~
+0 0 1524
+D1
+~
+~
+0 0 1502
+D3
+~
+~
+0 0 1500
+S
+#1502
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1525
+D1
+~
+~
+0 0 1503
+D3
+~
+~
+0 0 1501
+S
+#1503
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1526
+D1
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1502
+S
+#1504
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1527
+D1
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1503
+S
+#1505
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1528
+D1
+~
+~
+0 0 1506
+D3
+~
+~
+0 0 1504
+S
+#1506
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1507
+D3
+~
+~
+0 0 1505
+S
+#1507
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1508
+D2
+~
+~
+0 0 1506
+D3
+~
+~
+0 0 1528
+S
+#1508
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1507
+D3
+~
+~
+0 0 1529
+S
+#1509
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1510
+D2
+~
+~
+0 0 1508
+D3
+~
+~
+0 0 1530
+S
+#1510
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1511
+D2
+~
+~
+0 0 1509
+D3
+~
+~
+0 0 1531
+S
+#1511
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D0
+~
+~
+0 0 1512
+D2
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1532
+S
+#1512
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D2
+~
+~
+0 0 1511
+D3
+~
+~
+0 0 1513
+S
+#1513
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D1
+~
+~
+0 0 1512
+D2
+~
+~
+0 0 1532
+D3
+~
+~
+0 0 1514
+S
+#1514
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D1
+~
+~
+0 0 1513
+D2
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1515
+S
+#1515
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D1
+~
+~
+0 0 1514
+D2
+~
+~
+0 0 1534
+D3
+~
+~
+0 0 1516
+S
+#1516
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 0 6
+D1
+~
+~
+0 0 1515
+D2
+~
+~
+0 0 1535
+D3
+~
+~
+0 0 1517
+S
+#1517
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D1
+~
+~
+0 0 1516
+D2
+~
+~
+0 0 1536
+D3
+~
+~
+0 0 1518
+S
+#1518
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D1
+~
+~
+0 0 1517
+D2
+~
+~
+0 0 1519
+S
+#1519
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D0
+~
+~
+0 0 1518
+D1
+~
+~
+0 0 1536
+D2
+~
+~
+0 0 1520
+S
+#1520
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D0
+~
+~
+0 0 1519
+D1
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 1521
+S
+#1521
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D0
+~
+~
+0 0 1520
+D1
+~
+~
+0 0 1538
+D2
+~
+~
+0 0 1522
+S
+#1522
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D0
+~
+~
+0 0 1521
+D2
+~
+~
+0 0 1523
+S
+#1523
+The Ocean~
+The ocean surrounds you on all sides.  Deep blue seas extend in all
+directions, marred only by the occasional small wave, breaking the surface. 
+A scant few seagulls pass slowly overhead, leading one to believe that there
+is land somewhere nearby.  
+~
+0 4 6
+D0
+~
+~
+0 0 1522
+D1
+~
+~
+0 0 1524
+D2
+~
+~
+0 0 1500
+S
+#1524
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the northeast.  
+~
+0 0 6
+D0
+~
+~
+0 0 1539
+D1
+~
+~
+0 0 1525
+D2
+~
+~
+0 0 1501
+D3
+~
+~
+0 0 1523
+S
+#1525
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the north.  
+~
+0 0 6
+D0
+~
+~
+0 0 1540
+D1
+~
+~
+0 0 1526
+D2
+~
+~
+0 0 1502
+D3
+~
+~
+0 0 1524
+S
+#1526
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the north.  
+~
+0 0 6
+D0
+~
+~
+0 0 1541
+D1
+~
+~
+0 0 1527
+D2
+~
+~
+0 0 1503
+D3
+~
+~
+0 0 1525
+S
+#1527
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the north.  
+~
+0 0 6
+D0
+~
+~
+0 0 1542
+D1
+~
+~
+0 0 1528
+D2
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1526
+S
+#1528
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the northwest.  
+~
+0 0 6
+D0
+~
+~
+0 0 1529
+D1
+~
+~
+0 0 1507
+D2
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1527
+S
+#1529
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the west.  
+~
+0 0 6
+D0
+~
+~
+0 0 1530
+D1
+~
+~
+0 0 1508
+D2
+~
+~
+0 0 1528
+D3
+~
+~
+0 0 1542
+S
+#1530
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the west.  
+~
+0 0 6
+D0
+~
+~
+0 0 1531
+D1
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1529
+D3
+~
+~
+0 0 1543
+S
+#1531
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the west.  
+~
+0 0 6
+D0
+~
+~
+0 0 1532
+D1
+~
+~
+0 0 1510
+D2
+~
+~
+0 0 1530
+D3
+~
+~
+0 0 1544
+S
+#1532
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the southwest.  
+~
+0 0 6
+D0
+~
+~
+0 0 1513
+D1
+~
+~
+0 0 1511
+D2
+~
+~
+0 0 1531
+D3
+~
+~
+0 0 1533
+S
+#1533
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 1514
+D1
+~
+~
+0 0 1532
+D2
+~
+~
+0 0 1544
+D3
+~
+~
+0 0 1534
+S
+#1534
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the south.  
+~
+0 0 6
+D0
+~
+~
+0 0 1515
+D1
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1535
+S
+#1535
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the south.  
+~
+0 4 6
+D0
+~
+~
+0 0 1516
+D1
+~
+~
+0 0 1534
+D2
+~
+~
+0 0 1546
+D3
+~
+~
+0 0 1536
+S
+#1536
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the southeast.  
+~
+0 4 6
+D0
+~
+~
+0 0 1517
+D1
+~
+~
+0 0 1535
+D2
+~
+~
+0 0 1537
+D3
+~
+~
+0 0 1519
+S
+#1537
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the east.  
+~
+0 4 6
+D0
+~
+~
+0 0 1536
+D1
+~
+~
+0 0 1546
+D2
+~
+~
+0 0 1538
+D3
+~
+~
+0 0 1520
+S
+#1538
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the east.  
+~
+0 4 6
+D0
+~
+~
+0 0 1537
+D1
+~
+~
+0 0 1547
+D2
+~
+~
+0 0 1539
+D3
+~
+~
+0 0 1521
+S
+#1539
+Shallow Water~
+The ocean seems to get slightly shallower here, the water becoming a
+lighter shade of blue.  Seagulls are slightly more frequent in this area of
+the ocean and the sound of crashing waves can be heard nearby.  The rough
+outline of a small island can be seen to the east.  
+~
+0 4 6
+D0
+~
+~
+0 0 1538
+D1
+~
+~
+0 0 1540
+D2
+~
+~
+0 0 1524
+S
+#1540
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the northwest, the door seemingly to the north.  To the south and west the
+ocean stretches vastly outward, and to the north and east the beach
+continues on.  
+~
+0 0 10
+D0
+~
+~
+0 0 1547
+D1
+~
+~
+0 0 1541
+D2
+~
+~
+0 0 1525
+D3
+~
+~
+0 0 1539
+S
+#1541
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the north.  To the south the ocean stretches vastly outward, and to the east
+and west the beach continues on.  
+~
+0 0 0
+D0
+~
+~
+0 0 1564
+D1
+~
+~
+0 0 1542
+D2
+~
+~
+0 0 1526
+D3
+~
+~
+0 0 1540
+S
+#1542
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the northeast, the door seemingly to the north.  To the south and east the
+ocean stretches vastly outward, and to the north and east the beach
+continues on.  
+~
+0 0 0
+D0
+~
+~
+0 0 1543
+D1
+~
+~
+0 0 1529
+D2
+~
+~
+0 0 1527
+D3
+~
+~
+0 0 1541
+S
+#1543
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the west, the door seemingly to the north.  To the east the ocean stretches
+vastly outward, and to the north and south the beach continues on.  
+~
+0 0 0
+D0
+~
+~
+0 0 1544
+D1
+~
+~
+0 0 1530
+D2
+~
+~
+0 0 1542
+D3
+~
+~
+0 0 1564
+S
+#1544
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the southwest, the door seemingly to the north.  To the north and east the
+ocean stretches vastly outward, and to the west and south the beach
+continues on.
+~
+0 0 0
+D0
+~
+~
+0 0 1533
+D1
+~
+~
+0 0 1531
+D2
+~
+~
+0 0 1543
+D3
+~
+~
+0 0 1545
+S
+#1545
+Before A Small House~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about. A small, pink house sits overlooking the ocean.
+~
+0 0 0
+D0
+~
+~
+0 0 1549
+D1
+~
+~
+0 0 1544
+D2
+~
+~
+0 0 1564
+D3
+~
+~
+0 0 1546
+S
+#1546
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the southeast, the door seemingly to the north.  To the north and west the
+ocean stretches vastly outward, and to the east and south the beach
+continues on.  
+~
+0 0 0
+D0
+~
+~
+0 0 1535
+D1
+~
+~
+0 0 1545
+D2
+~
+~
+0 0 1547
+D3
+~
+~
+0 0 1537
+S
+#1547
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the east, the door seemingly to the north.  To the west the
+ocean stretches vastly outward, and to the north and south the beach
+continues on.  
+~
+0 0 0
+D0
+~
+~
+0 0 1546
+D1
+~
+~
+0 0 1564
+D2
+~
+~
+0 0 1540
+D3
+~
+~
+0 0 1538
+S
+#1548
+~
+~
+0 4 0
+S
+#1549
+Inside the door of Kame House~
+Upon entering the house the walls are an odd color for a man to pick,
+pink.  To the north is a living room.  To the west is a kitchen with a good
+smell coming from it.  To the east is the deck.  
+~
+0 8 0
+D0
+~
+~
+0 0 1550
+D1
+~
+~
+0 0 1553
+D2
+~
+~
+0 0 1545
+D3
+~
+~
+0 0 1551
+S
+#1550
+A living room~
+This room seems to be the center of all everything in this house.  There
+is a TV here that I'm sure Master Roshi has been using for years, There is
+also a nice comfy sofa, and coffee table here for people to sit around the
+table and talk.  To the west is a bathroom, there is also a staircase
+leading to the upper half of the house.  
+~
+0 1032 0
+D1
+~
+~
+0 0 1555
+D2
+~
+~
+0 0 1549
+D3
+~
+~
+0 0 1554
+D4
+~
+~
+0 0 1556
+S
+#1551
+A kitchen~
+A wonderful aroma fills this room.  This room is better kept than the
+other rooms in the house.  There is a pot on the stove, and a refrigerator
+in the corner.  
+~
+0 8 0
+D1
+~
+~
+0 0 1549
+S
+#1552
+A pantry~
+~
+0 4 0
+S
+#1553
+A deck~
+This deck has a beautiful view of the ocean, with the breeze blowing onto
+the deck.  This place seems very peaceful, and has a beautiful view of the
+ocean.  
+~
+0 8 0
+D3
+~
+~
+0 0 1549
+S
+#1554
+A bathroom~
+This bathroom has nothing special, it has a toilet, mirror, sink, and a
+bathtub.  This room seems very clean as well.  
+~
+0 520 0
+D1
+~
+~
+0 0 1550
+S
+#1555
+A closet~
+As you enter this closet, you notice that it is pretty dark in
+here.  After your eyes adjust, you notice this closet isnt used
+to store clothes, instead, it is used to hold Master Roshis dirty
+magazines. There isnt much here to look at, unless Master
+Roshis magazines are tempting to you.
+~
+0 8 0
+D3
+~
+~
+0 0 1550
+S
+#1556
+Up the stairs~
+This is where the stairs lead to.  This seems to be the hallway that
+leads to the sleeping areas of the Kame House.  The floor seems to be made
+of a hard wood, with a colorful rug on it.  To the east and west, the
+hallway continues.  
+~
+0 8 0
+D0
+~
+~
+0 0 1557
+D1
+~
+~
+0 0 1562
+D3
+~
+~
+0 0 1558
+D5
+~
+~
+0 0 1550
+S
+#1557
+Master Roshi's Bedroom~
+This is the best bedroom in the house.  It has a king size bed with white
+sheets, and a quilt with Master Roshi's insignia on it.  The chest at the
+foot of the bed is rather large and old.  The window has the best view in
+the house.  
+~
+0 8 0
+D2
+~
+~
+0 0 1556
+S
+#1558
+A hallway~
+This is the western end of the hallway. The floor on this side of the hallway doesn't creak like the other. To the north is a bedroom. To the west is another bathroom. To the south is another bedroom.
+~
+0 8 0
+D0
+~
+~
+0 0 1560
+D1
+~
+~
+0 0 1556
+D2
+~
+~
+0 0 1561
+D3
+~
+~
+0 0 1559
+S
+#1559
+A bathroom~
+This bathroom has nothing special, it has a toilet, mirror, sink, and a bathtub. I'm sure it will be ok if you use it, but be sure to flush.
+~
+0 8 0
+D1
+~
+~
+0 0 1558
+S
+#1560
+A bedroom~
+This bedroom is like all the other bedrooms, it has a bed, and a window,
+which gives a beautiful view of the ocean. The window is open, so you can
+smell the sea breeze. This room makes you want to lay on the bed and relax.
+~
+0 8 0
+D2
+~
+~
+0 0 1558
+S
+#1561
+A guest room~
+This bedroom is like all the other bedrooms, it has a bed, and a window, which gives a beautiful view of the ocean. The window is open, so you can smell the sea breeze. This room makes you want to lay on the bed and relax.
+~
+0 8 0
+D0
+~
+~
+0 0 1558
+S
+#1562
+A hallway~
+This is the eastern section of the hallway. The floor creeks as you enter this part of the hallway, sounding like it needs alittle work. To the north is a guest bedroom, while back to the west is the hallway.
+~
+0 8 0
+D0
+~
+~
+0 0 1563
+D3
+~
+~
+0 0 1556
+S
+#1563
+Another bedroom~
+This is a beautiful bedroom, it has a nice, cozy bed, a big rug, and a window with a beautiful view of the sea. This room makes you rather tired, it sure would be nice to take a rest after all your training.
+~
+0 8 0
+D2
+~
+~
+0 0 1562
+S
+#1564
+A Sandy Beach~
+This is where the brightly colored sand meets the clear blue water of the
+ocean.  The sand is warm to the touch, and has a multitude of small shells,
+and other trinkets, scattered about.  A small, white house can be seen to
+the north. To the south and east, the beach continues.
+~
+0 0 0
+D0
+~
+~
+0 0 1545
+D1
+~
+~
+0 0 1543
+D2
+~
+~
+0 0 1541
+D3
+~
+~
+0 0 1547
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1501 1 1550 1 Load Master Roshi
+M 0 1502 1 1550 1 Load Krillin
+M 0 1504 1 1550 1 Load Oolong
+M 0 1505 1 1550 1 Load puar
+M 0 1506 1 1550 1 Load yamcha
+M 0 1507 1 1550 1 Load Baba
+M 0 1505 1 1550 1 Load puar
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

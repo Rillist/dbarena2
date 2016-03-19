@@ -1,0 +1,2767 @@
+#AREADATA
+Name Hell~
+Builders Terraco-d~
+VNUMs 2400 2499
+Credits Terraco,Majinfred --- Hell~
+Security 9
+End
+
+
+
+#MOBILES
+#2400
+odd creature~
+Odd Creature~
+Odd looking Creature
+~
+The Odd looking Creature stands waiting for you to say when you are
+"ready".  It is short, stubby, fat, and wears a shirt with the letters H. 
+E.  L.  L on it.  
+~
+human~
+ABGY 0 -500 0
+100000 79
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 DO 0
+stand stand none 65
+0 ABCEFGHIMW medium unknown
+F for AHMV
+F par DJK
+M GREET 2400 100~
+#2401
+Demon Hologram~
+Flaming Demon Hologram~
+Flaming Demon Hologram
+~
+The Hologram is tall, see through, and has red eyes that stare at you
+with evil intentions.  
+~
+wyvern~
+ABGRT DFT -1000 0
+1500000000 4
+300 300 300 300 300 
+100 100
+none
+0 0 0 0
+CFH KL 0 S
+stand stand none 100000
+ABGHKMZ ABCDEFGHIJKQVX large unknown
+M GREET 2402 100~
+M SPEECH 2403 yes~
+M SPEECH 2404 3~
+#2402
+Nomed the shop owner~
+Nomed the shop owner~
+Nomed the shop owner
+~
+He is a tall demon with large horns on each side of his head.  He looks
+at you as if you were his only customer for years...  
+~
+human~
+ABGY J 0 0
+100000000 0
+20 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+M GREET 2414 100~
+#2403
+Ogre~
+An 8 foot tall red ogre~
+An 8 foot tall red ogre
+~
+A big muscular looking red ogre with two giant horns sticking out of its
+head is standing here looking at the spikes....  
+~
+orc~
+ABG J -100 0
+2500 0
+15 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 Q S
+stand stand none 10
+AEHMV ABCDEFGHIJK large unknown
+M GREET 2405 100~
+#2404
+Ogre~
+An 8 foot tall blue ogre~
+An 8 foot tall blue ogre
+~
+A huge ogre stands here scratching his spike coming out of his forhead. 
+He seems to be looking at the huge wall of spikes.  
+~
+orc~
+ABG J -100 0
+2500 0
+20 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 Q S
+stand stand none 10
+AHMV ABCDEFGHIJK large unknown
+M GREET 2405 100~
+#2405
+Ogre~
+An 8 foot tall green ogre~
+An 8 foot tall green ogre
+~
+A huge ogre is here spinning around in circles, biting his fingernails.
+he seems to be looking up towards the sky.
+~
+orc~
+ABG J -100 0
+2500 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 Q S
+stand stand none 10
+AHMV ABCDEFGHIJK large unknown
+M GREET 2406 100~
+#2406
+seru~
+Seru~
+Seru
+~
+Seru is a tall slick creation colored in green with black patches of
+almost armor like skin.  He has two green shield type things atop his head
+sticking out either side decorated with black spots.  The seven foot
+monster's evil paper white and purple face makes for a bad impression.  
+~
+bio-android~
+ABGOS 0 -750 0
+35000000 1972
+28 28 28 28 28 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+M GREET 2408 100~
+#2407
+furiiza~
+Furiiza~
+Furiiza
+~
+Furiiza is short and hovers slightly above the ground keeping his toes
+from touching the dirt.  He is almost paper white with purple patchs on his
+body.  His face is tilted downward with his eyes looking upward and his grin
+strikes fear into the heart of any normal being.  
+~
+icer~
+ABFGOS 0 -760 0
+5000000 559
+10 10 10 10 10 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+M GREET 2407 100~
+#2408
+Ogre~
+Blue Ogre~
+Blue Ogre
+~
+A large 8 foot tall blue ogre
+~
+orc~
+ABGO J -500 0
+2500 0
+13 5 6 8 8 
+100 100
+none
+0 0 0 0
+0 0 Q S
+stand stand none 10
+AHMV ABCDEFGHIJK large unknown
+M GREET 2412 100~
+#2409
+captain ginyuu~
+Captain Ginyuu~
+Captain Ginyuu
+~
+A 7 foot tall masculine build purple lizard-like human with horns on his
+head in a 45 degree angle.  
+~
+human~
+ABGOS 0 -1000 0
+500000 235
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+FHI BHIL 0 D
+stand stand none 80
+V ABCDEFGHIJKW large unknown
+F for AHM
+#2410
+rikuum~
+Rikuum~
+Rikuum
+~
+A bulky 8 foot tall Human looking powerful being.  He looks to be very
+strong and durable.  He has long orange hair that is sticking up in the air.
+~
+human~
+ABGOS 0 -1000 0
+180000 106
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+CDI 0 EFHI C
+stand stand male 75
+V ABCDEFGHIJK large unknown
+F for AHM
+#2411
+jisu~
+Jisu~
+Jisu
+~
+A medium sized orange skinned human looking creature.  He has long bushy
+white hair that goes down to his shoulders.  He is wearing armor with flaps
+over his shoulders and his sides.  
+~
+human~
+ABGOS 0 -1000 0
+192000 109
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+FHI 0 0 0
+stand stand none 75
+0 ABCDEFGHIJK medium unknown
+F for AHMV
+#2412
+Baata~
+Baata~
+Baata
+~
+Large blue humanoid with two large red eyes that have a mean glow.  He
+looks very swift.  
+~
+human~
+ABGOS 0 -500 0
+194000 110
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+CFH I H 0
+stand stand none 75
+0 ABCDEFGHIJK large unknown
+F for AHMV
+#2413
+Evil Scout~
+Evil Scout~
+Evil Scout
+~
+The Evil scout looks like a short mutant with two large horns coming out of his arms and a tail with shards of spikes on it.
+~
+majin~
+ABFGOS 0 -982 0
+1425464 298
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+M GREET 2409 100~
+#2414
+gurudo~
+Gurudo~
+Gurudo
+~
+A short green nematoad looking being with 4 eyes, two where human eyes
+usually are, and two just above small little slits in his head which appear
+to be his ears.  
+~
+human~
+ABGOS 0 -1000 0
+160000 100
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+CI 0 0 CEJL
+stand stand none 75
+E ABCDEFGHIJK small unknown
+F for AHMV
+#2415
+Ogre~
+Red Ogre~
+Red Ogre
+~
+A large 8 foot tall Red ogre.  
+~
+orc~
+ABGO J -500 0
+2500 0
+13 5 6 9 10 
+100 100
+none
+0 0 0 0
+CI 0 Q S
+stand stand none 10
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 2413 hello~
+M SPEECH 2413 hello?~
+M GREET 2411 100~
+#2416
+Ogre~
+Red Ogre~
+Red Ogre
+~
+A large 8 foot tall red Ogre.  
+~
+orc~
+ABGO J -500 0
+2500 0
+13 5 6 8 9 
+100 100
+none
+0 0 0 0
+CI 0 Q S
+stand stand none 10
+AHMV ABCDEFGHIJK large unknown
+#2417
+cloud puff~
+a puff of cloud~
+A pinkish puff of cloud floating around
+~
+~
+human~
+AGP 0 -750 0
+50000 44
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 50
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2440
+robo 13~
+robot prototype 13~
+Robot prototype 13
+~
+~
+saiya-jin~
+ARS 0 -1000 0
+30000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2450
+puffy cloud soul~
+a puffy-cloud soul~
+A soul in a puffy cloud-like state
+~
+Nothing much can be seen on the puffy cloud, but a feeling that it once
+was a person can be sensed from it.  
+~
+human~
+AGW 0 -500 0
+24000 0
+10 10 10 15 10 
+100 0
+pound
+0 0 0 0
+C 0 0 0
+stand stand none 0
+E 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2451
+cloud soul puffy talking~
+a puffy cloud-like soul~
+A cloud-like soul just floating here
+~
+Nothing much can be seen on the puffy cloud, but a feeling that it once
+was a person can be sensed from it.  
+~
+human~
+ABGQ 0 -500 0
+200000 0
+10 10 10 10 10 
+50 100
+pound
+0 0 0 0
+C 0 0 0
+stand stand none 0
+E 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 2451 100~
+M DEATH 2452 100~
+#2497
+cat~
+Puar~
+Puar, the floating shapeshifting cat
+~
+~
+human~
+A 0 0 0
+12 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 46
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2498
+ogre~
+a short ogre~
+A rather short ogre watching the tall people with envy
+~
+~
+half-breed~
+ABGS 0 -500 0
+1000000 333
+5 5 5 5 5 
+200 100
+punch
+0 0 0 0
+CI CQ 0 0
+stand stand none 90
+AHMV ABCDEFGHIJK small unknown
+M GREET 2415 100~
+M DELAY 2416 100~
+#2499
+ogre~
+a waiting ogre~
+A huge ogre waiting to send people out of hell
+~
+~
+human~
+ABGS 0 -500 0
+500000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 2499 100~
+M DELAY 2498 100~
+#0
+
+
+
+#OBJECTS
+#2400
+instructon board~
+an instruction board~
+An instruction board lies here.~
+paper~
+0
+trash X 0
+0 0 0 0 0
+1000 0 0 P
+#2401
+Power Pole~
+a Power Pole~
+A Power Pole~
+unknown~
+100
+weapon 0 AN
+exotic 0 0 smash F
+1000 5 10000 P
+O SPEECH 2402 retract~
+O SPEECH 2401 extend~
+#2402
+Hell's Blade~
+hell's Blade~
+Hell's Blade, flaming with a blue and red aura.~
+steel~
+30
+weapon A AN
+sword 0 0 slash A
+2000 50 500 P
+#2403
+couch~
+a couch~
+A comfortable couch~
+unknown~
+100
+furniture 0 0
+B CEFGHI EHKN 0 0
+100 0 0 P
+#2404
+hat horns~
+a hat with horns~
+A hat with small horns on top~
+leather~
+9999999
+armor 0 AEO
+AC BD AC BD 0
+0 10 100 P
+#2405
+Cargo Pants~
+cargo Pants~
+Cargo Pant~
+cotton~
+99999
+armor 0 AF
+BCDGHIJKLMNOPQRSTUVWXYZabcdef BCDGHIJKLMNOPQRSTUVWXYZabcdef BCDGHIJKLMNOPQRSTUVWXYZabcdef BCDGHIJKLMNOPQRSTUVWXYZabcdef 0
+0 5 100 P
+#2406
+freezing dagger death~
+f{bre{xez{bin{xg {cDeath{x~
+F{bre{xez{bin{xg {cDeath{x~
+Unknown~
+2000
+weapon G ANO
+dagger 0 0 frbite B
+100000 1 500 P
+#2407
+ogre mace~
+an ogre mace~
+An ogre mace~
+unknown~
+500
+weapon 0 ANO
+mace 0 0 smash 0
+0 0 500 P
+#2408
+dagger flaming wrath~
+{rFla{Rmin{rg{x {rWr{Rath{x~
+{rFla{Rmin{rg{x {rWr{Rath{x~
+Unknown~
+0
+weapon 0 ANO
+dagger 0 0 flbite A
+1 0 500 R
+#2409
+bottle beer~
+a bottle of O'Keefe~
+A bottle of O'keefe ~
+unknown~
+2147483647
+drink X AO
+-1 1 'beer' 0 0
+1 0 0 P
+#2410
+scimitar~
+a {Ygolden{x scimitar~
+A {Ygolden{x scimitar~
+Adamantite~
+2147483647
+weapon A AN
+sword 16 35 slash DE
+1 1 1000000000 R
+#2411
+championship title belt~
+a championship title belt~
+A championship title belt~
+none~
+0
+armor X AL
+CFG CFG CFG CFG 0
+1 0 0 R
+#2412
+whip damned~
+the whip of the damned~
+A long whip made of ogre skin~
+ogre skin~
+30000
+weapon ABCG ANO
+whip 0 0 wrath G
+0 0 500 P
+#2415
+portal to earth~
+the portal to earth~
+Here lies the portal which brings lost souls to Earth~
+unknown~
+100
+portal 0 0
+0 0 0 EFIM 0
+1 0 0 P
+#2416
+prize token 1000000~
+a prize token~
+A prize token~
+unknown~
+1
+trash X AO
+0 0 0 0 0
+0 0 0 P
+#2417
+prize token 500000~
+a prize token~
+A prize token~
+unknown~
+1
+trash X AO
+0 0 0 0 0
+0 0 0 P
+#2418
+prize token 250000~
+a prize token~
+A prize token~
+unknown~
+1
+trash X AO
+0 0 0 0 0
+0 0 0 P
+#2419
+mask ski~
+a rigid ski mask~
+A rigid ski mask~
+unknown~
+1
+trash 0 AEO
+0 0 0 0 0
+0 0 0 P
+#2420
+pouch~
+a travelling pouch~
+A travelling pouch~
+unknown~
+1
+container 0 A
+10000 AB 0 20 1000
+0 0 0 P
+#2421
+ring pit~
+a mud wrestling pit~
+A pit filled with mud for wrestling~
+unknown~
+1
+furniture 0 0
+CD 0 CFIL 0 0
+0 0 0 P
+#2422
+cape~
+a {C({Y-M-{C){x cape~
+A {C({Y-M-{C){x cape~
+unknown~
+2147483647
+armor 0 ACO
+0 0 0 0 0
+0 0 0 P
+#2490
+gi uniform~
+{rorange gi{x with the {W=Z={x {BWarriors{x insignia~
+{rOrange gi{x with the {W=Z={x {BWarriors{x insignia~
+unknown~
+2147483647
+armor 0 AD
+0 0 0 0 0
+0 0 0 P
+E
+gi~
+The {rorange{x gi is made of tough material so it resists practically all
+hits.  On the left breast, an insignia can be seen.  
+~
+E
+insignia~
+{W=Z={x
+~
+#2498
+shirt~
+a t-shirt~
+A t-shirt~
+unknown~
+100000
+armor 0 ADO
+0 0 0 0 0
+0 0 0 P
+#2499
+cookie~
+a cookie~
+A chocolate chip cookie~
+unknown~
+1
+food 0 A
+0 AB 0 0 EIJKN
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2400
+Entrace to hell~
+Here the feeling of evil is strong.  Screaming and evil laughter fill
+your ears.  Everything is shrouded in red light and shadows loom all around.
+There are some strange metal objects all around.  They look sharp and
+jagged.  Further on to the south the hell continues.  
+~
+0 0 0
+D2
+~
+~
+0 0 2401
+S
+#2401
+Hell~
+To the east, there is a large blood lake.  A large fountain pours out
+blood into the lake, making a sickening splash as it hits.  The screams and
+laughter seem to be getting closer, louder.  A feeling of overpowering fear
+fills the air.  The eternal hell continues westward.  
+~
+0 8196 0
+D0
+~
+~
+0 0 2400
+D3
+~
+~
+0 0 2402
+S
+#2402
+Hell~
+An ear shattering scream retents across HELL.  The lake of blood, seen to
+the east, slowly gives off a metallic-type smell.  Sharp, metal objects can
+be clearly seen to the north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2403
+D1
+~
+~
+0 0 2401
+S
+#2403
+Deeper Hell~
+Now even more metallic spikes are surrounding the area.  The obstructions
+are making it very difficult to walk through the path way, and it is getting
+worse as the path grows even more narrow.  The screams grow fewer and
+quieter, as the path is covered with more spikes.  The path to further Hell
+goes north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2404
+D2
+~
+~
+0 0 2402
+S
+#2404
+Deeper Hell~
+The path is at it's narrowest, surrounded by sharp metallic spikes. 
+Walking through here is treacherous as the spikes leave deep gashes if
+scratched upon.  The screams seem to have died down, as the path to the
+plains is visible to the north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2405
+D2
+~
+~
+0 0 2403
+S
+#2405
+Path to Hell's Plains~
+The field of spikes is awfully thick here, yet the path returns to a
+normal size, leaving just enough room not to get scratched.  The path twists
+and turns, confusing many, before straightening out to the east.  
+~
+0 8196 0
+D1
+~
+~
+0 0 2406
+D2
+~
+~
+0 0 2404
+S
+#2406
+Path to Hell's Plains~
+The field of spikes has thinned out enough that the path is quite large
+now, allowing three people to walk side by side.  It goes up hill for a few
+miles, and then back down toward the plains.  At the top of the hill, the
+plains can be clearly seen to the north. 
+~
+0 8196 0
+D0
+~
+~
+0 0 2407
+D3
+~
+~
+0 0 2405
+S
+#2407
+Hell's Plains~
+With the field of spikes passed, there is more room to move around.  Within
+this vast plain, nomads of all races roam around.  Looking up, the cloud
+barrier fills the sky, keeping the souls from escaping.  
+~
+0 0 0
+D0
+~
+~
+0 0 2408
+D1
+~
+~
+0 0 2409
+D2
+~
+~
+0 0 2406
+D3
+~
+~
+0 0 2410
+S
+#2408
+Hell's Plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2413
+D1
+~
+~
+0 0 2411
+D2
+~
+~
+0 0 2407
+D3
+~
+~
+0 0 2412
+S
+#2409
+Hell's Plains~
+The ground is quite dry and arid, with a patch of rough grass here and
+there.  Laying here, a saiyan warrior driven to insanity yelling about how
+he is turning into an icer queen.  The only obvious directions are north,
+east and west.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2411
+D1
+~
+~
+0 0 2415
+D3
+~
+~
+0 0 2407
+S
+#2410
+Hell's Plains~
+The badlands of hell continue stretching as far as the eye can see. 
+Little cloud-like wisps float around, roaming like the nomads they once
+were.  North, east and west are the only ways out of this depressing place. 
+~
+0 0 0
+D0
+~
+~
+0 0 2412
+D1
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2428
+D3
+~
+~
+0 0 2414
+S
+#2411
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8192 0
+D0
+~
+~
+0 0 2417
+D1
+~
+~
+0 0 2416
+D2
+~
+~
+0 0 2409
+D3
+~
+~
+0 0 2408
+S
+#2412
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8192 0
+D0
+~
+~
+0 0 2424
+D1
+~
+~
+0 0 2408
+D2
+~
+~
+0 0 2410
+D3
+~
+~
+0 0 2425
+S
+#2413
+Hell's plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8192 0
+D0
+~
+~
+0 0 2420
+D1
+~
+~
+0 0 2417
+D2
+~
+~
+0 0 2408
+D3
+~
+~
+0 0 2424
+S
+#2414
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8196 0
+D0
+~
+~
+0 0 2425
+D1
+~
+~
+0 0 2410
+D2
+~
+~
+0 0 2422
+D3
+~
+~
+0 0 2423
+S
+#2415
+Hell's Plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  To the east is the entrance
+of a cave.  
+~
+0 0 0
+D0
+~
+~
+0 0 2416
+D1
+~
+~
+0 0 2456
+D2
+~
+~
+0 0 2418
+D3
+~
+~
+0 0 2409
+S
+#2416
+Hell's Plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2428
+D1
+~
+~
+0 0 2425
+D2
+~
+~
+0 0 2415
+D3
+~
+~
+0 0 2411
+S
+#2417
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8192 0
+D0
+~
+~
+0 0 2421
+D1
+~
+~
+0 0 2428
+D2
+~
+~
+0 0 2411
+D3
+~
+~
+0 0 2413
+S
+#2418
+Hell's Plains~
+The plains go on for miles around.  Desert lands roll on, burning the
+feet of creatures lucky enough to have kept their bodies, making HELL look
+even more unbearable.  High above, the cloud barrier stops an escape
+attempt, sending the escapee barreling back to the ground.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2415
+D2
+~
+~
+0 0 2427
+D3
+~
+~
+0 0 2419
+S
+#2419
+Hell's ...Shop of Goodies!~
+This is probably the nicest place in all of Hell, if there even is a
+place that could be considered nice.  This is an item shop where people can
+get stuff they can't get anywhere else.  
+~
+0 8192 0
+D1
+~
+~
+0 0 2418
+D2
+~
+~
+0 0 2421
+S
+#2420
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 4 0
+D1
+~
+~
+0 0 2421
+D2
+~
+~
+0 0 2413
+S
+#2421
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8192 0
+D0
+~
+~
+0 0 2419
+D1
+~
+~
+0 0 2427
+D2
+~
+~
+0 0 2417
+D3
+~
+~
+0 0 2420
+S
+#2422
+DEAD End~
+The leading here ends in a dead end, blocked by a large barricade of
+metallic spikes.  There are no visible way through them and flying over is
+hazardeous at the best.  The only choice is to go north.  
+~
+0 0 0
+D0
+~
+~
+0 0 2414
+S
+#2423
+DEAD End~
+The leading here ends in a dead end, blocked by a large barricade of
+metallic spikes.  There are no visible way through them and flying over is
+hazardeous at the best.  The only choice is to go east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2414
+S
+#2424
+Hell's Plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2429
+D1
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2412
+D3
+~
+~
+0 0 2426
+S
+#2425
+Hell's plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2426
+D1
+~
+~
+0 0 2412
+D2
+~
+~
+0 0 2414
+D3
+~
+~
+0 0 2416
+S
+#2426
+Hell's Plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2451
+D1
+~
+~
+0 0 2424
+D2
+~
+~
+0 0 2425
+S
+#2427
+Hell's Plains~
+As the plains roll on and on, they seem to go on forever, having no end
+in sight.  Small wisps of cloud fly around, bumping into each other,
+resembling a battle of some sort.  The plains look about the same in all
+directions, with metalic spikes piercing through the terrain every 50
+yards...  
+~
+0 8192 0
+D0
+~
+~
+0 0 2418
+D1
+~
+~
+0 0 2409
+D2
+~
+~
+0 0 2428
+D3
+~
+~
+0 0 2421
+S
+#2428
+Hell's Plains~
+The seemingly endless plains continue onward, stretching in all
+directions.  The sky seems to change color every so often, and the air
+around seems illuminated by some kind of mist.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2427
+D1
+~
+~
+0 0 2410
+D2
+~
+~
+0 0 2416
+D3
+~
+~
+0 0 2417
+S
+#2429
+Hell's Plains~
+The soil here is blood red in color, and consists of really fine sand. 
+Here and there, bone-like objects point out of the soil.  To the north, a
+red glow betrays the location of a small shack.  Those fearing death should
+think about heading back south.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2430
+D2
+~
+~
+0 0 2424
+S
+#2430
+Small Shack~
+Inside the small shack the light is not so bright and the light source
+can be seen to be coming from a small hole in the ground.  A small puddle of
+blood streams out of the hole.  There is also another open door west that
+seems to lead into a white room.  
+~
+0 8196 0
+D2
+~
+~
+0 0 2429
+D3
+~
+~
+0 0 2432
+D5
+~
+~
+0 0 2431
+S
+#2431
+Hell's Test~
+This room doesn't have much special about it exept it is filled with a
+red bright light.  And it has a tall spirit type floating guy, who stares at
+you with evil in its eye.  If you are scared you may go back up though.  
+~
+0 8192 0
+D4
+~
+~
+0 0 2430
+S
+#2432
+White Room~
+This is probably the most safe place in all of Hell.  The room has an
+evil aroma even though it seems to look completely peaceful.  Anyone who
+enters can let that this room is obviously decieving to the normal eye.  The
+exits out of the room lead North and to the East.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2433
+D1
+~
+~
+0 0 2430
+S
+#2433
+Dark Room~
+The room is pitch black and it's imposible to see anything with out a
+light.  There doesn't seem to be anything threatning in the room, but then
+again nothing is visible.  Also this is the first room that does not have
+the terrible lightning sharp screams of death in the background.  
+~
+0 8193 0
+D2
+~
+~
+0 0 2432
+S
+#2434
+Hallway to the ExitMaze~
+This room is dim and poorly lit by a red energy of some kind.  It has
+small but extremely sharp metal spikes coming out of it.  There is the way
+back-if it isn't locked by now-and the way up into a very dark room with
+greenish neon slime dripping out of it.  
+~
+0 8192 0
+D4
+~
+~
+0 0 2435
+S
+#2435
+Tunnel to the ExitMaze~
+The tunnel up keeps going and it seems very dark.  The walls are sticky
+and smell of a putrid oder.  All that can be seen is the light going up, and
+the light that seems to be dimmer coming from below.  
+~
+0 8192 0
+D4
+~
+~
+0 0 2436
+D5
+~
+~
+0 0 2434
+S
+#2436
+Tunnel to the ExitMaze~
+The tunnel up keeps going and it seems very dark.  The walls are sticky
+and smell of a putrid oder.  All that can be seen is the light going up, and
+the light that seems to be dimmer thats coming from below.  
+~
+0 8192 0
+D4
+~
+~
+0 0 2437
+D5
+~
+~
+0 0 2435
+S
+#2437
+HELL~
+The terrain is littered with bones and has small shards of glass sticking
+out of it.  The air is misty with ash and dust, which is covering the
+ground.  As the air grows musty it becomes hard to breath the corrupted air.
+East and down are the only visable exits.  
+~
+0 8192 0
+D1
+~
+~
+0 0 2438
+D5
+~
+~
+0 0 2436
+S
+#2438
+HELL~
+The terrain is littered with bones and has small shards of glass sticking
+out of it.  The air is misted with ash and dust, which is also covering the
+ground with a thin layer.  As the air grows musty it becomes hard to breeth
+the mirky oxygen.  North, West, and East are the only exits visible through
+the dust and blinding ash.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2439
+D1
+~
+~
+0 0 2440
+D3
+~
+~
+0 0 2437
+S
+#2439
+HELL~
+The ground is covered with shards of glass and it starts to worsen as the
+trail continues It has become very hard to walk on and continues to worsen. 
+The exits from this area are South, West, and a door to the East that
+appears to be rusted, and very large.  
+~
+0 8192 0
+D2
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2445
+S
+#2440
+HELL~
+This is a very dark and stuffy area, it has the residing residue of a
+recently burnt out match.  The ground is black as ash as if the ground was
+recently on fire.  There are two ways the ground is pointing, there is the
+west, or the north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2445
+D3
+~
+~
+0 0 2438
+S
+#2441
+HELL~
+The room Has turned into a red maze with twists and turns that aren't too
+confusing but more of an anoyance.  As the room winds around the path looks
+about the same each way.  Up and North are the only exits.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2442
+D4
+~
+~
+0 0 2443
+S
+#2442
+HELL~
+The room Has turned into a red maze with twists and turns that aren't too
+confusing but more of an anoyance.  As the room winds around the path looks
+about the same each way.  Exits are to the North and South of the room.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2443
+D2
+~
+~
+0 0 2441
+S
+#2443
+HELL~
+The room Has turned into a red maze with twists and turns that aren't too
+confusing but more of an anoyance.  As the room winds around the path looks
+about the same each way.  Exits from this room lead Up, Down, and South.  
+~
+0 8192 0
+D2
+~
+~
+0 0 2442
+D4
+~
+~
+0 0 2444
+D5
+~
+~
+0 0 2441
+S
+#2444
+HELL~
+The room Has turned into a red maze with twists and turns that aren't too
+confusing but more of an anoyance.  As the room winds around the path looks
+about the same each way.  Exits from this room are too the south and down.  
+~
+0 8192 0
+D2
+~
+~
+0 0 2447
+D5
+~
+~
+0 0 2443
+S
+#2445
+Hell~
+The ground is covered with shards of glass and it starts to worsen as the
+trail continues It has become very hard to walk on and continues to worsen. 
+The exits from this area are South, West, and East.  
+~
+0 8192 0
+D1
+~
+~
+0 0 2439
+D2
+~
+~
+0 0 2440
+D3
+~
+~
+0 0 2447
+S
+#2446
+HELL~
+As the air is filled with more particles it creates a even harder area to
+breeth in.  The oxygen around the area is masked with soot that makes vision
+very difficult.  Your exit is North.  This is a dead end in all other
+directions.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2447
+S
+#2447
+HELL~
+As the air is filled with more particles it creates an even harder area
+to breath in.  The oxygen around the area is very hard to see through,
+almost impossible because it is very dark as well.  Your exits are North,
+East, South, West.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2444
+D1
+~
+~
+0 0 2445
+D2
+~
+~
+0 0 2446
+D3
+~
+~
+0 0 2448
+S
+#2448
+HELL~
+The terrain is littered with bones and has small shards of glass sticking
+out of it.  The air is misted with ash and dust, whitch is also covering the
+ground with a thin layer.  As the air grows musty in becomes hard to breeth
+the mirky oxygen.  North and east are the only exits visible through the
+dust and blinding ash.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2449
+D1
+~
+~
+0 0 2447
+S
+#2449
+HELL~
+Shards of glass stuck in the ground explode swiftly into the air hiting
+random targets.  The gravity grows the drops suddenly to catch thoughs who
+are weak off gaurd.  Small holes in the ground appear every so often sucking
+poor-and evil-souls into them.  The only way to go is North or back South.  
+~
+0 8192 0
+D0
+~
+~
+0 0 2450
+D2
+~
+~
+0 0 2448
+S
+#2450
+Fields of Hell~
+A huge field expands from here, as far as the eye can see.  Winds blow
+the tall grass in a resemblance of waves on the ocean.  There are trails
+heading north, east and west, hopefully all ending at a safe place.  
+~
+0 8196 0
+D0
+~
+~
+0 0 2463
+D1
+~
+~
+0 0 2465
+D2
+~
+~
+0 0 2449
+D3
+~
+~
+0 0 2464
+S
+#2451
+Cave~
+This is a very small enclosed area.  It is about 8 feet tall from the
+ground and about 5 feet wide from side to side with rocks poking out of
+them.  There are lit torches every 10 feet or so going down the corridor. 
+There is smashed glass on the ground and it looks like the cave has caved in
+recently.  The only exits are back South or continuing North.  
+~
+0 0 0
+D0
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2426
+S
+#2452
+Cave~
+There is one torch on the right that is out.  This room is a bit smaller
+than the rest but its not very noticible.  The general outlook is much like
+the last few areas back to the south.  Its not easy to see because it is
+still getting darker the further in it goes.  The exits are South and North.
+~
+0 0 0
+D0
+~
+~
+0 0 2453
+D2
+~
+~
+0 0 2451
+S
+#2453
+Cave~
+This is a very small enclosed area.  It is about 8 feet tall from the
+ground and about 5 feet wide from side to side with rocks poking out of
+them.  There are lit torches every 10 feet or so going down the corridor. 
+It is getting darker and the torches seem to be more spread out.  There is a
+tiny sound coming from the north.  The only exits are back South or
+continuing North.  
+~
+0 0 0
+D0
+~
+~
+0 0 2454
+D2
+~
+~
+0 0 2452
+S
+#2454
+Deeper Cave~
+This is a very small enclosed area.  It is about 8 feet tall from the
+ground and about 5 feet wide from side to side with rocks poking out of
+them.  There are lit torches every 10 feet or so going down the corridor. 
+It is getting darker and the torches seem to be more spread out.  The sound
+can now be slightly made out, it sounds like two people or two things
+talking.  The exits are South and North.  
+~
+0 0 0
+D0
+~
+~
+0 0 2455
+D2
+~
+~
+0 0 2453
+S
+#2455
+Small cozy cave room~
+This area is larger than the rest It is about 12 feet tall from the
+ground and about 20 square feet wide from side to side with rocks poking out
+of them.  There are two ogres in this room talking to eachother about
+something that cant quite be made out they seem to be talking in ogrish. 
+They dont seem to be paying attention to anything but eachother.  There is a
+table in the middle of this enclosed area with two comfortable looking
+chairs pushed in, there is some kind of food on the table.  There attention
+could be caught by saying, "hello?"  The only exit is back South.  
+~
+0 0 0
+D2
+~
+~
+0 0 2454
+S
+#2456
+Entrance To cave~
+This is the entrance to a cave inside one of the large shards of metal. 
+It gets darker the further down you look and a stair case leads more down. 
+Sounds can be heard frown down below.  
+~
+0 0 0
+D3
+~
+~
+0 0 2415
+D5
+~
+~
+0 0 2457
+S
+#2457
+Inside Cave~
+Inside the cave the walls are covered with slime and gook.  Looking back
+there is dim light shining in from the exit.  North from here there is a
+door and muffled voices can be heard threw the door.  
+~
+0 0 0
+D0
+~
+~
+1 0 2458
+D4
+~
+~
+0 0 2456
+S
+#2458
+Secret Evil Base~
+There is are metal walls all around you and exits to the north, west,
+east that all look about the same with metal halls, and back south.  The
+sounds of walking down the halls and activities can be heard.  It is a big
+change from the rest of Hell in this place.  
+~
+0 0 0
+D0
+~
+~
+0 0 2461
+D1
+~
+~
+0 0 2460
+D2
+~
+~
+1 0 2457
+D3
+~
+~
+0 0 2459
+S
+#2459
+Furiiza's Cave~
+This cave seems to have been carved out by a blast of energy, yet the
+stalagtites are untouched.  The ground and walls seem to have been frozen as
+they are covered with a slight frost.  At the far end, a throne-like slab of
+rock is covered with pieces of ice.  
+~
+0 0 0
+D1
+~
+~
+0 0 2458
+S
+#2460
+Ginyuu Force's Cave~
+This seems to be a naturally made cave, with some parts carved out for
+sleeping quarters.  The Ginyu Force is here practicing a new stance to
+impress, and maybe intimidate, adversaries.  
+~
+0 0 0
+D3
+~
+~
+0 0 2458
+S
+#2461
+Metal Hall~
+This hall is metal and oddly shaped because the sides of the halls are
+rounded off.  The hall has hard thick walls with patches of metal over
+laping eachother.  To the north there seems to be a cave carved out of the
+rock, and the only other exit is to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2462
+D2
+~
+~
+0 0 2458
+S
+#2462
+Seru's Cave~
+This cave was carved out by a blast of energy.  The smooth surface only
+proves that even more.  To the far side, a tall figure gets up from a
+throne-like chair of stone, as if he expected someone.  
+~
+0 0 0
+D2
+~
+~
+0 0 2461
+S
+#2463
+Fields of Hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail heads west and south,
+and the grass seems a bit separated to the north, heading to what looks like
+another trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 2483
+D2
+~
+~
+0 0 2450
+D3
+~
+~
+0 0 2467
+S
+#2464
+Fields of Hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave from one side to the other.  A brief
+unknown scent is being released by the small flowers deep within the grassy
+field.  The trail heads north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 2473
+D1
+~
+~
+0 0 2450
+S
+#2465
+Fields of Hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave from one side to the other.  A brief
+unknown scent is being released by the small flowers deep within the grassy
+field.  The trail heads north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 2466
+D3
+~
+~
+0 0 2450
+S
+#2466
+Fields of Hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail head north and south,
+and the grass seems a bit seperated to the west, heading to what looks like
+another trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 2468
+D2
+~
+~
+0 0 2465
+D3
+~
+~
+0 0 2471
+S
+#2467
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave from one side to the other.  A brief
+unknown scent is being released by the small flowers deep within the grassy
+field.  The trail heads north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 2470
+D1
+~
+~
+0 0 2463
+S
+#2468
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail head north and south,
+and the grass seems a bit seperated to the west, heading to what looks like
+another trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 2469
+D2
+~
+~
+0 0 2466
+D3
+~
+~
+0 0 2472
+S
+#2469
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west and south.  
+~
+0 0 0
+D2
+~
+~
+0 0 2468
+D3
+~
+~
+0 0 2481
+S
+#2470
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave from one side to the other.  A brief
+unknown scent is being released by the small flowers deep within the grassy
+field.  The trail heads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2467
+S
+#2471
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail head north and south,
+and the grass seems a bit seperated to the west and east, heading to what
+looks like other trails.  
+~
+0 0 0
+D0
+~
+~
+0 0 2472
+D1
+~
+~
+0 0 2466
+D2
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2474
+S
+#2472
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail head north and south,
+and the grass seems a bit seperated to the west and east, heading to what
+looks like other trails.  
+~
+0 0 0
+D0
+~
+~
+0 0 2482
+D1
+~
+~
+0 0 2468
+D2
+~
+~
+0 0 2471
+D3
+~
+~
+0 0 2475
+S
+#2473
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave from one side to the other.  A brief
+unknown scent is being released by the small flowers deep within the grassy
+field.  The trail heads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2474
+D2
+~
+~
+0 0 2464
+S
+#2474
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail head north and south,
+and the grass seems a bit seperated to the east, heading to what looks like
+another trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 2475
+D1
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2473
+S
+#2475
+Fields of hell~
+Walking on a trail, bordered by tall grass.  From time to time, winds
+blow by making the grass weave and wave.  The trail head north and south,
+and the grass seems a bit seperated to the east, heading to what looks like
+another trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 2476
+D1
+~
+~
+0 0 2472
+D2
+~
+~
+0 0 2474
+S
+#2476
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads east and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 2477
+D2
+~
+~
+0 0 2475
+S
+#2477
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2478
+D3
+~
+~
+0 0 2476
+S
+#2478
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2479
+D3
+~
+~
+0 0 2477
+S
+#2479
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2480
+D3
+~
+~
+0 0 2478
+S
+#2480
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2482
+D3
+~
+~
+0 0 2479
+S
+#2481
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2469
+D3
+~
+~
+0 0 2483
+S
+#2482
+Fields of hell~
+A cliff rises up on the north, keeping people on the trail within the
+plains.  Winds blow the tall grass around making it have the apparence of a
+wind-swept lake.  The slightly visible trail leads west, south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2483
+D2
+~
+~
+0 0 2472
+D3
+~
+~
+0 0 2480
+S
+#2483
+Fields of hell~
+Following the cliffs for hours, a break can be seen going north into the
+cliffs.  The tall grass is being blown by a swift southernly breeze, giving
+the impression that the field is a big green ocean.  Trails head east and
+west, and there seems to be a seperation in the grass leading to a trail to
+the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2484
+D1
+~
+~
+0 0 2481
+D2
+~
+~
+0 0 2463
+D3
+~
+~
+0 0 2482
+S
+#2484
+A crack in the cliff~
+Walled in by immense rocky cliffs to the east and west, the northern wall
+has a large crack in it.  Winds whip through here, whistling when going into
+the crack.  Looking back, a huge field is seen as far as the eye can see.  
+~
+0 0 0
+D0
+~
+~
+0 0 2493
+D2
+~
+~
+0 0 2483
+S
+#2485
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2486
+D5
+~
+~
+0 0 2495
+S
+#2486
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2487
+D5
+~
+~
+0 0 2485
+S
+#2487
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2488
+D5
+~
+~
+0 0 2486
+S
+#2488
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2489
+D5
+~
+~
+0 0 2487
+S
+#2489
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2490
+D5
+~
+~
+0 0 2488
+S
+#2490
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2491
+D5
+~
+~
+0 0 2489
+S
+#2491
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2492
+D5
+~
+~
+0 0 2490
+S
+#2492
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2496
+D5
+~
+~
+0 0 2491
+S
+#2493
+In the crack~
+Entering the crack in the cliff, a nicely finished hallway heads north. 
+Support beams made of pine release a pleasant odor into the air, and the
+rock face has clearly been smoothed out so clothing wont snag or send a
+weary traveller to the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 2494
+D2
+~
+~
+0 0 2484
+S
+#2494
+A hallway to a stairwell~
+The long dark hallway would seem endless if it werent for the brief
+glimmer off a shiny surface in the distance.  The supporting beams, made out
+of pine, are releasing a pleasant odor into the hallway.  The surface of the
+stone was smoothed to prevent scratches or tripping.  
+~
+0 0 0
+D0
+~
+~
+0 0 2495
+D2
+~
+~
+0 0 2493
+S
+#2495
+Doorway to the stairs~
+The door is made of oak and the frame seems to be of the same material. 
+Upon the door, a sign is hung, upon which is written 'Always open...  Unless
+it is lunch.  Please come up'.  The stairs inside are also made of oak, the
+handrail is smooth and sliver free, and it is all covered with a fresh coat
+of wax.  
+~
+0 0 0
+D2
+~
+~
+0 0 2494
+D4
+~
+~
+0 0 2485
+S
+#2496
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2497
+D5
+~
+~
+0 0 2492
+S
+#2497
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 0 0
+D4
+~
+~
+0 0 2498
+D5
+~
+~
+0 0 2496
+S
+#2498
+Stairs up to a huge office~
+The stairs are made of oak and pine decorates the sides with a clever
+design.  They are well kept and waxed with the best wax that can be bought
+in a store.  They are so shiny, everything can be reflected off of them.  In
+the center, a walking mat made of plastic follows the stairs all the way up.
+~
+0 1048588 0
+D4
+~
+~
+0 0 2499
+D5
+~
+~
+0 0 2497
+S
+#2499
+Huge Office~
+Coming into a huge office, a very large ogre behind a desk is reading and
+writing something in a book.  From time to time, he looks down to see the
+next in line, deciding if that person stays in hell or gets his life granted
+back.  
+~
+0 8196 0
+D5
+~
+~
+0 0 2498
+R GRALL 2499 100~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2457 0 1
+D 0 2458 2 1
+O 0 2415 0 2400 The portal to earth loaded to Entrace to hell
+M 0 2417 1 2401 1 Load a puff of cloud
+M 0 2400 1 2401 1 Load Odd Creature
+M 0 2417 4 2404 1 Load a puff of cloud
+M 0 2450 1 2407 1 Load a puffy-cloud soul
+M 0 2417 3 2411 1 Load a puff of cloud
+M 0 2451 1 2412 1 Load a puffy cloud-like soul
+M 0 2417 1 2413 1 Load a puff of cloud
+M 0 2450 2 2414 1 Load a puffy-cloud soul
+M 0 2417 1 2415 1 Load a puff of cloud
+M 0 2450 2 2415 1 Load a puffy-cloud soul
+M 0 2403 1 2418 1 Load An 8 foot tall red ogre
+M 0 2402 1 2419 1 Load Nomed the shop owner
+G 0 2402 0 Hell's blade is given to Nomed the shop owner
+G 0 2407 0 An ogre mace is given to Nomed the shop owner
+G 0 2408 0 {rfla{rmin{rg{x {rwr{rath{x is given to Nomed the shop owner
+G 0 2406 0 F{bre{xez{bin{xg {cdeath{x is given to Nomed the shop owner
+G 0 2412 0 The whip of the damned is given to Nomed the shop owner
+M 0 2404 1 2422 1 Load An 8 foot tall blue ogre
+M 0 2403 1 2423 1 Load An 8 foot tall red ogre
+M 0 2450 2 2428 1 Load a puffy-cloud soul
+M 0 3897 1 2429 1 Load {R A red aura like evil spirit.
+M 0 2450 1 2429 1 Load a puffy-cloud soul
+M 0 2401 1 2431 1 Load Flaming Demon Hologram
+M 0 3897 1 2432 1 Load {R A red aura like evil spirit.
+M 0 2450 2 2434 1 Load a puffy-cloud soul
+M 0 2450 1 2435 1 Load a puffy-cloud soul
+M 0 2450 1 2445 1 Load a puffy-cloud soul
+M 0 2405 1 2446 1 Load An 8 foot tall green ogre
+M 0 2498 1 2449 1 Load a short ogre
+M 0 2450 1 2450 1 Load a puffy-cloud soul
+O 0 927 0 2455 A comfortable chair loaded to Small cozy cave room
+O 0 926 0 2455 A table loaded to Small cozy cave room
+M 0 2408 1 2455 1 Load Blue Ogre
+M 0 2415 1 2455 1 Load Red Ogre
+M 0 2413 1 2458 1 Load Evil Scout
+M 0 2407 1 2459 1 Load Furiiza
+M 0 2414 1 2460 1 Load Gurudo
+M 0 2412 1 2460 1 Load Baata
+M 0 2411 1 2460 1 Load Jisu
+M 0 2410 1 2460 1 Load Rikuum
+M 0 2409 1 2460 1 Load Captain Ginyuu
+M 0 2406 1 2462 1 Load Seru
+M 0 2406 1 2462 1 Load Seru
+M 0 2450 1 2468 1 Load a puffy-cloud soul
+M 0 2450 3 2469 1 Load a puffy-cloud soul
+M 0 2450 1 2474 1 Load a puffy-cloud soul
+M 0 2450 2 2483 1 Load a puffy-cloud soul
+M 0 2499 1 2499 1 Load a waiting ogre
+M 0 2499 1 2499 1 Load a waiting ogre
+S
+
+
+
+#SHOPS
+2402 0 5 0 0 0 30 50 0 23
+0
+
+
+
+#MOBPROGS
+#2400
+say Welcome to Hell! Please continue to the Great Ogre's room...
+~
+#2401
+say Oh! You made it to the half way point! Keep going $n!
+~
+#2402
+say Do you wish to take the test of Hell and recieve the prize of freedom?
+~
+#2403
+say ok... here is your question... 
+say How many stars did the Eldest Namek's dragon ball have?
+~
+#2404
+Say you are correct so you may pass through....  But remember...  Don't tell anyone else the password or you will be *SMITED!*
+mob echoaround $n $I sends $n to Hell's Exit maze
+mob echoat $n $I sends you to Hell's Exit maze
+mob transfer $n 2434
+~
+#2405
+say Hey! keep it moving this isnt a sight seeing tour, this is hell...
+~
+#2406
+say ummm.... im a little lost... i think....
+~
+#2407
+say Hm, looky at what we have here...
+grin
+~
+#2408
+say oh yes, some fresh ..Meat!
+emote licks his lips
+say heh heh heh heh...
+~
+#2409
+say Who are you!....intuder!
+~
+#2410
+emote Looks towards the sound that was just made.
+~
+#2411
+Say Did u here about cell and Frieza and the Ginyu force?  
+~
+#2412
+say I dont think theres an Ogre in hell that doesn't know.
+~
+#2413
+emote looks in the direction that the sound came from
+say Hey, get out of my home!! This is a private residence!!
+emote comes over grabs you and throws you out into the corridor, and points in the direction out
+Mob transfer $n 2454
+~
+#2414
+say HEY!!! How are you?! Could i interest you in a bit of merchandise?!
+~
+#2415
+say Oh! $n! Nice to see you... You still have some ways before meeting the Great Ogre, and I suggest you get going...
+mob remember $n
+mob delay 5
+~
+#2416
+mob echo $I pushes $q and says 'I said GET GOING!!!'
+mob force $q north
+~
+#2451
+mob echoat $n $I looks at you...
+mob echoaround $n $I looks at $n...
+mob echoaround $n $I whispers something to $n
+mob echoat $n {g$I says '{GLooking for the exit are ya? Well, I heard you have to find some demon and answer its question correctly to get out of here.{g'{x
+~
+#2452
+if room $I <= 2433
+mob echoat $n You hear a voice and it says '3' as it fades
+mob echoat $n You hear a voice and it says 'nail' as it fades
+end if
+~
+#2497
+say When you are ready, just 'say ready'...
+~
+#2498
+say Ah! Here we go... $q, you can be sent back... And take this as a token of your trip here...
+mob oload 2404
+mob give hat $q
+mob transfer $q 900
+~
+#2499
+say Hi $n! Please wait while I look for your records...
+mob echo $I reads through a few books...
+mob remember $n
+mob delay 5
+~
+#0
+
+#OBJPROGS
+#2401
+obj echo $I extends to its full length
+~
+#2402
+obj echo $I retracts to it's previous length
+~
+#0
+
+#ROOMPROGS
+#2400
+room transfer $n 2406
+~
+#2401
+room echoaround $q The drawer opens up, and a large man speaks up 'Now now $q, no need to scream. If you want to be sent back quickly, say send me back'
+room echoat $q The drawer opens up, and a large man speaks up 'Now now $q, no need to scream. If you want to be sent back quickly, say send me back'
+~
+#2405
+$n 2406 
+~
+#2406
+~
+#2499
+if players > 1
+room transfer $n 2498
+end if
+~
+#0
+
+#$

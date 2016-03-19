@@ -1,0 +1,2460 @@
+#AREADATA
+Name Heaven~
+Builders Terraco-d~
+VNUMs 3100 3199
+Credits Terraco~
+Security 9
+End
+
+
+
+#MOBILES
+#3100
+North Kai~
+North Kai~
+A little blue guy in a black gi with sunglasses
+~
+~
+human~
+AJb 0 0 0
+600000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 D 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 3100 100~
+M SPEECH 3111 yes~
+#3101
+south kai~
+South Kai~
+A tall pinkish guy with a black gi and sunglasses
+~
+~
+human~
+AJ 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 K 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 3113 100~
+#3102
+east kai~
+East Kai~
+A white plump gal with a black dress and sunglasses
+~
+~
+human~
+AJ 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 K 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 3113 100~
+#3103
+west kai~
+West Kai~
+A short purpleish guy with a black gi and a monocle
+~
+~
+human~
+AJ 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 K 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 3113 100~
+#3104
+tourist~
+a tourist~
+A tourist snaping pictures of the sights
+~
+The tourist is in awe with all the sights and snaps up pictures as fast
+as it's camera can.  
+~
+human~
+AGQR 0 0 0
+1300000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AMV 0 medium unknown
+F for H
+F par ABCDEFGHIJK
+#3105
+fighter stretching~
+a fighter stretching~
+A tournament fighter stretching before a match
+~
+~
+human~
+ABR 0 0 0
+23000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AMV 0 medium unknown
+F for H
+F par ABCDEFGHIJK
+#3106
+gatekeeper~
+the gatekeeper~
+The gatekeeper stands guard for trouble makers
+~
+The gatekeeper stands straight, watching everything and everyone to make
+sure there are no trouble makers.  It's bulging muscles show that it's no
+stranger to fighting and training.  
+~
+human~
+ABQR 0 0 0
+10000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+MV ABE medium unknown
+F for AH
+F par CDFGHIJK
+M SPEECH 3105 yes~
+M GREET 3106 100~
+#3107
+gatekeeper~
+the gatekeeper~
+The gatekeeper stands guard for trouble makers
+~
+The gatekeeper stands straight, watching everything and everyone to make
+sure there are no trouble makers.  It's bulging muscles show that it's no
+stranger to fighting and training.  
+~
+human~
+ABQR 0 0 0
+10000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+MV ABE medium unknown
+F for AH
+F par CDFGHIJK
+M SPEECH 3104 yes~
+M GREET 3107 100~
+#3108
+gatekeeper~
+the gatekeeper~
+The gatekeeper stands guard for trouble makers
+~
+The gatekeeper stands straight, watching everything and everyone to make
+sure there are no trouble makers.  It's bulging muscles show that it's no
+stranger to fighting and training.  
+~
+human~
+ABQR 0 0 0
+10000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+MV ABE medium unknown
+F for AH
+F par CDFGHIJK
+M SPEECH 3103 yes~
+M GREET 3108 100~
+#3109
+gatekeeper~
+the gatekeeper~
+The gatekeeper stands guard for trouble makers
+~
+The gatekeeper stands straight, watching everything and everyone to make
+sure there are no trouble makers.  It's bulging muscles show that it's no
+stranger to fighting and training.
+~
+human~
+ABQR 0 0 0
+10000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+MV ABE medium unknown
+F for AH
+F par CDFGHIJK
+M SPEECH 3102 yes~
+M GREET 3109 100~
+#3110
+gatekeeper~
+the gatekeeper~
+The gatekeeper stands guard for trouble makers
+~
+The gatekeeper stands straight, watching everything and everyone to make
+sure there are no trouble makers.  It's bulging muscles show that it's no
+stranger to fighting and training.
+~
+human~
+ABQR 0 0 0
+10000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+MV ABE medium unknown
+F for AH
+F par CDFGHIJK
+M SPEECH 3101 yes~
+M GREET 3110 100~
+#3111
+fighter~
+a practicing fighter~
+A fighter practicing his kicks
+~
+The fighter has a well defined muscular tone, especially in his legs that
+he keeps in shape by executing various kicks on a punching bag 
+~
+human~
+ABR 0 0 0
+1000000000 10540
+155 155 155 155 155 
+100 100
+punch
+0 0 0 0
+I 0 0 0
+stand stand male 105
+AHMV ABCF medium unknown
+F par DEGHIJK
+#3112
+fighter~
+a practicing fighter~
+A fighter bashing a punching bag with his arms
+~
+The fighter is no stranger to training, as his muscular body shows.  His
+huge arms show where he has been targetting most of his training.  He glares
+around the room from time to time before bashing the punching bag with his
+arms again.  
+~
+human~
+ABR 0 0 0
+10000000000 33333
+220 220 220 220 220 
+100 100
+punch
+0 0 0 0
+C 0 0 0
+stand stand male 105
+AHMV ABCEF medium unknown
+F par DGHIJK
+#3113
+female~
+a practicing female fighter~
+A lone female fighter practicing on a punching bag
+~
+The female fighter is no stranger to combat.  Her punches move the
+punching bag back so far that it nearly hits another fighter.  Her kicks
+nearly seem to break the bag's covering upon impact.  
+~
+human~
+ABR 0 0 0
+1000000000 10540
+155 155 155 155 155 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 105
+HMV ABCDF medium unknown
+F for A
+F par EGHIJK
+#3114
+hovering fighter~
+a hovering fighter~
+A long haired fighter is hovering, watching the others practice
+~
+The hovering fighter watches the others practice and chuckles.  His
+muscles are huge compared to the other fighters, and there seems to be an
+odd glow surrounding him.  
+~
+human~
+ABS 0 0 0
+1000000000000 333333
+220 220 220 220 220 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+HMV ABCDEF medium unknown
+F for A
+F par GHIJK
+#3115
+spectator standing~
+a standing spectator~
+A spectator standing to cheer on his fighter
+~
+~
+human~
+ABQR 0 0 0
+2500000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 50
+AMV 0 medium unknown
+F for H
+F par ABCDEFGHIJK
+#3116
+spectator sitting~
+a sitting spectator~
+A spectator calmly cheering his fighter
+~
+~
+human~
+ABQR 0 0 0
+350000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 10
+AMV 0 medium unknown
+F for H
+F par ABCDEFGHIJK
+#3117
+female spectator~
+a female spectator~
+A female spectator enjoying the show
+~
+~
+human~
+ABQR 0 0 0
+350000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 25
+AMV 0 medium unknown
+F for H
+F par ABCDEFGHIJK
+#3118
+Surpreme kai~
+surpreme kai~
+A little pale pink kai
+~
+The Surpreme Kai is a short pale pink pointy eared kid like person.
+He has white hair that stands up stright in a mohawk and weres two peral
+earings.
+~
+human~
+ABRS 0 0 0
+25000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3145
+Tensiu~
+Tensiu~
+A very short guy with small horn like things on his head.
+~
+~
+human~
+ABS 0 0 0
+1000000000 10540
+155 155 155 155 155 
+100 100
+punch
+0 0 0 0
+0 KZ 0 0
+stand rest male 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 3112 100~
+#3146
+pikkon~
+Pikkon~
+Pikkon, fighter from another world
+~
+~
+human~
+ABS 0 0 0
+3500000 408
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+MV AB medium unknown
+F for AH
+F par CDEFGHIJK
+M GRALL 3147 100~
+M DEATH 3146 100~
+#3150
+Grand Kai~
+Grand Kai~
+The Grand Kai, with his long beard and pointy ears
+~
+~
+human~
+ABS HW 0 0
+1000000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 DZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 3151 bow~
+M SPEECH 3152 home~
+#3198
+slug~
+a slug~
+A large white slug
+~
+~
+namek~
+AB 0 -1000 0
+8000000 200
+12 12 12 12 12 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#3199
+testor~
+testor~
+Testor, battle dummy of the imms
+~
+~
+human~
+ABRU 0 0 0
+50000000000000 11180
+236 236 236 236 236 
+100 100
+punch
+0 0 0 0
+I 0 0 0
+stand stand none 11821
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#3100
+devel pipe~
+devels Pipe~
+A pipe made of nice cryistal~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+1 0 0 P
+#3101
+plane~
+the plane back to Heven's hallway~
+The plane back to Heven's hallway~
+unknown~
+1
+portal 0 0
+0 0 0 BCFKL 0
+0 0 0 P
+#3102
+sign~
+a small sign~
+A {rsign{x hanging above the throne~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+You must show respect to the Grand Kai
+by bowing to him before speaking
+~
+#3104
+Teal~
+a Cadilac~
+Teal green 1957 cadilac convertable with white vinle top and white wall tires~
+unknown~
+1
+furniture 0 0
+AC ABJL F 0 0
+0 0 0 P
+#3110
+portal to earth~
+the portal to Earth~
+Here lies the portal that takes lost souls to Earth.~
+unknown~
+1
+portal 0 0
+0 0 0 DGH 0
+0 0 0 P
+#3134
+punching bag~
+a punching bag~
+A punching bag, hung on a chain from the ceiling~
+leather~
+2147483647
+trash 0 0
+0 0 0 0 0
+0 30 100 P
+#3150
+throne grand kai's~
+a large throne~
+A large throne, with a red velvet cushion~
+unknown~
+1
+furniture 0 0
+A 0 E 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#3100
+Entrance to Heaven~
+Standing in the door, just outside the office, there are planes on the
+runway and some sitting by gates, with little cloud-like puffs boarding
+them.  There is a hallway to the north, with what seems like doors which
+have little signs above them.  
+~
+0 0 0
+D0
+~
+~
+0 0 3101
+S
+#3101
+A Hallway~
+Standing in a hallway, by a door, there is a little step leading to the
+door.  Above the door, a sign reads 'To North Kai's planet' written in
+japanese characters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3102
+D1
+~
+~
+0 0 3106
+D2
+~
+~
+0 0 3100
+S
+#3102
+A Hallway~
+Standing in a hallway, by a door, there is a little step leading to the
+door.  Above the door, a sign reads 'To South Kai's planet' written in
+japanese characters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3103
+D2
+~
+~
+0 0 3101
+D3
+~
+~
+0 0 3107
+S
+#3103
+A Hallway~
+Standing in a hallway, by a door, there is a little step leading to the
+door.  Above the door, a sign reads 'To East Kai's planet' written in
+japanese characters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3104
+D1
+~
+~
+0 0 3108
+D2
+~
+~
+0 0 3102
+S
+#3104
+A Hallway~
+Standing in a hallway, by a door, there is a little step leading to the
+door.  Above the door, a sign reads 'To West Kai's planet' written in
+japanese characters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3105
+D2
+~
+~
+0 0 3103
+D3
+~
+~
+0 0 3109
+S
+#3105
+End of a hallway~
+Standing in a hallway, by a door, there is a little step leading to the
+door.  Above the door, a sign reads 'To Grand Kai's planet' written in
+japanese characters.  
+~
+0 0 0
+D1
+~
+~
+0 0 3110
+D2
+~
+~
+0 0 3104
+S
+#3106
+A Gate~
+The gate leading to the plane to North Kai's planet is made of a strong
+metal.  A long line of cloud-like wisps is waiting to board the plane, to
+visit North Kai's planet.  
+~
+0 0 0
+D3
+~
+~
+0 0 3101
+S
+#3107
+A Gate~
+The gate leading to the plane to South Kai's planet is made of a strong
+metal.  A long line of cloud-like wisps is waiting to board the plane, to
+visit South Kai's planet.  
+~
+0 0 0
+D1
+~
+~
+0 0 3102
+S
+#3108
+A Gate~
+The gate leading to the plane to East Kai's planet is made of a strong
+metal.  A long line of cloud-like wisps is waiting to board the plane, to
+visit East Kai's planet.
+~
+0 0 0
+D3
+~
+~
+0 0 3103
+S
+#3109
+A Gate~
+The gate leading to the plane to West Kai's planet is made of a strong
+metal.  A long line of cloud-like wisps is waiting to board the plane, to
+visit West Kai's planet.
+~
+0 0 0
+D1
+~
+~
+0 0 3104
+S
+#3110
+A Gate~
+The gate leading to the plane to Grand Kai's planet is made of a strong
+metal.  A long line of cloud-like wisps is waiting to board the plane, to
+visit Grand Kai's planet.
+~
+0 0 0
+D3
+~
+~
+0 0 3105
+S
+#3111
+North Kai's planet~
+There is a side walk here surounded by grass the planet is amll enough to
+walk around.  There is a small flower goring nerby and a tree can be seen
+sticking up friom the ground in the horizen.  
+~
+0 0 0
+D0
+~
+~
+0 0 3112
+D2
+~
+~
+0 0 3114
+S
+#3112
+Standing on the sidwalk~
+The sidwalk cointues to the north a bit the tree can bee seen alot easier
+now.  A smll houes is starting to be come visable now.  And there are even
+more flowers here.  
+~
+0 0 0
+D0
+~
+~
+0 0 3113
+D2
+~
+~
+0 0 3111
+S
+#3113
+By a house~
+Standing on the sidewalk by the tree and house.  The house is white and
+red, with a few windows and a door.  Sitting outside the house, in a chair,
+is a little man with long antennas and blue skin, wearing sunglasses and a
+rone.  The sidewalk contineus to the north.  
+~
+0 1024 0
+D0
+~
+~
+0 0 3114
+D2
+~
+~
+0 0 3112
+S
+#3114
+Just past the house and tree~
+Just past the house and tree there are even more flowers and the sidwalk
+keeps going further along.  The horizon is the same as before except no tree
+and no use can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 3111
+D2
+~
+~
+0 0 3113
+S
+#3115
+South Kai's Planet~
+There is a sidewalk here, bordered by grass.  The planet is small enough
+to walk around.  Small flowers grow nearby and on the horizon, a tree can be
+seen sticking out from the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 3116
+D2
+~
+~
+0 0 3118
+S
+#3116
+On the sidewalk~
+The sidewalk is now surrounded by alot of flowers as it continues north. 
+The tree can be seen alot more clearly now.  A small house is now visible in
+the distance.
+~
+0 0 0
+D0
+~
+~
+0 0 3117
+D2
+~
+~
+0 0 3115
+S
+#3117
+Near a house~
+Standng on the sidewalk near the tree and house.  The house is white and
+red, with a few windows and a door.  Sitting in a chair outside the house, a
+little man with long antennas and black skin, wearing sunglasses and a rone.
+The sidewalk continues north some more. 
+~
+0 0 0
+D0
+~
+~
+0 0 3118
+D2
+~
+~
+0 0 3116
+S
+#3118
+Past the house and tree~
+Just past the house and tree, there are even more flowers and the
+sidewalk keeps going north.  The horizon seems the same as before, just
+without the tree and house.  
+~
+0 0 0
+D0
+~
+~
+0 0 3115
+D2
+~
+~
+0 0 3117
+S
+#3119
+East Kai's Planet~
+There is a sidewalk here, bordered by grass.  The planet is small enough
+to walk around.  Small flowers grow nearby and on the horizon, a tree can be
+seen sticking out from the ground.
+~
+0 0 0
+D0
+~
+~
+0 0 3120
+D2
+~
+~
+0 0 3122
+S
+#3120
+On the sidewalk~
+The sidewalk is now surrounded by alot of flowers as it continues north. 
+The tree can be seen alot more clearly now.  A small house is now visible in
+the distance.
+~
+0 0 0
+D0
+~
+~
+0 0 3121
+D2
+~
+~
+0 0 3119
+S
+#3121
+Near a house and tree~
+Standng on the sidewalk near the tree and house.  The house is white and
+red, with a few windows and a door.  Sitting in a chair outside the house, a
+little man with long antennas and black skin, wearing sunglasses and a rone.
+The sidewalk continues north some more. 
+~
+0 0 0
+D0
+~
+~
+0 0 3122
+D2
+~
+~
+0 0 3120
+S
+#3122
+Just past a house and tree~
+Just past the house and tree, there are even more flowers and the
+sidewalk keeps going north.  The horizon seems the same as before, just
+without the tree and house.
+~
+0 0 0
+D0
+~
+~
+0 0 3119
+D2
+~
+~
+0 0 3121
+S
+#3123
+West Kai's Planet~
+There is a sidewalk here, bordered by grass.  The planet is small enough
+to walk around.  Small flowers grow nearby and on the horizon, a tree can be
+seen sticking out from the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 3124
+D2
+~
+~
+0 0 3126
+S
+#3124
+On the sidewalk~
+The sidewalk is now surrounded by alot of flowers as it continues north. 
+The tree can be seen alot more clearly now.  A small house is now visible in
+the distance.
+~
+0 0 0
+D0
+~
+~
+0 0 3125
+D2
+~
+~
+0 0 3123
+S
+#3125
+Near a house and tree~
+Standng on the sidewalk near the tree and house.  The house is white and
+red, with a few windows and a door.  Sitting in a chair outside the house, a
+little man with long antennas and black skin, wearing sunglasses and a rone.
+The sidewalk continues north some more. 
+~
+0 0 0
+D0
+~
+~
+0 0 3126
+D2
+~
+~
+0 0 3124
+S
+#3126
+Just past a house and tree~
+Just past the house and tree, there are even more flowers and the
+sidewalk keeps going north.  The horizon seems the same as before, just
+without the tree and house.
+~
+0 0 0
+D0
+~
+~
+0 0 3123
+D2
+~
+~
+0 0 3125
+S
+#3127
+Grand Kai's Planet~
+Looking to the north, there is alot of grass, flowers and buildings.  The
+entrance gate has little people handing out odd looking rings that glow. 
+There is a real wide tile sidewalk with vine covered pillars on each side. 
+Plants are growing out the top of the pillars as vines grow at the base,
+wrap themselves around the pillar and sprout flowers.  
+~
+0 4 0
+D0
+~
+~
+0 0 3128
+S
+#3128
+Just past the gate~
+Just behind the gate, a giant roof of some sort of building can be seen. 
+The aroma of flowers can be smelt when the wind comes in correctly.  A
+strange feeling starts to pulls at whomever standing here.  
+~
+0 0 0
+D0
+~
+~
+0 0 3129
+D2
+~
+~
+0 0 3127
+S
+#3129
+Just before a building~
+Standing on the wide walkway of tiles.  There is some sort of building
+just to the north and to the right.  From this area the building dosnt seem
+to have any walls but only pillers holding the roof up.  
+~
+0 0 0
+D0
+~
+~
+0 0 3130
+D2
+~
+~
+0 0 3128
+S
+#3130
+By a building~
+Standing by a building, with no walls and only a roof and floor.  The
+shingles on the roof stand out to be of a bright red color.  Looking off in
+that direction, only small things, that appear to be people, can be seen. 
+Looking elsewhere, the peek of the roof of what looks like a giant mansion
+can be seen.  Sounds of fighting are muffled by the public's noise.  
+~
+0 0 0
+D0
+~
+~
+0 0 3132
+D1
+~
+~
+0 0 3131
+D2
+~
+~
+0 0 3129
+S
+#3131
+A small sidewalk~
+This small side walk leads to the building just to the west.  There are
+small flowers planted along the sides of the saidwalk.  That stange feeling
+can be felt again and the sound of fighting is growing louder.  The people
+in side the building are a bit more visable and can be made out in greater
+deatails now.  
+~
+0 0 0
+D1
+~
+~
+0 0 3133
+D3
+~
+~
+0 0 3130
+S
+#3132
+On the wide sidwalk~
+Standing on the wide side walk the pillers and flowers seem to be
+becoming and fewer.  The side of the sidwalk are atring to become vast
+feiald of green with people ever where training with the martal arts.  There
+is a small mann just off the trail on the west side doing push ups.  The
+large mantion seems to be gwetting closer and closer the roof becomeing more
+and more visable the read is the same as on the training house back to the
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3135
+D2
+~
+~
+0 0 3130
+S
+#3133
+On a stairway~
+On a stair way that is only three stairs long.  They are set in between
+two pillars of marble.  The sounds are much louder, that they seem
+deafening.  From the fighters' grunts, they seem to be only practicing. 
+There are a few punching bags hanging from the ceiling that seem to be
+twenty feet off the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 3134
+D3
+~
+~
+0 0 3131
+S
+#3134
+A small training house~
+This wide room has several fighters in it training, some in groups, some
+by themselves.  There are several punching bags hanging from the ceiling by
+chains.  There are only 2 punching bags that aren't being used.  There is
+one fighter hovering up near the ceiling, watching all the others practice 
+~
+0 0 0
+D3
+~
+~
+0 0 3133
+S
+#3135
+Halfway down the sidewalk~
+Standing on the sidwalk halfway between the gate and the mantion.  The
+roof and the top walls can now been seen.  The shingles are a bright red
+and tyhe walls are a shinky white.  The top of a few pillers can be seen
+sitcking up from the ground, they are the same color of as the house.  The
+feilds of green are statring to be able to bee seen more and more now
+showing lots opf trees scatered among the the landsacpae.  
+~
+0 0 0
+D0
+~
+~
+0 0 3136
+D2
+~
+~
+0 0 3132
+S
+#3136
+The sidewalk~
+Moving along the sidewalk the feilds are starting to be come even wider
+some small home like buildings can be seen scatered all over the trees seem
+sammler looking further to the horizen.  The mation to the north can be seen
+even better now the reds and white being reflected on by what ever light
+source is shined aupon them.  The piller s are starting to show their
+deatails.  
+~
+0 0 0
+D0
+~
+~
+0 0 3137
+D2
+~
+~
+0 0 3135
+S
+#3137
+Nearing the end os a sidewalk~
+Nearing the end of ther side walk the mation begins to huge the pillers
+are starting to grow in size size and detail.  The windows start reflecting
+the large amopunts of light that pour out during the day and they also
+reflect the moion light at night.  
+~
+0 0 0
+D0
+~
+~
+0 0 3138
+D2
+~
+~
+0 0 3136
+S
+#3138
+Closer to the end~
+Coming to the end of the sidwalk.  The whole house can be seen now there
+ias a samml real bright silver flash comeing from by the house.  The sidwlak
+looks from this distance that is has become gravle but it is hard to tell
+yet.  
+~
+0 0 0
+D0
+~
+~
+0 0 3139
+D2
+~
+~
+0 0 3137
+S
+#3139
+the end of the stone~
+Come to the very end of the sidwalk the stone tiles turn to gravle.  The
+front door is now perfeclty in vewe now, it looks to be just a short walk
+acrros the drive way.  The road contiunues off east and west and looks well
+used but not worns down and pited.  
+~
+0 0 0
+D0
+~
+~
+0 0 3140
+D2
+~
+~
+0 0 3138
+S
+#3140
+The drivway~
+Standing in a intersection of a sorts.  The road goses east and west
+while there is also a north and south accsess.  Siting over by the side of
+the house is a perfect condition teal green nine-teen fifty-seven cadilac
+convertable with white lether seats and a white vinly top, it also has
+typical white wall tires and sold fifteen inch hub cap covers.  
+~
+0 0 0
+D0
+~
+~
+0 0 3143
+D1
+~
+~
+0 0 3141
+D2
+~
+~
+0 0 3139
+D3
+~
+~
+0 0 3142
+S
+#3141
+A gravle road~
+On a gfravle road the small rocks that are un the feet make a crunching
+noise with each step taken.  The little shards of roock glimmer and sparkle
+when the ligfht hits the just righ.  Ther is a sign aead that stands high
+enough off the ground to be read from a moving car.  
+~
+0 0 0
+D3
+~
+~
+0 0 3140
+S
+#3142
+On a gravle road~
+Standing on the road where each little rock grinds agenst each other
+making a grinding noise as a step is taken.  There is a sign over here that
+is also tall enough to read from a moving car that reads "To west train
+feild only a few more leaugs to the west".  
+~
+0 0 0
+D1
+~
+~
+0 0 3140
+S
+#3143
+A front porch~
+Standing on the front porch of the Grand Kais house.  The door is the
+same color red as tghe rest of the roofs and the red roof of the mantion. 
+The door bell is on the left side of the door all though the door opens from
+the right side.  There are also two great big windows on each side of the
+door that are covered with curtens from the inside.  
+~
+0 0 0
+D0
+~
+~
+0 0 3144
+D2
+~
+~
+0 0 3140
+S
+#3144
+Inside the Gran Kais~
+Standing inside this great big hudge hose.  The cellings are thrity feet
+from the floor and some walls have windows that go all the way up from a
+foot off the floor.  No one seems here to meet them who come to the door but
+a small sign that reads "Please follow the arrows on the floor to the
+turmonet room, thank you".  Looking down there is and arrow that pionts the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 3145
+D2
+~
+~
+0 0 3143
+S
+#3145
+A large room~
+Standing in a large room with a funny looking pink wallpaper on the walls
+and curtens to match.  There is a samall door way that leads to the east and
+the arrow on the floor points that direction.  The door looks like it is
+open but the only way to be sure is touch it.  Reaching out to touch the
+door there is a smmal charge os ki energy surging off the door.  
+~
+0 0 0
+D1
+~
+~
+0 0 3146
+D2
+~
+~
+0 0 3144
+S
+#3146
+A hallway~
+Standing in a large hallway that seems empty.  Looking stright dwon the
+hall there is two great big huge doors at the very end.  But looking down
+the arrow dosnt just point stright it points north.  And through another
+door 
+~
+0 0 0
+D0
+~
+~
+0 0 3147
+D3
+~
+~
+0 0 3145
+S
+#3147
+A small room~
+In a small room, there are tow door one to the south and one to the east
+In the small room there is a dresser and hutch and two great big hugde'
+windows covered in a frilly white lace type curtain.  The samll arrow on the
+floor points east 
+~
+0 0 0
+D1
+~
+~
+0 0 3149
+D2
+~
+~
+0 0 3146
+S
+#3148
+A hallway~
+Standing in a large hallway that seems empty.  Looking stright dwon the
+hall there is two great big huge doors at the very end.  But looking down
+the arrow dosnt just point stright it points east.  And through another door
+~
+0 0 0
+D0
+~
+~
+0 0 3149
+D1
+~
+~
+0 0 3150
+S
+#3149
+A small room~
+In a small room, there are tow door one to the south and one to the west
+In the small room there is a dresser and hutch and two great big hugde'
+windows covered in a frilly white lace type curtain.  The samll arrow on the
+floor points south 
+~
+0 0 0
+D2
+~
+~
+0 0 3148
+D3
+~
+~
+0 0 3147
+S
+#3150
+A hallway~
+Standing in a large hallway that seems empty.  Looking stright dwon the
+hall there is two great big huge doors at the very end.  But looking down
+the arrow dosnt just point stright it points north.  And through another
+door 
+~
+0 0 0
+D0
+~
+~
+0 0 3151
+D3
+~
+~
+0 0 3148
+S
+#3151
+A small room~
+In a small room, there are tow door one to the south and one to the west
+In the small room there is a dresser and hutch and two great big hugde'
+windows covered in a frilly white lace type curtain.  The samll arrow on the
+floor points east 
+~
+0 0 0
+D1
+~
+~
+0 0 3152
+D2
+~
+~
+0 0 3150
+S
+#3152
+A small room~
+In a small room, there are tow door one to the south and one to the west
+In the small room there is a dresser and hutch and two great big hugde
+windows covered in a frilly white lace type curtain.  The samll arrow on the
+floor points south 
+~
+0 0 0
+D2
+~
+~
+0 0 3153
+D3
+~
+~
+0 0 3151
+S
+#3153
+A hallway~
+Standing in a large hallway that seems empty.  Looking stright dwon the
+hall there is two great big huge doors at the very end.  But looking down
+the arrow dosnt just point stright it points east.  And through another door
+~
+0 0 0
+D0
+~
+~
+0 0 3152
+D1
+~
+~
+0 0 3154
+S
+#3154
+Standing at a dubble door~
+Standing in the hallway befor the great big hugde dubble doors.  The
+doors are made of an staind dark walnut oak.  The craftsmen ship of the
+doors is good and personolized it can never be copied anywhere else even if
+the maker tried again.  
+~
+0 0 0
+D1
+~
+~
+0 0 3155
+D3
+~
+~
+0 0 3153
+S
+#3155
+Arena Floor~
+The vast arena's floor stretches for what seems forever before meeting
+with the wall seperating it from the stands.  A tiled platform rises from
+the exact centre of the arena.  The crowd spreads out into the stands by
+climbing the two stairways on the north and south of the gate.  Going
+eastward toward the platform, some participants of the tournament do some
+last minute stretching.  
+~
+0 0 0
+D0
+~
+~
+0 0 3156
+D1
+~
+~
+0 0 3158
+D2
+~
+~
+0 0 3157
+D3
+~
+~
+0 0 3154
+S
+#3156
+Stairs up to the stands~
+The stairs lead up to the stands of the arena.  Some of the crowd
+climbing up and coming down supports themselves on the handrail that is
+bolted to the walls.  
+~
+0 0 0
+D2
+~
+~
+0 0 3155
+D4
+~
+~
+0 0 3159
+S
+#3157
+Stairs up to the stands~
+The stairs lead up to the stands of the arena.  Some of the crowd
+climbing up and coming down supports themselves on the handrail that is
+bolted to the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 3155
+D4
+~
+~
+0 0 3162
+S
+#3158
+Arena Floor~
+Stepping unto the soft carpetting of grass that surrounds the central
+plateform, the gate to the west seems smaller.  To the east, the plateform
+can be seen with a great amount of detail.  To the north and south, the
+blanketing carpet of grass continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 3179
+D1
+~
+~
+0 0 3195
+D2
+~
+~
+0 0 3180
+D3
+~
+~
+0 0 3155
+S
+#3159
+Stairs down to the floor~
+The stairs lead down to the arena floor.  Some of the crowd going down
+and coming up supports themselves on the handrail that is bolted to the
+walls.  The stands practically surround this area, giving easy access for
+everyone to get a seat.  
+~
+0 0 0
+D0
+~
+~
+0 0 3160
+D2
+~
+~
+0 0 3161
+D3
+~
+~
+0 0 3178
+D5
+~
+~
+0 0 3156
+S
+#3160
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit at some places.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D1
+~
+~
+0 0 3170
+D2
+~
+~
+0 0 3159
+S
+#3161
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit to the west.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3159
+D2
+~
+~
+0 0 3162
+D3
+~
+~
+0 0 3177
+S
+#3162
+Stairs down to the floor~
+The stairs lead down to the arena floor.  Some of the crowd going down
+and coming up supports themselves on the handrail that is bolted to the
+walls.  The stands practically surround this area, giving easy access for
+everyone to get a seat.  
+~
+0 0 0
+D0
+~
+~
+0 0 3161
+D2
+~
+~
+0 0 3163
+D3
+~
+~
+0 0 3176
+D5
+~
+~
+0 0 3157
+S
+#3163
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit at some places.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3162
+D1
+~
+~
+0 0 3164
+S
+#3164
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit to the south.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D1
+~
+~
+0 0 3165
+D2
+~
+~
+0 0 3175
+D3
+~
+~
+0 0 3163
+S
+#3165
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit to the south.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D1
+~
+~
+0 0 3166
+D2
+~
+~
+0 0 3174
+D3
+~
+~
+0 0 3164
+S
+#3166
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit at some places.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3167
+D3
+~
+~
+0 0 3165
+S
+#3167
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit to the east.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3168
+D1
+~
+~
+0 0 3173
+D2
+~
+~
+0 0 3166
+S
+#3168
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit at some places.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D2
+~
+~
+0 0 3167
+D3
+~
+~
+0 0 3169
+S
+#3169
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit to the north.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3172
+D1
+~
+~
+0 0 3168
+D3
+~
+~
+0 0 3170
+S
+#3170
+Stands~
+This is the front row seats of the stands.  Looking around, the stands
+keep going around the arena and up a bit to the north.  There are some
+spectators that are cheering for their favorite fighters.  
+~
+0 0 0
+D0
+~
+~
+0 0 3171
+D1
+~
+~
+0 0 3169
+D3
+~
+~
+0 0 3160
+S
+#3171
+Stands~
+Desc In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+east and west to another area of the stands.  
+~
+0 0 0
+D2
+~
+~
+0 0 3170
+S
+#3172
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+east and west to another area of the stands.  
+~
+0 0 0
+D2
+~
+~
+0 0 3169
+S
+#3173
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+north and south to another area of the stands.  
+~
+0 0 0
+D3
+~
+~
+0 0 3167
+S
+#3174
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+east and west to another area of the stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 3165
+S
+#3175
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+east and west to another area of the stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 3164
+S
+#3176
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+north and south to another area of the stands.  
+~
+0 0 0
+D1
+~
+~
+0 0 3162
+S
+#3177
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+north and south to another area of the stands.  
+~
+0 0 0
+D1
+~
+~
+0 0 3161
+S
+#3178
+Stands~
+In a long section of the stands further from the wall, but the arena
+floor is still clear from this far.  Spectators are packed and block the way
+north and south to another area of the stands.  
+~
+0 0 0
+D1
+~
+~
+0 0 3159
+S
+#3179
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the east.  The grass floor keeps going north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3184
+D2
+~
+~
+0 0 3158
+S
+#3180
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the east.  The grass floor keeps going north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3158
+D2
+~
+~
+0 0 3181
+S
+#3181
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the northeast.  The grass floor keeps going north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 3180
+D1
+~
+~
+0 0 3182
+S
+#3182
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the north.  The grass floor keeps going east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3183
+D3
+~
+~
+0 0 3181
+S
+#3183
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the north, to which is attached some stairs so the
+contestants can climb up upon it.  The grass floor keeps going east and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 3197
+D1
+~
+~
+0 0 3187
+D3
+~
+~
+0 0 3182
+S
+#3184
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the southeast.  The grass floor keeps going south and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 3185
+D2
+~
+~
+0 0 3179
+S
+#3185
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the south.  The grass floor keeps going east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3186
+D3
+~
+~
+0 0 3184
+S
+#3186
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the south, to which is attached some stairs so the
+contestants can climb up upon it.  The grass floor keeps going east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3189
+D2
+~
+~
+0 0 3198
+D3
+~
+~
+0 0 3185
+S
+#3187
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the north.  The grass floor keeps going east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3188
+D3
+~
+~
+0 0 3183
+S
+#3188
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the northwest.  The grass floor keeps going north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 3194
+D3
+~
+~
+0 0 3187
+S
+#3189
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the south.  The grass floor keeps going east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3190
+D3
+~
+~
+0 0 3186
+S
+#3190
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the southwest.  The grass floor keeps going south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 3191
+D3
+~
+~
+0 0 3189
+S
+#3191
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the west.  The grass floor keeps going north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3190
+D2
+~
+~
+0 0 3192
+S
+#3192
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the west, to which is attached some stairs so the contestants
+can climb up upon it.  The grass floor keeps going north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3191
+D2
+~
+~
+0 0 3194
+D3
+~
+~
+0 0 3196
+S
+#3193
+Before the Grand Kai~
+A large throne is situated here, covered by a huge umbrella.  An old man
+is sitting upon the red velvet of the throne, well within the shade.  A
+brief glimpse at the man shows he has quite a sense of humor and a glimmer
+of mischief in his eyes.  
+~
+0 4 0
+S
+#3194
+Arena Floor~
+The arena floor is mostly grass upto the wall where the stands begin. 
+All around, the crowd cheers, chants and screams in excitement.  The
+platform is to the west.  The grass floor keeps going north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3192
+D2
+~
+~
+0 0 3188
+S
+#3195
+Stairs to the platform~
+The tiled stairs lead up to the platform, where the contestants battle. 
+To the west is the grand gate and the stairs to the stands, as well as the
+arena floor.  All around, the crowd is cheering and chanting for their
+favorite fighter.  
+~
+0 0 0
+D1
+~
+~
+0 0 3199
+D3
+~
+~
+0 0 3158
+S
+#3196
+Stairs to the platform~
+The tiled stairs lead up to the platform, where the contestants battle. 
+To the east the arena floor starts where the stairs end, and the tall wall
+for the stands.  All around, the crowd is cheering and chanting for their
+favorite fighter.  
+~
+0 0 0
+D1
+~
+~
+0 0 3192
+D3
+~
+~
+0 0 3199
+S
+#3197
+Stairs to the platform~
+The tiled stairs lead up to the platform, where the contestants battle. 
+To the south the arena floor starts where the stairs end, and the tall wall
+for the stands.  All around, the crowd is cheering and chanting for their
+favorite fighter.  
+~
+0 0 0
+D0
+~
+~
+0 0 3199
+D2
+~
+~
+0 0 3183
+S
+#3198
+Stairs to the platform~
+The tiled stairs lead up to the platform, where the contestants battle. 
+To the north the arena floor starts where the stairs end, and the tall wall
+for the stands.  All around, the crowd is cheering and chanting for their
+favorite fighter.  
+~
+0 0 0
+D0
+~
+~
+0 0 3186
+D2
+~
+~
+0 0 3199
+S
+#3199
+Platform~
+This is where the contestants battle it out.  The platform is tiled with
+a hard white substance, and is very large in size.  Looking around the
+arena, the crowd can be seen standing in the stands, cheering for their
+favorite fighter.  
+~
+0 0 0
+D0
+~
+~
+0 0 3198
+D1
+~
+~
+0 0 3196
+D2
+~
+~
+0 0 3197
+D3
+~
+~
+0 0 3195
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3110 0 3100 The portal to earth loaded to Entrance to Heaven
+M 0 3106 1 3106 1 Load the gatekeeper
+M 0 3107 1 3107 1 Load the gatekeeper
+M 0 3108 1 3108 1 Load the gatekeeper
+M 0 3109 1 3109 1 Load the gatekeeper
+M 0 3110 1 3110 1 Load the gatekeeper
+M 0 3100 1 3113 1 Load North Kai
+M 0 3101 1 3117 1 Load South Kai
+M 0 3102 1 3121 1 Load East Kai
+M 0 3103 1 3125 1 Load West Kai
+O 0 3101 0 3127 The plane back to heven's hallway loaded to Grand Kai's Planet
+M 0 3104 3 3127 1 Load a tourist
+M 0 3104 2 3129 1 Load a tourist
+M 0 3104 2 3131 1 Load a tourist
+M 0 3145 1 3132 1 Load Tensiu
+O 0 3134 0 3134 A punching bag loaded to A small training house
+M 0 3114 1 3134 1 Load a hovering fighter
+M 0 3113 1 3134 1 Load a practicing female fighter
+M 0 3112 2 3134 1 Load a practicing fighter
+M 0 3111 2 3134 1 Load a practicing fighter
+M 0 3104 2 3135 1 Load a tourist
+M 0 3104 1 3139 1 Load a tourist
+O 0 3104 0 3140 A cadilac loaded to The drivway
+M 0 3104 1 3144 1 Load a tourist
+M 0 3117 1 3160 1 Load a female spectator
+M 0 3115 1 3160 1 Load a standing spectator
+M 0 3116 1 3161 1 Load a sitting spectator
+M 0 3115 2 3161 1 Load a standing spectator
+M 0 3117 1 3163 1 Load a female spectator
+M 0 3116 1 3163 1 Load a sitting spectator
+M 0 3115 1 3163 1 Load a standing spectator
+M 0 3115 3 3164 1 Load a standing spectator
+M 0 3117 2 3165 1 Load a female spectator
+M 0 3115 1 3165 1 Load a standing spectator
+M 0 3117 1 3166 1 Load a female spectator
+M 0 3116 1 3166 1 Load a sitting spectator
+M 0 3115 1 3166 1 Load a standing spectator
+M 0 3115 3 3167 1 Load a standing spectator
+M 0 3117 2 3168 1 Load a female spectator
+M 0 3115 1 3168 1 Load a standing spectator
+M 0 3116 2 3169 1 Load a sitting spectator
+M 0 3115 1 3169 1 Load a standing spectator
+M 0 3117 1 3170 1 Load a female spectator
+M 0 3116 1 3170 1 Load a sitting spectator
+M 0 3115 1 3170 1 Load a standing spectator
+M 0 3117 2 3171 1 Load a female spectator
+M 0 3116 2 3171 1 Load a sitting spectator
+M 0 3115 2 3171 1 Load a standing spectator
+M 0 3117 2 3172 1 Load a female spectator
+M 0 3116 2 3172 1 Load a sitting spectator
+M 0 3115 2 3172 1 Load a standing spectator
+M 0 3117 2 3173 1 Load a female spectator
+M 0 3116 2 3173 1 Load a sitting spectator
+M 0 3115 2 3173 1 Load a standing spectator
+M 0 3117 2 3174 1 Load a female spectator
+M 0 3116 2 3174 1 Load a sitting spectator
+M 0 3115 2 3174 1 Load a standing spectator
+M 0 3117 2 3175 1 Load a female spectator
+M 0 3116 2 3175 1 Load a sitting spectator
+M 0 3115 2 3175 1 Load a standing spectator
+M 0 3117 2 3176 1 Load a female spectator
+M 0 3116 2 3176 1 Load a sitting spectator
+M 0 3115 2 3176 1 Load a standing spectator
+M 0 3117 2 3177 1 Load a female spectator
+M 0 3116 2 3177 1 Load a sitting spectator
+M 0 3115 2 3177 1 Load a standing spectator
+M 0 3117 2 3178 1 Load a female spectator
+M 0 3116 2 3178 1 Load a sitting spectator
+M 0 3115 2 3178 1 Load a standing spectator
+M 0 3105 1 3179 1 Load a fighter stretching
+M 0 3105 1 3180 1 Load a fighter stretching
+M 0 3105 1 3180 1 Load a fighter stretching
+M 0 3105 2 3182 1 Load a fighter stretching
+M 0 3105 2 3186 1 Load a fighter stretching
+M 0 3105 1 3187 1 Load a fighter stretching
+M 0 3105 2 3190 1 Load a fighter stretching
+M 0 3105 1 3192 1 Load a fighter stretching
+O 0 3102 0 3193 A small sign loaded to Before the Grand Kai
+O 0 3150 0 3193 A large throne loaded to Before the Grand Kai
+M 0 3150 1 3193 1 Load Grand Kai
+M 0 3146 1 3199 1 Load Pikkon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#3100
+say Are you here to learn the Kaioken technique?
+~
+#3101
+say Enjoy your trip $n!
+mob transfer $n 3127
+~
+#3102
+say Enjoy your trip $n!
+mob transfer $n 3123
+~
+#3103
+say Enjoy your trip $n!
+mob transfer $n 3119
+~
+#3104
+say Enjoy your trip $n!
+mob transfer $n 3115
+~
+#3105
+say Enjoy your trip $n!
+mob transfer $n 3111
+~
+#3106
+say Would you like to go to North Kai's planet?
+~
+#3107
+say Would you like to go to South Kai's planet?
+~
+#3108
+say Would you like to go to East Kai's planet?
+~
+#3109
+say Would you like to go to West Kai's planet?
+~
+#3110
+say Would you like to go to Grand Kai's planet?
+~
+#3111
+say OK. Prepare to learn my lesson.
+sit
+mob echoaround $n $I mumbles as $n glows
+mob echoat $n $I mumbles as you are surrounded by a glow
+mob gainskill kaioken $n
+stand
+say You have learned well $n! Now you must be going.
+mob echoaround $n $n disappears with the snap of the $I's fingers.
+mob transfer $n 3100
+mob echoaround $n $n suddenly appears!
+~
+#3112
+Say 159,675, 159,676, 159,677 159,678
+~
+#3113
+say I have nothing to teach you $n. You may go...
+mob echoaround $n $n disappears with the snap of the $I's fingers.
+mob transfer $n 3100
+mob echoaround $n $n suddenly appears!
+~
+#3114
+say I have nothing to teach you $n. You may go...
+mob call 3113 $n null null
+~
+#3146
+mob echo $I gasps his last breaths
+mob transfer $n 3193
+~
+#3147
+say If you can beat me, then the Grand kai will see you
+~
+#3150
+mob echo Grand Kai returns the life to Pikkon
+mob mload 3146
+mob echoat $n Grand Kai turns towards you
+mob echoaround $n Grand Kai turns towards $n
+mob force grand say Hey man! What can I do... for you? Learn fusion or go back home?
+~
+#3151
+say Hey well done $n! Now, I may teach you fusion or... I can send you back home.
+say What will it be?
+smile $n
+~
+#3152
+say Alright man... it's up to you...
+mob echoat $n $I mumbles a bit and you are surrounded by light
+mob echoaround $n $I mumbles a bit and $n is surrounded by light
+mob transfer $n 200
+~
+#3199
+mob gainskill 'destructo disk' $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#3199
+room purge
+room mload 3146
+~
+#0
+
+#$

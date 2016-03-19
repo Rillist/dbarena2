@@ -1,0 +1,1069 @@
+#AREADATA
+Name Templar's Hall~
+Builders Janus~
+VNUMs 4000 4099
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#4000
+Templar Guard~
+a templar guard~
+The Templar's personal guard is here, attacking all who dare enter.
+~
+A templar guard is a large bulky human with a very angry look on his
+face.  Is he looking at you ?  
+~
+human~
+AFS 0 0 0
+100000000 3333
+48 48 48 48 48 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4001
+Umeadric~
+Umeadric~
+Umeadric stands here flipping his long curly hair to the wind.
+~
+~
+human~
+ABFS 0 0 0
+700000000 8819
+129 129 129 129 129 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4002
+Gwedrihar~
+gwedrihar~
+Gwedrihar is here, practicing forms.
+~
+~
+human~
+ABFS 0 0 0
+500000000 7453
+110 110 110 110 110 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4003
+Gwarelath~
+Gwarelath~
+Gwarelath is here doing pushups.
+~
+~
+human~
+ABFS 0 0 0
+900000000 10000
+147 147 147 147 147 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4004
+Geired~
+Geired~
+Geired stands here doing squats.
+~
+~
+human~
+ABFS 0 0 0
+1100000000 11055
+162 162 162 162 162 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4005
+Guldar~
+Guldar~
+Guldar the templar stands here waiting for you to arrive.
+~
+~
+human~
+ABFS 0 0 0
+1500000000 3872
+158 158 158 158 158 
+100 100
+punch
+0 0 0 0
+ACHI 0 E 0
+stand stand none 5313
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4006
+ulric warrior~
+Ulric the ultimate warrior~
+Standing tall and proud is a warrior of great strength.
+~
+~
+human~
+ABS 0 0 0
+1000000000000 100000
+560 560 560 560 560 
+100 100
+punch
+0 0 0 0
+ACHI D DEO 0
+stand stand male 27000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#4009
+weak saiyan~
+saiyan~
+A weak looking Saiyan is standing here
+~
+~
+human~
+ABRb 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#4000
+Templar Key~
+a Templar Key~
+A key lies here.~
+unknown~
+5000000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4001
+A stone henge~
+stone henge~
+A stone henge is embedded in the ground here.~
+unknown~
+500000
+portal 0 0
+FINPQRS A 0 BDGHL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4000
+Foyer in the Templar's Hall~
+An eerie feeling permiates this place.  Soft sweet odors fill the air,
+giving it a homely feel.  Large marble pillars line the center of the room
+making a path of sorts leading towards two large wooden doors in the
+distance.  The huge oak wooden doors tower about high into the room,
+dwarving anyone who stands before them.  Above the doors, inscripted on the
+Marble headstone of the archway is the word "JUSTICE".  
+~
+0 0 0
+D0
+~
+~
+1 4000 4001
+D1
+~
+~
+1 0 1920
+S
+#4001
+Hallway of Fighters~
+A dimly lit hallway extends into the Templar's Hall.  It is rumored that
+within these walls live the legendary Templar Warriors of old.  Any frail of
+heart or body are urged to turn back.  
+~
+0 0 0
+D0
+~
+~
+0 0 4004
+D1
+~
+~
+0 0 4002
+D2
+~
+~
+1 4000 4000
+D3
+~
+~
+0 0 4003
+S
+#4002
+Gwedrihar's Room~
+This is the famed Gwedrihar's Room 
+~
+0 0 0
+D3
+~
+~
+0 0 4001
+S
+#4003
+Umeadric's Room~
+This is the famed Umeadric's Room.
+~
+0 0 0
+D1
+~
+~
+0 0 4001
+S
+#4004
+Hallway of fighters~
+A dimly lit hallway extends into the Templar's Hall.  It is rumored that
+within these walls live the legendary Templar Warriors of old.  Any frail of
+heart or body are urged to turn back.  
+~
+0 0 0
+D0
+~
+~
+0 0 4007
+D1
+~
+~
+0 0 4005
+D2
+~
+~
+0 0 4001
+D3
+~
+~
+0 0 4006
+S
+#4005
+Gwarelath's Room~
+This is the room of the famed Gwarelath.
+~
+0 0 0
+D3
+~
+~
+0 0 4004
+S
+#4006
+Geired's Room~
+This is the room of the famed Geired.
+~
+0 0 0
+D1
+~
+~
+0 0 4004
+S
+#4007
+Hallway of Fighters~
+A dimly lit hallway extends into the Templar's Hall.  It is rumored that
+within these walls live the legendary Templar Warriors of old.  Any frail of
+heart or body are urged to turn back.  
+~
+0 0 0
+D2
+~
+~
+0 0 4004
+D4
+~
+~
+1 0 4008
+S
+#4008
+Guldar the Templar~
+This is the room of Guldar the Templar. 
+~
+0 0 0
+D5
+~
+~
+1 0 4007
+S
+#4009
+Landing on the Beach~
+{yA large sandy beach spreads before you as you disembark the ship.  This
+is a small island with a large forest in the middle.  The tides roll in as
+the seemingly endless ocean stretches out for miles and miles in three
+directions.  The sun is bright and beats down on the skin much heavier than
+it does in other reagions of the world, so this island must be near the
+equator.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4010
+D1
+~
+~
+0 0 4014
+S
+#4010
+The Beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4011
+D1
+~
+~
+0 0 4012
+D2
+~
+~
+0 0 4009
+S
+#4011
+The Beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4012
+D2
+~
+~
+0 0 4010
+S
+#4012
+The Beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D2
+~
+~
+0 0 4014
+D3
+~
+~
+0 0 4010
+S
+#4013
+The beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4012
+S
+#4014
+The Beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4012
+D1
+~
+~
+0 0 4015
+D3
+~
+~
+0 0 4009
+S
+#4015
+The beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4016
+D3
+~
+~
+0 0 4014
+S
+#4016
+The Beach~
+{y A sandy beach stretches out for miles and miles one end.  Ahead one
+can see the beggining of a vast forest, in which are the fabled training
+grounds of the saiyan elite.  A place not many have returned from.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4017
+D2
+~
+~
+0 0 4015
+S
+#4017
+Path of No Return~
+On the center of the path is a huge sign which reads : "{CWarning to all
+those who traverse any farther.  These are lands controlled by the saiyan
+elite and any and all who trespass on them will surely die.  Do not wander
+in...  As most who do...  Are never seen again {W."  
+~
+0 0 0
+D0
+~
+~
+0 0 4018
+D2
+~
+~
+0 0 4016
+S
+#4018
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4021
+D1
+~
+~
+0 0 4019
+D2
+~
+~
+0 0 4017
+D3
+~
+~
+0 0 4020
+S
+#4019
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4028
+D1
+~
+~
+0 0 4027
+D3
+~
+~
+0 0 4018
+S
+#4020
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4026
+D1
+~
+~
+0 0 4018
+S
+#4021
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4024
+D1
+~
+~
+0 0 4022
+D2
+~
+~
+0 0 4018
+D3
+~
+~
+0 0 4023
+S
+#4022
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4021
+S
+#4023
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4021
+D3
+~
+~
+0 0 4035
+S
+#4024
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4025
+D2
+~
+~
+0 0 4021
+D3
+~
+~
+0 0 4026
+S
+#4025
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4024
+S
+#4026
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4035
+D1
+~
+~
+0 0 4024
+D2
+~
+~
+0 0 4020
+S
+#4027
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4041
+D1
+~
+~
+0 0 4040
+D3
+~
+~
+0 0 4019
+S
+#4028
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4032
+D1
+~
+~
+0 0 4030
+D2
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4031
+S
+#4029
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D2
+~
+~
+0 0 4033
+S
+#4030
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4028
+S
+#4031
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4028
+S
+#4032
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4034
+D1
+~
+~
+0 0 4033
+D2
+~
+~
+0 0 4028
+D3
+~
+~
+0 0 4033
+S
+#4033
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4029
+D1
+~
+~
+0 0 4032
+D3
+~
+~
+0 0 4032
+S
+#4034
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4037
+D1
+~
+~
+0 0 4035
+D2
+~
+~
+0 0 4032
+D3
+~
+~
+0 0 4036
+S
+#4035
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4023
+D2
+~
+~
+0 0 4026
+D3
+~
+~
+0 0 4034
+S
+#4036
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4034
+S
+#4037
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4039
+D2
+~
+~
+0 0 4034
+D3
+~
+~
+0 0 4038
+S
+#4038
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4037
+S
+#4039
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4037
+S
+#4040
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4027
+S
+#4041
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4044
+D1
+~
+~
+0 0 4042
+D2
+~
+~
+0 0 4027
+D3
+~
+~
+0 0 4043
+S
+#4042
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4041
+S
+#4043
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4041
+S
+#4044
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4047
+D1
+~
+~
+0 0 4045
+D2
+~
+~
+0 0 4041
+D3
+~
+~
+0 0 4046
+S
+#4045
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4044
+S
+#4046
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4044
+S
+#4047
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D0
+~
+~
+0 0 4050
+D1
+~
+~
+0 0 4048
+D2
+~
+~
+0 0 4044
+D3
+~
+~
+0 0 4049
+S
+#4048
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D3
+~
+~
+0 0 4047
+S
+#4049
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D1
+~
+~
+0 0 4047
+S
+#4050
+Training forest of the Saiyan Elite~
+{GThe dense foilage grows all about the path.  Various sounds echo about
+the forest, sometimes being quite loud, other times completely silent.  One
+can almost sense the danger as the walk about.  {W 
+~
+0 0 0
+D2
+~
+~
+0 0 4047
+S
+#0
+
+
+
+#SPECIALS
+M 4009 spec_patrolman
+S
+
+
+
+#RESETS
+D 0 4000 0 2
+D 0 4000 1 1
+D 0 4001 2 2
+D 0 4007 4 1
+D 0 4008 5 1
+M 0 4000 1 4000 1 Load a templar guard
+E 0 4000 0 17 A templar key is loaded held in the hands of a templar guard
+M 0 4002 1 4002 1 Load gwedrihar
+M 0 4001 1 4003 1 Load Umeadric
+M 0 4003 1 4005 1 Load Gwarelath
+M 0 4004 1 4006 1 Load Geired
+M 0 4005 1 4008 1 Load Guldar
+M 0 4006 1 4008 1 Load Ulric the ultimate warrior
+O 0 4001 0 4016 Stone henge loaded to The Beach
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

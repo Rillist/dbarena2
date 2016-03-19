@@ -1,0 +1,959 @@
+#AREADATA
+Name Namek Village~
+Builders  Suzuku~
+VNUMs 3200 3299
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3200
+young namek~
+a young lost Namek~
+A young Namek is here
+~
+~
+namek~
+AGR 0 100 0
+10000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+sit stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3201
+Shopkeeper~
+Test dumbie~
+Test dumbie
+~
+~
+namek~
+AK 0 500 0
+50000000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3202
+shopkeeper namek~
+A stumpy Namek~
+A Stumpy Namek Shopkeeper is here
+~
+~
+human~
+ABU 0 500 0
+1000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3203
+test-Rp~
+Zedil~
+Zedil The Player
+~
+~
+human~
+A 0 0 0
+50000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3204
+test~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+5000000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3205
+Garlic Jr.~
+Garlic Jr.~
+A small Ghetti-Jin stands here.
+~
+A small blue skinned creature.  He appears to be about 3 feet in height
+He has two small fangs and black eyes.  
+~
+namek~
+A 0 0 0
+6000000000 7745
+199 199 199 199 199 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 7514
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3200
+Black Dagger~
+black dagger~
+An Evil looking Black dagger, with Akira ingraved on the handle~
+iron~
+2147483647
+weapon ACEX ANOP
+dagger 99 99 divine C
+50000000000 3 10000 P
+#3201
+Black ring~
+a dark black Ring~
+The dark Ring of Akira, with powers unknown~
+unknown~
+666
+armor GW ABO
+BEF BEF BEF BEF 0
+9000000 3 333 P
+#3202
+red neckles~
+a Bloodly Red neckles~
+Isn't much to look at~
+unknown~
+1
+armor P ACO
+CFG CFG CFG CFG 0
+0 1 100 P
+#3206
+turban~
+a {wWhite Turban{x~
+A {wWhite{x Turban is here.~
+unknown~
+0
+armor 0 E
+BEF BEF BEF CFG 0
+0 250 0 P
+#3218
+plant~
+a namekian plant~
+A green plant used for food or medicine~
+unknown~
+1
+food 0 AO
+CE 0 0 0 GJOQRST
+0 0 150 P
+#0
+
+
+
+#ROOMS
+#3200
+{gThe beginning of a trail{x~
+{wA winding trail that goes north.  To the east are the {yplains{w of
+{gNamek{w and to the west a shimmering {cocean.  {wThere is are several
+large {mpurple{w plants here and quite a few {gtrees{w.  The ground is
+{wteeming with {gplantlife {wand some type of short {ggreen grass{w.  {x 
+{wWishes this would work.{x
+~
+0 4 2
+D0
+~
+~
+0 0 3201
+S
+#3201
+{gFurther along a trail{x~
+{wThe trail from the south has led here.  There is more trail to the
+north and the south.  The ground appears to be {wmuddy, possibly due to the
+nearby {cocean{w.  To the west you can see the glittering {gNamekian
+{cocean{w and to the {weast more of the {yplains{w.  {wLooking north there
+also appear to be large mountains in the distance.  
+~
+0 0 2
+D0
+~
+~
+0 0 3202
+D2
+~
+~
+0 0 3200
+S
+#3202
+{gFurther along a trail{x~
+{wAnother part of the trail winding north.  It is abundant with
+{Gvegetation{w and other wildlife.  {wThere is an more of the trail to the
+north and south.  To the north you can see a rising mountain.  {wThere are
+hills to the east and west, to the southwest an {cocean{w and to the
+southeast some {yplains{w.  {x 
+~
+0 0 4
+D0
+~
+~
+0 0 3203
+D2
+~
+~
+0 0 3201
+S
+#3203
+{GA forbidding Mountain{x~
+The Abundance of vegetation dies off right at the base of the mountain. 
+The trail turns merky further up the mountain.  To the east stems the view
+of one of Nameks 3 suns.  
+~
+0 0 5
+D0
+~
+~
+0 0 3230
+D1
+~
+~
+0 0 3204
+D2
+~
+~
+0 0 3202
+M 20 H 100
+S
+#3204
+Along the Mountain side~
+Following the path to the Namek Village, thare can be small namek
+buildings as far north as the eye can see.  But thares still a long way togo
+before you get thare, the ground is covered in mud and is some what sticks
+as the path goes on.  
+~
+0 4 0
+D0
+~
+~
+0 0 3205
+D3
+~
+~
+0 0 3203
+M 20 H 100
+S
+#3205
+Along the Mountain side~
+Following the path to the Namek Village, thare can be small namek
+buildings as far north as the eye can see.  But thares still a long way togo
+before you get thare, the ground is covered in mud and is some what sticks
+as the path goes on.  
+~
+0 0 0
+D0
+~
+~
+0 0 3206
+D2
+~
+~
+0 0 3204
+M 20 H 100
+S
+#3206
+Going down The Mountain side~
+Following the path to the Namek Village, thare can be small namek
+buildings as far north and west can be seen.  But thares still a long way
+togo before you get thare, the ground is covered in mud and is some what
+sticks as the path goes on.  
+~
+0 0 0
+D0
+~
+~
+0 0 3208
+D2
+~
+~
+0 0 3205
+M 20 H 100
+S
+#3207
+Going down The Mountain side~
+Following the path to the Namek Village, unlike befor thare is nothing
+but rocks all around and village can no longer be seen.  But thares still a
+long way togo before you get thare, the ground is covered in mud and is some
+what sticks as the path goes on.  
+~
+0 4 0
+M 20 H 100
+S
+#3208
+The edge of town~
+Nearing the town limits, a farm can be seen to the east.  A small garden
+before the farm still holds the plants that were planted there.  A few burn
+marks scar the ground, the only evidence of a battle.  
+~
+0 0 0
+D0
+~
+~
+0 0 3212
+D2
+~
+~
+0 0 3206
+M 20 H 100
+S
+#3209
+A short Path~
+Thares a short path leading to the city it's self but, thare is a cave or
+some kind of hole in the ground maybe some kind of space craft landed here,
+maybe thare is something inside 
+~
+0 0 0
+D0
+~
+~
+0 0 3213
+D5
+~
+~
+0 0 3210
+M 20 H 100
+S
+#3210
+The inside of a Cave~
+It looks like thare is some kind of beast was here,after a quick scan around the area ,thare is a busted up scoutter here as well as some ragged old armor, thare seems to be a path leading to the west
+~
+0 0 0
+D3
+~
+~
+0 0 3211
+D4
+~
+~
+0 0 3209
+M 20 H 100
+S
+#3211
+Namek trading post~
+thares a few things around here, thares a table that the namek shopkeeper has it's goods on, but thare doesn't seem to be anything, that might have been here waying to feed on the next time that entered.
+~
+0 0 0
+D1
+~
+~
+0 0 3210
+M 20 H 100
+S
+#3212
+Winding Road~
+Just passing the edge of town, Vegetation becomes
+more fruitful and plentaful. The Greenery of the village
+catching the eyes glance
+~
+0 4 2
+D1
+~
+~
+0 0 3213
+D2
+~
+~
+0 0 3208
+S
+#3213
+Fork in the Road~
+To the north , more vegetation
+to the south, rock and tunnel
+~
+0 4 0
+D0
+~
+~
+0 0 3214
+D2
+~
+~
+0 0 3209
+D3
+~
+~
+0 0 3212
+S
+#3214
+Field of Fruit~
+Passing through a field of fruit, glancing to the right
+you see Nameks Fruits, and the pleasent earth fruits
+Apples, Oranges, Pears, and Peaches
+to the left in the field, eyes catch the vegetables of Namek
+No one likes veggies, so lets not look too much
+~
+0 4 0
+D0
+~
+~
+0 0 3218
+D2
+~
+~
+0 0 3213
+D3
+~
+~
+0 0 3215
+S
+#3215
+Forest Path~
+The path leads you through a forest of mighty trees
+standing a good 2 hundred feet tall, Amazing huh?
+~
+0 4 0
+D1
+~
+~
+0 0 3214
+S
+#3216
+A small Farm~
+The farm house is pretty plain, although seems to be scared by a few burn
+marks that seem to match the ones upon the ground.  No one can be seen
+around the house, nor in the fields to the east, which seems odd at this
+time of day.  
+~
+0 4 0
+D1
+~
+~
+0 0 3220
+S
+#3217
+{cA dead end pathway~
+{wThe small path that had been leading from the south ends here.  To the
+north is a shear {wcliff face, to the east another part of the cliff wall
+and to the west the backside of a {wwhite house.  Covering the ground are
+numerous small {mpurple {gplants {wthat look native {wto the planet {gNamek.
+~
+0 4 0
+S
+#3218
+A field of plants~
+Within the field of plants, no one can be seen picking up the plants used
+for food or for medicine.  Every few feet, a small wisp of smoke floats up
+from where an energy bolt might have hit and burnt the ground or a plant. 
+Some of the plants have been trampled as if there was a group of people that
+had fled, but most are still usable.  The farm house is back to the west of
+this field.  
+~
+0 4 0
+D0
+~
+~
+0 0 3219
+D2
+~
+~
+0 0 3214
+D3
+~
+~
+0 0 3220
+S
+#3219
+Village Entrance~
+A shabby wooden structure stands at A village entrance
+the name of the village in Namekian and kinda blurred out
+~
+0 0 0
+D0
+~
+~
+0 0 3221
+D2
+~
+~
+0 0 3218
+S
+#3220
+Farm House Road~
+~
+0 0 0
+D1
+~
+~
+0 0 3218
+D3
+~
+~
+0 0 3216
+S
+#3221
+Village Rd.~
+~
+0 0 0
+D0
+~
+~
+0 0 3222
+D2
+~
+~
+0 0 3219
+S
+#3222
+Village Rd.~
+~
+0 0 0
+D0
+~
+~
+0 0 3223
+D2
+~
+~
+0 0 3221
+S
+#3223
+Village Rd.~
+~
+0 0 0
+D0
+~
+~
+0 0 3224
+D2
+~
+~
+0 0 3222
+S
+#3224
+Village Rd.~
+A dirt path called Village Rd. leads north,
+to the west and east are village huts
+and further to the north is the village elder
+~
+0 0 0
+D0
+~
+~
+0 0 3225
+D1
+~
+~
+0 0 3229
+D2
+~
+~
+0 0 3223
+D3
+~
+~
+0 0 3228
+S
+#3225
+Village Rd.~
+~
+0 0 0
+D0
+~
+~
+0 0 3226
+D1
+~
+~
+0 0 3239
+D2
+~
+~
+0 0 3224
+S
+#3226
+End of Village Rd.~
+~
+0 0 0
+D0
+~
+~
+0 0 3227
+D2
+~
+~
+0 0 3225
+S
+#3227
+Entrance to Elder Hut~
+~
+0 0 0
+D0
+~
+~
+0 0 3245
+D2
+~
+~
+0 0 3226
+S
+#3228
+Namekian Hut~
+~
+0 0 0
+D1
+~
+~
+0 0 3224
+D3
+~
+~
+0 0 3228
+S
+#3229
+Dirty Namekian Hut~
+EWWWWWWWWWw. How can someone live like this?
+~
+0 0 0
+D1
+~
+~
+0 0 3229
+D3
+~
+~
+0 0 3224
+S
+#3230
+Climbing the Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 3231
+D2
+~
+~
+0 0 3203
+S
+#3231
+Mountain Path~
+~
+0 0 0
+D0
+~
+~
+0 0 3233
+D2
+~
+~
+0 0 3230
+D3
+~
+~
+0 0 3232
+S
+#3232
+Narrow Mountain Path~
+~
+0 0 0
+D1
+~
+~
+0 0 3231
+D3
+~
+~
+0 0 3237
+S
+#3233
+Further up the Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 3234
+D2
+~
+~
+0 0 3231
+S
+#3234
+Mountain Plateu~
+~
+0 0 0
+D0
+~
+~
+0 0 3235
+D2
+~
+~
+0 0 3233
+S
+#3235
+Atop the Mountain~
+~
+0 0 0
+D2
+~
+~
+0 0 3234
+D5
+~
+~
+0 0 3236
+S
+#3236
+Namek Hideout~
+~
+0 0 0
+D4
+~
+~
+0 0 3235
+D5
+~
+~
+0 0 3236
+S
+#3237
+Mountain Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 3232
+D5
+~
+~
+0 0 3238
+S
+#3238
+Abyss~
+~
+0 0 0
+D4
+~
+~
+0 0 3237
+D5
+~
+~
+0 0 3238
+S
+#3239
+Village Hospital~
+~
+0 0 0
+D3
+~
+~
+0 0 3225
+D5
+~
+~
+0 0 3240
+S
+#3240
+Hospital Dressing Room~
+~
+0 0 0
+D0
+~
+~
+0 0 3241
+D1
+~
+~
+0 0 3243
+D2
+~
+~
+0 0 3244
+D3
+~
+~
+0 0 3242
+D4
+~
+~
+0 0 3239
+S
+#3241
+Hospital Bed #1~
+~
+0 0 0
+D2
+~
+~
+0 0 3240
+S
+#3242
+Hospital Bed #4~
+~
+0 0 0
+D1
+~
+~
+0 0 3240
+S
+#3243
+Hospital Bed #2~
+~
+0 0 0
+D3
+~
+~
+0 0 3240
+S
+#3244
+Hospital Bed #3~
+~
+0 0 0
+D0
+~
+~
+0 0 3240
+S
+#3245
+Inside Elders Hut~
+~
+0 0 0
+D0
+~
+~
+0 0 3248
+D1
+~
+~
+0 0 3246
+D2
+~
+~
+0 0 3227
+D3
+~
+~
+0 0 3247
+S
+#3246
+Dining Room~
+~
+0 0 0
+D3
+~
+~
+0 0 3245
+S
+#3247
+Congression Room~
+~
+0 0 0
+D1
+~
+~
+0 0 3245
+S
+#3248
+Kitchen~
+~
+0 0 0
+D2
+~
+~
+0 0 3245
+D4
+~
+~
+0 0 3249
+S
+#3249
+Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 3250
+D5
+~
+~
+0 0 3248
+S
+#3250
+Outside Pattio~
+~
+0 0 0
+D2
+~
+~
+0 0 3249
+S
+#3299
+Suzukus Pad of Pain~
+On the far left wall is a giant battle Axe, Dripping with blood Whips and
+chains hang from the back wall, strung in nice arrangement above the
+fireplace.  Peices of meaty flesh pertrud from the chains and the whips and
+to the close wall theres a cute {gGreen Couch{g to sit upon.  
+~
+0 4 0
+E
+sign~
+~
+E
+sign~
+$ithe first of the names of the mobile/object itself (doesn't work on rooms).
+~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3218 0 3216 A namekian plant loaded to A small Farm
+O 0 3218 0 3218 A namekian plant loaded to A field of plants
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#3200
+~
+#0
+
+#OBJPROGS
+#3200
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

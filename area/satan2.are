@@ -1,0 +1,1768 @@
+#AREADATA
+Name Satan city (cont)~
+Builders Terraco-d~
+VNUMs 2000 2099
+Credits .~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2000
+Axis Road~
+This road leads right to the center of town.  It's a well traveled and
+beaten path.  There are no shops along this road.  This road was built after
+the city was already formed as a means of easier travel within the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 911
+D3
+~
+~
+0 0 976
+S
+#2001
+Axis Road~
+This road leads right to the center of town.  It's a well traveled and
+beaten path.  There are no shops along this road.  This road was built after
+the city was already formed as a means of easier travel within the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 991
+D3
+~
+~
+0 0 911
+S
+#2002
+Axis Road~
+This road leads right to the center of town.  It's a well traveled and
+beaten path.  There are no shops along this road.  This road was built after
+the city was already formed as a means of easier travel within the city.  
+~
+0 0 1
+D1
+~
+~
+0 0 957
+D3
+~
+~
+0 0 991
+S
+#2003
+Foyer at Satan City Police Department~
+Upon entering the police station, there are many desks lining the room
+just beyond the main foyer.  Most of them have tons of paperwork stacked
+high upon them.  It's dimly lit, and for the most part empty.  In the back
+of the room a hallway, which is even more dimly lit, stretches far back into
+the police station.  
+~
+0 0 0
+E
+desk~
+A desk sits here, overflowing with paperwork.
+~
+E
+phone~
+An annoying phone sits here, ringing off the hook.
+~
+D1
+~
+~
+0 0 2004
+D3
+~
+~
+0 0 912
+D4
+~
+~
+0 0 2011
+S
+#2004
+Inside the Police Station~
+This long hallway extends from the main foyer all the way to the back of
+the police station.  It is dimly lit with lights that hang overhead.  The
+dark walls and black tiled floor give this place a very creepy look.  Below
+this floor is the holding cell where they keep drunks.  
+~
+0 0 0
+D1
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2003
+D5
+~
+~
+1 900 2012
+S
+#2005
+Hallway of Cells~
+The hallway continues on, as the cell block opens up.  There are jail
+cells to the north and south.  This hallway is always patrolled by a guard
+who keeps watch over the inmates to make sure nothing bad happens.  The
+cells are for the most part clean, although not much is in them.  Just a bed
+and a few personal items belonging to the inmate.  
+~
+0 0 0
+E
+bar~
+The bars to the jail cells look cold and unwelcoming.
+~
+D0
+~
+~
+1 900 2008
+D1
+~
+~
+0 0 2006
+D2
+~
+~
+1 900 2010
+D3
+~
+~
+0 0 2004
+S
+#2006
+Hallway of Cells~
+The hallway continues on, as the cell block opens up.  There are jail
+cells to the north and south.  This hallway is always patrolled by a guard
+who keeps watch over the inmates to make sure nothing bad happens.  The
+cells are for the most part clean, although not much is in them.  Just a bed
+and a few personal items belonging to the inmate.  
+~
+0 0 0
+E
+bar~
+The bars to the cells look cold and unwelcoming.
+~
+D0
+~
+~
+1 900 2007
+D2
+~
+~
+1 900 2009
+D3
+~
+~
+0 0 2005
+S
+#2007
+Inside a Jail Cell~
+A small cell with a barred window so high that no one could see out of
+it.  In the cell sits a small cot and a few personal belongings of the
+inmate.  It's damp and dark in this cell, not a place that most would want
+to end up.  
+~
+0 0 0
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
+~
+E
+personal~
+You can't look at that ! It's personal.
+~
+D2
+~
+~
+1 0 2006
+S
+#2008
+Inside a Jail Cell~
+A small cell with a barred window so high that no one could see out of
+it.  In the cell sits a small cot and a few personal belongings of the
+inmate.  It's damp and dark in this cell, not a place that most would want
+to end up.  
+~
+0 0 0
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
+~
+E
+personal~
+You can't look at that ! It's personal.
+~
+D2
+~
+~
+1 0 2005
+S
+#2009
+Inside a Jail Cell~
+A small cell with a barred window so high that no one could see out of
+it.  In the cell sits a small cot and a few personal belongings of the
+inmate.  It's damp and dark in this cell, not a place that most would want
+to end up.  
+~
+0 0 0
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
+~
+E
+personal~
+You can't look at that ! It's personal.
+~
+D0
+~
+~
+1 0 2006
+S
+#2010
+Inside a Jail Cell~
+A small cell with a barred window so high that no one could see out of
+it.  In the cell sits a small cot and a few personal belongings of the
+inmate.  It's damp and dark in this cell, not a place that most would want
+to end up.  
+~
+0 0 0
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
+~
+E
+personal~
+You can't look at that ! It's personal.
+~
+D0
+~
+~
+1 0 2005
+S
+#2011
+The Constibles Office~
+A huge desk lines this room.  There are bins on the desk with paperwork
+neatly stacked inside.  A massive pile of paperwork sits on the one side of
+the desk, still waiting to be dealt with.  Unlock the other desks, this one
+doesn't have a phone.  At the side of the office are huge windows, which
+allow one to see most of the city if they gaze out them.  
+~
+0 0 0
+E
+desk~
+A desk sits here, overflowing with paperwork.
+~
+D5
+~
+~
+0 0 2003
+S
+#2012
+A Holding Cell~
+This is the special cell designed to hold drunks.  They bring them here
+when they get unrully and can't be trusted to be out in public.  Usually the
+people in here sober up and get out right away, but one man imparticular had
+might as well make this his home.  
+~
+0 0 0
+E
+wall~
+All the walls are padded, this is a precationary measure taken so that
+people in here don't hurt themselves.  
+~
+D4
+~
+~
+1 0 2004
+S
+#2013
+Foyer and Main Desk at Satan City Hospital General~
+Upon entering the hospital one cannot help but become overwhelmed by the
+smell of the hospital.  The white marble floors shine and glisten because of
+how clean they are.  Doctors, nurses, and orderly's are running all over the
+place, trying to keep up with the influx of patients they have to deal with.
+~
+0 0 0
+D1
+~
+~
+0 0 910
+D3
+~
+~
+0 0 2014
+S
+#2014
+Hallway to Patient Rooms~
+A large hallway opens down the hospital.  To the north and south are
+patient's rooms.  This floor is to care for patients with less-serious
+injuries.  The elevator leads to the second and third floors, where more
+critical care is needed.  
+~
+0 0 0
+D0
+~
+~
+1 0 2016
+D1
+~
+~
+0 0 2013
+D2
+~
+~
+1 0 2015
+S
+#2015
+A Patients Room~
+This room doesn't have much in it.  Only a bed and and a oscillater and a
+breathing apparatus.  There is one window in the room, which has the shades
+drawn over it.  
+~
+0 0 0
+D0
+~
+~
+1 0 2014
+S
+#2016
+A Patients Room~
+This room doesn't have much in it.  Only a bed and and a oscillater and a
+breathing apparatus.  There is one window in the room, which has the shades
+drawn over it.  
+~
+0 0 0
+D2
+~
+~
+1 0 2014
+S
+#2017
+Inside the Hospital Elevator~
+There is nothing in here except a keypad.  It's not a touch pad, that
+would be unsanitary, but rather a speech regulated pad.  Just say the number
+of the floor you wish to go to.  So, say "one" for floor one, say "two" for
+floor two, and say "three" for floor three.  
+~
+0 1028 0
+S
+#2018
+A Recovery Room~
+There's nothing in this room other than a bed, and some life saving
+apparatus'.  There is a large closet off to the side of the room marked
+'supplies'.  A large window stands to the one side of the room, slightly
+cracked.  
+~
+0 0 0
+D2
+~
+~
+1 0 2019
+S
+#2019
+Hallway to Critical Care Patients~
+This hallway is quiet and unusually empty compared to the rest of the
+hospital.  There are signs all over the place that this is a restricted area
+and that one is to be very quiet as to not disturb the recovering patients. 
+To the north and south are the recovery rooms.  
+~
+0 0 0
+D0
+~
+~
+1 0 2018
+D2
+~
+~
+1 0 2020
+S
+#2020
+A Recovery Room~
+There's nothing in this room other than a bed, and some life saving
+apparatus'.  There is a large closet off to the side of the room marked
+'supplies'.  A large window stands to the one side of the room, slightly
+cracked.  
+~
+0 0 0
+D0
+~
+~
+1 0 2019
+S
+#2021
+Hallway to Surgery Room~
+This hallway is completely empty and dimly lit.  There are no sounds, or
+unique smells to this hall.  The floors and walls are very clean, even for a
+hospital.  The walls and floors are grey instead of white like the rest of
+the hospital.  A big set of swinging doors blocks the path up ahead.  
+~
+0 0 0
+D2
+~
+~
+1 0 2022
+S
+#2022
+The Surgery Room~
+This is the room where critical care patients come to be operated on by
+the doctor.  There is no one around, so no one must need operated on at the
+moment.  Who knows, perhaps you could be the next one who lays on that
+table.  
+~
+0 0 0
+D0
+~
+~
+1 0 2021
+S
+#2023
+Entrance to Satan City's Ambulance/Firehouse ~
+A make-shift office of sorts spreads before the eye.  This is nothing but
+a small room with a desk, a few papers on it, and a phone line.  To the
+south are the bay doors where the fire engine and ambulance are kept.  
+~
+0 0 0
+E
+desk~
+A small desk is here with a few papers on it.
+~
+D1
+~
+~
+0 0 912
+D2
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2026
+S
+#2024
+Bay 1~
+This is where the massive fire engine is kept.  Although it seems very
+ludicrous to only have one fire truck for such a big city, anyone who's ever
+lived in Satan City would know that the one they do have is almost
+obscelete.  Many of the homes are equipped with systems that will extinguish
+a fire, long long before the fire company even has time to react.  Every
+once in a while they still get a call to go to the slums.  
+~
+0 0 0
+D0
+~
+~
+0 0 2023
+D2
+~
+~
+0 0 2025
+D4
+~
+~
+0 0 2029
+S
+#2025
+Bay 2~
+This is where the ambulance is kept.  It, much like the fire engine, is
+almost obscelete in Satan City.  Most people who can afford healthcare don't
+trust it, s o they hire private doctors to come and treat them when they're
+sick.  Although m any times people in the slums are very quick to need and
+want help from the ambu lance, most of them can't afford it.  
+~
+0 0 0
+D0
+~
+~
+0 0 2024
+S
+#2026
+Hallway to the firehall~
+This hallway is narrow but short.  It leads to what most would consider
+to be the best place in the firehouse, the firehall.  The crew often rents
+the space out for parties and get-togethers, or uses it themselves for their
+own.  
+~
+0 0 0
+D1
+~
+~
+0 0 2023
+D3
+~
+~
+0 0 2027
+S
+#2027
+Firehall~
+This large room is nothing more than just that.  There's nothing in this
+room except for a stage, and a few signs on the wall.  The room is dimly
+lit, and this huge open area would make a great dance floor.  This room is
+an excellent party place.  
+~
+0 0 0
+E
+stage~
+A big stage is here, perfect for band performances.
+~
+E
+sign~
+A sign reads:
+ 
+BINGO- every Thursday and Saturday at 5 pm. Don't be late !
+~
+D1
+~
+~
+0 0 2026
+D2
+~
+~
+0 0 2028
+S
+#2028
+Firehall~
+This large room is nothing more than just that.  There's nothing in this
+room except for a stage, and a few signs on the wall.  The room is dimly
+lit, and this huge open area would make a great dance floor.  This room is
+an excellent party place.  
+~
+0 0 0
+D0
+~
+~
+0 0 2027
+S
+#2029
+Bunk Room~
+This is the place where all the firecrew and EMS people sleep.  There are
+many cots that line this upper way.  In the one corner there's a sink.  In
+the other a refrigerator.  These beds look very comfortable as they should,
+many times the crews have nothing to do but lie around all day.  
+~
+0 0 0
+D1
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2032
+D5
+~
+~
+0 0 2024
+S
+#2030
+Bunk Room~
+This is the place where all the firecrew and EMS people sleep.  There are
+many cots that line this upper way.  In the one corner there's a sink.  In
+the other a refrigerator.  These beds look very comfortable as they should,
+many times the crews have nothing to do but lie around all day.  
+~
+0 0 0
+D2
+~
+~
+0 0 2031
+D3
+~
+~
+0 0 2029
+S
+#2031
+Bunk Room~
+This is the place where all the firecrew and EMS people sleep.  There are
+many cots that line this upper way.  In the one corner there's a sink.  In
+the other a refrigerator.  These beds look very comfortable as they should,
+many times the crews have nothing to do but lie around all day.  
+~
+0 0 0
+D0
+~
+~
+0 0 2030
+D3
+~
+~
+0 0 2032
+S
+#2032
+Bunk Room~
+This is the place where all the firecrew and EMS people sleep.  There are
+many cots that line this upper way.  In the one corner there's a sink.  In
+the other a refrigerator.  These beds look very comfortable as they should,
+many times the crews have nothing to do but lie around all day.  
+~
+0 0 0
+D0
+~
+~
+0 0 2029
+D1
+~
+~
+0 0 2031
+S
+#2033
+The Carcajou Corner~
+A large very nice, high-class restaurant opens to the view.  There are
+many nice tables all around, each set with silver and gold trimmings.  Dim
+lights hand overhead and white candles burn on the walls, giving the
+restaurant a very romantic feel to it.  All of the people inside are dressed
+with class and style.  
+~
+0 0 0
+D3
+~
+~
+0 0 995
+S
+#2034
+Inside the Carcojou Corner~
+A large very nice, high-class restaurant opens to the view.  There are
+many nice tables all around, each set with silver and gold trimmings.  Dim
+lights hand overhead and white candles burn on the walls, giving the
+restaurant a very romantic feel to it.  All of the people inside are dressed
+with class and style.  The other dining rooms are to the south, the exit is
+to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 2035
+D3
+~
+~
+0 0 2033
+S
+#2035
+Inside the Carcojou Corner~
+A large very nice, high-class restaurant opens to the view.  There are
+many nice tables all around, each set with silver and gold trimmings.  Dim
+lights hand overhead and white candles burn on the walls, giving the
+restaurant a very romantic feel to it.  All of the people inside are dressed
+with class and style.  
+~
+0 0 0
+D0
+~
+~
+0 0 2034
+D2
+~
+~
+0 0 2036
+S
+#2036
+Inside the Carcojou Corner~
+A large very nice, high-class restaurant opens to the view.  There are
+many nice tables all around, each set with silver and gold trimmings.  Dim
+lights hand overhead and white candles burn on the walls, giving the
+restaurant a very romantic feel to it.  All of the people inside are dressed
+with class and style.  
+~
+0 0 0
+D0
+~
+~
+0 0 2035
+S
+#2037
+Club Cherry~
+Barstools line a bar in the corner of the room.  Dim lights hang
+overhead.  A big dancefloor spreads out before the eye.  A big sliver ball
+dangles from the ceiling on a small golden chain.  Light sparkles and shines
+in fragments all over the floor.  
+~
+0 1024 0
+D1
+~
+~
+0 0 987
+D3
+~
+~
+0 0 2038
+S
+#2038
+The Zen Master's Room~
+A small room spreads out into darkness.  A single dim light hands
+overhead, casting a small circular light on the floor in the center of the
+room.  There is no furniture and no windows in the room.  An eerie cold wind
+whisps about the air.  
+~
+0 1024 0
+D1
+~
+~
+0 0 2037
+S
+#2039
+The Cajun Chef~
+A small little hut-like building is larger on the inside than it appears
+to be from the outside.  Strange smells permeate throughout the entire room.
+There are various cooking utensils spread out strewn all over the floor.  
+~
+0 1024 0
+D3
+~
+~
+0 0 971
+S
+#2040
+Quic Ki Mart~
+A small counter lined with candy stands in the back of the store.  Along
+the wall is a huge glass doored refrigerator, within which are many various
+drinks.  The store is dimly lit and there isn't much in here that doesn't
+look old and worn out.  The floor tiles are cracked, the ceiling panels are
+falling, this is the epidemy of poor life.  
+~
+0 1024 0
+D1
+~
+~
+0 0 980
+S
+#2041
+Main foyer in the Mall~
+A huge rotunda opens up ahead and above.  A large dome of glass filters
+in the sunlight from about scattering shards of light all over the marble
+floor.  The mall itself continues on to the north and south of here.  
+~
+0 8 0
+D0
+~
+~
+0 0 2042
+D2
+~
+~
+0 0 2046
+D3
+~
+~
+0 0 954
+S
+#2042
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  The leather shop
+is just east of here.  
+~
+0 8 0
+D0
+~
+~
+0 0 2043
+D1
+~
+~
+0 0 2045
+D2
+~
+~
+0 0 2041
+S
+#2043
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  The clothing
+shop is just to the east of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2050
+D1
+~
+~
+0 0 2044
+D2
+~
+~
+0 0 2042
+S
+#2044
+A clothing shop~
+Racks with various hats and coats line the floor in this quaint little
+shop.  A man stands behind the counter ready to go into the back room if
+anyone should see something they like and wish to buy one.  
+~
+0 0 0
+D3
+~
+~
+0 0 2043
+S
+#2045
+The leather shop~
+Upon entering the shop, powerful smells of leather intoxicate the nose. 
+On the walls are mounted whips and jackets and saddles of old times, and
+many other things made out of leather.  The shop is small but adequately
+displays a wide selection of various clothing and tools.  
+~
+0 0 0
+D3
+~
+~
+0 0 2042
+S
+#2046
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  The armory is
+just to the east of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2041
+D1
+~
+~
+0 0 2048
+D2
+~
+~
+0 0 2047
+S
+#2047
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  The jewelry shop
+is just to the east of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2046
+D1
+~
+~
+0 0 2049
+D2
+~
+~
+0 0 2051
+S
+#2048
+The armory~
+The armor shop is hot and smells of something burnt.  There are many
+swords and weapons on display all along the walls of this small shop.  Most
+of them are outdated and are antiques.  This armory is well known for
+preserving the art of making armor and some say have even found a way to
+make it useful to those who would wear it today.  
+~
+0 0 0
+D3
+~
+~
+0 0 2046
+S
+#2049
+The jewelry shop~
+A small quaint shop rests in this little cove in the mall.  Glass display
+cases line the store showing various pieces of fine and rare gemstone and
+jewels.  There are sign for markdowns all over the place, displaying
+discounts and quality of jewelry.  This shop is smaller than the rest, but
+not as many people are here.  
+~
+0 0 0
+D3
+~
+~
+0 0 2047
+S
+#2050
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  
+~
+0 0 0
+D0
+~
+~
+0 0 2052
+D2
+~
+~
+0 0 2043
+S
+#2051
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  
+~
+0 0 0
+D0
+~
+~
+0 0 2047
+D2
+~
+~
+0 0 2052
+S
+#2052
+Inside the Mall~
+The mall stretches out in a wide circle that loops around the dome that
+rises above the roof.  There are 4 shops in this mall, a leather shop, a
+clothing shop, a jewelry shop and a shop that sells armor.  
+~
+0 0 0
+D0
+~
+~
+0 0 2051
+D2
+~
+~
+0 0 2050
+S
+#2053
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2055
+D1
+~
+~
+0 0 2054
+D3
+~
+~
+1 0 970
+S
+#2054
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2053
+S
+#2055
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2053
+D4
+~
+~
+0 0 2056
+S
+#2056
+~
+~
+0 0 0
+D5
+~
+~
+0 0 2055
+S
+#2057
+~
+~
+0 0 0
+D1
+~
+~
+1 0 973
+D2
+~
+~
+0 0 2059
+D3
+~
+~
+0 0 2058
+S
+#2058
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2057
+S
+#2059
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2057
+D4
+~
+~
+0 0 2060
+S
+#2060
+~
+~
+0 0 0
+D5
+~
+~
+0 0 2059
+S
+#2061
+~
+~
+0 0 0
+D1
+~
+~
+1 0 979
+D2
+~
+~
+0 0 2063
+D3
+~
+~
+0 0 2062
+S
+#2062
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2061
+S
+#2063
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2061
+D4
+~
+~
+0 0 2064
+S
+#2064
+~
+~
+0 0 0
+D5
+~
+~
+0 0 2063
+S
+#2065
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2067
+D1
+~
+~
+0 0 2066
+D3
+~
+~
+1 0 981
+S
+#2066
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2065
+S
+#2067
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2065
+D4
+~
+~
+0 0 2068
+S
+#2068
+~
+~
+0 0 0
+D5
+~
+~
+0 0 2067
+S
+#2069
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2070
+D3
+~
+~
+1 0 985
+S
+#2070
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2071
+D2
+~
+~
+0 0 2072
+D3
+~
+~
+0 0 2069
+D4
+~
+~
+0 0 2073
+S
+#2071
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2070
+S
+#2072
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2070
+S
+#2073
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2075
+D1
+~
+~
+0 0 2074
+D2
+~
+~
+0 0 2076
+D5
+~
+~
+0 0 2070
+S
+#2074
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2073
+S
+#2075
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2073
+S
+#2076
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2073
+S
+#2077
+~
+~
+0 0 0
+D1
+~
+~
+1 0 989
+D3
+~
+~
+0 0 2078
+S
+#2078
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2079
+D1
+~
+~
+0 0 2077
+D2
+~
+~
+0 0 2080
+D4
+~
+~
+0 0 2081
+S
+#2079
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2078
+S
+#2080
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2078
+S
+#2081
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2083
+D2
+~
+~
+0 0 2084
+D3
+~
+~
+0 0 2082
+D5
+~
+~
+0 0 2078
+S
+#2082
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2081
+S
+#2083
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2081
+S
+#2084
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2081
+S
+#2085
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2086
+D3
+~
+~
+1 0 993
+S
+#2086
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2087
+D2
+~
+~
+0 0 2088
+D3
+~
+~
+0 0 2085
+D4
+~
+~
+0 0 2089
+S
+#2087
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2086
+S
+#2088
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2086
+S
+#2089
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2090
+D2
+~
+~
+0 0 2092
+D3
+~
+~
+0 0 2091
+D5
+~
+~
+0 0 2086
+S
+#2090
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2089
+S
+#2091
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2089
+S
+#2092
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2089
+S
+#2093
+~
+~
+0 0 0
+D1
+~
+~
+1 0 997
+D3
+~
+~
+0 0 2094
+S
+#2094
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2095
+D1
+~
+~
+0 0 2093
+D2
+~
+~
+0 0 2096
+D4
+~
+~
+0 0 2097
+S
+#2095
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2094
+S
+#2096
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2094
+S
+#2097
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2098
+D2
+~
+~
+0 0 2099
+D5
+~
+~
+0 0 2094
+S
+#2098
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2097
+S
+#2099
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2097
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2004 5 2
+D 0 2005 0 2
+D 0 2005 2 2
+D 0 2006 0 2
+D 0 2006 2 2
+D 0 2007 2 2
+D 0 2008 2 2
+D 0 2009 0 2
+D 0 2010 0 2
+D 0 2012 4 2
+D 0 2014 0 1
+D 0 2014 2 1
+D 0 2015 0 1
+D 0 2016 2 1
+D 0 2018 2 1
+D 0 2019 0 1
+D 0 2019 2 1
+D 0 2020 0 1
+D 0 2021 2 1
+D 0 2022 0 1
+D 0 2053 3 2
+D 0 2057 1 2
+D 0 2061 1 2
+D 0 2065 3 2
+D 0 2069 3 2
+D 0 2077 1 2
+D 0 2085 3 2
+D 0 2093 1 2
+M 0 922 5 2000 5 Load a citizen
+M 0 905 1 2004 1 Load a jail guard
+E 0 901 0 5 Officer's uniform is loaded on the body of a jail guard
+E 0 902 0 12 An officer's badge is loaded about the shoulders of a jail guard
+E 0 905 0 16 A night stick is loaded wielded of a jail guard
+M 0 904 4 2007 1 Load an inmate
+E 0 904 0 5 A prison garb is loaded on the body of an inmate
+M 0 904 1 2007 1 Load an inmate
+M 0 904 4 2008 1 Load an inmate
+E 0 904 0 5 A prison garb is loaded on the body of an inmate
+M 0 904 4 2009 1 Load an inmate
+E 0 904 0 5 A prison garb is loaded on the body of an inmate
+M 0 904 4 2010 1 Load an inmate
+E 0 904 0 5 A prison garb is loaded on the body of an inmate
+M 0 901 1 2011 1 Load Felipe
+E 0 900 0 17 A key is loaded held in the hands of Felipe
+E 0 902 0 12 An officer's badge is loaded about the shoulders of Felipe
+E 0 903 0 5 Constable's uniform is loaded on the body of Felipe
+M 0 903 1 2012 1 Load a drunk
+M 0 906 1 2013 1 Load a receptionist
+M 0 907 25 2014 1 Load a doctor
+E 0 908 0 5 A doctor's uniform is loaded on the body of a doctor
+O 0 906 0 2014 An elevator loaded to Hallway to Patient Rooms
+M 0 908 10 2014 1 Load a nurse
+E 0 909 0 5 Nurse's scrubs is loaded on the body of a nurse
+M 0 909 5 2014 1 Load an orderly
+E 0 910 0 5 Orderly's scrubs is loaded on the body of an orderly
+M 0 910 4 2015 1 Load a patient
+O 0 916 0 2015 A bed loaded to A Patients Room
+M 0 910 4 2016 1 Load a patient
+O 0 916 0 2016 A bed loaded to A Patients Room
+M 0 908 10 2016 1 Load a nurse
+E 0 909 0 5 Nurse's scrubs is loaded on the body of a nurse
+O 0 907 0 2017 A keypad loaded to Inside the Hospital Elevator
+M 0 911 1 2017 1 Load elevator man
+M 0 910 4 2018 1 Load a patient
+O 0 916 0 2018 A bed loaded to A Recovery Room
+O 0 914 0 2018 A closet loaded to A Recovery Room
+P 0 913 1 914 1 An insulin packet put inside an insulin packet
+P 0 915 1 914 1 Gauze put inside gauze
+P 0 911 1 914 1 A stethoscope put inside a stethoscope
+M 0 907 25 2019 1 Load a doctor
+E 0 908 0 5 A doctor's uniform is loaded on the body of a doctor
+O 0 906 0 2019 An elevator loaded to Hallway to Critical Care Patients
+M 0 908 10 2019 1 Load a nurse
+E 0 909 0 5 Nurse's scrubs is loaded on the body of a nurse
+M 0 909 5 2019 1 Load an orderly
+E 0 910 0 5 Orderly's scrubs is loaded on the body of an orderly
+M 0 910 4 2020 1 Load a patient
+O 0 916 0 2020 A bed loaded to A Recovery Room
+O 0 914 0 2020 A closet loaded to A Recovery Room
+P 0 913 1 914 1 An insulin packet put inside an insulin packet
+P 0 915 1 914 1 Gauze put inside gauze
+P 0 911 1 914 1 A stethoscope put inside a stethoscope
+M 0 909 5 2020 1 Load an orderly
+E 0 910 0 5 Orderly's scrubs is loaded on the body of an orderly
+O 0 906 0 2021 An elevator loaded to Hallway to Surgery Room
+O 0 912 0 2022 A scapel loaded to The Surgery Room
+O 0 917 0 2022 An operating table loaded to The Surgery Room
+O 0 918 0 2024 A fire truck loaded to Bay 1
+M 0 912 5 2024 1 Load a fireman
+E 0 920 0 5 Fireman's outfit is loaded on the body of a fireman
+O 0 919 0 2025 An ambulance loaded to Bay 2
+M 0 913 5 2025 1 Load ems crew
+E 0 921 0 5 An ems uniform is loaded on the body of ems crew
+M 0 912 5 2029 1 Load a fireman
+E 0 920 0 5 Fireman's outfit is loaded on the body of a fireman
+M 0 913 5 2029 1 Load ems crew
+E 0 921 0 5 An ems uniform is loaded on the body of ems crew
+O 0 923 0 2029 A cot loaded to Bunk Room
+O 0 922 0 2030 A sink loaded to Bunk Room
+O 0 923 0 2030 A cot loaded to Bunk Room
+O 0 924 0 2031 A refrigerator loaded to Bunk Room
+O 0 923 0 2031 A cot loaded to Bunk Room
+O 0 923 0 2032 A cot loaded to Bunk Room
+M 0 914 1 2033 1 Load a snooty waiter
+M 0 915 3 2034 1 Load a waitress
+G 0 929 0 Steak (well_done) is given to a waitress
+G 0 930 0 Chicken is given to a waitress
+G 0 931 0 Steak (rare) is given to a waitress
+G 0 932 0 Steak (medium) is given to a waitress
+G 0 933 0 Mashed potatoes is given to a waitress
+G 0 934 0 A glass of wine is given to a waitress
+G 0 935 0 Lamb chops is given to a waitress
+G 0 936 0 Stuffing is given to a waitress
+G 0 937 0 Corn is given to a waitress
+G 0 938 0 A roll is given to a waitress
+O 0 926 0 2034 A table loaded to Inside the Carcojou Corner
+O 0 927 0 2034 A comfortable chair loaded to Inside the Carcojou Corner
+O 0 939 0 2034 Another chair loaded to Inside the Carcojou Corner
+O 0 940 0 2034 A sturdy chair loaded to Inside the Carcojou Corner
+O 0 941 0 2034 A dark chair loaded to Inside the Carcojou Corner
+M 0 915 3 2035 1 Load a waitress
+G 0 929 0 Steak (well_done) is given to a waitress
+G 0 930 0 Chicken is given to a waitress
+G 0 931 0 Steak (rare) is given to a waitress
+G 0 932 0 Steak (medium) is given to a waitress
+G 0 933 0 Mashed potatoes is given to a waitress
+G 0 934 0 A glass of wine is given to a waitress
+G 0 935 0 Lamb chops is given to a waitress
+G 0 936 0 Stuffing is given to a waitress
+G 0 937 0 Corn is given to a waitress
+G 0 938 0 A roll is given to a waitress
+O 0 926 0 2035 A table loaded to Inside the Carcojou Corner
+O 0 927 0 2035 A comfortable chair loaded to Inside the Carcojou Corner
+O 0 939 0 2035 Another chair loaded to Inside the Carcojou Corner
+O 0 940 0 2035 A sturdy chair loaded to Inside the Carcojou Corner
+O 0 941 0 2035 A dark chair loaded to Inside the Carcojou Corner
+M 0 915 3 2036 1 Load a waitress
+G 0 929 0 Steak (well_done) is given to a waitress
+G 0 930 0 Chicken is given to a waitress
+G 0 931 0 Steak (rare) is given to a waitress
+G 0 932 0 Steak (medium) is given to a waitress
+G 0 933 0 Mashed potatoes is given to a waitress
+G 0 934 0 A glass of wine is given to a waitress
+G 0 935 0 Lamb chops is given to a waitress
+G 0 936 0 Stuffing is given to a waitress
+G 0 937 0 Corn is given to a waitress
+G 0 938 0 A roll is given to a waitress
+O 0 926 0 2036 A table loaded to Inside the Carcojou Corner
+O 0 927 0 2036 A comfortable chair loaded to Inside the Carcojou Corner
+O 0 939 0 2036 Another chair loaded to Inside the Carcojou Corner
+O 0 940 0 2036 A sturdy chair loaded to Inside the Carcojou Corner
+O 0 941 0 2036 A dark chair loaded to Inside the Carcojou Corner
+M 0 916 1 2036 1 Load a man
+E 0 934 0 17 A glass of wine is loaded held in the hands of a man
+M 0 918 1 2037 1 Load a bouncer
+M 0 917 1 2037 1 Load a bartender
+G 0 952 0 A mug of rum is given to a bartender
+G 0 951 0 A glass of brandy is given to a bartender
+G 0 950 0 A glass of vodka is given to a bartender
+G 0 949 0 The local specialty is given to a bartender
+G 0 948 0 A glass of firebreather is given to a bartender
+G 0 947 0 A glass of champagne is given to a bartender
+G 0 946 0 A glass of white wine is given to a bartender
+G 0 945 0 A glass of red wine is given to a bartender
+G 0 944 0 A glass of beer. is given to a bartender
+O 0 943 0 2037 A bar loaded to Club Cherry
+O 0 942 0 2037 A set of bar stool loaded to Club Cherry
+M 0 919 1 2038 1 Load the zen master
+E 0 955 0 6 An eye patch is loaded over the head of the zen master
+M 0 920 1 2039 1 Load a cajun chef
+E 0 956 0 6 A chef's hat is loaded over the head of a cajun chef
+G 0 956 0 A chef's hat is given to a cajun chef
+M 0 921 1 2040 1 Load an asian man
+O 0 924 0 2040 A refrigerator loaded to Quic Ki Mart
+P 0 958 1 924 1 Milk put inside milk
+P 0 959 1 924 1 Water put inside water
+O 0 963 0 2040 Counter loaded to Quic Ki Mart
+P 0 962 1 963 1 Gum put inside gum
+P 0 961 1 963 1 Piece of candy put inside piece of candy
+P 0 960 1 963 1 Chocolate bar put inside chocolate bar
+M 0 927 5 2041 3 Load a consumer
+M 0 931 1 2044 1 Load dwane
+G 0 981 0 Sunglasses is given to dwane
+G 0 980 0 A polo shirt is given to dwane
+G 0 979 0 A pair of jeans is given to dwane
+G 0 978 0 A pair of gloves is given to dwane
+G 0 977 0 A hat is given to dwane
+M 0 929 1 2045 1 Load sorhib
+G 0 971 0 A leather whip is given to sorhib
+G 0 970 0 A leather bag is given to sorhib
+G 0 969 0 A leather canteen is given to sorhib
+G 0 968 0 A leather wristband is given to sorhib
+G 0 967 0 A leather jacket is given to sorhib
+M 0 930 1 2048 1 Load rustim
+G 0 976 0 A red cape is given to rustim
+G 0 975 0 Gray boots is given to rustim
+G 0 974 0 Fingerless gloves is given to rustim
+G 0 973 0 A padded jacket is given to rustim
+G 0 972 0 A head band is given to rustim
+M 0 932 1 2049 1 Load radiant
+G 0 986 0 A golden necklace is given to radiant
+G 0 985 0 The necklace of vitality is given to radiant
+G 0 984 0 The necklace of power is given to radiant
+G 0 983 0 A tiger earring is given to radiant
+G 0 982 0 A snake earring is given to radiant
+M 0 928 5 2050 2 Load mall security
+M 0 928 5 2051 1 Load mall security
+M 0 928 5 2052 2 Load mall security
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

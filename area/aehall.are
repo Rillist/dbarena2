@@ -1,0 +1,436 @@
+#AREADATA
+Name AE Hall~
+Builders Terraco-d~
+VNUMs 4661 4699
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#4698
+immortal couch laziness~
+{xan {YI{ym{Wm{xo{Yr{yt{Ya{yl {CC{co{Wu{xc{Ch {Wo{xf {RL{ra{Wz{xi{Rn{re{Ws{xs~
+{xAn {YI{ym{Wm{xo{Yr{yt{Ya{yl {CC{co{Wu{xc{Ch {Wo{xf {RL{ra{Wz{xi{Rn{re{Ws{xs is here.~
+unknown~
+1
+furniture 0 P
+C ACJKLNPQRUVWYZd EHK DFGHIJ DFGHIJ
+0 0 0 P
+#4699
+key gabe~
+{WR{Co{Wo{Cm {WK{Ce{Wy {Co{Wf {CG{Wa{Cb{We{x~
+{WR{Co{Wo{Cm {WK{Ce{Wy {Co{Wf {CG{Wa{Cb{We{x is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4661
+Transport Room~
+In the center of the room is a large transport pad.  All one must do is
+say where they want to go and step on the pad.  The floor is made of white
+rubber tiles shaped in square feet.  The room is also white and has a dark
+edge, there is an exit north which leads into the center of the ship.  
+~
+0 8 0
+D0
+~
+~
+1 4794 4662
+R SPEECH 4798 exile~
+R SPEECH 4799 satan~
+S
+#4662
+A Hallway~
+Entering the hallway, a smell like none other is think in the air.  On
+the east wall above the door reads a small sign, '{RLiving Quarters{x'.  The
+east door is automated and is locked shut.  The floor is made of white
+rubber tiles and run north as the hallyway continues.  No flooring can be
+seen under the east or south door because they ride the ground perfectly. 
+Just above the south door reads a sign '{RTransport Room{x'.  
+~
+0 8 0
+D0
+~
+~
+0 0 4663
+D1
+~
+~
+1 0 4664
+D2
+~
+~
+1 4794 4661
+S
+#4663
+End of the Hallway~
+As the hallway ends a large automated door reveals itself, just above it
+reads a sign '{RTraining Complex{x'.  The door is made of some type of metal
+and has a keypad just right of the door.  The hallway leads south to the
+iving quarters and transport room.  The smell of blood and sweat leaks from
+between the door on the west wall.  Only one can wonder what goes on in
+there.  
+~
+0 8 0
+D0
+~
+~
+0 0 4665
+D2
+~
+~
+0 0 4662
+D3
+~
+~
+1 0 4666
+S
+#4664
+Living Quarters~
+His is where the members of the ship resign when they are off duty, a
+sign above the west reads, '{RMain Hall{x'.  The is an exit leading south
+and a automated door on the north and west exits.  Above the north door a
+sign reads, '{RCommanding Quarters{x'.  
+~
+0 8 0
+D0
+~
+~
+1 4793 4667
+D1
+~
+~
+1 4699 4668
+D2
+~
+~
+0 0 4669
+D3
+~
+~
+1 0 4662
+S
+#4665
+War Room~
+This is where the elite comes to talk about straigty, the room is dark
+except for the bright white light strinking the center of the large round
+black table in the center of the room.  There is a giant map on the north
+wall, it currently shows the {YAndroid {DElite{x symbol, but it will show you a
+image if you tell it to.  
+~
+0 8 0
+D2
+~
+~
+0 0 4663
+R SPEECH 4797 vegeta~
+R SPEECH 4796 namek~
+R SPEECH 4699 earth~
+S
+#4666
+Training Complex~
+The training complex, this is where the elite fighters train themselves
+in order to improve there skills.  This whole area smells like blood and
+sweat.  This area is lit dimer than the rest of the ship and the floor is
+made of red rubber tiles.  The walls are also colored blue.  There is a sign
+above the east door reading, '{RMain Hall{x'.  There is an exit north, west,
+south, and a door east.  
+~
+0 8 0
+D0
+~
+~
+0 0 4679
+D1
+~
+~
+1 0 4663
+D2
+~
+~
+0 0 4678
+D3
+~
+~
+0 0 4677
+S
+#4667
+Commanding Quarters~
+These are the living spaces of the commanders of the elite.  East is the
+area of Zierk, west is Angelina's area, and north is Koa's area.  The floor
+is made of green rubber tiles shaped in square feet, the walls are white and
+dully reflects the light in the ceiling.  A sign above the southern wall
+reads, '{REnlisted Quarters{x'.  
+~
+0 8 0
+D0
+~
+~
+1 4787 4673
+D1
+~
+~
+1 4789 4675
+D2
+~
+~
+1 4793 4664
+D3
+~
+~
+1 4786 4674
+S
+#4668
+Gabe's Quarters~
+~
+0 0 0
+D3
+~
+~
+1 4699 4664
+S
+#4669
+Living Quarters~
+As the hallway continues, there are auotmated doors on both the east and
+west walls.  There is a small keypad next to each door.  The floor is made
+with white rubber tiles shaped in square feet.  The room is lit brightly by
+lights in the ceiling which reflect down on the room.  The hallway coutinues
+back north.  
+~
+0 8 0
+D0
+~
+~
+0 0 4664
+D1
+~
+~
+1 4784 4670
+D2
+~
+~
+1 0 4672
+D3
+~
+~
+1 0 4671
+S
+#4670
+Vel's Quarters~
+A large, blank room covered in white, the only decoration the room has is
+a grand black fighting mat.  The mat has little sploches of red decorating
+it, but aside from that is a plain padded fighting mat.  
+~
+0 8 0
+D3
+~
+~
+1 4784 4669
+S
+#4671
+Alik's Quarters~
+~
+0 0 0
+D1
+~
+~
+1 0 4669
+S
+#4672
+Redemption's Quarters~
+~
+0 0 0
+D0
+~
+~
+1 0 4669
+S
+#4673
+Koa's Quarters~
+You have entered the Quarters of Koa.  As you look around you see metal
+chains hanging from the ceiling with decayed corpses hanging on them.  The
+smell of rotting flesh fills the air, making you want to gag.  Like the
+Android Elite always say, if you want to enjoy the pleasures of life, be
+prepaired to experience the pains as well.  
+~
+0 8 0
+D1
+~
+~
+0 0 4676
+D2
+~
+~
+1 4787 4667
+S
+#4674
+Angelina's Quarters~
+You Now stand in Angelina's Quarters, A place where most dare not enter. 
+The Walls Are a Wleak White Color, Very Clean and Boring, Her Bed is Inset
+into The Wall, Various Electronic Hook-Ups are Present There, it appears to
+be more of a Maintinence bay then a bed...  Seeming Very Uncomfortable.  A
+Desk sits against the wall, a very high-tech computer resting on top of it,
+Unreconizable Code Flying Past on The Monitor, you Reckon she was Probally
+up late Hacking into Someone's system.  The only one thing that seems out of
+place in this room is and old chest made of oak, with a Digital Pad-lock on
+it, Barring anyone from opening it, easily anyway and a bar suspending in
+the middle of the room, that looks like its used for pull-ups.  
+~
+0 8 0
+D1
+~
+~
+1 4786 4667
+R SPEECH 4794 home~
+S
+#4675
+Zierk's Quarters~
+The room here is very large, the floor is made of wood planks patterned
+horizontaly throughout the room.  The walls are colored a very light pink
+and is textured with a rough pattern.  The smell of fresh paint is thick in
+the air.  The roof is coated in a white paint and is not textured.  There is
+however a few places where the strokes are not even and a little line shows
+through in the paint.  In the center of the room is a snake couch facing the
+tv on the east wall.  In the far corner is a white refigerator with two
+stacked doors, it has a few magnets on the lower door.  The room has a small
+lamp sitting on a table next to the couch.  The lamp shade is a dark orange
+and the lamp is black and has a crack running down the side.  
+~
+0 8 0
+D3
+~
+~
+1 4789 4667
+S
+#4676
+Koa's Lab~
+You are standing in an impossible white sterile room with cylindrical
+body-length canisters lined up against the walls.  Various tables and other
+useful items that Koa uses are scattered around the room.  One of the tubes
+seem to be filled with some sort of green liquid.  
+~
+0 8 0
+D3
+~
+~
+0 0 4673
+S
+#4677
+Sick Bay~
+This is where the brusied fighters can rest and sleep, fore there wounds
+and bruises will be healed at a rate higher than normal.  The room is lit by
+a dim green light.  So the walls and floor appear to be a midnight blue.  
+~
+0 1032 0
+D1
+~
+~
+0 0 4666
+M 15000 H 15000
+S
+#4678
+Training Sphere~
+The room is shaped in a giant sphere about 300' in diameter.  There is a
+large purple orb window in the upper section of the sphere.  Through the
+window the waterfall outside the ship is seen.  There are blast marks and
+stains of blood and sweat all over.  Around the the sphere's walls is a
+humming green barrier, in the case a blast is off target it will be absorbed
+and used as power for the ships core and not do damage to the ship.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 4666
+S
+#4679
+Training Room~
+In this room fighters increase there own Strength, Intelligence, Wisdom,
+Dextarity, and Consition.  There are sweat stains on the ground where some
+fighters spend hours incerasing stats.  The floor is a made of red rubber
+tiles which have an unusually soft feeling.  
+~
+0 1032 0
+D2
+~
+~
+0 0 4666
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4661 0 2
+D 0 4662 1 1
+D 0 4662 2 2
+D 0 4663 3 1
+D 0 4664 0 2
+D 0 4664 1 2
+D 0 4664 3 1
+D 0 4666 1 1
+D 0 4667 0 2
+D 0 4667 1 2
+D 0 4667 2 2
+D 0 4667 3 2
+D 0 4668 3 2
+D 0 4669 1 2
+D 0 4669 2 2
+D 0 4669 3 2
+D 0 4670 3 2
+D 0 4671 1 2
+D 0 4672 0 2
+D 0 4673 2 2
+D 0 4674 1 2
+D 0 4675 3 2
+O 0 4795 0 4661 {xa transport leading back to earth loaded to Transport Room
+O 0 4600 0 4665 A electronic wall map loaded to War Room
+O 0 4792 0 4665 A seat behind the large round table loaded to War Room
+O 0 1905 0 4674 A brown desk loaded to Angelina's Quarters
+O 0 2609 0 4674 A sturdy bed loaded to Angelina's Quarters
+O 0 3392 0 4674 A computer loaded to Angelina's Quarters
+O 0 927 0 4675 A comfortable chair loaded to Zierk's Quarters
+O 0 924 0 4675 A refrigerator loaded to Zierk's Quarters
+O 0 2403 0 4675 A couch loaded to Zierk's Quarters
+M 0 4794 1 4677 1 Load {xA Mezmeri
+M 0 4797 1 4679 1 Load {xA Mezmerzi
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#4699
+Room Echo An electronic wall map flickers and shows a map of planet Earth.
+~
+#0
+
+#$

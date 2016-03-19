@@ -1,0 +1,1096 @@
+#AREADATA
+Name quest area~
+Builders Terraco-d~
+VNUMs 3700 3799
+Credits (null)~
+Security 3
+End
+
+
+
+#MOBILES
+#3700
+little toy rat~
+a little toy rat~
+A little toy rat is here munching on cardboard.
+~
+A little toy rat is very hideous looking, but cute at the same time.  His
+little gears churn as he smile and squeaks and "WAIT !!!"  Aren't you
+suppossed to be looking for something ?  Get back to work !  
+~
+cat~
+A Z -750 0
+10000 33
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+FH 0 0 0
+stand stand male 50
+AGV ACDEFHJKQUV medium unknown
+#3701
+Frieza~
+frieza~
+Frieza is here picking off people left and right.
+~
+~
+icer~
+A 0 -750 0
+80000000000 94280
+220 220 220 220 220 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+#3702
+Buuu~
+{MBuu{X~
+{mMajin {MBuu {Wis here before you.{x
+~
+Buu is very fat and child like.  He likes the simple things in life and
+likes to turn people into candy!!!  
+~
+majin~
+A 0 0 0
+190000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#3727
+Genki Dama Receptionist~
+The Genki Dama Receptionist~
+The Genki Dama Receptionist sits here at the Genki Dama Reception Desk.
+~
+The Receptionist for the Annual Genki Dama Rp Tournament is wearing a
+{CCyan{X and {cDark Cyan {Xboiler suit and cap.  
+~
+human~
+AB 0 0 0
+7 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 Z 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 3728 fight~
+M SPEECH 3727 watch~
+M GREET 3726 100~
+#3789
+Hologram Computer~
+hologram computer~
+A Hologram Computer rests here, waiting for input.
+~
+~
+human~
+A 0 0 0
+1000 10
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 3789 exit~
+#3790
+Level One Warrior~
+a level one warrior~
+A Level One Warrior stands here looking very afraid.
+~
+~
+human~
+AR 0 0 0
+1000000 333
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 90
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 3787 100~
+M SPEECH 3789 exit~
+#3791
+Level Two Warrior~
+a level two warrior~
+A Level Two Warrior stands here on guard.
+~
+~
+human~
+AR 0 0 0
+10000000 1054
+15 15 15 15 15 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 3787 100~
+M SPEECH 3789 exit~
+#3792
+Level Three Warrior~
+A Level Three Warrior~
+A Level Three Warrior stands here ready to attack.
+~
+~
+human~
+AR 0 0 0
+50000000 2357
+34 34 34 34 34 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 3787 100~
+M SPEECH 3789 exit~
+#3793
+Level Four Warrior~
+A Level Four Warrior~
+A Level Four Warrior stands here with confidence.
+~
+~
+human~
+AS 0 0 0
+100000000 3333
+48 48 48 48 48 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 3787 100~
+M SPEECH 3789 exit~
+#0
+
+
+
+#OBJECTS
+#3700
+Efrin's Fun Room Key~
+efrin's Fun Room Key~
+Efrin's Fun Room key lies here.~
+unknown~
+1
+key A AO
+0 0 0 0 0
+0 0 0 P
+#3702
+Efrin's Toy Component~
+efrin's toy component~
+A component for Efrin's Toy Lies here.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#3703
+{YEfrin's Prize Armor{W~
+efrin's prize armor~
+A set of armor lies here.~
+metal~
+10000000
+armor AIU AD
+BEF ADE BEF ADE 0
+0 0 0 P
+#3704
+{RQuest Item{W~
+{YEfrin's Fuzzy Thingy{W~
+{YSomething is here.{W~
+fuzzy stuff~
+2000000
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#3705
+Efrin's Favorite Toy~
+{YEfrin's Favorite Toy{W~
+Efrin's Favorite Toy lies here.~
+unknown~
+1000000
+armor 0 AJ
+BD BD BD BD 0
+0 0 10 P
+#3706
+A toy box~
+a toy box~
+A toy box sits here.~
+wood~
+1
+container X 0
+5 A 0 5 5
+0 0 0 P
+#3707
+A Gold Medal~
+a gold medal~
+A gold medal lies here.~
+unknown~
+1000000
+armor A AC
+BEF BCDE BEF BCDE 0
+0 0 0 P
+#3708
+A Silver Medal~
+a silver medal~
+A silver medal lies here.~
+unknown~
+1000000
+armor A AC
+ADE BD ADE BD 0
+0 0 0 P
+#3709
+A bench~
+a bench~
+A bench sits here.~
+unknown~
+1
+furniture X 0
+CE FINPQRS DE CEFGHI CEFGHI
+0 0 0 P
+#3722
+shirt official genki dama man gotsie~
+the {RGenki {rDama {DR{dp {GS{ghirt{X~
+{CT{che {CO{cfficial {RGenki {rDama {DR{dp {GS{ghirt.{X~
+cotton~
+2147483647
+armor X ADO
+0 0 0 0 0
+100 1 10000 P
+E
+shirt~
+{c                           nnn{Cmmm
+ {c            \||\       ;;;;%%%{C@@@@@@       \ //,
+ {c             V|/     %;;%%%%%{C@@@@@@@@@@  ===Y//
+ {c             68=== ;;;;%%%%%%{C@@@@@@@@@@@@    @Y
+ {c             ;Y   ;;%;%%%%%%{C@@@@@@@@@@@@@@    Y
+ {c             ;Y  ;;;+;%%%%%%{C@@@@@@@@@@@@@@@    Y
+ {c             ;Y__;;;+;%%%%%%{C@@@@@@@@@@@@@@i;;__Y
+ {c            iiY"";;   "uu%{C@@@@@@@@@@uu"   @"";;;>
+ {c                   Y     {B"UUUUUUUUU"{C     @@
+ {c                   `;       {R___ _ {C      @
+ {c                     `;.  {R,====\\=.{C  .;'
+                     {c   ``""""{R`==\\=='{C
+                       {R        `;=====
+                                   ==={X   
+     
+                            {B({c-{CG{c-{B){co{Ct{cs{Ci{ce{X
+                              ---------
+               (c)Annual Genki Dama Rp Tournament 2002
+                             {B({c-{CG{c-{B){Rtm
+~
+E
+look~
+{c                           nnn{Cmmm
+ {c            \||\       ;;;;%%%{C@@@@@@       \ //,
+ {c             V|/     %;;%%%%%{C@@@@@@@@@@  ===Y//
+ {c             68=== ;;;;%%%%%%{C@@@@@@@@@@@@    @Y
+ {c             ;Y   ;;%;%%%%%%{C@@@@@@@@@@@@@@    Y
+ {c             ;Y  ;;;+;%%%%%%{C@@@@@@@@@@@@@@@    Y
+ {c             ;Y__;;;+;%%%%%%{C@@@@@@@@@@@@@@i;;__Y
+ {c            iiY"";;   "uu%{C@@@@@@@@@@uu"   @"";;;>
+ {c                   Y     {B"UUUUUUUUU"{C     @@
+ {c                   `;       {R___ _ {C      @
+ {c                     `;.  {R,====\\=.{C  .;'
+                     {c   ``""""{R`==\\=='{C
+                       {R        `;=====
+                                   ==={X   
+     
+                            {B({c-{CG{c-{B){co{Ct{cs{Ci{ce{X
+                              ---------
+               (c)Annual Genki Dama Rp Tournament 2002
+                             {B({c-{CG{c-{B){Rtm
+~
+#3730
+ticket Time Chamber Token 1 hour~
+{Ra {WT{wi{Wm{we{R-{WC{wh{Wa{wm{Wb{we{Wr {CT{co{Ck{Ce{cn{X.~
+{RA {WT{wi{Wm{we{R-{WC{wh{Wa{wm{Wb{we{Wr {CT{co{Ck{Ce{cn{G lies here, GRAB IT!{X~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#3799
+a~
+a~
+A~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#3700
+Entrance to Efrin's Fun Room~
+Lightning crackles in this void space.  Nothing inhabits it other than
+dust and the occasional asteroid.  Stars twinkle in the distance, far beyond
+the reach of the traveler, who seemingly is floating on thin air.  An
+oddity, above all the rest, rests in the very center of this psychic field. 
+It's a huge wooden door leading north.  
+~
+0 0 0
+D0
+~
+~
+1 3700 3701
+S
+#3701
+Outer ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3716
+D1
+~
+~
+0 0 3702
+D2
+~
+~
+1 0 3700
+D3
+~
+~
+0 0 3712
+S
+#3702
+Outer ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3718
+D1
+~
+~
+0 0 3703
+D3
+~
+~
+0 0 3701
+S
+#3703
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3704
+D3
+~
+~
+0 0 3702
+S
+#3704
+Outer Ring of the Run Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3705
+D2
+~
+~
+0 0 3703
+S
+#3705
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D2
+~
+~
+0 0 3704
+D3
+~
+~
+0 0 3706
+S
+#3706
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3720
+D1
+~
+~
+0 0 3705
+D2
+~
+~
+0 0 3717
+D3
+~
+~
+0 0 3707
+S
+#3707
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D1
+~
+~
+0 0 3706
+D2
+~
+~
+0 0 3715
+D3
+~
+~
+0 0 3708
+S
+#3708
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3719
+D1
+~
+~
+0 0 3707
+D2
+~
+~
+0 0 3713
+D3
+~
+~
+0 0 3709
+S
+#3709
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D1
+~
+~
+0 0 3708
+D2
+~
+~
+0 0 3710
+S
+#3710
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3709
+D2
+~
+~
+0 0 3711
+S
+#3711
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3710
+D1
+~
+~
+0 0 3712
+S
+#3712
+Outer Ring of the Fun Room~
+This wacky room has all sorts of toys and playthings littered about. 
+Efrin must never clean up after himself.  What a PIG !  How will anyone ever
+be able to find anything in all this mess ?  
+~
+0 0 0
+D0
+~
+~
+0 0 3714
+D1
+~
+~
+0 0 3701
+D3
+~
+~
+0 0 3711
+S
+#3713
+Hallway A~
+You are in Hallway A.  Really it's no different than any of the other
+Hallway's, other than it's name is Hallway A.  Toys are cluttered all about
+still, there's a lot of searching to be done if you're going to find
+everything you're looking for.  
+~
+0 0 0
+D0
+~
+~
+0 0 3708
+D2
+~
+~
+0 0 3714
+S
+#3714
+Hallway A~
+You are in Hallway A.  Really it's no different than any of the other
+Hallway's, other than it's name is Hallway A.  Toys are cluttered all about
+still, there's a lot of searching to be done if you're going to find
+everything you're looking for.  
+~
+0 0 0
+D0
+~
+~
+0 0 3713
+D2
+~
+~
+0 0 3712
+S
+#3715
+Hallway B~
+You are in Hallway B.  Really it's no different than any of the other
+Hallway's, other than it's name is Hallway B.  Toys are cluttered all about
+still, there's a lot of searching to be done if you're going to find
+everything you're looking for.  
+~
+0 0 0
+D0
+~
+~
+0 0 3707
+D2
+~
+~
+0 0 3716
+S
+#3716
+Hallway B~
+You are in Hallway B.  Really it's no different than any of the other
+Hallway's, other than it's name is Hallway B.  Toys are cluttered all about
+still, there's a lot of searching to be done if you're going to find
+everything you're looking for.  
+~
+0 0 0
+D0
+~
+~
+0 0 3715
+D2
+~
+~
+0 0 3701
+S
+#3717
+Hallway C~
+You are in Hallway C.  Really it's no different than any of the other
+Hallway's, other than it's name is Hallway C.  Toys are cluttered all about
+still, there's a lot of searching to be done if you're going to find
+everything you're looking for.  
+~
+0 0 0
+D0
+~
+~
+0 0 3706
+D2
+~
+~
+0 0 3718
+S
+#3718
+Hallway C~
+You are in Hallway C.  Really it's no different than any of the other
+Hallway's, other than it's name is Hallway C.  Toys are cluttered all about
+still, there's a lot of searching to be done if you're going to find
+everything you're looking for.  
+~
+0 0 0
+D0
+~
+~
+0 0 3717
+D2
+~
+~
+0 0 3702
+S
+#3719
+A Side Room~
+There's not much in this room.  It seems like a waste of time to even be
+here.  Why don't you go search somewhere else ?  
+~
+0 0 0
+D2
+~
+~
+0 0 3708
+S
+#3720
+A Side Room~
+There's not much in this room.  It seems like a waste of time to even be
+here.  Why don't you go search somewhere else ?  
+~
+0 4 0
+D2
+~
+~
+0 0 3706
+S
+#3721
+{YEfrin's {RArena {W~
+A gray platform occupies the center of the arena.  It marble surface is
+hard and cold to the touch.  On all sides of the arena, a huge stand of
+bleachers makes a circle outlining the ring's edge.  In the center of the
+grey platform, which occupies the center of the arena, there is engraved the
+name "Efrin".  
+~
+0 2097156 0
+S
+#3722
+The end of the Road~
+-
+ 
+ 
+            ^^            {Y       @@@@@@@@@{X
+       ^^       ^^    {Y        @@@@@@@@@@@@@@@{X
+                {Y            @@@@@@@@@@@@@@@@@@    {X          ^^
+                   {Y        @@@@@@@@@@@@@@@@@@@@{X
+{b ---- -- ----- -------- -- {y&&&&&&&&&&&&&&&&&&&&{b ------- ----------- ---
+{B -         --   -  -      {y -------------------- -{B       --     -- -
+   -      --      -- -- --{y  ------------- ---- {B -     ---    - ---  - --
+   -  --     -         -     {y ------  -- ---{B       -- - --  -- -
+ -  -       - -      -          {y -- ------{B  -      --  -             --
+       -             -        -      -      --   -             -{X
+{cWelcome to the end of your experience with the Genki Dama Rp Tournament. We
+Hope you enjoyed your Roleplaying/watching and we hope to see you next time.
+~
+0 4 0
+S
+#3723
+Flying to the Arena~
+{D    --
+         --- -   --   
+          -- --   ---
+              ---    
+{b--------             -----------
+ {B ^^^^^ ^^^^^^^^^^^^^^^^^^^^^
+    ^^^^      ^^^^     ^^^    ^^
+         ^^^^      ^^^{X
+{cYou move so fast that your image
+appears to be a blur of grey lines.
+The Arena appears up ahead.{X
+~
+0 4 9
+D1
+~
+~
+0 0 3724
+S
+#3724
+Flying to the Arena~
+{D    --
+         --- -   --   
+          -- --   ---
+              ---    
+{b--------             -----------
+ {B ^^^^^^^^^^^^^^^^^^^^^   ^^^^^ 
+        ^^^^     ^^^    ^^
+    ^^^      ^^^     ^^^^^^^^
+{cYou move so fast that your image
+appears to be a blur of grey lines.
+The Arena appears up ahead.{X
+~
+0 0 9
+D1
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+S
+#3725
+Landing on the Arena~
+{D    --
+   --- -   --  
+   -- --   ---
+      ---               {g____
+{b            -----------{y/{B
+ {B ^^^^^^^^^^^^   ^^^^^{y/{B
+        ^^^^     ^^^ {y/{B
+    ^^^      ^^^     
+{cYou make your descent upon the
+Island where the Arena is held.{X
+~
+0 0 9
+D1
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3724
+S
+#3726
+You made it!~
+{gnnn{Gmmm
+{g            \||\       ;;;;%%%{G@@@@@@       \ //,
+  {g           V|/     %;;%%%%%{G@@@@@@@@@@  ===Y//
+    {g         68=== ;;;;%%%%%%{G@@@@@@@@@@@@    @Y
+      {g       ;Y   ;;%;%%%%%%{G@@@@@@@@@@@@@@    Y
+        {g     ;Y  ;;;+;%%%%%%{G@@@@@@@@@@@@@@@    Y
+{g             ;Y__;;;+;%%%%%%{G@@@@@@@@@@@@@@i;;__Y
+ {g           iiY"";;   "uu%{G@@@@@@@@@@uu"   @"";;;>
+   {g                Y     {Y"UUUUUUUUU"{G     @@
+      {g             `;      {R ___ _ {G      @
+        {g             `;.  {R,====\\=.{G  .;'
+                  {g     ``""""{R`==\\=='{g
+                    {R          `;=====
+                                ==={X   
+{CWelldone, {c you have made it into the Genki Dama Rp tournament!
+Please advance north to register.{X
+~
+0 0 0
+D0
+~
+~
+0 0 3727
+D3
+~
+~
+0 0 3725
+S
+#3727
+{BRegistration Room.{X~
+{cWelcome to the {RG{renk{Ri D{ram{Ra {CR{DP {YT{yournament{x.  {c
+Congratulations for entering the competition and all the best of luck, from
+the Annual Genki Dama Tournament Staff.  
+~
+0 0 0
+D2
+~
+~
+0 0 3726
+S
+#3730
+{RThe Locker Room{X~
+{W_________________________
+|      |      |     |     |
+| {Y|||{W  | {Y|||{W  | {Y|||{W | {Y||| {W|
+|      |      |     |     |
+|______|______|_____|_____|
+|      |      |     |     |
+| |||  | |||  | ||| | ||| |
+|      |      |     |     |
+|______|______|_____|_____|{X
+{cCongrats for making it to the
+Tourney, please wait for the 
+announcer to come and bring
+you all forward.{X
+~
+0 8 0
+D3
+~
+~
+0 0 3740
+S
+#3740
+{CThe Annual Genki Dama Rp Tournament Arena!{X~
+{R        __                              ___   __        .ama     ,
+      ,d888a                          ,d88888888888ba.  ,88"I)   d
+     a88']8i                         a88".8"8)   `"8888:88  " _a8'
+   .d8P' PP                        .d8P'.8  d)      "8:88:baad8P'
+  ,d8P' ,ama,   .aa,  .ama.g ,mmm  d8P' 8  .8'        88):888P'
+ ,d88' d8[ "8..a8"88 ,8I"88[ I88' d88   ]IaI"        d8[         
+ a88' dP "bm8mP8'(8'.8I  8[      d88'    `"         .88          
+,88I ]8'  .d'.8     88' ,8' I[  ,88P ,ama    ,ama,  d8[  .ama.g
+[88' I8, .d' ]8,  ,88B ,d8 aI   (88',88"8)  d8[ "8. 88 ,8I"88[
+]88  `888P'  `8888" "88P"8m"    I88 88[ 8[ dP "bm8m88[.8I  8[
+]88,          _,,aaaaaa,_       I88 8"  8 ]P'  .d' 88 88' ,8' I[
+`888a,.  ,aadd88888888888bma.   )88,  ,]I I8, .d' )88a8B ,d8 aI
+  "888888PP"'        `8""""""8   "888PP'  `888P'  `88P"88P"8m"
+{cThe Official Arena, Sponsered by Coca-Cola.{X
+{CAll spectators please stay in this room.{X
+~
+0 0 0
+D1
+~
+~
+0 0 3730
+S
+#3750
+~
+~
+0 4 0
+S
+#3764
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4757
+S
+#3765
+Vel's Quarters~
+~
+0 4 0
+S
+#3766
+Empty Room~
+~
+0 4 0
+S
+#3799
+The HoloChamber~
+This is a round room with all sorts of gadgets and things all over the
+place.  In this room fighters fight a neverending battle with warrior after
+warrior.  One is to be warned however, that just because they are holograms,
+doesn NOT mean that they can't or won't kill you.  One can exit the arena at
+anytime simply by saying EXIT.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3700 0 2
+D 0 3701 2 2
+O 0 3600 0 3727 The complex's reception desk loaded to {BRegistration Room.{X
+M 0 3727 100 3727 1 Load The Genki Dama Receptionist
+M 0 3789 1 3799 1 Load hologram computer
+S
+
+
+
+#SHOPS
+3789 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#3702
+say Are you speaking to me?
+growl
+~
+#3703
+say How dare you distract me! BUU TURN YOU TO CANDY!!!
+emote {Mputs his fists by his side and powers up, blowing out air from the holes on his head and arms.{X
+~
+#3704
+emote puts his antenna on his head forward, zapping $n and turning $n into candy!
+emot starts laughing... HAHAHA!
+say You CANDY NOW!!!!
+transfer $n 1800
+emot {Rhas killed $n!!!{X
+~
+#3705
+say Well you shouldn't be speakin' to Buu!
+giggle
+emot spins around right up to your face and shouts...
+say BUUUU!!!!!!
+rofl
+~
+#3706
+say Me no bitch, you are the bitch, bitch!
+giggle
+~
+#3707
+say You don't wanna attack me!!! I turn you to chocolate? Maybe Candy? Umm, how about Jelly?
+scream
+say You DIE NOW!!!
+~
+#3708
+say ME NO DIE! ME STRONGER THAN YOU!!!
+emot regenerates itself and stands up, ready for the second round!
+~
+#3710
+say Me no Ho YOU ARE THE HO YOU DIRTY HO!!!!!!
+spit $n
+say $n is a Ho! $n is a Ho!
+"
+~
+#3711
+say Fuck you
+say BITCH, You don't say fuck to me bitch! You stinky! Buu gunna get you!
+say POW POW OW OW!!!
+grin
+~
+#3712
+emot looks at you menicingly.
+say HOW DARE YOU!!!!
+slap $n
+say you is a bad person &n, BAD!
+cry
+~
+#3726
+say Hello Sir, and you are?
+l
+l
+l
+l
+l
+l
+look $n
+l
+l
+l
+l
+say Ah, you are $n, are you here to fight or here to watch?
+~
+#3727
+nod
+l
+l
+l
+l
+say so you're here to watch... ok I shall transfer you there now.
+l
+l
+l
+l
+l
+l
+transfer $n 3740
+~
+#3728
+emote flicks through a list of names.
+emote points to $n's name and crosses it out.
+say Ok $n I shall transfer you to the locker room.
+smile
+mob transfer $n 3730
+~
+#3729
+say Ok $n welcome to the Tourney, I shall transfer you to the locker rooms now.
+~
+#3730
+transfer $n 3730
+~
+#3787
+mob echo A warrior reels in agony as the final blow is delivered.
+mob mload 3789
+mob purge self
+~
+#3788
+mob echo A Hologram Computer bleeps and clicks as a feminine voice rings out, "Level One !"
+mob mload 3790
+mob purge self
+~
+#3789
+grin 
+say Giving up all ready ? Ok then... wimp.
+laugh $n
+mob transfer $n 911
+mob purge self
+~
+#3790
+mob echo A Hologram Computer bleeps and clicks as a feminine voice rings out, "Level Two !"
+mob mload 3791
+mob purge self
+~
+#3791
+mob echo A Hologram Computer bleeps and clicks as a feminine voice rings out, "Level Three !"
+mob mload 3792
+mob purge self
+~
+#3792
+mob echo A Hologram Computer beeps and clicks as a loud feminine voice rings out "Level Four !"
+mob mload 3793
+mob purge self
+~
+#0
+
+#OBJPROGS
+#3799
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

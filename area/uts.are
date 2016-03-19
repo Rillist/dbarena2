@@ -312,13 +312,13 @@ container 0 A
 10000 0 0 10000 10000
 0 0 0 P
 #2699
-shuttle~
-a shuttle to Earth~
-A shuttle to take new fighters to Earth~
+shuttle cou center universe~
+a shuttle to the Center of the Universe~
+A shuttle to take new fighters to the Center of the Universe~
 unknown~
 1
 portal 0 0
-0 0 0 DGH 0
+0 0 0 EHI 0
 0 0 0 P
 #0
 
@@ -1248,7 +1248,7 @@ D 0 2648 1 2
 D 0 2649 3 2
 D 0 2650 1 2
 D 0 2651 3 2
-O 0 2699 0 2604 A shuttle to earth loaded to Shuttle dock
+O 0 2699 0 2604 A shuttle to the center of the universe loaded to Shuttle dock
 O 0 2606 0 2610 Healing pool loaded to Healing dock
 M 0 2601 1 2613 1 Load Jonny-5 the android
 M 0 2604 1 2640 1 Load A bartender
@@ -1263,7 +1263,7 @@ O 0 2609 0 2649 A sturdy bed loaded to Room 4
 O 0 2609 0 2650 A sturdy bed loaded to Room 5
 O 0 2609 0 2651 A sturdy bed loaded to Room 6
 M 0 2606 1 2654 1 Load A human trainer
-O 0 2699 0 2655 A shuttle to earth loaded to Workers room
+O 0 2699 0 2655 A shuttle to the center of the universe loaded to Workers room
 S
 
 

@@ -1,0 +1,2644 @@
+#AREADATA
+Name namek plains~
+Builders Tholetho~
+VNUMs 3800 3899
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3800
+a Battered Namek~
+a Battered Namek~
+A Battered Namek
+~
+This Namek looks like he's been in quite a scuffle. Blood is
+pouring out of what seems to be hundereds of wounds all over 
+his body. You wonder how he's still standing. His breath is
+erradic and he seems to be in some kind of strange trance. 
+Maybe it'd be a good idea if you just steered clear.
+~
+namek~
+AHSU 0 0 0
+3200000000 7453
+110 110 110 110 110 
+9999 9999
+punch
+0 0 0 0
+DFKLR ABQR C 0
+stand stand none 1000
+AHMV ABCDEFGHIJK giant unknown
+#3801
+{G A strong-looking namek.~
+{G A Tall Namek~
+{G A Tall Namek
+~
+{G a Green namek.
+~
+namek~
+AFGR 0 0 0
+100000000 2000
+40 40 40 40 40 
+0 200
+punch
+0 0 0 0
+LR 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#3802
+namek~
+{G A namek~
+{G a tired namek.
+~
+{g Here you see a small namek who's been beaten, Maybe you shouldn't fight him..
+~
+human~
+AGRUV 0 100 0
+20000000 200
+10 10 10 10 10 
+100 0
+sting
+0 0 0 0
+EFHIS DEFG DFG 0
+stand stand male 1000
+M C tiny unknown
+F for AHV
+F par ABDEFGHIJK
+#3803
+Lonely Namek~
+Lonly Namek Trainer~
+A Lonly Namek Trainer Looking sad
+~
+This Namek is well Built and look very strong.  He wheres avrage looking
+Namekian clotheing but they look a bit tattard.  He sits with his head
+lowerd looking sad for some reason.  
+~
+namek~
+A 0 0 0
+10000 5
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+sit stand none 250
+AHMV ABCDEFGHIJK large unknown
+M GREET 3803 100~
+#3804
+mik~
+{GMik is here, Na's twin.~
+{GMik is here, Na's twin.
+~
+{G Mik's here, he looks exactly like Na.
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3805
+na~
+{G Na~
+{G Na
+~
+~
+namek~
+AG 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 DK 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M DELAY 3801 100~
+M GREET 3800 100~
+#3806
+namek~
+{G a strong namek.~
+{G a strong namek.
+~
+Strong namek ready for battle stands here stairing at you.
+~
+human~
+AG 0 200 0
+40000000 2000
+5 70 70 40 50 
+200 0
+none
+0 0 0 0
+F 0 0 0
+stand stand none 0
+0 ACEFG medium unknown
+F for AHMV
+F par BDHIJK
+#3807
+living warning sign~
+{R WARNING SIGN {x~
+A living {R WARNING SIGN {x
+~
+The sign seems to be living and breathing, every so often it gives a
+warning to passing strangers.  On the sign it says It would be wise to turn
+bak if your powerlevel is under 10,000,000.  But for those who seek
+adventure in return for there live continue forth.  
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3808
+Namek Healer~
+{G Namek Healer {x~
+{G A Namek Healer {x
+~
+A Namek healer wheres namekian cloths that are finely made with expencive
+material.  He stands walking bed to bed healing the wounds of the injured.  
+~
+namek~
+ABa 0 0 0
+100 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 79
+AHMV ABCDEFGHIJK large unknown
+#3809
+Namek Gaurdian~
+{G Planet Nameks gaurdian {x~
+{G Planet Nameks gaurdian {x
+~
+The gaurdian of Planet Namek stands looking out of his window over all
+the plains and possible the rest of the planet.  He wears what looks like
+normal namek clothes but it seems to be waited and give of a while aura.  
+~
+namek~
+AB 0 0 0
+50000 11
+7 7 7 7 7 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 373
+AHMV ABCDEFGHIJK large unknown
+#3810
+Pikachu~
+{YPikaChu{x~
+{YPikaChu sits here chewing in a rotten corpse.{x
+~
+LOOK AWAY!!! THE PAIN!!! YOUR EYES BURN!!!
+~
+pig~
+A 0 0 0
+100000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 10000
+GV ACDEFHJK large unknown
+F for A
+#3811
+Namekian Shopkeeper.~
+{G a Namekian Shopkeeper.~
+{G a Namekian Shopkeeper.
+~
+~
+human~
+AGa 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 KTZ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3812
+namekian trainer~
+{A Namekian Trainer~
+{A Namekian Trainer
+~
+~
+namek~
+AGa 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3887
+An old kind-looking man.~
+{B An old kind-looking man.~
+{B An old kind-looking man.
+~
+~
+human~
+ABa 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3895
+an old man~
+{An old man~
+{An old man
+~
+~
+human~
+ABa 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3896
+_~
+_~
+_
+~
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3897
+red spirit~
+{R A red aura like evil spirit.~
+{R A red aura like evil spirit.
+~
+~
+orc~
+AG J 0 0
+500000000 0
+10 10 10 10 10 
+150 150
+none
+0 0 0 0
+0 0 Q S
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#3898
+Trainer~
+{G A namekian Trainer~
+{G A namekian Trainer
+~
+~
+namek~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3899
+trunks hologram~
+Trunks hologram~
+Trunks hologram
+~
+Trunks hologram is here.
+~
+human~
+Aa 0 0 0
+100000000 1000
+110 110 110 110 110 
+0 0
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 2700
+0 Q tiny unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#3800
+{Y the pikachu's long tail~
+{Y "How to entertain an idiot for hours", look at it's feet~
+{B A skeleton with some flesh inside half-eaten~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+feet~
+long {Y "How to entertain a stupid person for hours", look at it's eyes
+~
+E
+eyes~
+long {Y "How to entertain a not-so-smart-person for hours", look at it's tail
+~
+E
+tail~
+{Y "How to entertain an idiot for hours"- - look at it's feet
+~
+#3801
+blasts~
+{Y Long streams of energy blasts coming from south.~
+{Y Long streams of energy blasts coming from south.~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3802
+blasts~
+{Y Long streams of energy blasts coming from north.~
+{Y Long streams of energy blasts coming from north.~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3803
+blasts~
+{Y Long streams of energy blasts coming from east.~
+{Y Long streams of energy blasts coming from east.~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3804
+blasts~
+{Y Long streams of energy blasts coming from west.~
+{Y Long streams of energy blasts coming from west.~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3805
+_~
+_~
+_~
+none~
+0
+trash 0 0
+0 0 0 0 0
+0 0 0 R
+#3807
+Namik's key~
+namik's key~
+Namik's key~
+metal~
+10
+key D AO
+0 0 0 0 0
+0 0 0 P
+#3810
+Tholetho's Love Blade~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {CMaster {MLove {C Sword of {BTime{x~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {CMaster {MLove {C Sword of {BTime{x~
+unknown~
+100
+weapon ABIRUX AN
+exotic 50 100 divine ABCDEGH
+1000000000 100 100000 P
+#3811
+Transparent blue fairy~
+{y[{cZ{we{gl{cd{wa{y] {CTransparent{B blue{Y fairy{x~
+{y[{cZ{we{gl{cd{wa{y] {CTransparent{B blue{Y fairy{x~
+Magical flesh~
+100
+armor ABIRUX AQ
+EG EG EG EG 0
+1000000000 1 100000 P
+#3812
+Namekian robe~
+{GNamekian Robe{x~
+{GNamekian Robe{x~
+Namek Cloth~
+999
+armor ABNRX AK
+CFG ABCFGHIJ CFG ABCFGHIJ 0
+10000000 10 15000 P
+#3813
+map~
+namik's map~
+This is a map of the hidden area in Namik's home, "look area" to see the map.~
+unknown~
+1
+map 0 A
+0 0 0 0 0
+0 0 1 P
+E
+area~
+_____________________________
+             /      *                                                 \
+            I      A1 A2  A3  A4  A5  A6 A7 A8 A9   I
+            I      B1 B2  B3  B4  B5  B6 B7 B8 B9   I
+            I      C1 C2  C3  C4  C5  C6 C7 C8 C9   I
+            I      D1 D2 D3  D4  D5 D6 D7 D8 D9  I
+            \___________________________& /
+                                  
+* = Kamik's house
+& = Guardians tower
+ 
+~
+#3814
+mikan's key~
+{Gthe key to Na's house~
+{Gthe key to Na's house~
+unknown~
+1
+key 0 0
+0 0 0 0 0
+0 0 0 P
+#3815
+a moon shield of reflection~
+{Y[{CZ{We{Gl{Cd{Wa{Y] A {CMoon {Yshield {Bof {Wreflection.~
+{Y[{CZ{We{Gl{Cd{Wa{Y] A {CMoon {Yshield {Bof {Wreflection.~
+mystical steel~
+100
+armor ABGRUX AJ
+EG EG EG EG 0
+1000000000 100 100000 P
+#3816
+Link's crescent earrings~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {gLink's {CCrescent {Yearrings{x~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {gLink's {CCrescent {Yearrings{x~
+unknown~
+100
+armor ABRUX AT
+EG EG EG EG 0
+1000000000 10 100000 P
+#3817
+Ring of rememberence~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {WRing of rememberence~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {WRing of rememberence~
+forsaken dream~
+100
+armor ABUX AB
+EG EG EG EG 0
+1000000000 100 100000 P
+#3818
+the fully joined golden tri force~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {WThe {cCombined golden {YTRI-FORCE{x~
+{Y[{CZ{We{Gl{Cd{Wa{Y] {WThe {cCombined golden {YTRI-FORCE{x~
+unknown~
+100
+armor ABRUX AH
+EG EG EG EG 0
+1000000000 1000 99999 P
+#3819
+long brown gloves~
+{Y[{CZ{We{Gl{Cd{Wa{Y]{w Long{o Brown {wglove~
+{Y[{CZ{We{Gl{Cd{Wa{Y]{w Long{o Brown {wglove~
+Hyrulian leather~
+100
+armor ABUX AM
+EG EG EG EG 0
+1000000000 20 100000 P
+#3888
+Zelics Key~
+{C Zelics Key{x~
+{C Zelics Key{x~
+unknown~
+1
+key AGIX AO
+0 0 0 0 0
+0 10 12000000 P
+#3895
+{YSaiya{x-{BJin{x-{CElite{R Ring{x~
+{YSaiya{x-{BJin{x-{CElite{R Ring{x~
+{YSaiya{x-{BJin{x-{CElite{R Ring{x~
+metal~
+100
+armor 0 AB
+AC AC AC AC 0
+100000 2 5000 P
+#3896
+Trunks Token~
+{C A Trunks Token {x~
+{C A Trunks Token{x~
+unknown~
+10
+treasure AB AO
+0 0 0 0 0
+0 0 100000 P
+#3897
+{YSaiya{x-{BJin{x-{CElite{x{R Sword{x~
+{YSaiya{x-{BJin{x-{CElite{x{R Sword{x~
+{YSaiya{x-{BJin{x-{CElite{x{R Sword{x~
+metal~
+100
+weapon B AN
+sword 4 25 none 0
+0 50 12000 P
+#3898
+{YSaiya{x-{BJin{x-{CElite{R Armor{x~
+{YSaiya{x-{BJin{x-{CElite{R Armor{x~
+{YSaiya{x-{BJin{x-{CElite{R Armor{x~
+leather~
+100
+armor A AD
+AC AC AC AC 0
+100000 80 7000 P
+#3899
+{wThe Godly Cookie~
+the Godly Cookie~
+The Godly Cookie~
+Cookiedough~
+99999
+food ABGINXY AOP
+CHIJ 0 0 0 BD
+10000000000000 1 10000000 P
+#0
+
+
+
+#ROOMS
+#3800
+{G The northwestern edge of the plain of Namek~
+You stand on the edge of the plains of Namek. The vast plains stretch
+out before you in an ocean of grass.  This once peaceful place has become a
+training ground for fighters of all calibur.  Craters can be seen dotting
+the landscape as you gaze out while other places are preserved in their
+original serenity. This is a place of quiet meditation and fierce training.
+~
+0 4 0
+D1
+~
+~
+0 0 3801
+D2
+~
+~
+0 0 3809
+S
+#3801
+{G The northern edge of the plain of Namek~
+{g The namekian plains stretch on here, the flat expanse of land seems to
+stretch out endlessly like a sea of deep green.  However, through the vast
+grassy landscape two paths can be seen leading south as your path seems to
+have splie east and west 
+~
+0 4 0
+D1
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3810
+D3
+~
+~
+0 0 3800
+S
+#3802
+{G The northern edge of the plain of Namek~
+{g Here you have reached the far northern edge of the plains.  A Gigantic
+wall stands here to help keep the feirce battles raging on here from harming
+any bystanders or unsuspecting travellers.  
+~
+0 4 0
+D1
+~
+~
+0 0 3803
+D2
+~
+~
+0 0 3811
+D3
+~
+~
+0 0 3801
+S
+#3803
+{G The northern edge of the plain of Namek~
+{g The namekian plains stretch on here, the flat expanse of land seems to
+stretch out endlessly like a sea of deep green.  The suns seem to be
+touching the horizon.  
+~
+0 4 0
+D1
+~
+~
+0 0 3804
+D2
+~
+~
+0 0 3812
+D3
+~
+~
+0 0 3802
+S
+#3804
+{G The northern edge of the plain of Namek~
+{g Then sun keeps getting hotter and hotter.  The wind around here is
+very strong and the whole plains seems to be moving with its rhythym.  It
+looks as if it's a big ocean, something seems to be moving not to far.  Is
+it something or is it just the tall grass?  
+~
+0 4 0
+D1
+~
+~
+0 0 3805
+D2
+~
+~
+0 0 3813
+D3
+~
+~
+0 0 3803
+S
+#3805
+{G The northern edge of the plain of Namek~
+{g The noise here is higher, it's now obvious it's something more then
+grass.  I high breeze blows as a huge cloud of pollen and dust cloud your
+view.  It seems so peaceful here, the floor seems soft enough to sleep on as
+the grass looks like a huge natural mat.  
+~
+0 4 0
+D1
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3814
+D3
+~
+~
+0 0 3804
+S
+#3806
+{G The northern edge of the plain of Namek~
+{g A low noise is heard through the whistle of the wind.  Perhaps it's
+near, but it's hard to tell in this never ending Plain.  Looking through it
+seems easy enough if it weren't for these small hills of sand the view would
+probably go for miles 
+~
+0 4 0
+D1
+~
+~
+0 0 3807
+D2
+~
+~
+0 0 3815
+D3
+~
+~
+0 0 3805
+S
+#3807
+{G The northern edge of the plain of Namek~
+{g Birds cry out as they fly into one of the suns, the suns seem to be
+spinning against each other.  The sight seems to be as beautiful and
+pleasant as the soft grass flows with the gental push of the air.  East and
+west look to be even more enchanting, but to the south you see a bright
+yellow beaming light.  
+~
+0 4 0
+D1
+~
+~
+0 0 3808
+D2
+~
+~
+0 0 3816
+D3
+~
+~
+0 0 3806
+S
+#3808
+{G The northerneastern edge of the plain of Namek~
+The land here is covered with flowing grass and all directions exept
+south is walled off with giant cliffs growing out of the ground.  A gental
+rumbling sound can be heard from afar away back in the south west direction.
+~
+0 4 0
+D3
+~
+~
+0 0 3807
+S
+#3809
+{G The western edge of the plain of Namek~
+This place seems calm and quite without trouble of anytype, and makes for
+a nice place to relax.  The grass is shorter in this spot and it seems to be
+a namekian meditation spot.  Noises from the rest of the world are cut here
+and only the sound of nature is heard.  
+~
+0 4 0
+D0
+~
+~
+0 0 3800
+D1
+~
+~
+0 0 3810
+D2
+~
+~
+0 0 3818
+S
+#3810
+{GSomewhere on the plains of Namek{x~
+The wind howls rhuthumitically with the flow of grass, the sun shines
+just right so that the plains give off a greanish gold glare.  The plain
+gives off a positive aura with pleasant smells giving a relaxing feeling. 
+Exits continue in all directions form here.  
+~
+0 4 0
+D0
+~
+~
+0 0 3801
+D1
+~
+~
+0 0 3811
+D2
+~
+~
+0 0 3819
+D3
+~
+~
+0 0 3809
+S
+#3811
+{G Somewhere on the plains of Namek.~
+{g The namekian plains stretch on here, the flat expanse of land seems to
+stretch out endlessly like a sea of deep green.  Loud shouting and noises
+can be heard from afar.  
+~
+0 0 0
+D0
+~
+~
+0 0 3802
+D1
+~
+~
+0 0 3812
+D2
+~
+~
+0 0 3820
+D3
+~
+~
+0 0 3810
+S
+#3812
+{G Somewhere on the plains of Namek.~
+There is a rough wind going past that makes it hard to hear anything
+other then the slight roar of air passing.  This looks like it would be a
+great meditation place for the nameks on this planet is it was a bit more
+calm.  The plains of namek get more seem to get even more unique then the
+next with each step.  Exits break off north, south, east, and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 3803
+D1
+~
+~
+0 0 3813
+D2
+~
+~
+0 0 3821
+D3
+~
+~
+0 0 3811
+S
+#3813
+{GSomewhere on the plains of Namek~
+The wind brushes passed as time goes by.  The time seems to go slower
+here just because of how slow all thing seem to move suddenly.  Thankfully
+this place retains its nature and peace unlike much of the other plains
+ruined and scared by training, and battles of past.  Exits continue north,
+east, west, and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3804
+D1
+~
+~
+0 0 3814
+D2
+~
+~
+0 0 3822
+D3
+~
+~
+0 0 3812
+S
+#3814
+{GSomewhere on the plains of Namek~
+The namekian plains stretch on here, the flat expanse of land seems to
+stretch out endlessly like a sea of deep green.  Loud shouting and noises
+can be heard from afar.  Exits continue in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 3805
+D1
+~
+~
+0 0 3815
+D2
+~
+~
+0 0 3823
+D3
+~
+~
+0 0 3813
+S
+#3815
+{GSomewhere on the plains of Namek~
+{g Loud noises explode from all sides, where is this all coming from?  It
+is all just so confusing, the noises are loud and clear, and it couldn't
+possibly be these weaklings here, maybe there's some hidden trainers here
+somwhere?  
+~
+0 0 0
+D0
+~
+~
+0 0 3806
+D1
+~
+~
+0 0 3816
+D2
+~
+~
+0 0 3824
+D3
+~
+~
+0 0 3814
+S
+#3816
+{GSomewhere on the plains of Namek~
+A large crater in the ground is being made from a blast being created by
+a long powerful yellow beam of energy.  The crater grows larger and the
+energy starts to get a little less and less but it still thunders and shakes
+the ground as it pushes further into the crater.  The blast is coming from
+the east and continues far as can be seen from this spot.  
+~
+0 0 2
+D0
+~
+~
+0 0 3807
+D1
+~
+~
+1 0 3817
+D3
+~
+~
+0 0 3815
+S
+#3817
+{G The eastern edge of the plains of Namek~
+The energy beam continues on blast threw all that is in its pathway. 
+There is also an odd looking sign in this room and it apears to be moving a
+bit.  The yellow blast flys past the sign missing it by only 5 feet as it
+continues to the south.  It would be a good idea for travelers to read the
+sign before going further.  
+~
+0 1024 0
+D2
+~
+~
+0 0 3826
+D3
+~
+~
+1 0 3816
+S
+#3818
+{G The western edge of the plains of Namek~
+{g A simple training ground, nothing special here except the beauty of
+the greasy {GGreen{g grass.  
+~
+0 0 0
+D0
+~
+~
+0 0 3809
+D1
+~
+~
+0 0 3819
+D2
+~
+~
+0 0 3827
+S
+#3819
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  Too short 
+~
+0 0 0
+D0
+~
+~
+0 0 3810
+D1
+~
+~
+0 0 3820
+D2
+~
+~
+0 0 3828
+D3
+~
+~
+0 0 3818
+S
+#3820
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+too short
+~
+0 0 0
+D0
+~
+~
+0 0 3811
+D1
+~
+~
+0 0 3821
+D2
+~
+~
+0 0 3829
+D3
+~
+~
+0 0 3819
+S
+#3821
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+all to short
+~
+0 0 0
+D0
+~
+~
+0 0 3812
+D1
+~
+~
+0 0 3822
+D2
+~
+~
+0 0 3830
+D3
+~
+~
+0 0 3820
+S
+#3822
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3813
+D1
+~
+~
+0 0 3823
+D2
+~
+~
+0 0 3831
+D3
+~
+~
+0 0 3821
+S
+#3823
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3814
+D1
+~
+~
+0 0 3824
+D2
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3822
+S
+#3824
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3815
+D1
+~
+~
+0 0 3825
+D2
+~
+~
+0 0 3833
+D3
+~
+~
+0 0 3823
+S
+#3825
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D3
+~
+~
+0 0 3824
+S
+#3826
+{G The eastern edge of the plains of Namek~
+A loud roaring sound can be heard and a bright yellow energy blast can
+be seen coming from the south The yellow beam of energy can be seen from
+afar and couriously continues without losing much of its strength.  Now it
+is obvious why there is a warning sign as you can feel the enrgy coming off
+the beam of energy.  
+~
+0 0 0
+D0
+~
+~
+0 0 3817
+D2
+~
+~
+0 0 3835
+S
+#3827
+{GThe western edge of the plains of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3818
+D1
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3836
+S
+#3828
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3819
+D1
+~
+~
+0 0 3829
+D2
+~
+~
+0 0 3837
+D3
+~
+~
+0 0 3827
+S
+#3829
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3820
+D1
+~
+~
+0 0 3830
+D2
+~
+~
+0 0 3838
+D3
+~
+~
+0 0 3828
+S
+#3830
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3821
+D1
+~
+~
+0 0 3831
+D2
+~
+~
+0 0 3839
+D3
+~
+~
+0 0 3829
+S
+#3831
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3822
+D1
+~
+~
+0 0 3832
+D2
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3830
+S
+#3832
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3823
+D1
+~
+~
+0 0 3833
+D2
+~
+~
+0 0 3841
+D3
+~
+~
+0 0 3831
+S
+#3833
+{GSomewhere on the green plain of Namek.~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3824
+D2
+~
+~
+0 0 3842
+D3
+~
+~
+0 0 3832
+S
+#3834
+{GSomewhere on the plains of Namek~
+An Ocean is heard nearby, the tides are agressive sounding, and roar in
+the distance.  Suddenly the sound makes itself out to be not an ocean... 
+But more a GIANT KI BLAST!  Being throwen.  Light flashes above high in the
+sky, as a ki blast shoots out from the south.  
+~
+0 1024 0
+D1
+~
+~
+0 0 3835
+D2
+~
+~
+0 0 3843
+S
+#3835
+{G The eastern edge of the plains of Namek~
+A loud roaring sound can be heard and a bright yellow energy blast can be
+seen coming from the west.  The beam is moving fast and forcfully terring
+the ground up and moving plain land aside to make a path for the blast.  
+~
+0 0 0
+D0
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3834
+S
+#3836
+{G The southernwestern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3827
+D1
+~
+~
+0 0 3837
+S
+#3837
+{G The southern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3828
+D1
+~
+~
+0 0 3838
+D3
+~
+~
+0 0 3836
+S
+#3838
+{G The southern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3829
+D1
+~
+~
+0 0 3839
+D3
+~
+~
+0 0 3837
+S
+#3839
+{G The southern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3830
+D1
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3838
+S
+#3840
+{G The southern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3831
+D1
+~
+~
+0 0 3841
+D3
+~
+~
+0 0 3839
+S
+#3841
+{G The southern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3832
+D1
+~
+~
+0 0 3842
+D3
+~
+~
+0 0 3840
+S
+#3842
+{G The southern edge of the plains of Namek~
+{g Nothing special here, it looks like a normal plain training ground,
+scarred from ki blasts and intensive fighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 3833
+D3
+~
+~
+0 0 3841
+S
+#3843
+{G The southern edge of the plains of Namek~
+It Seems the Ki blast has been coming from here but the source of the
+blast cant be found.  Maybe the sad lonley Namek can tell you where it came
+from.  To the east you can see a namekian house, the first house for miles
+around, and it looks like a good place to rest.  
+~
+0 1024 0
+D0
+~
+~
+0 0 3834
+D1
+~
+~
+1 3807 3844
+S
+#3844
+{GNamik's House~
+{g There is nothing special in here, it's a plain house with nothing more
+then a bed.  
+~
+0 1024 0
+D2
+~
+~
+1 3807 3845
+D3
+~
+~
+1 3807 3843
+S
+#3845
+{YA hidden training area.~
+{Y[ A1 {Y ] 
+~
+0 0 0
+D0
+~
+~
+1 0 3844
+D1
+~
+~
+0 0 3846
+D2
+~
+~
+0 0 3854
+S
+#3846
+{YA hidden training area.~
+{Y[ A2 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3847
+D2
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3845
+S
+#3847
+{YA hidden training area~
+{Y[ A3 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3848
+D2
+~
+~
+0 0 3856
+D3
+~
+~
+0 0 3846
+S
+#3848
+{YA hidden training area~
+{Y[ A4 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3849
+D2
+~
+~
+0 0 3857
+D3
+~
+~
+0 0 3847
+S
+#3849
+{YA hidden training area~
+{Y[ A5 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3850
+D2
+~
+~
+0 0 3858
+D3
+~
+~
+0 0 3848
+S
+#3850
+{YA hidden training area~
+{Y[ A6 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3851
+D2
+~
+~
+0 0 3859
+D3
+~
+~
+0 0 3849
+S
+#3851
+{YA hidden training area~
+{Y[ A7 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3852
+D2
+~
+~
+0 0 3860
+D3
+~
+~
+0 0 3850
+S
+#3852
+{YA hidden training area~
+{Y[ A8 {Y ] 
+~
+0 0 0
+D1
+~
+~
+0 0 3853
+D2
+~
+~
+0 0 3861
+D3
+~
+~
+0 0 3851
+S
+#3853
+{YA hidden training area~
+{Y[ A9 {Y ] 
+~
+0 0 0
+D2
+~
+~
+0 0 3862
+D3
+~
+~
+0 0 3852
+S
+#3854
+{YA hidden training area~
+{Y[ B1 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3845
+D1
+~
+~
+0 0 3855
+D2
+~
+~
+0 0 3863
+S
+#3855
+{YA hidden training area~
+{Y[ B2 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3846
+D1
+~
+~
+0 0 3856
+D2
+~
+~
+0 0 3864
+D3
+~
+~
+0 0 3854
+S
+#3856
+{YA hidden training area~
+{Y[ B3 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3847
+D1
+~
+~
+0 0 3857
+D2
+~
+~
+0 0 3865
+D3
+~
+~
+0 0 3855
+S
+#3857
+{YA hidden training area~
+{Y[ B4 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3848
+D1
+~
+~
+0 0 3858
+D2
+~
+~
+0 0 3866
+D3
+~
+~
+0 0 3856
+S
+#3858
+{YA hidden training area~
+{Y[ B5 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3849
+D1
+~
+~
+0 0 3859
+D2
+~
+~
+0 0 3867
+D3
+~
+~
+0 0 3857
+S
+#3859
+{YA hidden training area~
+{Y[ B6 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3850
+D1
+~
+~
+0 0 3860
+D2
+~
+~
+0 0 3868
+D3
+~
+~
+0 0 3858
+S
+#3860
+{YA hidden training area~
+{Y[ B7 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3851
+D1
+~
+~
+0 0 3861
+D2
+~
+~
+0 0 3869
+D3
+~
+~
+0 0 3859
+S
+#3861
+{YA hidden training area~
+{Y[ B8 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3852
+D1
+~
+~
+0 0 3862
+D2
+~
+~
+0 0 3870
+D3
+~
+~
+0 0 3860
+S
+#3862
+{YA hidden training area~
+{Y[ B9 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3853
+D2
+~
+~
+0 0 3871
+D3
+~
+~
+0 0 3861
+S
+#3863
+{YA hidden training area~
+{Y[ C1 {Y ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3854
+D1
+~
+~
+0 0 3864
+D2
+~
+~
+0 0 3872
+S
+#3864
+{YA hidden training area~
+{Y[C2 ] 
+~
+0 0 0
+D0
+~
+~
+0 0 3855
+D1
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3873
+D3
+~
+~
+0 0 3863
+S
+#3865
+{YA hidden training area~
+{Y[C3]
+~
+0 0 0
+D0
+~
+~
+0 0 3856
+D1
+~
+~
+0 0 3866
+D2
+~
+~
+0 0 3874
+D3
+~
+~
+0 0 3864
+S
+#3866
+{YA hidden training area~
+{Y[C4]
+~
+0 0 0
+D0
+~
+~
+0 0 3857
+D1
+~
+~
+0 0 3867
+D2
+~
+~
+0 0 3875
+D3
+~
+~
+0 0 3865
+S
+#3867
+{YA hidden training area~
+{Y[C5]
+~
+0 0 0
+D0
+~
+~
+0 0 3858
+D1
+~
+~
+0 0 3868
+D2
+~
+~
+0 0 3876
+D3
+~
+~
+0 0 3866
+S
+#3868
+{YA hidden training area~
+{Y[C6]
+~
+0 0 0
+D0
+~
+~
+0 0 3859
+D1
+~
+~
+0 0 3869
+D2
+~
+~
+0 0 3877
+D3
+~
+~
+0 0 3867
+S
+#3869
+{YA hidden training area~
+{Y[C7]
+~
+0 0 0
+D0
+~
+~
+0 0 3860
+D1
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3868
+S
+#3870
+{YA hidden training area~
+{Y[C8]
+~
+0 0 0
+D0
+~
+~
+0 0 3861
+D1
+~
+~
+0 0 3871
+D2
+~
+~
+0 0 3879
+D3
+~
+~
+0 0 3869
+S
+#3871
+{YA hidden training area~
+{Y[C9]
+~
+0 0 0
+D0
+~
+~
+0 0 3862
+D2
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3870
+S
+#3872
+{YA hidden training area~
+{Y[D1]
+~
+0 0 0
+D0
+~
+~
+0 0 3863
+D1
+~
+~
+0 0 3873
+S
+#3873
+{YA hidden training area~
+{Y[D2]
+~
+0 0 0
+D0
+~
+~
+0 0 3864
+D1
+~
+~
+0 0 3874
+D3
+~
+~
+0 0 3872
+S
+#3874
+{YA hidden training area~
+{Y[D3]
+~
+0 0 0
+D0
+~
+~
+0 0 3865
+D1
+~
+~
+0 0 3875
+D3
+~
+~
+0 0 3873
+S
+#3875
+{YA hidden training area~
+{Y[D4]
+~
+0 0 0
+D0
+~
+~
+0 0 3866
+D1
+~
+~
+0 0 3876
+D3
+~
+~
+0 0 3874
+S
+#3876
+{YA hidden training area~
+{Y[D5]
+~
+0 0 0
+D0
+~
+~
+0 0 3867
+D1
+~
+~
+0 0 3877
+D3
+~
+~
+0 0 3875
+S
+#3877
+{YA hidden training area~
+{Y[D6]
+~
+0 0 0
+D0
+~
+~
+0 0 3868
+D1
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3876
+S
+#3878
+{YA hidden training area~
+{Y[D7]
+~
+0 0 0
+D0
+~
+~
+0 0 3869
+D1
+~
+~
+0 0 3879
+D3
+~
+~
+0 0 3877
+S
+#3879
+{YA hidden training area~
+{Y[D8]
+~
+0 0 0
+D0
+~
+~
+0 0 3870
+D1
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3878
+S
+#3880
+{YA hidden training area~
+{Y[D9]
+~
+0 0 0
+D0
+~
+~
+0 0 3871
+D2
+~
+~
+1 3807 3881
+D3
+~
+~
+0 0 3879
+S
+#3881
+{Y A Hidden room.~
+{b It's very dark here, you arent able to see anything.  
+~
+0 0 0
+D0
+~
+~
+1 0 3880
+D1
+~
+~
+0 0 3882
+S
+#3882
+{A long tower.~
+This room is dark and continues up on stairs.  There are ancient namekian
+symbals carved into the wall, to old for any modern namek to understand.  
+~
+0 0 0
+D3
+~
+~
+0 0 3881
+D4
+~
+~
+0 0 3883
+S
+#3883
+continuing up tower~
+As th tower continues up sounds can be heard from above and the rooms
+above seem to be lit up with bright light.  Other nameks can be seen rushing
+around above the stair you are on.  
+~
+0 0 0
+D4
+~
+~
+0 0 3884
+D5
+~
+~
+0 0 3882
+S
+#3884
+tower contunues~
+As th tower continues up sounds can be heard from above and the rooms
+above seem to be lit up with bright light.  Other nameks can be seen rushing
+around above the stair you are on.  
+~
+0 0 0
+D4
+~
+~
+0 0 3885
+D5
+~
+~
+0 0 3883
+S
+#3885
+{BWorking your way up to the Planet Namek's guardian's home.~
+As th tower continues up sounds can be heard from above and the rooms
+above seem to be lit up with bright light.  Other nameks can be seen rushing
+around above the stair you are on.  
+~
+0 1024 0
+D4
+~
+~
+0 0 3886
+D5
+~
+~
+0 0 3884
+S
+#3886
+Namek Tower~
+This room in the tower is a large clean white room with namekian sybols
+on the wall playing out the history of the namek race.  To the south there
+is a sensu bean shop, which are very rare to find expeically on namek. 
+Continueing up the stairs leads further into the tower.  
+~
+0 1024 0
+D2
+~
+~
+0 0 3887
+D4
+~
+~
+0 0 3888
+D5
+~
+~
+0 0 3885
+S
+#3887
+{B A senzu shop~
+A Very empty looking shop is here with a few bags of sensu beans.  There
+is a large sign on the wall that says "No Refunds" in bold print.  Behind
+the old man to the south is an open room that apears to have another shop in
+it.  
+~
+0 1024 0
+D0
+~
+~
+0 0 3886
+D2
+~
+~
+0 0 3895
+S
+#3888
+{BThe center on top of the Planet Namek's Guardian Tower.~
+{C This seems like a peaceful room.  Fusion style easy listening sounds
+echo from the walls , nothing could be any more calm then this, you look
+around and see a sign, look at 2.sign for a set of directions.  
+
+~
+0 1024 0
+E
+sign~
+{B To the east is a healing room.
+To the north is our guardian.
+To the south is a trainer.
+To the west is an astral shopkeeper.
+~
+D0
+~
+~
+0 0 3889
+D1
+~
+~
+0 0 3893
+D2
+~
+~
+0 0 3892
+D3
+~
+~
+1 0 3894
+D5
+~
+~
+0 0 3886
+S
+#3889
+{B On your way to the guardian.~
+{C The room seems to glow with a blue peaceful aura.
+~
+0 0 0
+D0
+~
+~
+0 0 3890
+D2
+~
+~
+0 0 3888
+S
+#3890
+{B On your way to the guardian.~
+{C The room seems to glow with a blue peaceful aura.
+~
+0 1024 0
+D0
+~
+~
+0 0 3891
+D2
+~
+~
+0 0 3889
+S
+#3891
+Planet Nameks Gaurdian.~
+Here is the throne room and resting place of the gaurdian of the namek
+planet.  He stands looking out the window at the plains watching over all
+that happens on this planet.  The plains can be seen threw out the windo of
+this room.  The only exit out of this room is south.  
+~
+0 1024 0
+E
+guardian~
+{C The guardian looks at you disinteressed and says, "are you here for
+trouble?  If you are I can teach you a thing or two".  He takes off his garb
+and pushes you into the floor, "Wimp.."  .  
+~
+D2
+~
+~
+0 0 3890
+S
+#3892
+{B A Training room.~
+{C A trainer is here, ready to teach you new acquired trains, 
+A loud sound echoes all of sudden chiming happy tunes.
+As it calms down you find yourself smiling, what a peacful place.
+~
+0 1024 0
+D0
+~
+~
+0 0 3888
+S
+#3893
+Healing room.~
+The room is white and large with beds on all sides of the walls.  There
+is a namek here healing the wounds of others.  A voice from the intercom
+next to you says, "rest and heal your wounds".  
+~
+0 1024 0
+D3
+~
+~
+0 0 3888
+S
+#3894
+{B An Namekian Holy shopkeeper's room.~
+{C You look at the shopkeeper and realize there's no way this guy might
+rip you off.  The good and peaceful aura he gives you guarantees these price
+are just.  
+ 
+Type "list" to see a list of items.
+No selling here.
+Type "buy" to buy items.
+~
+0 1024 0
+D1
+~
+~
+1 0 3888
+S
+#3895
+Old Tattard shop~
+An old man here selling junky looking items and braging about how good
+they are.  
+~
+0 0 0
+D0
+~
+~
+0 0 3887
+S
+#3896
+{RTholetho's {YHell{x~
+{RThe room burns hot with flesh and blood squishing and spurting from everywhere
+{YThe small of death and misery rolls up into the air and into your nortrils as you puke.
+{RThe air blurs in haze, this is the true HELL! You can't take another minute here! 
+{YCharcoal and ash burn and pop through the air! And flies around burning your skin!
+{RYou think, "It couldnt get any worse!!!" As you look into the corner of the room, 
+{YAnd among piles of bones and ash you see a skeleton, and above it you see the most
+{R bad, the worse thing you could ever imagine!!! Who could be so evil?!?! 
+{Y It's PIKACHU!!! He laughs as he devours a corpse!!! and Motions you to
+{Blook at his tail{R You must run away! But first look at his tail!!!
+~
+0 4 0
+D3
+~
+~
+2 0 3897
+S
+#3897
+Hallway~
+A hallway leading somewhere where many have never seen before.  To the
+east noise are heard of people having fun and music playing.  As you look
+above the door to the east there is a plaque that read "Zelics Party Pad".  
+~
+0 4 0
+D0
+~
+~
+0 0 3898
+D1
+~
+~
+2 3888 3896
+D3
+~
+~
+0 0 1189
+S
+#3898
+Hallway~
+Long hallway leanding somewhere mysterious no doubt.  It would be wise
+not to go further without permission from zelic himself though.  
+~
+0 4 0
+D0
+~
+~
+0 0 3899
+D2
+~
+~
+0 0 3897
+S
+#3899
+The {YSaiya{x-{BJin{x-{CElite{x clan shop~
+This shop is dark and misteriour looking for the walls give off an odd
+and dim {yyellow{x aura.  There is a hologram of Trunk here selling
+{YSaiya{x-{BJin{x-{CElite{x clan items.  To the south there are lasers
+scaning up and down the exit making sure no enemies are here stealing items.
+~
+0 4 0
+D2
+~
+~
+0 0 3898
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3816 1 1
+D 0 3817 3 1
+D 0 3843 1 2
+D 0 3844 2 2
+D 0 3844 3 2
+D 0 3845 0 2
+D 0 3880 2 1
+D 0 3881 0 1
+D 0 3888 3 1
+D 0 3894 1 1
+D 0 3896 3 2
+D 0 3897 1 2
+O 0 3803 0 3816 {y long streams of energy blasts coming from east. loaded to {GSomewhere on the plains of Namek
+O 0 3801 0 3817 {y long streams of energy blasts coming from south. loaded to {G The eastern edge of the plains of Namek
+M 0 3807 1 3817 1 Load {R WARNING SIGN {x
+O 0 3801 0 3826 {y long streams of energy blasts coming from south. loaded to {G The eastern edge of the plains of Namek
+O 0 3801 0 3834 {y long streams of energy blasts coming from south. loaded to {GSomewhere on the plains of Namek
+O 0 3804 0 3835 {y long streams of energy blasts coming from west. loaded to {G The eastern edge of the plains of Namek
+M 0 3803 1 3843 1 Load Lonly Namek Trainer
+M 0 3806 1 3845 1 Load {G a strong namek.
+M 0 3806 1 3846 1 Load {G a strong namek.
+M 0 3806 1 3847 1 Load {G a strong namek.
+M 0 3806 1 3848 1 Load {G a strong namek.
+M 0 3806 1 3849 1 Load {G a strong namek.
+M 0 3806 1 3850 1 Load {G a strong namek.
+M 0 3806 1 3851 1 Load {G a strong namek.
+M 0 3806 1 3852 1 Load {G a strong namek.
+M 0 3806 1 3853 1 Load {G a strong namek.
+M 0 3802 1 3854 1 Load {G A namek
+M 0 3802 1 3855 1 Load {G A namek
+M 0 3802 1 3856 1 Load {G A namek
+M 0 3802 1 3857 1 Load {G A namek
+M 0 3802 1 3858 1 Load {G A namek
+M 0 3802 1 3859 1 Load {G A namek
+M 0 3802 1 3860 1 Load {G A namek
+M 0 3802 1 3861 1 Load {G A namek
+M 0 3802 1 3862 1 Load {G A namek
+M 0 3801 1 3863 1 Load {G A Tall Namek
+M 0 3801 1 3864 1 Load {G A Tall Namek
+M 0 3801 1 3865 1 Load {G A Tall Namek
+M 0 3801 1 3866 1 Load {G A Tall Namek
+M 0 3801 1 3867 1 Load {G A Tall Namek
+M 0 3801 1 3868 1 Load {G A Tall Namek
+M 0 3801 1 3869 1 Load {G A Tall Namek
+M 0 3801 1 3870 1 Load {G A Tall Namek
+M 0 3801 1 3871 1 Load {G A Tall Namek
+M 0 3800 1 3872 1 Load a Battered Namek
+M 0 3800 1 3873 1 Load a Battered Namek
+M 0 3800 1 3874 1 Load a Battered Namek
+M 0 3800 1 3875 1 Load a Battered Namek
+M 0 3800 1 3876 1 Load a Battered Namek
+M 0 3800 1 3877 1 Load a Battered Namek
+M 0 3800 1 3878 1 Load a Battered Namek
+M 0 3800 1 3879 1 Load a Battered Namek
+M 0 3800 1 3880 1 Load a Battered Namek
+M 0 3200 1 3886 1 Load a young lost Namek
+M 0 3887 1 3887 1 Load {B An old kind-looking man.
+M 0 3809 1 3891 1 Load {G Planet Nameks gaurdian {x
+M 0 3812 1 3892 1 Load {A Namekian Trainer
+M 0 203 1 3892 1 Load The master
+M 0 3808 1 3893 1 Load {G Namek Healer {x
+M 0 3811 1 3894 1 Load {G a Namekian Shopkeeper.
+M 0 3895 1 3895 1 Load {An old man
+M 0 3810 1 3896 1 Load {YPikaChu{x
+O 0 3800 0 3896 {y "how to entertain an idiot for hours", look at it's feet loaded to {RTholetho's {YHell{x
+M 0 3899 1 3899 1 Load Trunks hologram
+S
+
+
+
+#SHOPS
+3811 0 0 0 0 0 100 100 0 23
+3895 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#3800
+Say Hello there I see you found our village, it's nice and peaceful here.
+emote sighs
+mob delay 1
+~
+#3801
+Say Hey if you see my brother around would you tell him I'm fine, He must be wor
+ried and I don't wanna get in trouble.
+emote laughs nervously.
+~
+#3803
+frown
+say I used to teach there... I used to be the best, but now they kick me out and say im too weak..
+look $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

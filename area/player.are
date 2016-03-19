@@ -1,0 +1,2772 @@
+#AREADATA
+Name Player Housing~
+Builders Terraco-d~
+VNUMs 3500 3599
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3500
+cat~
+the black cat~
+A large, black cat roaming around here
+~
+~
+human~
+AFGP 0 0 0
+600000000 8164
+119 119 119 119 119 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3501
+guard~
+the guard~
+A guard checking for tenants' pass
+~
+~
+human~
+ABGR 0 0 0
+500000000 200
+8 8 8 8 8 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 3502 100~
+M DELAY 3503 100~
+M DEATH 3504 100~
+#3502
+Bob~
+Gardner Bob~
+Bob is raking the grounds with some sort of rake
+~
+~
+human~
+AGW 0 0 0
+550000000 7817
+114 114 114 114 114 
+100 100
+punch
+0 0 0 0
+CFHI 0 D 0
+stand stand male 3500
+AHMV GHIJK medium unknown
+F par ABCDEF
+#3503
+Black Flower~
+A black flower~
+A strange black flower.
+~
+~
+human~
+AB 0 -200 0
+800000000 9428
+138 138 138 138 138 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3504
+Eccentric Botanist~
+A botanist~
+An eccentric botanist in a white coat
+~
+~
+bio-android~
+AGS 0 0 0
+700000000 8819
+129 129 129 129 129 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 105
+AHMV ABCDEFGHIJK medium unknown
+#3505
+Meditator~
+A quiet meditator~
+A humming meditator
+~
+~
+human~
+ABS 0 0 0
+1200000000 11547
+169 169 169 169 169 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3506
+Ladifolia the Pixie~
+A pixie~
+Ladifolia the pixie
+~
+~
+human~
+AS 0 0 0
+1000000000 10540
+155 155 155 155 155 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 105
+0 0 tiny unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3507
+Blue Frog~
+A blue frog~
+A small blue poison arrow frog
+~
+~
+human~
+A 0 0 0
+800000000 9428
+138 138 138 138 138 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3508
+sales man~
+a travelling salesman~
+A travelling salesman is standing here
+~
+~
+human~
+AG 0 0 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3556
+Susa~
+Susa~
+Susa
+~
+~
+saiya-jin~
+AGQRY 0 0 0
+10000000000 6666
+188 188 188 188 188 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 8221
+AHMV ABCDEFGHIJK large unknown
+#3557
+Roger Neoshark~
+Roger Neoshark~
+Raven Kamasaki
+~
+~
+saiya-jin~
+AGQ 0 0 0
+5000000000 4714
+162 162 162 162 162 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 6913
+AHMV ABCDEFGHIJK huge unknown
+#3558
+XtraPhobia~
+XtraPhobia~
+XtraPhobia
+~
+~
+saiya-jin~
+AGRY 0 0 0
+1000000000 2108
+118 118 118 118 118 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 4623
+AHMV ABCDEFGHIJK medium unknown
+#3596
+guard~
+a guard partoling~
+A guard is here patroling.
+~
+~
+icer~
+AB 0 0 0
+10000000000 5000
+158 158 158 158 158 
+7000 7000
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 7905
+AHMV ABCDEFGHIJK large unknown
+#3597
+changer~
+changer~
+Changer
+~
+~
+human~
+ABYd 0 0 0
+100 2
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3598
+woman realestate~
+a woman with a blue blazer~
+A woman with a {bblue{x blazer
+~
+~
+human~
+ABQ 0 0 0
+10000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3599
+man realestate~
+a man with a blue blazer~
+A tall man with {bblue{x blazer
+~
+~
+human~
+ABQ 0 0 0
+10000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 3507 yes~
+M GREET 3501 100~
+#0
+
+
+
+#OBJECTS
+#3500
+Coffiee table~
+a coffee table~
+A coffee table of oak, with a dark brown stained top~
+unknown~
+1
+furniture 0 0
+0 DFGHIJ N 0 0
+0 0 0 P
+#3501
+Stove and oven combo~
+a stove and oven combo~
+A stove and oven combo of white and black with a window and light~
+unknown~
+1
+furniture 0 0
+0 DHIJM O 0 0
+0 0 0 P
+#3502
+mat~
+a large mat~
+A large lush mat, in a far corner~
+unknown~
+100
+furniture 0 0
+C 0 E BEF BEF
+0 0 100 P
+#3503
+A Dresser~
+a dresser~
+A dresser made out of light stained oak~
+unknown~
+1
+container 0 0
+1000000 A 0 100000 0
+0 0 0 P
+#3504
+television tv~
+a high definition tv set~
+A voice activated high definition television~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3505
+key trezin's~
+a key strung on a {Wchain{x~
+A platinum chain with a silver key attached to it~
+unknown~
+2147483647
+key 0 ACO
+0 0 0 0 0
+0 0 0 P
+#3506
+iced tea~
+a bottle of iced tea~
+A bottle of iced tea~
+unknown~
+1
+drink 0 AO
+2 2 'tea' 0 0
+0 0 0 P
+#3507
+bench~
+a wooden bench~
+A oak bench~
+oak~
+1
+furniture 0 0
+AB 0 E 0 0
+0 0 0 P
+#3508
+swing~
+a swing~
+A two-seated swing hung on an archway~
+unknown~
+1
+furniture 0 0
+B 0 E 0 0
+0 0 0 P
+#3509
+gate key~
+a gate key~
+The gate key~
+unknown~
+1
+key PU AHO
+0 0 0 0 0
+0 0 0 P
+#3510
+toilet~
+a toilet~
+A voice activated toilet~
+unknown~
+1
+furniture 0 0
+A 0 E 0 0
+0 0 0 P
+#3511
+bath tub ~
+the bathtub~
+A large bathtub~
+unknown~
+1
+furniture 0 0
+B 0 F ADE ADE
+0 0 0 P
+#3512
+tv television~
+a 35" television~
+A color 35" television~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3513
+passport~
+a passport~
+A passport~
+unknown~
+1
+food N AO
+D D 0 0 0
+0 0 200 P
+O GIVE 3500 passport~
+#3514
+key~
+a small key~
+A small key~
+unknown~
+10000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3515
+key silver~
+a silver key~
+A silver key~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3516
+bronze key~
+a bronze key~
+A bronze key~
+unknown~
+100000
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3517
+couch~
+a black vinyl couch~
+A couch of black vinyl~
+unknown~
+1
+furniture 0 0
+AB 0 EHK 0 0
+0 0 0 P
+#3518
+chair vinyl~
+a black vinyl chair~
+A comfortable chair of black vinyl~
+unknown~
+1
+furniture 0 0
+A 0 EH 0 0
+0 0 0 P
+#3519
+chair rocking~
+a blue velvet rocking chair~
+A rocking chair covered in blue velvet~
+unknown~
+1
+furniture 0 0
+A 0 EH 0 0
+0 0 0 P
+#3520
+hat rack~
+an oak hat rack~
+An oak hat rack~
+unknown~
+1
+container 0 0
+15000 E 0 30 15000
+0 0 0 P
+#3521
+key02~
+an appartment key (#02)~
+The key for apartment #02~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3522
+lingerie~
+a piece of silky lingerie~
+A piece of silky lingerie~
+silk~
+1
+armor 0 AD
+0 0 0 0 0
+0 0 0 P
+#3523
+key01~
+an appartment key (#01)~
+The key for apartment #01~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3524
+table~
+a pivoting table~
+A pivoting table~
+unknown~
+1
+furniture 0 0
+A 0 ABE 0 0
+0 0 0 P
+E
+table~
+The table pivots in a way that it can be set to strap someone upright upon it
+~
+#3525
+key04~
+an appartment key (#04)~
+The key for apartment #04~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3526
+rack weapon~
+a weapon rack~
+A long weapon rack~
+unknown~
+1
+container 0 0
+10000 E 0 30 10000
+0 0 0 P
+#3527
+key03~
+an appartment key (#03)~
+The key for apartment #03~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3528
+painting~
+a painting~
+A painting showing a battle scene~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3529
+key06~
+an appartment key (#06)~
+The key for apartment #06~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3531
+key05~
+an appartment key (#05)~
+The key for apartment #05~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3533
+key08~
+an appartment key (#08)~
+The key for apartment #08~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3535
+key07~
+an appartment key (#07)~
+The key for apartment #07~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3537
+key10~
+an appartment key (#10)~
+The key for apartment #10~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3539
+key09~
+an appartment key (#09)~
+The key for apartment #09~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#3540
+security device~
+a high tech security device~
+A high tech security device~
+obsidian~
+1
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#3556
+Snake Fountain~
+a snake Fountain~
+A fountain with a huge snake spewing water from its mouth~
+unknown~
+1
+fountain 0 0
+111 111 'water' 0 0
+0 0 0 P
+#3557
+Black Beanbag~
+a Black Beanbag~
+A Black Beanbag~
+unknown~
+1
+furniture 0 0
+A FHJKPQ FI 0 0
+0 1000 0 P
+#3558
+Black Chair~
+a {DBlack{x La-Z-Boy~
+A {DBlack{x La-Z-Boy~
+unknown~
+1
+furniture 0 0
+B GJOQRST EF 0 0
+0 10000 0 P
+#3559
+Snake's Bedroom Key~
+snake's Room Key~
+Snake's Room Key~
+unknown~
+1
+key X AO
+0 0 0 0 0
+0 1 1 P
+#3560
+Canopy Bed~
+a canopy bed~
+A canopy bed dressed in black~
+unknown~
+1
+furniture 0 0
+B HJKMPTUX EFHIKL 0 0
+0 10000 0 P
+#3561
+A canopy bed~
+a {DBlack{x and {SGrey{x Canopy Bed~
+A {DBlack{x and {SGrey{x Canopy Bed~
+unknown~
+1
+furniture 0 0
+B HJKMPTUX EFHIKL 0 0
+0 10000 0 P
+#3562
+Table~
+a small table with cards on it~
+A table with a deck of cards stacked in the center~
+unknown~
+1
+furniture 0 0
+C HJKMPTUX DF 0 0
+0 0 0 P
+#3563
+Snake's House Key~
+snake's House Key~
+Snake's House Key~
+unknown~
+1
+key X AO
+0 0 0 0 0
+0 0 0 P
+#3595
+portal~
+the portal back home~
+The portal back home~
+unknown~
+1
+portal AB 0
+0 0 A EFIM 0
+0 0 0 P
+#3596
+tutor portal~
+a portal for RP Tutor~
+The portal to the RP School~
+unknown~
+1
+treasure ABX A
+0 0 0 0 0
+0 0 0 P
+O DROP 3595 100~
+#3598
+refrigerator fridge floating~
+a floating refrigerator~
+A refrigerator is floating here~
+unknown~
+1
+container 0 0
+1000000 0 0 300 1000000
+0 0 0 P
+#3599
+counter~
+an oak counter~
+A counter with a few documents upon it~
+oak~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+documents~
+** House Building **
+ 
+- Maximum of 5 rooms, anything more must be OK'd.
+- Cost breakdown:
+     100K zenni per room
+     100K zenni per extra setting(healing/sparring)
+     10K zenni per custom made object, existing objects at no charge
+     mob price to be determined if decided you may have one
+ 
+{C*{GNOTE{C*{x
+Sparring and healing rooms will be seperate, {Rno matter what{x.
+Gravity setting is not available until further considerations, so dont ask.
+ 
+Leave a note for MajinFred and Terraco, with the subject being {cHouse Building{x. Leave as much detail as you can while taking in consideration the conditions listed above.
+ 
+** Apartments **
+ 
+A few 2 room apartments have been made for those that might not want a big house.
+For 200K zenni(furnishings included), you can have your own apartment.
+Ask MajinFred for a key when you buy one.
+~
+#0
+
+
+
+#ROOMS
+#3500
+A garden walkway~
+The surrouding area is covered in all kinds of plant life.  The gardens
+on on both sides are filled with flowers of every kind, shape and color. 
+There are archways that wind their way down the stone walkway are covered in
+vines of every kind.  The other side of the gardens is covered in large
+sections of grass.  A metal gate seperates the peaceful garden from the busy
+streets of the city.  
+~
+0 1050624 0
+D0
+~
+~
+0 0 4750
+D1
+~
+~
+0 0 3501
+D3
+~
+~
+0 0 902
+S
+#3501
+Entrance to Trezin's House~
+The lush garden extends all the way to the front of the house.  A flower
+bed wraps all the way around the front of the home.  Many different kinds of
+flowers can be seen.  Two large trees can be seen, one in the center of the
+path leading to the door.  The other is found on the corner of the home.  
+~
+0 0 0
+D1
+~
+~
+1 3505 3502
+D3
+~
+~
+0 0 3500
+S
+#3502
+The living room~
+The living room is a large single room with a stair case along a wall
+that goes over a doorway.  The furniture is excellently crafted like the
+front door.  To the east is a kitchen, to the north is the meditation and
+sparring dome, to the south appears to be the bath area, and up the stairs
+is a bedroom There are a few windows in this room to let in some light but
+they are covered with blinds.  
+~
+0 8 0
+E
+screen~
+TV Off feature is disabled, please call the manufacturer and get the password. 
+Call 1-900-tv off is off(15zenni per second after the first second)
+~
+E
+message~
+TV Off feature is disabled, please call the manufacturer and get the password. 
+Call 1-900-tv off is off(15zenni per second after the first second)
+~
+D0
+~
+~
+0 0 3506
+D1
+~
+~
+0 0 3504
+D2
+~
+~
+1 0 3505
+D3
+~
+~
+1 3505 3501
+D4
+~
+~
+1 0 3503
+R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
+S
+#3503
+Trezin and Kyja's Bedroom~
+The bedroom is large.  It seems to cover the entire top floor with its
+large spacish closet and amplet entertaining room.  There is a bed by the
+north wall, under a large window.  A mirror sits one the east wall that is
+able to show a person's whole body.  The bed is made up of silken linen and
+the curtain on the window is made of the same fabric.  A night stand is next
+to the bed, on it is a radio alarm clock and a stand up picture frame.  
+~
+0 8 0
+E
+picture~
+The picture is of a beautiful saiyan woman, at the bottom
+it is signed, "Love Kyja".
+~
+D5
+~
+~
+1 0 3502
+S
+#3504
+Kitchen~
+The kitchen is a large room but it seems small compared to the bedroom
+upstairs.  The walls are painted white and the floor is covered in tiles
+that are a greyish color.  The fridge sits over by the stove on the south
+wall.  There is an island in the center of the room with the sink in it. 
+The room has three large windows in it on the north east and south wall
+allowing lots of light in.  
+~
+0 8 0
+D3
+~
+~
+0 0 3502
+S
+#3505
+Bathroom~
+The bathroom is a small room.  It has a jeted tub and a large counter. 
+Over the counter, a mirror has a light above it to illuminate the sink area.
+Next to the south wall, under a tinted window, is the tub.  In a seperate
+compartment is the shower, and on the north wall is the pearly white glass
+toilet.  
+~
+0 8 0
+D0
+~
+~
+1 0 3502
+R SPEECH 3510 done~
+S
+#3506
+Mediation and Sparring Dome~
+Upon entering this spacious dome, the floors and walls are made of an
+unusual material.  It blocks out all sound from exiting and absorbs damage. 
+There is a large lush mat at the far corner of the room for those whom would
+like to meditate.  A large sign can be seen upon entering it says, "Leave
+the world at the door".  
+~
+0 2097160 0
+D2
+~
+~
+0 0 3502
+S
+#3507
+The front porch~
+The wooden plateform stands near the front door.  It is surrounded by a
+moderatly tall railing to keep people from falling to the ground.  Below the
+railing, there is a wooden seat for people to sit and enjoy the sun rise.  A
+small sign near the door reads 'Rumor's House'.  
+~
+0 0 0
+D1
+~
+~
+0 0 906
+D3
+~
+~
+1 0 3508
+S
+#3508
+The living space~
+This large room is full a windows.  The forest can be seen out one and
+the mountiens out anothder.  To thenorth is a Kitchen and to the west is the
+bottem floor bath room.  The walls are a yellowish coler and the celeing
+contains four skylights.  The floor is carpeted and the celeing around the
+skylights is textuerd by the paint.  
+~
+0 0 0
+D0
+~
+~
+0 0 3509
+D1
+~
+~
+1 0 3507
+D3
+~
+~
+1 0 3510
+D4
+~
+~
+0 0 3511
+S
+#3509
+The kitchen~
+The kitchen is a nice power blue color.  There is a large window set in
+the wall the shows the mountians and another that shows part of the forest
+The stove sit over by the east wall and the fridge is by the west the sink
+and couther and dishwasher are the north wall.  There is a large table
+siting in the center of the room with four comfortabl chairs around it.  The
+tile floor matches the walls but is made of tile.  The celing is the same
+color but is textured like the celling in the livingroom.  
+~
+0 0 0
+D2
+~
+~
+0 0 3508
+S
+#3510
+Bathroom~
+The floors, and part of the walls, are covered with white ceramic tiles. 
+The rest of the walls is plain plaster, painted white so to match the tiles.
+A bathtub sits beneath a large picture window, while a sink with a large
+mirror above it is in the opposite side of the room.  The toilet is located
+between the sink and bathtub, nearly in the center of the room.  On the
+ceiling, there is a small fan drawing all the humidity and moisture to the
+outside.  
+~
+0 0 0
+D1
+~
+~
+1 0 3508
+R SPEECH 3510 done~
+S
+#3511
+A hallway~
+The hallway is four feet wide and leads to three rooms on the door to
+the north the sign reads Rumors Room.  To the south a sign reads Kahlans
+Room.  Moving down to the east there is another door that reads Sparring
+Room.  The floor is carpeted with with a bluish carpet and the walls are a
+powder blue like the kitchen.  The celling is smooth and non textured with a
+single light in the center.  
+~
+0 0 0
+D0
+~
+~
+1 0 3512
+D1
+~
+~
+1 0 3513
+D2
+~
+~
+1 0 3514
+D5
+~
+~
+0 0 3508
+S
+#3512
+Rumor's Room~
+Entering the room, the carpet is plush and soft.  A large bed is situated
+right in the middle of the room, but pushed against a wall.  A dresser is
+sitting on the left side of the bed, next to a wall with a window.  A small
+table stands near the bed, with a picture frame upon it.  The walls are
+pretty plain, even with the small strip of wallpaper border near the
+ceiling.  
+~
+0 0 0
+D2
+~
+~
+1 0 3511
+S
+#3513
+Sparring Sphere~
+This is the sparring sphere where fighters safely test themselves
+against others.  It is in a sphere shape that allows for easy movement. 
+Most of the area is padded except for the bottom which is the door to the
+sphere.  There are sweat and blood stains dabbed around the room.  
+~
+0 2097160 0
+D3
+~
+~
+1 0 3511
+S
+#3514
+Kahlans Room~
+The inside of this room appears large by the way the stuff is arranged in
+it.  There is a large window that allows a view out over the city, and into
+the fields beyond.  On the wall, there are several pictures of landscapes
+and of her sister.  The bed is in the south right hand corner of the room,
+with a dresser, a chair, and a lightly stained oak vanity in the left hand
+side of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 3511
+D2
+~
+~
+1 3514 3546
+S
+#3515
+Inside the front door~
+This hallway is long but only gose to the other side of the dome.  Every
+few feet, a door to the east and to the west can be seen.  Going south bring
+visitors back outside to the complex's grounds.  
+~
+0 8 0
+D0
+~
+~
+0 0 3516
+D2
+~
+~
+1 0 3541
+S
+#3516
+Hallway~
+The carpeting upon the floor is plush and red.  The hallway continues
+north and a bit to the south.  There are appartments to the east and west,
+with the numbers '01' and '02' upon their doors.  
+~
+0 8 0
+E
+east~
+You see a door with the number '02' placed upon it.  
+~
+E
+west~
+You see a door with the number '01' placed upon it.  
+~
+D0
+~
+~
+0 0 3517
+D1
+~
+~
+1 3521 3521
+D2
+~
+~
+0 0 3515
+D3
+~
+~
+1 3523 3523
+S
+#3517
+Hallway~
+The carpeting upon the floor is plush and red.  The hallway continues
+north and south.  There are appartments to the east and west, with the
+numbers '03' and '04' upon their doors.  
+~
+0 8 0
+E
+west~
+You see a door with the number '03' placed upon it.
+~
+E
+east~
+You see a door with the number '04' placed upon it.  
+~
+D0
+~
+~
+0 0 3518
+D1
+~
+~
+1 3525 3525
+D2
+~
+~
+0 0 3516
+D3
+~
+~
+1 3527 3527
+S
+#3518
+Hallway~
+The carpeting upon the floor is plush and red.  The hallway continues
+north and south.  There are appartments to the east and west, with the
+numbers '05' and '06' upon their doors.  
+~
+0 8 0
+E
+east~
+You see a door with the number '06' placed upon it.  
+~
+E
+west~
+You see a door with the number '05' placed upon it.  
+~
+D0
+~
+~
+0 0 3519
+D1
+~
+~
+1 3529 3529
+D2
+~
+~
+0 0 3517
+D3
+~
+~
+1 3531 3531
+S
+#3519
+Hallway~
+The carpeting upon the floor is plush and red.  The hallway continues
+north and south.  There are appartments to the east and west, with the
+numbers '07' and '08' upon their doors.  
+~
+0 8 0
+E
+east~
+You see a door with the number '08' placed upon the door.  
+~
+E
+west~
+You see a door with the number '07' placed upon the door.  
+~
+D0
+~
+~
+0 0 3520
+D1
+~
+~
+1 3533 3533
+D2
+~
+~
+0 0 3518
+D3
+~
+~
+1 3535 3535
+S
+#3520
+Hallway~
+The carpeting upon the floor is plush and red.  The hallway continues
+south.  There are appartments to the east and west, with the numbers '09'
+and '10' upon their doors.  
+~
+0 8 0
+E
+west~
+You see a door with the number '09' placed upon the door.  
+~
+E
+east~
+You see a door with the number '10' placed upon the door.  
+~
+D1
+~
+~
+1 3537 3537
+D2
+~
+~
+0 0 3519
+D3
+~
+~
+1 3539 3539
+S
+#3521
+A small apartment~
+This small room holds both the kitchen and the living room.  The only way
+for sunlight to come in here is through a small window in the wall.  The
+refrigerator and stove practically take all the room on the kitchen side,
+while a couch and a television take the remaining space in the living room. 
+There doesnt seem to have much more room for anything else.  
+~
+0 8 0
+D1
+~
+~
+0 0 3522
+D3
+~
+~
+1 3521 3516
+S
+#3522
+A small bedroom~
+This room is rather small for all the things that are located here.  The
+small curtain that seperates the toilet from the rest of the room doesnt
+give much privacy.  A small window lets in a bit of sunlight during sunny
+days.  Not much else can fit here with the bed and dresser taking all up the
+rest of the space.  
+~
+0 8 0
+D3
+~
+~
+0 0 3521
+R SPEECH 3510 done~
+S
+#3523
+A small apartment~
+This small room doubles as a kitchen and living room.  There are windows
+on the wall to the south and a door going out to the hallway.  Off the west,
+is a small bedroom.  The kitchen area of this room has a small stove and
+counter with a refrigerator in the corner.  The living room section has a
+couch, a chair and a television.  There isnt much more room for anything
+else.  
+~
+0 8 0
+E
+message~
+The off command is not available. Please order it now
+~
+D1
+~
+~
+1 3525 3516
+D3
+~
+~
+0 0 3524
+R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
+S
+#3524
+A small bedroom~
+This small bedroom has a curtained area that becomes a bathroom.  Only a
+toilet and a shower seem to fit behind it.  The area under the window is of
+good size for a bed.  There is a dresser over by the bathing area that is
+used but only seems to take up space.  
+~
+0 8 0
+D1
+~
+~
+0 0 3523
+S
+#3525
+A small apartment~
+This small room doubles as a kitchen and living room.  There are windows
+on the wall to the south and a door going out to the hallway.  Off the west,
+is a small bedroom.  The kitchen area of this room has a small stove and
+counter with a refrigerator in the corner.  The living room section has a
+couch, a chair and a television.  There isnt much more room for anything
+else.
+~
+0 8 0
+D1
+~
+~
+0 0 3526
+D3
+~
+~
+1 3525 3517
+R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
+S
+#3526
+A small bedroom~
+This small bedroom has a curtained area that becomes a bathroom.  Only a
+toilet and a shower seem to fit behind it.  The area under the window is of
+good size for a bed.  There is a dresser over by the bathing area that is
+used but only seems to take up space.
+~
+0 8 0
+D3
+~
+~
+0 0 3525
+S
+#3527
+A small apartment~
+This small room holds both the kitchen and the living room.  The only way
+for sunlight to come in here is through a small window in the wall.  The
+refrigerator and stove practically take all the room on the kitchen side,
+while a couch and a television take the remaining space in the living room. 
+There doesnt seem to have much more room for anything else.
+~
+0 8 0
+D1
+~
+~
+1 3527 3517
+D3
+~
+~
+0 0 3528
+S
+#3528
+A small bedroom~
+This room is rather small for all the things that are located here.  The
+small curtain that seperates the toilet from the rest of the room doesnt
+give much privacy.  A small window lets in a bit of sunlight during sunny
+days.  Not much else can fit here with the bed and dresser taking all up the
+rest of the space.
+~
+0 8 0
+D1
+~
+~
+0 0 3527
+R SPEECH 3510 done~
+S
+#3529
+A small apartment~
+This small room holds both the kitchen and the living room.  The only way
+for sunlight to come in here is through a small window in the wall.  The
+refrigerator and stove practically take all the room on the kitchen side,
+while a couch and a television take the remaining space in the living room. 
+There doesnt seem to have much more room for anything else.
+~
+0 8 0
+D1
+~
+~
+0 0 3530
+D3
+~
+~
+1 3529 3518
+S
+#3530
+A small bedroom~
+This room is rather small for all the things that are located here.  The
+small curtain that seperates the toilet from the rest of the room doesnt
+give much privacy.  A small window lets in a bit of sunlight during sunny
+days.  Not much else can fit here with the bed and dresser taking all up the
+rest of the space.
+~
+0 8 0
+D3
+~
+~
+0 0 3529
+R SPEECH 3510 done~
+S
+#3531
+A small apartment~
+This small room doubles as a kitchen and living room.  There are windows
+on the wall to the south and a door going out to the hallway.  Off the west,
+is a small bedroom.  The kitchen area of this room has a small stove and
+counter with a refrigerator in the corner.  The living room section has a
+couch, a chair and a television.  There isnt much more room for anything
+else.
+~
+0 8 0
+D1
+~
+~
+1 3531 3518
+D3
+~
+~
+0 0 3532
+R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
+S
+#3532
+A small bedroom~
+This small bedroom has a curtained area that becomes a bathroom.  Only a
+toilet and a shower seem to fit behind it.  The area under the window is of
+good size for a bed.  There is a dresser over by the bathing area that is
+used but only seems to take up space.
+~
+0 8 0
+D1
+~
+~
+0 0 3531
+S
+#3533
+A small apartment~
+This small room doubles as a kitchen and living room.  There are windows
+on the wall to the south and a door going out to the hallway.  Off the west,
+is a small bedroom.  The kitchen area of this room has a small stove and
+counter with a refrigerator in the corner.  The living room section has a
+couch, a chair and a television.  There isnt much more room for anything
+else.
+~
+0 8 0
+D1
+~
+~
+0 0 3534
+D3
+~
+~
+1 3533 3519
+R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
+S
+#3534
+A small bedroom~
+This small bedroom has a curtained area that becomes a bathroom.  Only a
+toilet and a shower seem to fit behind it.  The area under the window is of
+good size for a bed.  There is a dresser over by the bathing area that is
+used but only seems to take up space.
+~
+0 8 0
+D3
+~
+~
+0 0 3533
+S
+#3535
+A small apartment~
+This small room holds both the kitchen and the living room.  The only way
+for sunlight to come in here is through a small window in the wall.  The
+refrigerator and stove practically take all the room on the kitchen side,
+while a couch and a television take the remaining space in the living room. 
+There doesnt seem to have much more room for anything else.
+~
+0 8 0
+D1
+~
+~
+1 3535 3519
+D3
+~
+~
+0 0 3536
+S
+#3536
+A small bedroom~
+This room is rather small for all the things that are located here.  The
+small curtain that seperates the toilet from the rest of the room doesnt
+give much privacy.  A small window lets in a bit of sunlight during sunny
+days.  Not much else can fit here with the bed and dresser taking all up the
+rest of the space.
+~
+0 8 0
+D1
+~
+~
+0 0 3535
+R SPEECH 3510 done~
+S
+#3537
+A small apartment~
+This small room holds both the kitchen and the living room.  The only way
+for sunlight to come in here is through a small window in the wall.  The
+refrigerator and stove practically take all the room on the kitchen side,
+while a couch and a television take the remaining space in the living room. 
+There doesnt seem to have much more room for anything else.
+~
+0 8 0
+D1
+~
+~
+0 0 3538
+D3
+~
+~
+1 3537 3520
+S
+#3538
+A small bedroom~
+This room is rather small for all the things that are located here.  The
+small curtain that seperates the toilet from the rest of the room doesnt
+give much privacy.  A small window lets in a bit of sunlight during sunny
+days.  Not much else can fit here with the bed and dresser taking all up the
+rest of the space.
+~
+0 8 0
+D3
+~
+~
+0 0 3537
+R SPEECH 3510 done~
+S
+#3539
+A small apartment~
+This small room doubles as a kitchen and living room.  There are windows
+on the wall to the south and a door going out to the hallway.  Off the west,
+is a small bedroom.  The kitchen area of this room has a small stove and
+counter with a refrigerator in the corner.  The living room section has a
+couch, a chair and a television.  There isnt much more room for anything
+else.
+~
+0 8 0
+D1
+~
+~
+1 3539 3520
+D3
+~
+~
+0 0 3540
+R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
+S
+#3540
+A small bedroom~
+This small bedroom has a curtained area that becomes a bathroom.  Only a
+toilet and a shower seem to fit behind it.  The area under the window is of
+good size for a bed.  There is a dresser over by the bathing area that is
+used but only seems to take up space.
+~
+0 8 0
+D1
+~
+~
+0 0 3539
+S
+#3541
+The grounds~
+The apartment grounds are lush and green.  The grasses used are of many
+variaties and colors of green.  There are flower beds everywhere in the
+grounds with many different colors of flowers growing in them.  There is a
+glass dome over head keeping this place in a spring like condition all year
+round.  The glass dome stops as it collides with the building.  There are
+gardeners and other things running around all over the grounds.  
+~
+0 0 0
+D0
+~
+~
+1 0 3515
+D1
+~
+~
+0 0 3542
+D2
+~
+~
+0 0 3544
+S
+#3542
+The grounds~
+The apartment grounds are lush and green.  The grasses used are of many
+variaties and colors of green.  There are flower beds everywhere in the
+grounds with many different colors of flowers growing in them.  There is a
+glass dome over head keeping this place in a spring like condition all year
+round.  The glass dome stops as it collides with the building.  There are
+gardeners and other things running around all over the grounds.  
+~
+0 0 0
+D2
+~
+~
+0 0 3543
+D3
+~
+~
+0 0 3541
+S
+#3543
+The grounds~
+The apartment grounds are lush and green.  The grasses used are of many
+variaties and colors of green.  There are flower beds everywhere in the
+grounds with many different colors of flowers growing in them.  There is a
+glass dome over head keeping this place in a spring like condition all year
+round.  The glass dome stops as it collides with the building.  There are
+gardeners and other things running around all over the grounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 3542
+D3
+~
+~
+0 0 3544
+S
+#3544
+The grounds~
+The apartment grounds are lush and green.  The grasses used are of many
+variaties and colors of green.  There are flower beds everywhere in the
+grounds with many different colors of flowers growing in them.  There is a
+glass dome over head keeping this place in a spring like condition all year
+round.  The glass dome stops as it collides with the building.  There are
+gardeners and other things running around all over the grounds.  There is a
+small {csign{x pointing to the west, with something important to read.  
+~
+0 0 0
+E
+sign~
+Let the guard know that you want to get out
+by asking him to 'unlock' the gate
+~
+D0
+~
+~
+0 0 3541
+D1
+~
+~
+0 0 3543
+D3
+~
+~
+1 0 3545
+R SPEECH 3544 unlock~
+S
+#3545
+The apartment guard house~
+The guard house to the apartment complex is small dome like building that
+houses one guard and a computer.  The center of the guard house holds the
+gate that leads into the grounds.  Through the bars of the gate sevral
+people and animales.  The small sidwalks and paths that lead through the
+grounds are well kept and organized.  There are a few gardners here and
+there.  They run around cleaning the grounds just on the otherside of this
+gate keeping to them sevles not noticing who comes to the gates.  
+~
+0 0 0
+D1
+~
+~
+1 3509 3544
+D3
+~
+~
+0 0 3904
+S
+#3546
+Welcome Area - Kahlan's place~
+~
+0 8 0
+D0
+~
+~
+1 3514 3514
+D4
+~
+~
+0 0 3547
+S
+#3547
+Sparring Sphere~
+Upon entering this spacious dome, the floors and walls are made of an
+unusual material.  It blocks out all sound from exiting and absorbs damage. 
+There is a large lush mat at the far corner of the room for those whom would
+like to meditate.  A large sign can be seen upon entering it says, "Leave
+the world at the door".
+~
+0 2097160 0
+D4
+~
+~
+0 0 3548
+D5
+~
+~
+0 0 3546
+S
+#3548
+Floating Pool~
+This pool is filled with a liquid that heals on contact.  It is used
+throughout most of the galaxy.  It is a perfect place to heal unwanted
+wounds and scars.  It is said that using the pool to much is the same as
+using a sensory deprivation chamber.  The user may halucinate or be able to
+sense things normaly unsensable.
+~
+0 263172 0
+D5
+~
+~
+0 0 3547
+M 500 H 500
+S
+#3549
+Kaiyan's and Teclan's Living Room~
+A room, dimly lit by lamps which are built into the walls.  The faint
+light reveals that the walls are covered in a peach-colored wall paper, with
+turquoise diamonds embroidered upon it's surface.  
+~
+0 8 0
+E
+message~
+TV Off feature is disabled, please call the manufacturer and get the password. 
+Call 1-900-tv off is off(15zenni per second after the first second)
+~
+E
+screen~
+TV Off feature is disabled, please call the manufacturer and get the password. 
+Call 1-900-tv off is off(15zenni per second after the first second)
+~
+D0
+~
+~
+0 0 3550
+D1
+~
+~
+0 0 3553
+D2
+~
+~
+1 3516 3555
+D3
+~
+~
+0 0 3552
+D4
+~
+~
+1 3515 3554
+R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
+S
+#3550
+Sparring Sphere~
+A huge, spherical room, with padded walls designed to take great amounts
+of punishment.  At one end of the circular floor, the top of a ladder going
+down into the healing pool can be seen.  
+~
+0 2097160 0
+D2
+~
+~
+0 0 3549
+D5
+~
+~
+0 0 3551
+M 10000 H 10000
+S
+#3551
+Healing Pool~
+The bluish liquid here heals wounds on contact.  Most people can
+comfortably sit without going over their heads into the liquid.  A ladder,
+that leads upstairs, is based at the bottom of the pool to help people out
+more easily.  The liquid dries quickly so it keeps warriors from worrying
+about wet clothing.  
+~
+0 263180 0
+D4
+~
+~
+0 0 3550
+M 500 H 500
+S
+#3552
+Guest Room~
+With a hard wood floor, any guest will be sure to be awake when they step
+on it in the morning.  Set on a wall, near the door, is a hat rack where any
+guest can set their headwear.  The bed and dresser are placed in the middle
+of the western wall, right under a window.  Piled in one corner is a
+speaker, and what looks like an electric guitar.  
+~
+0 8 0
+D1
+~
+~
+0 0 3549
+S
+#3553
+Dungeon Room~
+This room is reserved to punish those foolish enough to dare trespass or
+break into Kaiyan and Teclan's house.  With a variety of whips on the rack,
+punishment is certain to be harmful and not very pleasant.  
+~
+0 8 0
+D3
+~
+~
+0 0 3549
+S
+#3554
+Kaiyan/Teclan's room~
+Standing in the master bedroom, with plush carpetting upon the floor, a
+nice bed is seen next to a window.  This room has a great view to the
+outside world.  In another corner, a closet stands while the dresser is next
+to the bed.  The walls are made of an indestructible blue metallic
+substance.  Partially sound proof, occupants will not hear a sound from the
+outside below 100 decibels.  
+~
+0 8 0
+D5
+~
+~
+1 3515 3549
+S
+#3555
+In the bunker~
+Standing in a bunker type enclosure of reinforced cement, the bullet
+proof door leading to Kaiyan and Teclan's house is to the north.  The stairs
+leading up to street level are also made of reinforced cement, covered by
+ice-detering metal pins.  The bottom stair is actually a grate to keep the
+bunker from flooding during torrential rain storms.  
+~
+0 8 0
+D0
+~
+~
+1 3516 3549
+D4
+~
+~
+0 0 3921
+S
+#3556
+Sparring Chamber~
+Cracked and splintered from obvious usage, the training facility within
+the house seems tattered with persistance.  The walls are adorned with
+etchings and engravings from weaponry gone array; the decor of browning
+stains on the walls signifies where viscious attacks had succeeded.  Though,
+in an undercurrent, a soft energy bubbles within the room, soft and
+caressing in the brightly lit atmosphere.  
+~
+0 2097164 0
+D2
+~
+~
+0 0 3558
+D5
+~
+~
+0 0 3557
+S
+#3557
+Healing Chamber~
+An amazing sense of life can be felt here.  The very air seems to refresh
+the senses.  
+~
+0 1036 0
+D4
+~
+~
+0 0 3556
+M 1000 H 1000
+S
+#3558
+Snake's Den~
+Glowing, serpentine in its ever-moving flow, the ebbs of mist radiates a
+dim lighting, illuminating the nearly bare room; a small, short-legged table
+and a long throw pillow before it are the only objects of comfort.  The
+decor of the vicinity mirrors a lifestyle of combat and likewise knowledge,
+noted by the sheathed katanas and scrolls that line the walls.  To either
+adjacent side, entryways vanish into other rooms while a staircase rises to
+a second story.  
+~
+0 8 0
+D0
+~
+~
+0 0 3556
+D1
+~
+~
+1 3563 4423
+D2
+~
+~
+0 0 3562
+D4
+~
+~
+0 0 3559
+S
+#3559
+A small Indoor Cultesac~
+The small expanse after the stairwell offers three choices in which to
+go, all with unadorned doors that are as insipid as the walls themselves. 
+Without windows present, the lighting is created artifically, glowing a
+bright, solid color.  Here, the din from the lower sections of the house
+fade back to leave tranquility 
+~
+0 8 0
+D1
+~
+~
+0 0 3560
+D3
+~
+~
+1 3559 3561
+D5
+~
+~
+0 0 3558
+S
+#3560
+Guest Room~
+A double bed, a dresser and a rich blue texture mingled with rich greens
+and deep browns create an enantiomorph of a Japenese tradition; though much
+more modern than original seventeenth century.  The bedset matches the
+elegance with a velvet touch, being silk that reflects in any given lighting
+delicately.  
+~
+0 8 0
+D3
+~
+~
+0 0 3559
+S
+#3561
+Snake's Bedroom~
+Rose petals rest eschewed across the dark room, lit only by fragranced
+candles; the atmosphere could pose immediately as an idyllic setting.  A
+large canopy bed, draped with silk and satin can be seen, all texture
+variants of deep grays and ebony.  The carpet's color matches the walls and
+the room's decor, all concealed in rich, lurid colors, masquerading the
+room's essence as one of serenity and romanticism.  
+~
+0 0 0
+D1
+~
+~
+1 3559 3559
+S
+#3562
+Kitchen/Dining Room~
+Small and utilitarian in appearance, the cubbyhole kitchen holds just
+enough space for two people to be within the room at a moderately
+comfortable level.  Off to the side is a dining room that holds a glass
+table and a few chairs in which for guests to feast upon.  Around both rooms
+flowers pose as the decoration, leaving a mellifluous fragrance within and
+throughout the proximity.  
+~
+0 8 0
+D0
+~
+~
+0 0 3558
+S
+#3584
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3590
+S
+#3585
+~
+~
+0 0 0
+D3
+~
+~
+0 0 3590
+S
+#3586
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3589
+S
+#3587
+RP Class Room: Emote/Pmote~
+Emote:
+A command to use when acting out some action.
+Example: emote spreads his arms as he falls over.
+would look like <player name> spreads his arms as he falls over.
+ 
+read HELP EMOTE
+ 
+  Pmote:
+Similar to emote, but changes the player name to you and your when seen by the target.
+Example: pmote attempts to sweep Bubba's feet from under him.
+will be shown as <player name> attempts to sweep your feet from under you. to Bubba
+and <player name> attempts to sweep Bubba's feet from under him. to the rest of the room.
+ 
+read HELP PMOTE
+~
+0 1032 0
+D3
+~
+~
+0 0 3589
+S
+#3588
+RP Classroom~
+The classroom is barely furnished.  Only a few benches line the walls for
+you to sit.  This is mostly due to the fact that there will be alot of
+movement in this room.  It is here where most of the tutors will show you
+some basic, intermediate or even advanced role playing skills/techniques.  
+~
+0 1036 0
+D2
+~
+~
+0 0 3589
+S
+#3589
+RP School Hallway~
+Walking within the hallway, you come upon a door to the east and to the
+west.  Upon each door is an inscription detailing the command shown in that
+particular classroom.  Looking north, you can see a large classroom that
+seems to be for the training and practicing of RP skills and techniques. 
+The hallway heads south to the exit.  
+~
+0 1036 0
+D0
+~
+~
+0 0 3588
+D1
+~
+~
+0 0 3587
+D2
+~
+~
+0 0 3590
+D3
+~
+~
+0 0 3586
+S
+#3590
+RP School Hallway~
+Walking further down the hallway, you come upon a door to the east and to
+the west.  Upon each door is an inscription detailing the command shown in
+that particular classroom.  The hallway leads to more classrooms to the
+north, and the exit is to the south.  
+~
+0 1036 0
+D0
+~
+~
+0 0 3589
+D1
+~
+~
+0 0 3585
+D2
+~
+~
+0 0 3591
+D3
+~
+~
+0 0 3584
+S
+#3591
+RP School Hallway~
+You stand inside of the double doors leading outside.  Looking around,
+you notice the long hallway heading north with a couple of doors on each
+side.  Each classroom will teach you one command to use for RP.  Listen well
+to the tutors, as you may have to prove yourself after leaving the school
+grounds.  
+~
+0 1036 0
+D0
+~
+~
+0 0 3590
+D2
+~
+~
+0 0 3592
+S
+#3592
+RP School Entrance~
+You stand on the stairs, looking up at some of the largest double doors
+you have ever seen.  A few tutors are waiting inside to show you the
+commands, the basic RP skills, and eventually advanced skills.  Going north,
+you will enter this large building.  Not far, the portal back home stands
+glowing and humming with power.  
+~
+0 1028 0
+D0
+~
+~
+0 0 3591
+S
+#3593
+{CS{cp{Ca{cr{Cr{ci{Cn{cg {CH{ca{Cl{cl{X~
+{WThis room spreads out far and is a blinding bright white plain.  To the
+far north of this Sparring hall is a tiny little door, leading towards the
+healing chamber.  Your voice echoes around this dazzling room.  When one
+shoots Ki in this room it disappears into nothingness!  {X 
+~
+0 2097164 0
+D0
+~
+~
+0 0 3594
+D4
+~
+~
+0 0 3595
+M 0 H 0
+S
+#3594
+{YH{ye{Ya{yl{Yi{yn{Yg {yC{Yh{ya{Ym{yb{Ye{yr{X~
+The chamber is very moist and damp due to the healing atoms flying
+around, absorbing into your skin to heal you to your maximum.  The lighting
+is very very dark and nothing is to be seen in this room apart from the odd
+spark of Ki releasing from the vents, sparking you back to your normal
+state.  
+~
+0 4 0
+D2
+~
+~
+0 0 3593
+M 500 H 500
+S
+#3595
+{RThe Lounge{x~
+{CWelcome to Nesoiak and Vel's pad.  This place is for drinking, screwing
+and parties!  The room is made out of a fine, oak floor with huge, cosy
+fabric walls that stand tall and firm.  The lights glows a dim orange, it
+just makes you want to collapse on the couch, smoke a joint and fly!  
+~
+0 4 0
+D0
+~
+~
+0 0 3596
+D1
+~
+~
+0 0 3597
+D3
+~
+~
+1 3997 3997
+D5
+~
+~
+0 0 3593
+S
+#3596
+{BT{bh{Be{b C{Br{ba{Bp {bF{Ba{bc{Bt{bo{Br{by{X~
+{yOh damn it!  The smell, the horrible smell!  Get out of here!  You
+don't wanna know!  My god!  What the hell is wrong with these people... 
+UGH!  Too much curry eaten!  The walls are white (or are meant to be white)
+and the floor well the floor, hah, you don't want to know!  A green mist
+floats in this room.  {X 
+~
+0 4 0
+D2
+~
+~
+0 0 3595
+R SPEECH 3510 done~
+S
+#3597
+{WT{wh{We {wB{We{wd{Wr{wo{Wo{wm{X~
+{GWelcome to the love nest!  This is where Vel and Nesoiak score!  Ok
+actually we don't but there could be a chance (we wish!)  The room is warmly
+lit like the lounge, and it just wants you to lie down on the bed, and go to
+sleep, or smoke a joint, you choose.  {X 
+~
+0 12 0
+D3
+~
+~
+0 0 3595
+S
+#3598
+Videl's Room~
+Oh I don't know what to write here :p  Having total mind block
+on my office, so have patience.
+ 
+~
+0 1048580 0
+S
+#3599
+Satan city Realestate~
+This small office has one long counter deviding the center, The counter
+is full of papers and applications.  There is a man and a woman behind the
+counter writing things out and helping out all who wander in looking for a
+home to have built or to buy one.  
+~
+0 1032 0
+D3
+~
+~
+0 0 913
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3501 1 2
+D 0 3502 2 1
+D 0 3502 3 2
+D 0 3502 4 1
+D 0 3503 5 1
+D 0 3505 0 1
+D 0 3507 3 1
+D 0 3508 1 1
+D 0 3508 3 1
+D 0 3510 1 1
+D 0 3511 0 1
+D 0 3511 1 1
+D 0 3511 2 1
+D 0 3512 2 1
+D 0 3513 3 1
+D 0 3514 0 1
+D 0 3514 2 2
+D 0 3515 2 1
+D 0 3516 1 2
+D 0 3516 3 2
+D 0 3517 1 2
+D 0 3517 3 2
+D 0 3518 1 2
+D 0 3518 3 2
+D 0 3519 1 2
+D 0 3519 3 2
+D 0 3520 1 2
+D 0 3520 3 2
+D 0 3521 3 2
+D 0 3523 1 2
+D 0 3525 3 2
+D 0 3527 1 2
+D 0 3529 3 2
+D 0 3531 1 2
+D 0 3533 3 2
+D 0 3535 1 2
+D 0 3537 3 2
+D 0 3539 1 2
+D 0 3541 0 1
+D 0 3544 3 2
+D 0 3545 1 2
+D 0 3546 0 2
+D 0 3549 2 2
+D 0 3549 4 2
+D 0 3554 5 2
+D 0 3555 0 2
+D 0 3558 1 2
+D 0 3559 3 2
+D 0 3561 1 2
+D 0 3595 3 2
+O 0 3508 0 3500 A swing loaded to A garden walkway
+O 0 3504 0 3502 A high definition tv set loaded to The living room
+O 0 2403 0 3502 A couch loaded to The living room
+O 0 1954 0 3503 A four-post bed with silky sheets loaded to Trezin and Kyja's Bedroom
+O 0 3501 0 3504 A stove and oven combo loaded to Kitchen
+O 0 924 0 3504 A refrigerator loaded to Kitchen
+P 0 1953 1 924 1 A bottle of milk put inside a bottle of milk
+P 0 3506 1 924 1 A bottle of iced tea put inside a bottle of iced tea
+P 0 1950 1 924 1 A can of beer put inside a can of beer
+O 0 3510 0 3505 A toilet loaded to Bathroom
+O 0 3511 0 3505 The bathtub loaded to Bathroom
+O 0 3502 0 3506 A large mat loaded to Mediation and Sparring Dome
+O 0 3507 0 3507 A wooden bench loaded to The front porch
+O 0 940 0 3507 A sturdy chair loaded to The front porch
+O 0 940 0 3507 A sturdy chair loaded to The front porch
+O 0 3500 0 3508 A coffee table loaded to The living space
+O 0 1989 0 3508 A couch loaded to The living space
+O 0 927 0 3508 A comfortable chair loaded to The living space
+O 0 927 0 3508 A comfortable chair loaded to The living space
+O 0 3501 0 3509 A stove and oven combo loaded to The kitchen
+O 0 924 0 3509 A refrigerator loaded to The kitchen
+O 0 926 0 3509 A table loaded to The kitchen
+O 0 927 0 3509 A comfortable chair loaded to The kitchen
+O 0 927 0 3509 A comfortable chair loaded to The kitchen
+O 0 927 0 3509 A comfortable chair loaded to The kitchen
+O 0 927 0 3509 A comfortable chair loaded to The kitchen
+O 0 3511 0 3510 The bathtub loaded to Bathroom
+O 0 3510 0 3510 A toilet loaded to Bathroom
+O 0 3392 0 3512 A computer loaded to Rumor's Room
+O 0 1954 0 3512 A four-post bed with silky sheets loaded to Rumor's Room
+O 0 927 0 3512 A comfortable chair loaded to Rumor's Room
+O 0 3503 0 3512 A dresser loaded to Rumor's Room
+O 0 1954 0 3514 A four-post bed with silky sheets loaded to Kahlans Room
+O 0 3503 0 3514 A dresser loaded to Kahlans Room
+O 0 939 0 3514 Another chair loaded to Kahlans Room
+O 0 3512 0 3521 A 35" television loaded to A small apartment
+O 0 2403 0 3521 A couch loaded to A small apartment
+O 0 924 0 3521 A refrigerator loaded to A small apartment
+O 0 3501 0 3521 A stove and oven combo loaded to A small apartment
+O 0 3510 0 3522 A toilet loaded to A small bedroom
+O 0 3503 0 3522 A dresser loaded to A small bedroom
+O 0 2609 0 3522 A sturdy bed loaded to A small bedroom
+O 0 3504 0 3523 A high definition tv set loaded to A small apartment
+O 0 2403 0 3523 A couch loaded to A small apartment
+O 0 3501 0 3523 A stove and oven combo loaded to A small apartment
+O 0 924 0 3523 A refrigerator loaded to A small apartment
+O 0 2609 0 3524 A sturdy bed loaded to A small bedroom
+O 0 3503 0 3524 A dresser loaded to A small bedroom
+M 0 1977 4 3524 1 Load the toilet
+O 0 3504 0 3525 A high definition tv set loaded to A small apartment
+O 0 2403 0 3525 A couch loaded to A small apartment
+O 0 3501 0 3525 A stove and oven combo loaded to A small apartment
+O 0 924 0 3525 A refrigerator loaded to A small apartment
+O 0 2609 0 3526 A sturdy bed loaded to A small bedroom
+O 0 3503 0 3526 A dresser loaded to A small bedroom
+M 0 1977 4 3526 1 Load the toilet
+O 0 3512 0 3527 A 35" television loaded to A small apartment
+O 0 2403 0 3527 A couch loaded to A small apartment
+O 0 924 0 3527 A refrigerator loaded to A small apartment
+O 0 3501 0 3527 A stove and oven combo loaded to A small apartment
+O 0 3510 0 3528 A toilet loaded to A small bedroom
+O 0 3503 0 3528 A dresser loaded to A small bedroom
+O 0 2609 0 3528 A sturdy bed loaded to A small bedroom
+O 0 3512 0 3529 A 35" television loaded to A small apartment
+O 0 2403 0 3529 A couch loaded to A small apartment
+O 0 924 0 3529 A refrigerator loaded to A small apartment
+O 0 3501 0 3529 A stove and oven combo loaded to A small apartment
+O 0 3510 0 3530 A toilet loaded to A small bedroom
+O 0 3503 0 3530 A dresser loaded to A small bedroom
+O 0 2609 0 3530 A sturdy bed loaded to A small bedroom
+O 0 3504 0 3531 A high definition tv set loaded to A small apartment
+O 0 2403 0 3531 A couch loaded to A small apartment
+O 0 3501 0 3531 A stove and oven combo loaded to A small apartment
+O 0 924 0 3531 A refrigerator loaded to A small apartment
+O 0 2609 0 3532 A sturdy bed loaded to A small bedroom
+O 0 3503 0 3532 A dresser loaded to A small bedroom
+M 0 1977 4 3532 1 Load the toilet
+O 0 3504 0 3533 A high definition tv set loaded to A small apartment
+O 0 2403 0 3533 A couch loaded to A small apartment
+O 0 3501 0 3533 A stove and oven combo loaded to A small apartment
+O 0 924 0 3533 A refrigerator loaded to A small apartment
+O 0 2609 0 3534 A sturdy bed loaded to A small bedroom
+O 0 3503 0 3534 A dresser loaded to A small bedroom
+M 0 1977 4 3534 1 Load the toilet
+O 0 3512 0 3535 A 35" television loaded to A small apartment
+O 0 2403 0 3535 A couch loaded to A small apartment
+O 0 924 0 3535 A refrigerator loaded to A small apartment
+O 0 3501 0 3535 A stove and oven combo loaded to A small apartment
+O 0 3510 0 3536 A toilet loaded to A small bedroom
+O 0 3503 0 3536 A dresser loaded to A small bedroom
+O 0 2609 0 3536 A sturdy bed loaded to A small bedroom
+O 0 3512 0 3537 A 35" television loaded to A small apartment
+O 0 2403 0 3537 A couch loaded to A small apartment
+O 0 924 0 3537 A refrigerator loaded to A small apartment
+O 0 3501 0 3537 A stove and oven combo loaded to A small apartment
+O 0 3510 0 3538 A toilet loaded to A small bedroom
+O 0 3503 0 3538 A dresser loaded to A small bedroom
+O 0 2609 0 3538 A sturdy bed loaded to A small bedroom
+O 0 3504 0 3539 A high definition tv set loaded to A small apartment
+O 0 2403 0 3539 A couch loaded to A small apartment
+O 0 3501 0 3539 A stove and oven combo loaded to A small apartment
+O 0 924 0 3539 A refrigerator loaded to A small apartment
+O 0 2609 0 3540 A sturdy bed loaded to A small bedroom
+O 0 3503 0 3540 A dresser loaded to A small bedroom
+M 0 1977 4 3540 1 Load the toilet
+M 0 3506 1 3541 1 Load A pixie
+M 0 3505 1 3541 1 Load A quiet meditator
+M 0 3507 1 3542 1 Load A blue frog
+M 0 3506 1 3542 1 Load A pixie
+M 0 3505 1 3542 1 Load A quiet meditator
+M 0 3505 1 3542 1 Load A quiet meditator
+M 0 3504 1 3542 1 Load A botanist
+M 0 3504 1 3542 1 Load A botanist
+M 0 3507 1 3543 1 Load A blue frog
+M 0 3507 1 3543 1 Load A blue frog
+M 0 3506 1 3543 1 Load A pixie
+M 0 3505 1 3543 1 Load A quiet meditator
+M 0 3505 1 3543 1 Load A quiet meditator
+M 0 3504 1 3543 1 Load A botanist
+M 0 3504 1 3543 1 Load A botanist
+M 0 3507 1 3544 1 Load A blue frog
+M 0 3506 1 3544 1 Load A pixie
+M 0 3503 1 3544 1 Load A black flower
+M 0 3502 1 3544 1 Load Gardner Bob
+M 0 3502 1 3544 1 Load Gardner Bob
+M 0 3502 1 3544 1 Load Gardner Bob
+M 0 3502 1 3544 1 Load Gardner Bob
+M 0 3501 1 3545 1 Load the guard
+G 0 3513 0 A passport is given to the guard
+E 0 3509 0 9 A gate key is loaded on the hands of the guard
+O 0 3504 0 3549 A high definition tv set loaded to Kaiyan's and Teclan's Living Room
+O 0 3519 0 3549 A blue velvet rocking chair loaded to Kaiyan's and Teclan's Living Room
+O 0 3518 0 3549 A black vinyl chair loaded to Kaiyan's and Teclan's Living Room
+O 0 3517 0 3549 A black vinyl couch loaded to Kaiyan's and Teclan's Living Room
+O 0 3502 0 3550 A large mat loaded to Sparring Sphere
+O 0 3598 0 3551 A floating refrigerator loaded to Healing Pool
+P 0 1950 5 3598 5 A can of beer put inside a can of beer
+P 0 1951 3 3598 3 A can of cola put inside a can of cola
+O 0 3503 0 3552 A dresser loaded to Guest Room
+O 0 1955 0 3552 A feather bed is laying here loaded to Guest Room
+O 0 3520 0 3552 An oak hat rack loaded to Guest Room
+O 0 3524 0 3553 A pivoting table loaded to Dungeon Room
+O 0 3526 0 3553 A weapon rack loaded to Dungeon Room
+P 0 971 1 3526 1 A leather whip put inside a leather whip
+P 0 1906 1 3526 1 A black leather whip put inside a black leather whip
+O 0 3503 0 3554 A dresser loaded to Kaiyan/Teclan's room
+O 0 1954 0 3554 A four-post bed with silky sheets loaded to Kaiyan/Teclan's room
+O 0 914 0 3554 A closet loaded to Kaiyan/Teclan's room
+P 0 3522 1 914 1 A piece of silky lingerie put inside a piece of silky lingerie
+P 0 981 1 914 1 Sunglasses put inside sunglasses
+P 0 202 1 914 1 A pair of black leather boots put inside a pair of black leather boots
+P 0 201 1 914 1 A pair of {wwhite{x pants put inside a pair of {wWhite{x pants
+O 0 3507 0 3555 A wooden bench loaded to In the bunker
+M 0 3556 1 3558 1 Load Susa
+M 0 3557 1 3558 1 Load Roger Neoshark
+M 0 3558 1 3558 1 Load XtraPhobia
+O 0 3556 0 3558 A snake fountain loaded to Snake's Den
+O 0 3512 0 3558 A 35" television loaded to Snake's Den
+O 0 4427 0 3558 A {dblack {bsectional {ccouch{x loaded to Snake's Den
+O 0 3557 0 3558 A black beanbag loaded to Snake's Den
+O 0 927 0 3558 A comfortable chair loaded to Snake's Den
+O 0 3503 0 3560 A dresser loaded to Guest Room
+O 0 3560 0 3560 A canopy bed loaded to Guest Room
+O 0 3561 0 3561 A {dblack{x and {sgrey{x canopy bed loaded to Snake's Bedroom
+O 0 3558 0 3561 A {dblack{x la-z-boy loaded to Snake's Bedroom
+O 0 3563 0 3561 Snake's house key loaded to Snake's Bedroom
+O 0 3559 0 3561 Snake's room key loaded to Snake's Bedroom
+O 0 3562 0 3562 A small table with cards on it loaded to Kitchen/Dining Room
+O 0 924 0 3562 A refrigerator loaded to Kitchen/Dining Room
+O 0 3501 0 3562 A stove and oven combo loaded to Kitchen/Dining Room
+O 0 3595 0 3592 The portal back home loaded to RP School Entrance
+O 0 4730 0 3593 A vending machine loaded to {CS{cp{Ca{cr{Cr{ci{Cn{cg {CH{ca{Cl{cl{X
+O 0 3601 0 3594 A healing tank loaded to {YH{ye{Ya{yl{Yi{yn{Yg {yC{Yh{ya{Ym{yb{Ye{yr{X
+O 0 3512 0 3595 A 35" television loaded to {RThe Lounge{x
+O 0 3699 0 3595 A {dblack leather {ycouch{x loaded to {RThe Lounge{x
+O 0 3510 0 3596 A toilet loaded to {BT{bh{Be{b C{Br{ba{Bp {bF{Ba{bc{Bt{bo{Br{by{X
+O 0 1954 0 3597 A four-post bed with silky sheets loaded to {WT{wh{We {wB{We{wd{Wr{wo{Wo{wm{X
+O 0 1955 0 3597 A feather bed is laying here loaded to {WT{wh{We {wB{We{wd{Wr{wo{Wo{wm{X
+O 0 3599 0 3599 An oak counter loaded to Satan city Realestate
+M 0 3598 1 3599 1 Load a woman with a blue blazer
+M 0 3599 1 3599 1 Load a man with a blue blazer
+S
+
+
+
+#SHOPS
+3501 19 0 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#3501
+mob echo smiles.
+say Hello there, can we help you get a home?
+mob echoaround $n $I smiles at $n.
+mob echoat $n $I smiles at you.
+~
+#3502
+if carries $n key01
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key02
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key03
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key04
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key05
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key06
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key07
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key08
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key09
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key10
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n passport
+unlock east
+open east
+say You may pass!
+mob remember $n
+mob delay 1
+break
+else
+say You may not pass!
+endif
+~
+#3503
+mob force $q east
+close east
+lock east
+~
+#3504
+drop key
+~
+#3505
+if carries $n key01
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key02
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key03
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key04
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key05
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key06
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key07
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key08
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key09
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n key10
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+or carries $n passport
+unlock west
+open west
+say You may pass!
+mob remember $n
+mob delay 1
+break
+else
+say You may not pass!
+endif
+~
+#3506
+mob force $q west
+close west
+lock west
+~
+#3507
+say Well then, read these documents before asking any imms for help.
+~
+#0
+
+#OBJPROGS
+#3500
+obj echo $I auto-destructs in 8 hours.
+~
+#3501
+if vnum $i > 3545
+~
+#3504
+obj echo $I flickers and automatically sets to the classic tournament channel
+~
+#3510
+obj echoat $n $I flushes itself!
+obj echoaround $n $I flushes itself!
+~
+#3595
+obj echo {YA portal was dropped and a group of people gets transported to the RP school.{x
+obj force $n get portal
+obj gtransfer $n 3592
+obj echo {YA bright flash and you are at the RP school.{x
+~
+#0
+
+#ROOMPROGS
+#3501
+room echo The television flickers and a message appears on the screen.
+~
+#3502
+room echo The television flickers and automatically sets to the classic tournament channel
+~
+#3510
+room echo A toilet flushes itself!
+~
+#3544
+room echo The gate is unlocked and is opened by the guard on the other side.
+room echoat $n You pass through the gate unobstructed.
+room transfer $n 3545
+room echoat $n The gate is closed and locked.
+room echoaround $n The gate is closed and locked.
+~
+#3545
+if carries $n key01
+room remember $n
+room delay 1
+break
+or carries $n key02
+room remember $n
+room delay 1
+break
+or carries $n key03
+room remember $n
+room delay 1
+break
+or carries $n key04
+room remember $n
+room delay 1
+break
+or carries $n key05
+room remember $n
+room delay 1
+break
+or carries $n key06
+room remember $n
+room delay 1
+break
+or carries $n key07
+room remember $n
+room delay 1
+break
+or carries $n key08
+room remember $n
+room delay 1
+break
+or carries $n key09
+room remember $n
+room delay 1
+break
+or carries $n key10
+room remember $n
+room delay 1
+break
+or carries $n passport
+room remember $n
+room delay 1
+break
+else
+room echoat $n You may not leave without your key or a passport.
+endif
+~
+#3599
+echo bla
+~
+#0
+
+#$

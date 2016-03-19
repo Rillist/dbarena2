@@ -1,0 +1,858 @@
+#AREADATA
+Name Kami's Lookout~
+Builders Terraco-d~
+VNUMs 1000 1099
+Credits Vegeta --- Korins Tower/Kami's Lookout~
+Security 9
+End
+
+
+
+#MOBILES
+#1000
+Mr popo~
+Mr. Popo~
+Mr.Popo stands here answering questions and opening the time chamber
+~
+He is a short and coal black........  Thing.  He lives his life up here
+serving the Kami and taking care of his flowers.  
+~
+human~
+AB 0 0 0
+1000 10
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AV 0 medium unknown
+F for HM
+F par ABCDEFGHIJK
+M GREET 1000 100~
+#1001
+butterfly~
+a brightly colored butterfly~
+A butterfly with {mPurple{x and {bBlue{x wings
+~
+About the size of one zenni but still one of the most beautiful things
+ever seen.  The blue and purple on its wings seem to almost melt together at
+the center creating one of natures most breath taking sights.  
+~
+human~
+A 0 0 0
+5 5
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1002
+butterfly~
+A yellow butterfly~
+A butterfly with bright {yYellow{x wings
+~
+The {yyellow{x on this butterfly is the purest shade of the color
+imaginable.  It seems to be almost too perfect.  
+~
+human~
+A 0 1000 0
+5 10
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1003
+korin~
+korin the cat~
+Korin the cat stands here selling senzu beans
+~
+Korin is a large white cat.  He stands propped up on a wooden cane
+selling his senzu beans to those that need them.  
+~
+human~
+AB 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1000
+flower garden~
+a purple and red flower garden~
+A garden of {mPurple{x and {rRed{x flowers~
+unknown~
+1
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#1001
+palm tree~
+a row of palm trees~
+A row of {gPalm Trees{x on to the east and west~
+unknown~
+1
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#1002
+time chamber key~
+the time chamber key~
+The time chamber key~
+unknown~
+1
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#1003
+senzu bean~
+(no short description)~
+(no description)~
+unknown~
+1
+pill 0 A
+0 'axe' 'axe' 'axe' 'axe'
+0 0 0 P
+#1099
+tattoo~
+a {CA{cA{x tattoo~
+A {CA{cA{x tattoo~
+unknown~
+100000
+jewelry 0 AI
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1000
+Before a Large Tower~
+Directly north of here is a tower that stretches up into the clouds.  The
+tower isn't very big around but a few hunder feet up is a large platform
+this is just under the clouds.  Its rumored this is where Korin the cat
+lives and grows his senzu beans.  However with nothing to climb to get up
+there people are forced to fly.  
+~
+0 0 2
+D3
+~
+~
+0 0 3924
+D4
+~
+~
+0 0 1001
+S
+#1001
+Up the Side of the Tower~
+Floating up in the air the first platform on the tower is becoming more
+clear.  Its the platform korin the cat lives on and grows his healing senzu
+beans.  A second platform much farther up is becoming more visible.  
+~
+0 0 9
+D4
+~
+~
+0 0 1002
+D5
+~
+~
+0 0 1000
+S
+#1002
+Up the Side of the Tower~
+Floating up in the air the first platform on the tower is becoming more
+clear.  Its the platform korin the cat lives on and grows his healing senzu
+beans.  A second platform much farther up is becoming more visible.  
+~
+0 0 9
+D4
+~
+~
+0 0 1003
+D5
+~
+~
+0 0 1001
+S
+#1003
+Up the Side of the Tower~
+Floating up in the air the first platform on the tower is becoming more
+clear.  Its the platform korin the cat lives on and grows his healing senzu
+beans.  A second platform much farther up is becoming more visible.  
+~
+0 0 9
+D4
+~
+~
+0 0 1004
+D5
+~
+~
+0 0 1002
+S
+#1004
+Up the Side of the Tower~
+Floating up in the air the first platform on the tower is becoming more
+clear.  Its the platform korin the cat lives on and grows his healing senzu
+beans.  A second platform much farther up is becoming more visible.  
+~
+0 0 0
+D4
+~
+~
+0 0 1005
+D5
+~
+~
+0 0 1003
+S
+#1005
+Korins House~
+This is where Korin the cat grows his senzu beans.  All that is here to
+keep someone from falling the four hundred feet back to the earth is a small
+rail that goes all the way around the circle shaped room.  From here it can
+been seen that there is yet another section above this one.  
+~
+0 0 0
+D4
+~
+~
+0 0 1006
+D5
+~
+~
+0 0 1004
+S
+#1006
+Up the Side of the Tower~
+Korins house is getting farther below and the upper platform is getting
+closer.  It doesnt appear to have a roof like Korins did and is shaped more
+like a bowl on the underside.  
+~
+0 0 0
+D4
+~
+~
+0 0 1007
+D5
+~
+~
+0 0 1005
+S
+#1007
+Up the Side of the Tower~
+Korins house is getting farther below and the upper platform is getting
+closer.  It doesnt appear to have a roof like Korins did and is shaped more
+like a bowl on the underside.  
+~
+0 0 0
+D4
+~
+~
+0 0 1008
+D5
+~
+~
+0 0 1006
+S
+#1008
+Up the Side of the Tower~
+Korins house is getting farther below and the upper platform is getting
+closer.  It doesnt appear to have a roof like Korins did and is shaped more
+like a bowl on the underside.  
+~
+0 0 0
+D4
+~
+~
+0 0 1009
+D5
+~
+~
+0 0 1007
+S
+#1009
+Up the Side of the Tower~
+Korins house is getting farther below and the upper platform is getting
+closer.  It doesnt appear to have a roof like Korins did and is shaped more
+like a bowl on the underside.  
+~
+0 4 0
+D4
+~
+~
+0 0 1010
+D5
+~
+~
+0 0 1008
+S
+#1010
+Kami's Lookout~
+This is where the Kami, or guardian of earth, watches over everything
+that is happening on the planet blow.  The floor is all white tile on this
+large circular platform.  There are a few plants spread about and there is a
+large white building to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 1011
+D5
+~
+~
+0 0 1009
+S
+#1011
+Kami's Lookout~
+Small {ggreen{w shrubs line a walkway leading to a large building.  It is
+an odd looking building that has a dome shaped roof.  There is a faint
+ticking sound coming from it arising wonder as to what it is.  There are
+narrow breaks in the bushes allowing you to go east or west if you wish to
+leave the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 1015
+D1
+~
+~
+0 0 1014
+D2
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1013
+S
+#1012
+Kami's Lookout (Standing Before the Time chamber)~
+The entrance to the hyperbolic time chamber is north of here.  It is not
+for the weak or for anyone that goes in alone.  The large clock on the front
+of it ticks loudly as the hours go by here and the months pass in the
+chamber.  For more information on its working see "help timechamber".  
+~
+0 1024 0
+D0
+~
+~
+1 1002 800
+D1
+~
+~
+0 0 1020
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1023
+S
+#1013
+Kami's Lookout~
+With no railing to keep people from falling off this place can be
+dangerous to those that rush.  This place seems to have a peaceful feel
+about it and is very bright due to the white tiles reflecting the sun.  Even
+some insects have choosen to make thier home here among the flowers that Mr.
+Popo has planeted in his spare time.
+~
+0 0 0
+D0
+~
+~
+0 0 1018
+D1
+~
+~
+0 0 1011
+S
+#1014
+Kami's Lookout~
+With no railing to keep people from falling off this place can be
+dangerous to those that rush through things.  Butterflys flap around the
+small flower gardens that Mr.  Popo has planeted with all his spare.  There
+are a few trees that offer shade and a large building north west of here
+seems to be making a faint ticking sound.  
+~
+0 0 0
+D0
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1011
+S
+#1015
+Kami's Lookout~
+The building is just north of here and the ticking sound has gotten
+somewhat louder.  The bushes that lines this walkway have been replaced by
+trees here.  They stretch high up giveing some shade to this place.  There
+is a short man standing northof here at the building helping those that come
+here and explaning the building to them.  
+~
+0 0 0
+D0
+~
+~
+0 0 1012
+D1
+~
+~
+0 0 1016
+D2
+~
+~
+0 0 1011
+D3
+~
+~
+0 0 1018
+S
+#1016
+Kami's Lookout~
+The air here seems light and friendly.  People come from many places to
+seek the training, wisdom, and peace of mind that this lookout offers.  Well
+kept {gbushes{w sit here with butterflys slapping around it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1020
+D1
+~
+~
+0 0 1017
+D2
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1015
+S
+#1017
+Kami's Lookout~
+With no railing it is smart not to venture to close to the edge of the
+lookout.  From here the entire planet can been seen.  On a clear day one can
+see from the north to the south poles with no problem.  
+~
+0 0 0
+D0
+~
+~
+0 0 1021
+D3
+~
+~
+0 0 1016
+S
+#1018
+Kami's Lookout~
+The white tiles of the lookout floor help to make it bright here.  People
+from all around come here for the guidence of the Kami and to train.  Some
+just sit around meditating in peace.  
+~
+0 0 0
+D0
+~
+~
+0 0 1023
+D1
+~
+~
+0 0 1015
+D2
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1019
+S
+#1019
+Kami's Lookout~
+Looking over the edge of the lookout everything can be seen.  Everything
+below looks so small from being so high up in the air.  The lookout not only
+has a great veiw but offers a place for people to train their bodys and
+minds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1024
+D1
+~
+~
+0 0 1018
+S
+#1020
+Kami's Lookout~
+The way north is blocked by a large building.  There is a row of trees
+running east to west that stretch tall into the sky helping to give the
+lookout some shade.  Mr.  Popo stands west of here helping those that have
+come here to the lookout for whatever reason.  
+~
+0 0 0
+D1
+~
+~
+0 0 1021
+D2
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1012
+S
+#1021
+Kami's Lookout~
+The clean white tiles reflect the sun making it very bright here but the
+few trees that are spred out help to offer shade to those that find it to
+bright.  Many people wonder around talking to each other, Mr. Popo, or
+staring off the edge of the lookout at the world below.  West of here Mr.
+Popo stands helping people with whatever he can.  
+~
+0 0 0
+D0
+~
+~
+0 0 1030
+D1
+~
+~
+0 0 1022
+D2
+~
+~
+0 0 1017
+D3
+~
+~
+0 0 1020
+S
+#1022
+Kami's Lookout~
+This is the eastern most point of the lookout.  With the wind blowing in
+from the west this can be a great place to sit and meditate.  It can also be
+a great place to watch over this part of the world from as much of it is
+visible from here.  Off in the distance to the west Mr.  Popo can be seen 
+~
+0 0 0
+D3
+~
+~
+0 0 1021
+S
+#1023
+Kami's Lookout~
+Beside the time chamber here is a row of bushed that are neatly trimed. 
+The large building seems to tower over everything else on the lookout.  The
+way north is blocked by the time chamber and to the east Mr.  Popo can be
+seen talking to people as they approach.  
+~
+0 0 0
+D1
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 1018
+D3
+~
+~
+0 0 1024
+S
+#1024
+Kami's Lookout~
+The wind blows in from the west here as is cold due to the high altitude
+of the lookout.  The bright white times reflect the sun making it very
+bright as there are no trees here to offer shade.  A small bed of flowers
+has been planeted here by Mr.  Popo and have grown quite beautiful.  Mr. 
+Popo can be seen to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1026
+D1
+~
+~
+0 0 1023
+D2
+~
+~
+0 0 1019
+D3
+~
+~
+0 0 1025
+S
+#1025
+Kami's Lookout~
+This is the western most point on the lookout.  A single tree stands here
+to provide those that want to rest here as they meditate some shade in the
+day light hours.  Being above the clouds offers a veiw of the sky here that
+is the bluest most people have ever seen it.  Mr.  Popo is on in the
+distance to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1024
+S
+#1026
+Kami's Lookout~
+Standing here on the edge of the lookout most of the earth can be veiwed.
+This is what the kami has done as far back as can be remembered.  People
+have gathered here to do the same or to train for a while now as well.  
+~
+0 0 0
+D1
+~
+~
+0 0 1027
+D2
+~
+~
+0 0 1024
+S
+#1027
+Kami's Lookout~
+Walking behind the time chamber here the northern section of he lookout
+is rather plain.  None of the plant life seen in the front have been planted
+here, just the bright white tiles that make up the floor.
+~
+0 0 0
+D0
+~
+~
+0 0 1031
+D1
+~
+~
+0 0 1028
+D3
+~
+~
+0 0 1026
+S
+#1028
+Kami's Lookout~
+Walking behind the time chamber here the northern section of he lookout
+is rather plain.  None of the plant life seen in the front have been planted
+here, just the bright white tiles that make up the floor.
+~
+0 0 0
+D0
+~
+~
+0 0 1032
+D1
+~
+~
+0 0 1029
+D3
+~
+~
+0 0 1027
+S
+#1029
+Kami's Lookout~
+Walking behind the time chamber here the northern section of he lookout
+is rather plain.  None of the plant life seen in the front have been planted
+here, just the bright white tiles that make up the floor.
+~
+0 0 0
+D0
+~
+~
+0 0 1033
+D1
+~
+~
+0 0 1030
+D3
+~
+~
+0 0 1028
+S
+#1030
+Kami's Lookout~
+No railing makes the edge of the lookout dangerous.  However the veiw is
+breath taking as the world seems to be a model far below.  Different points
+of the lookout offer different veiws of the earth and what is happening on
+it.  
+~
+0 0 0
+D2
+~
+~
+0 0 1021
+D3
+~
+~
+0 0 1029
+S
+#1031
+Kami's Lookout~
+Walking behind the time chamber here the northern section of he lookout
+is rather plain.  None of the plant life seen in the front have been planted
+here, just the bright white tiles that make up the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 1032
+D2
+~
+~
+0 0 1027
+S
+#1032
+Kami's Lookout~
+Walking behind the time chamber here the northern section of the lookout
+is rather plain.  None of the plnt life in the front have been planted here,
+just the bright white tiles that make up the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 1034
+D1
+~
+~
+0 0 1033
+D2
+~
+~
+0 0 1028
+D3
+~
+~
+0 0 1031
+S
+#1033
+Kami's Lookout~
+Walking behind the time chamber here the northern section of the lookout
+is rather plain.  None of the plnt life in the front have been planted here,
+just the bright white tiles that make up the floor.  
+~
+0 0 0
+D2
+~
+~
+0 0 1029
+D3
+~
+~
+0 0 1032
+S
+#1034
+Kami's Lookout~
+This is the northern most point of the lookout.  This section of the
+lookout is rather palins and not many people choose the come to this point
+making it quieter then the rest of the lookout.  
+~
+0 0 0
+D2
+~
+~
+0 0 1032
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1012 0 2
+M 0 1003 1 1005 1 Load korin the cat
+O 0 1001 0 1011 A row of palm trees loaded to Kami's Lookout
+M 0 1000 1 1012 1 Load Mr. Popo
+G 0 1002 0 The time chamber key is given to Mr. Popo
+O 0 1000 0 1014 A purple and red flower garden loaded to Kami's Lookout
+O 0 1001 0 1015 A row of palm trees loaded to Kami's Lookout
+M 0 1001 3 1016 1 Load a brightly colored butterfly
+M 0 1002 3 1018 1 Load A yellow butterfly
+O 0 1000 0 1020 A purple and red flower garden loaded to Kami's Lookout
+M 0 1002 3 1021 1 Load A yellow butterfly
+O 0 1000 0 1023 A purple and red flower garden loaded to Kami's Lookout
+M 0 1001 3 1024 1 Load a brightly colored butterfly
+S
+
+
+
+#SHOPS
+1003 26 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#1000
+bow $n
+say Welcome $n, how can I help you?
+~
+#1001
+say Very well $n.
+mob echo Mr. Popo opens the door and pushes $n through.
+mob transfer $n 800
+mob echo Mr. Popo shuts the door.
+mob echoat $n $n has entered the Time Chamber.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

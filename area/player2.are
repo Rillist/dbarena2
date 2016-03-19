@@ -1,0 +1,908 @@
+#AREADATA
+Name playerhousing 2~
+Builders Terraco-d~
+VNUMs 4700 4799
+Credits (null)~
+Security 5
+End
+
+
+
+#MOBILES
+#4750
+fighter~
+a fighter~
+A fighter
+~
+~
+icer~
+AB 0 0 0
+50000000000 -11000
+236 236 236 236 236 
+100 100
+slash
+0 0 0 0
+0 0 0 0
+stand stand none 11821
+AHMV ABCDEFGHIJK large unknown
+#4794
+Mezmeri~
+{xA Mezmeri~
+{xA Mezmeri is here wanting to help.
+~
+~
+human~
+ABSa 0 0 0
+1000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 4798 100~
+M SPEECH 4797 yes~
+#4797
+Mezmeri~
+{xA Mezmerzi~
+A Mezmeri is here waiting to train you.
+~
+~
+human~
+ABJ 0 0 0
+1000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 4799 100~
+#4798
+Person~
+(no short description)~
+A person
+~
+~
+human~
+AB B 0 0
+2000000 141
+78 78 78 78 78 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 1015
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4799
+punch machine ~
+a punching machine~
+A machine that reads attack power
+~
+~
+human~
+AB 0 0 0
+400000 63
+72 72 72 72 72 
+16960 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 679
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 4750 mouth~
+#0
+
+
+
+#OBJECTS
+#4700
+nightstand~
+an oak nightstand~
+An oak nightstand~
+unknown~
+1
+container 0 0
+3000 A 0 1000 0
+0 0 0 P
+#4701
+refrigerator~
+a large refrigerator~
+A large refrigerator~
+unknown~
+1
+furniture 0 0
+BD 0 CFILO 0 0
+0 0 0 P
+#4702
+fireplace~
+a fireplace~
+A brick fireplace~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4721
+hatch~
+a hatch to the healing pool~
+A hatch is here.~
+unknown~
+1
+portal 0 P
+ABCDEFGHILOPRTUXYZbcd 0 0 BEHJM 0
+0 0 0 P
+#4722
+hatch~
+a hatch to the sparring sphere~
+A hatch is here.~
+unknown~
+1
+portal 0 P
+ABCDEFGJKMPTUX 0 0 AEHJM 0
+0 0 0 P
+#4723
+armorine key~
+{rA{Rr{rm{Ro{rr{Ri{rn{Re{r'{Rs {CH{co{Cu{cs{Ce {DK{Ge{Dy{x~
+{rA{Rr{rm{Ro{rr{Ri{rn{Re{r'{Rs {CH{co{Cu{cs{Ce {DK{Ge{Dy{x is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 1 0 P
+#4730
+vending machine~
+a vending machine~
+A vending machine is here.~
+unknown~
+1
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+O SPEECH 4730 soup~
+#4750
+desk vegito~
+a seat behind {W({b-{RV{b-{W){re{Rg{ri{Rt{ro{R'{rs {CD{ce{Cs{ck{x~
+{W({b-{RV{b-{W){re{Rg{ri{Rt{ro{R'{rs {CD{ce{Cs{ck{W is here.{x~
+unknown~
+1
+furniture 0 P
+A ABCDEFGHIJKLMNOPQRSTUVWXYZabcde FIL DFGHIJ DFGHIJ
+0 0 0 P
+#4751
+halo~
+{YA shimering gold halo{x~
+{YA shimering gold halo{x is here.~
+unknown~
+1
+treasure A AE
+0 0 0 0 0
+0 0 0 P
+#4755
+alo~
+an earring~
+The Alogay is here.~
+unknown~
+1
+treasure AX AT
+0 0 0 0 0
+0 0 0 P
+A
+26 100000000
+#4756
+head~
+a immortal headband~
+(no description)~
+unknown~
+1
+armor 0 AE
+0 0 0 0 0
+0 0 0 P
+#4757
+sword~
+a Long Sword~
+A Long Sword~
+unknown~
+1
+treasure 0 AN
+0 0 0 0 0
+0 0 100000 P
+#4783
+pouch dragonballtoken~
+{WA {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn {GP{go{Gu{gc{Gh{x~
+{WA {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn {GP{go{Gu{gc{Gh{x is here.~
+unknown~
+2147483647
+container X AKP
+10000 A 0 20 1000
+0 0 0 P
+#4784
+black portal~
+{GBlack Portal{x~
+{GBlack Portal{x is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 1 0 P
+#4785
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+portal 0 0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0 0 0
+0 0 0 P
+#4786
+card key~
+{WLv.{r1 {yCard Key{x~
+A {WLv.{r1 {yCard Key{x is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 0 0 P
+#4787
+chamber key~
+{xThe Chamber Key~
+{xA chamber key is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 0 0 P
+#4788
+ring android elite~
+{WA ring with the {YAndroid {DElite {WSymbol{x~
+A powerful looking ring is here.~
+unknown~
+2147483647
+armor A AB
+0 0 0 0 0
+0 0 0 P
+#4789
+key metalic~
+a {WM{De{Wt{Da{Wl{Di{Wc {DK{We{Dy{x~
+A {WM{De{Wt{Da{Wl{Di{Wc {DK{We{Dy{x is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 1 0 P
+#4790
+ship large~
+the entrance to the ship~
+A large ship is landed here.~
+unknown~
+1
+portal 0 P
+ABCDEFJOQRST 0 0 ACEFJM 0
+0 0 0 P
+#4791
+map wall~
+{xA large wall map~
+A large wall map is mounted on the northern wall.~
+unknown~
+1
+map 0 P
+0 0 0 0 0
+0 0 0 P
+#4792
+table round large~
+a seat behind the large round table~
+{DA large round table is here.{x~
+unknown~
+1
+furniture 0 P
+BD GJOQRST FIL ADE ADE
+0 0 0 P
+#4793
+commanders key~
+{xThe Commanders Key~
+A commanders key is here.~
+unknown~
+1
+key X AOP
+0 0 0 0 0
+0 1 0 P
+#4794
+transport key~
+{xThe Transport Key~
+A transport key is here.~
+unknown~
+2147483647
+key 0 AOP
+0 0 0 0 0
+0 1 0 P
+#4795
+ship transport~
+{xA transport leading back to earth~
+{xA transport leading back to earth is here.~
+unknown~
+1
+portal 0 P
+ABCDEFJOQRST 0 0 ACEFHJK 0
+0 0 0 P
+#4796
+Dagger Implaement~
+{xThe {bD{Da{bg{Dg{be{Dr {xof {BI{xm{Bp{xa{Bl{xe{Bm{xe{Bn{xt~
+A very powerful dagger is here on the ground.~
+unknown~
+1
+weapon X AN
+dagger 20 13 stab DE
+0 15 0 P
+#4797
+corpse retrieval ticket~
+{xA {CF{cre{Ce {CC{co{Wrp{cs{Ce {CR{ce{Wtr{xi{Wev{ca{Cl {CT{ci{xck{ce{Ct{x~
+A ticket that reads 'Retrieval' is on the ground here.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 500 P
+#4798
+restring item ticket~
+{xA {CF{cre{Ce {CI{cte{Cm {cR{xe{Ws{xtr{Wi{cn{Cg{x~
+A ticket that reads 'Restring' is here on the ground.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 100 P
+#4799
+Dragonball Token~
+{WA {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{x~
+{WA {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{x is here.~
+unknown~
+1111111111
+treasure A AOP
+0 0 0 0 0
+1 1 0 P
+#0
+
+
+
+#ROOMS
+#4700
+Living Room~
+A well kept living room, a large fireplace sits on one side of the room,
+a beautifull rug on the floor, a comfortable chair and a Big leather couch
+with a coffee table infront of it, a small table by the chair, in the
+southeastern corner there are stairs leading up.  
+~
+0 8 0
+D0
+~
+~
+0 0 4702
+D1
+~
+~
+0 0 4703
+D2
+~
+~
+0 0 4705
+D3
+~
+~
+0 0 4701
+D4
+~
+~
+0 0 4706
+S
+#4701
+Front Porch~
+This small front porch only constis of a few feet of room all around the
+house.  There is small trinkets and some funiture byt the looks of things
+and a sign abouve the door "Angelina's house" is writen in a nice looking
+type of wrting.  There are a few plants hanging from the roof but nothing
+really worth looking at.  The front door to the west looks even more
+excelntly carved out and looks like it cost a small fortune.  
+~
+0 8 0
+D1
+~
+~
+0 0 4700
+D3
+~
+~
+0 0 1189
+S
+#4702
+Angelina's Room~
+An Extravagant Room, A Huge Bed with a canopy sits in the middle against
+a wall, silk sheets lay on the bed and a see-through cloth is draped from
+the canopy, obscuring vision of any occupants on the bed,on either side of
+the bedthere is a nightstand, off to one side near a door there is a tall
+Oak dresser.  
+~
+0 8 0
+D1
+~
+~
+1 0 4704
+D2
+~
+~
+0 0 4700
+S
+#4703
+The Kitchen~
+It is a large kitchen, a huge refridgerator sits off to one side, the
+front of it flush with the wall and the cabinents around it.  In the middle
+of the kitchen there is an island with a cutting board on it, as well as a
+smooth-top stove, a knife block sits on the island full of knives of all
+sizes.  Off to one side of the kitchen there is a round table with chairs
+around it, a light hangs over the table.  
+~
+0 8 0
+D3
+~
+~
+0 0 4700
+S
+#4704
+Walk-in-closet~
+A large closet, on one side a revolving clothes rack filled with clothes,
+oppistie that a shoe rack with a good 5 rows of 10 shoes, strait in the back
+of the closet is another tall oak dresser.  
+~
+0 8 0
+D3
+~
+~
+1 4786 4702
+R SPEECH 4795 hq~
+S
+#4705
+Bathroom~
+A well lit Bathroom, There is a toliet here, a eleagant sink with a
+vanity mirror above it, lights lining the edges of the mirror.  A large
+spa-type bath-tub sits off to the side, its large enough to fit two people
+easily.  
+~
+0 8 0
+D0
+~
+~
+0 0 4700
+R SPEECH 3510 done~
+R SPEECH 4700 fill~
+S
+#4706
+Theater Room~
+An Immense Theatre, 5 huge bean bag chairs line the floor, a giangantic
+screen on one wall, and a projector on the other end of the room, off to one
+side there is a wet-bar fully stocked with booze of all kinds, along with a
+popcorn machine.  
+~
+0 8 0
+D5
+~
+~
+0 0 4700
+S
+#4750
+Infront of Armorine's House~
+The porch here is made of wood pannels laid out horizontaly across the
+ground, there is a door on the northern wall, it is made of wood and is
+painted white.  There is a three person swing hanging from the ceiling on
+the western part of the porch.  To the south is a garden path leading to the
+main street of the city.  
+~
+0 0 0
+D0
+~
+~
+1 4723 4751
+D2
+~
+~
+0 0 3500
+S
+#4751
+Living Room~
+This room is a very relaxing with it plush green carpeting and its large
+voice activated television.  On the walls are old very valuable painting's. 
+To the west againest the wall is a huge couch that seats many people.  In
+the northeast corner of the room is a very comfortable looking chair looking
+directly at the television.
+~
+0 8 0
+D0
+~
+~
+0 0 4755
+D1
+~
+~
+0 0 4752
+D2
+~
+~
+1 4723 4750
+D3
+~
+~
+0 0 4753
+R SPEECH 4723 on~
+R SPEECH 4724 off~
+S
+#4752
+Armorine's Bedroom~
+This room is very dark have black curtains,black carpet and black sheets
+on the bed.  There is a large four post bed which takes up most of the room
+against the northern wall.  On the right side of the bed there is a dresser
+with a clock and lamp setting on it.  To the south of the bed is a 35"
+television.  
+~
+0 8 0
+D3
+~
+~
+0 0 4751
+S
+#4753
+Sparring Sphere~
+This is the sparring sphere where fighters safely test themselves against
+others.  It is in a sphere shape that allows for easy movement.  Most of the
+area is padded except for the bottom which is the door to the sphere.  There
+are sweat and blood stains dabbed around the room.  On the south wall there
+is a two foot hole from being punched out by some person.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 4751
+S
+#4754
+Healing Pool~
+This pool is filled with a liquid that heals on contact.  It is used
+throughout most of the galaxy.  It is a perfect place to heal unwanted
+wounds and scars.  It is said that using the pool to much is the same as
+using a sensory deprivation chamber.  The user may halucinate or be able to
+sense things normaly unsensable.  
+~
+0 1036 0
+M 500 H 500
+S
+#4755
+Bath & Toliet~
+This is the bathroom, the floor is made up of black and white tiles, the
+sink is made of midnight blue marble.  To the eastern wall is a large
+bathtub, to the northern wall is a voice activated toilet.  The window's a
+covered by black curtains and is also surrounded by midnight blue marble.  
+~
+0 1032 0
+D2
+~
+~
+0 0 4751
+M 500 H 500
+R SPEECH 4720 fill~
+R SPEECH 4721 drain~
+R SPEECH 4722 done~
+S
+#4756
+Training Room~
+In this room fighters increase there own Strength, Intelligence, Wisdom,
+Dextarity, and Consition.  There are sweat stains on the ground where some
+fighters spend hours incerasing stats.  The floor is a made of red rubber
+tiles which have an unusually soft feeling.  
+~
+0 1036 0
+S
+#4757
+Living Quarters~
+~
+0 8 0
+S
+#4758
+Commanding Quarters~
+These are the living spaces of the commanders of the elite.  East is the
+area of Zierk, west is Angelina's area, and north is Koa's area.  The floor
+is made of green rubber tiles shaped in square feet, the walls are white and
+dully reflects the light in the ceiling.  A sign above the southern wall
+reads, '{REnlisted Quarters{x'.  
+~
+0 8 0
+D0
+~
+~
+1 4787 4759
+S
+#4759
+Koa's Quarters~
+You have entered the Quarters of Koa.  As you look around you see metal
+chains hanging from the ceiling with decayed corpses hanging on them.  The
+smell of rotting flesh fills the air, making you want to gag.  Like the
+Android Elite always say, if you want to enjoy the pleasures of life, be
+prepaired to experience the pains as well.  
+~
+0 8 0
+D2
+~
+~
+1 4787 4758
+S
+#4760
+Quarter Deck~
+~
+0 8 0
+D0
+~
+~
+1 0 4761
+S
+#4761
+A Long Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 4762
+D1
+~
+~
+0 0 4763
+D2
+~
+~
+1 0 4760
+S
+#4762
+Koa's Lab~
+~
+0 8 0
+D1
+~
+~
+0 0 4764
+D2
+~
+~
+0 0 4761
+S
+#4763
+Gabe's Quarters~
+~
+0 8 0
+D0
+~
+~
+0 0 4764
+D3
+~
+~
+0 0 4761
+S
+#4764
+Entertainment Room~
+~
+0 8 0
+D2
+~
+~
+0 0 4763
+D3
+~
+~
+0 0 4762
+S
+#4765
+Vel's Quarters~
+A large, blank room covered in white, the only decoration the room has is
+a grand black fighting mat.  The mat has little sploches of red decorating
+it, but aside from that is a plain padded fighting mat.  
+~
+0 8 0
+S
+#4766
+Alik's Quarters~
+~
+0 8 0
+S
+#4767
+War Room~
+This is where the elite comes to talk about straigty, the room is dark
+except for the bright white light strinking the center of the large round
+black table in the center of the room.  There is a giant map on the north
+wall, it currently shows the {YAndroid{D Elite{x symbol, but it will show
+you a image if you tell it to.  
+~
+0 12 0
+R SPEECH 4796 namek~
+R SPEECH 4797 vegeta~
+S
+#4768
+Zierk's Bedroom~
+~
+0 0 0
+S
+#4769
+Redemption's Quarters~
+~
+0 0 0
+S
+#4799
+{GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x~
+~
+0 3145740 0
+E
+sign~
+For collecting my Tokens, thall shall recive this...
+
+10  {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{cs{x = 24 hours in Time Room
+15  {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{cs{x = Prize Dagger
+25  {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{cs{x = Piece of my EQ
+50  {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{cs{x = Prize Scouter
+75  {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{cs{x = 48 hours in Time Room
+100 {YDrag{y({R*{y){Yn{RBall {CT{co{Ck{ce{Cn{cs{x = A DragonBall
+~
+M 1000 H 1000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4702 1 2
+D 0 4704 3 2
+D 0 4750 0 2
+D 0 4751 2 2
+D 0 4758 0 2
+D 0 4759 2 2
+D 0 4760 0 2
+D 0 4761 2 2
+O 0 926 0 4700 A table loaded to Living Room
+O 0 3517 0 4700 A black vinyl couch loaded to Living Room
+O 0 3500 0 4700 A coffee table loaded to Living Room
+O 0 927 0 4700 A comfortable chair loaded to Living Room
+O 0 4702 0 4700 A fireplace loaded to Living Room
+O 0 3503 0 4702 A dresser loaded to Angelina's Room
+O 0 4700 0 4702 An oak nightstand loaded to Angelina's Room
+O 0 1954 0 4702 A four-post bed with silky sheets loaded to Angelina's Room
+O 0 3501 0 4703 A stove and oven combo loaded to The Kitchen
+O 0 4701 0 4703 A large refrigerator loaded to The Kitchen
+O 0 924 0 4703 A refrigerator loaded to The Kitchen
+O 0 926 0 4703 A table loaded to The Kitchen
+O 0 940 0 4703 A sturdy chair loaded to The Kitchen
+O 0 939 0 4703 Another chair loaded to The Kitchen
+O 0 3503 0 4704 A dresser loaded to Walk-in-closet
+O 0 3511 0 4705 The bathtub loaded to Bathroom
+O 0 3510 0 4705 A toilet loaded to Bathroom
+O 0 943 0 4706 A bar loaded to Theater Room
+O 0 1902 0 4706 A blue beanbag loaded to Theater Room
+O 0 1902 0 4706 A blue beanbag loaded to Theater Room
+O 0 3508 0 4750 A swing loaded to Infront of Armorine's House
+O 0 3504 0 4751 A high definition tv set loaded to Living Room
+O 0 4698 0 4751 {xan {yi{ym{wm{xo{yr{yt{ya{yl {cc{co{wu{xc{ch {wo{xf {rl{ra{wz{xi{rn{re{ws{xs loaded to Living Room
+O 0 927 0 4751 A comfortable chair loaded to Living Room
+O 0 1954 0 4752 A four-post bed with silky sheets loaded to Armorine's Bedroom
+O 0 3503 0 4752 A dresser loaded to Armorine's Bedroom
+O 0 3512 0 4752 A 35" television loaded to Armorine's Bedroom
+O 0 4721 0 4753 A hatch to the healing pool loaded to Sparring Sphere
+O 0 4722 0 4754 A hatch to the sparring sphere loaded to Healing Pool
+O 0 3510 0 4755 A toilet loaded to Bath & Toliet
+O 0 3511 0 4755 The bathtub loaded to Bath & Toliet
+O 0 922 0 4755 A sink loaded to Bath & Toliet
+O 0 4792 0 4767 A seat behind the large round table loaded to War Room
+O 0 4600 0 4767 A electronic wall map loaded to War Room
+O 0 4750 0 4799 A seat behind {w({b-{rv{b-{w){re{rg{ri{rt{ro{r'{rs {cd{ce{cs{ck{x loaded to {GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x
+O 0 2504 0 4799 A fountain loaded to {GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4750
+Mob Gainskill mouthbeam $n
+~
+#4797
+say Ok $n, just relax.
+Mob EChoat $n A Mezmeri places his plam on your head.
+Mob Echoaround $n A Mezmeri places his plam on $n's head.
+Mob Echoat $n A Mezmeri's hand begins to glow, and transfers into your body.
+Mob Echoaround $n A Mezmeri's hand begins to glow, and transfers into $n's body.
+say Sleep now, you shall have your wounds healed when you awaken.
+~
+#4798
+say Hello there, do you need any healing?
+~
+#4799
+say Hello $n, here let me train you in the arts of Str, Int, Wis, Dex, and Con.
+~
+#0
+
+#OBJPROGS
+#4730
+obj echo The vending machine drops a bowl of cajun soup out of its hatch!
+obj oload 2502
+~
+#4798
+Obj Echo A large wall map flickers and shows a map of Planet Namek.
+~
+#4799
+Obj Echo A large wall map flickers and shows a map of Planet Vegeta.
+~
+#0
+
+#ROOMPROGS
+#4700
+room echo The bathtub slowly fills itself up.
+~
+#4720
+Room Echo A large bathtub begins to fill up with water.
+~
+#4721
+Room Echo A large bathtub begins to drain.
+~
+#4722
+Room Echo A voice activated toliet flushes!
+~
+#4723
+Room Echo A high definition television flickers and turns itself on!
+~
+#4724
+Room Echo A high definition television flickers and turns itself off!
+~
+#4730
+Room Echo The vending machine drops a bowl of cajun soup out of its hatch!
+Room Oload 2502
+~
+#4794
+room echoat You are transported into an unknown place.
+room echoaround $n is transported into places unknown.
+room transfer $n 4704
+~
+#4795
+room echoat You are transported into the {YAndroid {DElite {xHQ.
+room echoaround $n is transported into places unknown.
+Room transfer $n 4674
+~
+#4796
+Room Echo An electronic wall map flickers and shows a map of Planet Namek.
+~
+#4797
+Room Echo An electronic wall map flickers and shows a map of Planet Vegeta.
+~
+#4798
+Room GTransfer $n 1957
+Room Echo $n steps onto the transport pad and is hit by a beam of light.
+Room Echo When the light fades, $n is gone.
+~
+#4799
+Room GTransfer $n 200
+Room Echo $n steps onto the transport pad and is hit by a beam of light.
+Room Echo When the light fades, $n is gone.
+~
+#0
+
+#$

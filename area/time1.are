@@ -1,0 +1,1195 @@
+#AREADATA
+Name Time Chamber~
+Builders Terraco-d~
+VNUMs 800 899
+Credits Vegeta --- Room of spirit and time~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#800
+A rice bowl~
+some rice~
+A Rice bowl has been left for you here. ~
+unknown~
+1
+food N A
+0 0 0 0 CFG
+0 0 0 P
+#801
+Jug water~
+water jug~
+A jug filled with water~
+unknown~
+1
+fountain 0 0
+10 10 'water' 0 0
+0 0 0 P
+#802
+large white bed~
+a white bed~
+A White bed to rest on after training~
+unknown~
+1
+furniture 0 0
+A GJOQRST K DFGHIJ DFGHIJ
+0 0 0 P
+#803
+a large white bed~
+a white bed~
+A second white bed to rest in~
+unknown~
+1
+furniture 0 0
+A GJOQRST K DFGHIJ DFGHIJ
+0 0 0 P
+#804
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#800
+Inside the Time Chamber~
+There are many clocks as you enter.  There are all ticking very loudly
+and they make you feel uneasy.  To the west there are beds and a bathtub. 
+To the east there is a refridgerator with lots of food in it.
+~
+0 0 0
+D0
+~
+~
+0 0 803
+D1
+~
+~
+0 0 802
+D2
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 801
+M 150 H 150
+S
+#801
+Bedroom~
+This is a very small room.  It only has to beds with many sheets and
+covers.  The wallpaper is just sraight lines of greens going up and down. 
+The carpet is plain white and looks very worn.  
+~
+0 0 0
+D1
+~
+~
+0 0 800
+M 300 H 300
+S
+#802
+A Large Room~
+This is a large room with three refridgerators with food stuffed into it.
+There are two other refridgeratoors to store water and other drinks.  There
+is only a single table with two chairs waiting to be sat in.  
+~
+0 2097152 0
+D3
+~
+~
+0 0 800
+M 150 H 150
+S
+#803
+A Small Platform~
+This is a small platform used for stretching.  Everything around the
+platform except to the South is void.  Once you step out into the void your
+body will immediatly become a lot heavier.  It is highly advised that you
+dont venture far out.  
+~
+0 0 0
+D0
+~
+~
+0 0 804
+D1
+~
+~
+0 0 805
+D2
+~
+~
+0 0 800
+D3
+~
+~
+0 0 806
+M -100 H -100
+S
+#804
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+stron g minded and tough warriors can stay in here for a long period of
+time.  Now you can see why.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 809
+D1
+~
+~
+0 0 807
+D2
+~
+~
+0 0 803
+D3
+~
+~
+0 0 808
+M -100 H -100
+S
+#805
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 807
+D1
+~
+~
+0 0 818
+D2
+~
+~
+0 0 824
+D3
+~
+~
+0 0 803
+M -100 H -100
+S
+#806
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 1048576 0
+D0
+~
+~
+0 0 808
+D1
+~
+~
+0 0 803
+D2
+~
+~
+0 0 826
+D3
+~
+~
+0 0 832
+M -100 H -100
+S
+#807
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 1048576 0
+D0
+~
+~
+0 0 810
+D1
+~
+~
+0 0 819
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 804
+M -100 H -100
+S
+#808
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 1048576 0
+D0
+~
+~
+0 0 811
+D1
+~
+~
+0 0 804
+D2
+~
+~
+0 0 806
+D3
+~
+~
+0 0 831
+M -100 H -100
+S
+#809
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+stron g minded and tough warriors can stay in here for a long period of
+time.  Now you can see why.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 812
+D1
+~
+~
+0 0 810
+D2
+~
+~
+0 0 804
+D3
+~
+~
+0 0 811
+M -100 H -100
+S
+#810
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+stong minded and tough warriors can sty in here for a long period of time. 
+Now you can see why.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 815
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 807
+D3
+~
+~
+0 0 809
+M -100 H -100
+S
+#811
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 3145728 0
+D0
+~
+~
+0 0 814
+D1
+~
+~
+0 0 809
+D2
+~
+~
+0 0 808
+D3
+~
+~
+0 0 830
+M -100 H -100
+S
+#812
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+stron g minded and tough warriors can stay in here for a long period of
+time.  Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 813
+D1
+~
+~
+0 0 815
+D2
+~
+~
+0 0 809
+D3
+~
+~
+0 0 814
+M -100 H -100
+S
+#813
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+stron g minded and tough warriors can stay in here for a long period of
+time.  Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 825
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 812
+D3
+~
+~
+0 0 816
+M -100 H -100
+S
+#814
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 3145728 0
+D0
+~
+~
+0 0 816
+D1
+~
+~
+0 0 812
+D2
+~
+~
+0 0 811
+D3
+~
+~
+0 0 829
+M -100 H -100
+S
+#815
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 3145728 0
+D0
+~
+~
+0 0 817
+D1
+~
+~
+0 0 821
+D2
+~
+~
+0 0 810
+D3
+~
+~
+0 0 812
+M -100 H -100
+S
+#816
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 3145728 0
+D0
+~
+~
+0 0 826
+D1
+~
+~
+0 0 813
+D2
+~
+~
+0 0 814
+D3
+~
+~
+0 0 828
+M -100 H -100
+S
+#817
+A White Void~
+The vast space begins to make you feel dizzy and very lonely. Only a few stron
+g minded and tough warriors can stay in here for a long period of time. Now you
+can see why. 
+~
+0 3145728 0
+D0
+~
+~
+0 0 824
+D1
+~
+~
+0 0 822
+D2
+~
+~
+0 0 815
+D3
+~
+~
+0 0 813
+M -100 H -100
+S
+#818
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 819
+D1
+~
+~
+0 0 844
+D2
+~
+~
+0 0 823
+D3
+~
+~
+0 0 805
+M -100 H -100
+S
+#819
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 820
+D1
+~
+~
+0 0 843
+D2
+~
+~
+0 0 818
+D3
+~
+~
+0 0 807
+M -100 H -100
+S
+#820
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 821
+D1
+~
+~
+0 0 842
+D2
+~
+~
+0 0 819
+D3
+~
+~
+0 0 810
+M -100 H -100
+S
+#821
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 822
+D1
+~
+~
+0 0 841
+D2
+~
+~
+0 0 820
+D3
+~
+~
+0 0 815
+M -100 H -100
+S
+#822
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 823
+D1
+~
+~
+0 0 840
+D2
+~
+~
+0 0 821
+D3
+~
+~
+0 0 817
+M -100 H -100
+S
+#823
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 818
+D1
+~
+~
+0 0 839
+D2
+~
+~
+0 0 822
+D3
+~
+~
+0 0 824
+M -100 H -100
+S
+#824
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 805
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 817
+D3
+~
+~
+0 0 825
+M -100 H -100
+S
+#825
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D1
+~
+~
+0 0 824
+D2
+~
+~
+0 0 813
+D3
+~
+~
+0 0 826
+M -100 H -100
+S
+#826
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 806
+D1
+~
+~
+0 0 825
+D2
+~
+~
+0 0 816
+D3
+~
+~
+0 0 827
+M -100 H -100
+S
+#827
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 832
+D1
+~
+~
+0 0 826
+D2
+~
+~
+0 0 828
+D3
+~
+~
+0 0 838
+M -100 H -100
+S
+#828
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 827
+D1
+~
+~
+0 0 816
+D2
+~
+~
+0 0 829
+D3
+~
+~
+0 0 837
+M -100 H -100
+S
+#829
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 828
+D1
+~
+~
+0 0 814
+D2
+~
+~
+0 0 830
+D3
+~
+~
+0 0 836
+M -100 H -100
+S
+#830
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 829
+D1
+~
+~
+0 0 811
+D2
+~
+~
+0 0 831
+D3
+~
+~
+0 0 835
+M -100 H -100
+S
+#831
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 830
+D1
+~
+~
+0 0 808
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 834
+M -100 H -100
+S
+#832
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 831
+D1
+~
+~
+0 0 806
+D2
+~
+~
+0 0 827
+D3
+~
+~
+0 0 833
+M -100 H -100
+S
+#833
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 834
+D1
+~
+~
+0 0 832
+D2
+~
+~
+0 0 838
+D3
+~
+~
+0 0 844
+M -100 H -100
+S
+#834
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 835
+D1
+~
+~
+0 0 831
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 843
+M -100 H -100
+S
+#835
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 836
+D1
+~
+~
+0 0 830
+D2
+~
+~
+0 0 834
+D3
+~
+~
+0 0 842
+M -100 H -100
+S
+#836
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 837
+D1
+~
+~
+0 0 829
+D2
+~
+~
+0 0 835
+D3
+~
+~
+0 0 841
+M -100 H -100
+S
+#837
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 838
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 836
+D3
+~
+~
+0 0 840
+M -100 H -100
+S
+#838
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 827
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 839
+M -100 H -100
+S
+#839
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 844
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 823
+M -100 H -100
+S
+#840
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 837
+D2
+~
+~
+0 0 841
+D3
+~
+~
+0 0 822
+M -100 H -100
+S
+#841
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 840
+D1
+~
+~
+0 0 836
+D2
+~
+~
+0 0 842
+D3
+~
+~
+0 0 821
+M -100 H -100
+S
+#842
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 841
+D1
+~
+~
+0 0 835
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 820
+M -100 H -100
+S
+#843
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 842
+D1
+~
+~
+0 0 834
+D2
+~
+~
+0 0 844
+D3
+~
+~
+0 0 819
+M -100 H -100
+S
+#844
+A White Void~
+The vast space begins to make you feel dizzy and very lonely.  Only a few
+strong minded and tough warriors can stay in here for a long period of time.
+Now you can see why.  
+~
+0 3145728 0
+D0
+~
+~
+0 0 843
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 839
+D3
+~
+~
+0 0 818
+M -100 H -100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 802 0 801 A white bed loaded to Bedroom
+O 0 803 0 801 A white bed loaded to Bedroom
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

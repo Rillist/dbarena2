@@ -1,0 +1,581 @@
+#AREADATA
+Name Tournment Island (Earth)~
+Builders Terraco-d~
+VNUMs 3400 3499
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3400
+marching band~
+a marching band~
+A marching band welcoming competitors with much fanfare
+~
+~
+human~
+AB 0 1000 0
+5000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+M 0 medium unknown
+F for AHV
+F par ABCDEFGHIJK
+M GREET 3400 100~
+#3401
+young monk~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3402
+old monk~
+a old monk~
+An old monk writing down names of registering fighters
+~
+~
+human~
+AB 0 0 0
+5000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+sit sit none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3403
+old monk~
+an old monk~
+An old monk, directing spectators to the stands
+~
+~
+human~
+AB 0 0 0
+5000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+sit sit male 0
+MV 0 medium unknown
+F for AH
+F par ABCDEFGHIJK
+M GREET 3403 100~
+M SPEECH 3404 fight~
+M SPEECH 3401 watch~
+#3405
+owner snack bar~
+the snack bar owner~
+The owner of the snack bar selling various products
+~
+~
+human~
+AB 0 0 0
+4000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3414
+doctor~
+A short doctor~
+A short and rather fat doctor.
+~
+~
+human~
+Aa 0 0 0
+100 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#3400
+plane~
+a plane back to Satan City~
+A plane back to Satan City~
+unknown~
+1
+portal 0 0
+0 0 0 DGH 0
+0 0 0 P
+#3401
+bag chips~
+a bag of chips~
+A bag of chips~
+unknown~
+1
+food 0 AO
+C B 0 0 0
+0 0 10 P
+#3402
+nachos plate~
+a plate of nachos~
+A plate of cheezy nachos~
+unknown~
+1
+food 0 AO
+A B 0 0 0
+0 0 10 P
+#3403
+registration table wooden~
+the wooden registration table~
+A wooden table, with a {b"Registration"{x sign upon it~
+unknown~
+1
+furniture 0 0
+B GJOQRST D 0 0
+0 0 0 P
+#3404
+bottle soda~
+a bottle of soda~
+A bottle of soda~
+unknown~
+1
+drink 0 AO
+3 3 'coke' 0 0
+0 0 10 P
+#3405
+stand snack bar~
+a snack bar~
+A stand filled with food and drinks~
+unknown~
+1
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+stand~
+Looking at the stand, you see nachos with a gooey cheese topping, chips
+of various flavors, soda and beer to drink.  
+~
+#3406
+white shirt~
+a white cotton shirt~
+A white cotton shirt~
+cotton~
+1
+armor 0 AD
+ABCD ABCD ABCD ABCD 0
+0 0 0 P
+#3407
+white pants~
+a pair of white cotton pants~
+A pair of white cotton pants~
+cotton~
+1
+armor 0 AF
+ABCD ABCD ABCD ABCD 0
+0 0 0 P
+#3408
+black shoes~
+a black pair of lowtop shoes~
+A pair of black lowtop shoes~
+unknown~
+1
+armor 0 AG
+ABCD ABCD ABCD ABCD 0
+0 0 0 P
+#3409
+white sweatband~
+a white sweatband~
+A white sweatband~
+unknown~
+1
+armor 0 AE
+ABCD ABCD ABCD ABCD 0
+0 0 0 P
+#3410
+plane ~
+a plane to tournament island~
+A plane to tournament island~
+unknown~
+1
+portal 0 0
+GJOQRST 0 0 DGIKL 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#3400
+Landing Pad~
+The landing pad is a large square with yellow marks on it in different
+places for different types of craft.  Craft of many kinds have been parked
+neatly next to a beach to the north.  Trees line the east and west of the
+pad while a stone walkway leads to the south.  
+~
+0 1024 0
+D2
+~
+~
+0 0 3401
+S
+#3401
+Stone Walkway~
+The path goes off in two directions.  Heading south to a building with a
+table in front of it.  Heading north, it leads to the landing pad, where
+many crafts are waiting for departure.  Trees line the walkway along the
+east and west.  
+~
+0 1024 0
+D0
+~
+~
+0 0 3400
+D2
+~
+~
+0 0 3402
+S
+#3402
+Stone Walkway~
+Trees on the east and west help to shade the dark stone walkway from the
+sun overhead.  Closer to the table a sign can now be seen hanging off the
+front saying {b"Registration"{w.  Two old human monks sit in wooden chairs
+writing down the entrys names and directing people here to watch and gamble.
+A little north of here the landing pad can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 3401
+D2
+~
+~
+0 0 3403
+S
+#3403
+Registration Table~
+Two monks sit behind a small table registering fighter and directing
+people here to watch to the seating A cloth has been hung from the doorway
+east to the one west.  The building are large and made of concrete with red
+tile roofs.  Almost hidden behind the cloth, speakers hang upon the walls.  
+~
+0 1024 0
+D0
+~
+~
+0 0 3402
+D1
+~
+~
+0 0 3405
+D3
+~
+~
+0 0 3404
+S
+#3404
+Inside the Fighters Side~
+The hallway leads to the west.  The only light that comes in is through
+the opening in the roof.  A sign on the wall reads "{cLocker rooms{w and has
+an arrow pointing to the west.  The registration desk is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 3403
+D3
+~
+~
+0 0 3410
+S
+#3405
+Inside the Spectators Side~
+Just inside the doors of this building the only light provided is by the
+opening in the ceiling.  A snack bar selling food for the fight sits to the
+east.  East will lead out to the registration table.  
+~
+0 0 0
+D1
+~
+~
+0 0 3406
+D2
+~
+~
+0 0 3407
+D3
+~
+~
+0 0 3403
+S
+#3406
+Inside the Spectators Side~
+Stepping under what seems like a wide open tent flap, the snack bar owner
+can be seen going back and forth, trying to keep his stand filled with
+enough food for everyone.  He seems in high spirit with the turnout for the
+tournament.  There is a faint smell of melted cheeze on the air.  
+~
+0 1024 0
+D3
+~
+~
+0 0 3405
+S
+#3407
+Inside the Spectators Side~
+The light from the open ceiling helps to allow people to see walking
+through here.  People on all sides going to the snack bar or to the betting
+table to the place a bet on the next fight.  Out the door to the south the
+stone walkway splits into three with a sign beside each one.  
+~
+0 0 0
+D0
+~
+~
+0 0 3405
+D1
+~
+~
+0 0 3408
+D2
+~
+~
+0 0 3409
+S
+#3408
+Betting Table~
+A table sits here with the person taking bets setting writing down the
+bets an handing out the tickets.  DO NOT RUSH THE BET TAKER.  LET THEM GET
+EVERYTHING RIGHT.  
+~
+0 0 0
+D3
+~
+~
+0 0 3407
+S
+#3409
+Three Way Fork~
+The walkway forks in three directions here heading to the three fighting
+rings of this island.  To the west is a sign with {rChampionship Arena{w {w
+written on it.  South the sign says {rElimination Arena{w where the
+elimination matches for the tounrment are held.  {cJunior Arena{w is written
+on the sign to the east and leads to the arena where the junior division
+fights.  
+~
+0 0 0
+D0
+~
+~
+0 0 3407
+D3
+~
+~
+0 0 3411
+S
+#3410
+Path to the Locker Rooms~
+The hallway turns to the south here where the hall widens a bit as hit heads for the locker rooms.
+The hall leads to a doorway just south of here where a monk stand directing people to the correct locker room.
+~
+0 0 0
+D1
+~
+~
+0 0 3404
+D2
+~
+~
+0 0 3413
+S
+#3411
+Concrete Arches~
+Two large stone walls line the way west.  The two large concrete arches
+to the west lead into the seating for the Championship arena.  This is where
+the final 8 from the elimination rounds fight for the right to be crowed the
+worls martial arts champion.  
+~
+0 0 0
+D1
+~
+~
+0 0 3409
+D3
+~
+~
+0 0 3412
+S
+#3412
+CHAMPIONSHIP ARENA~
+Concrete bleachers line the four sides of the ring and stand ruffly 100
+feet in the air.  In the center surrounded by grass is the ring itself. 
+Made of 1 foot by 1 foot sqaure blocks the ring looks to be 50 feet long and
+wide providing a large surface for the fights.  To the south on the ground
+level is a archway where the fighter come out from.  
+~
+0 2097152 0
+D1
+~
+~
+0 0 3411
+D2
+~
+~
+0 0 3414
+S
+#3413
+Locker Room Doors~
+The open ceiling here allows the sun to flood this place with light.
+Three large metal doors stand here for their respective divisions of the tournament.
+West is the championship locker room.
+South is the Elimination Locker Room.
+East is the junior division locker room.
+~
+0 0 0
+D0
+~
+~
+0 0 3410
+D3
+~
+~
+0 0 3414
+S
+#3414
+Championship Locker Room~
+This is where the 8 people that have qualified for the tournament come to
+prepare to fight.  A large opening that leads to the tournament ring is to
+the north here while a first aid room is to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 3412
+D1
+~
+~
+0 0 3413
+D3
+~
+~
+0 0 3415
+S
+#3415
+First Aid Room~
+Many things medical related line the walls here with a doctor trying to
+take care of the people that rush him.  Most people just sit on the ground
+while those with more painful injurys just sit and cry like 5 year old
+girls.  
+~
+0 1024 0
+D1
+~
+~
+0 0 3414
+S
+#3416
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3400 0 3400 A plane back to satan city loaded to Landing Pad
+M 0 3400 1 3400 1 Load a marching band
+O 0 3403 0 3403 The wooden registration table loaded to Registration Table
+M 0 3402 1 3403 1 Load a old monk
+M 0 3403 1 3403 1 Load an old monk
+M 0 3402 1 3403 1 Load a old monk
+O 0 3405 0 3406 A snack bar loaded to Inside the Spectators Side
+M 0 3405 1 3406 1 Load the snack bar owner
+M 0 3405 1 3406 1 Load the snack bar owner
+G 0 3404 0 A bottle of soda is given to the snack bar owner
+G 0 3402 0 A plate of nachos is given to the snack bar owner
+G 0 3401 0 A bag of chips is given to the snack bar owner
+G 0 1950 0 A can of beer is given to the snack bar owner
+M 0 3414 1 3415 1 Load A short doctor
+S
+
+
+
+#SHOPS
+3405 19 17 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#3400
+mob echo $I begins playing music at $n's arrival
+~
+#3401
+mob echoat $n $I nods and smiles at you
+mob echoaround $n $I nods and smiles at $n
+emote points to the doorway to the east
+say Enjoy the tournament $n!
+~
+#3402
+emote writes $n's name down on the registration
+emote points to the doorway to the west
+say Please go through that doorway. Good Luck!
+smile $n
+mob zecho $n has entered the Tournament!
+~
+#3403
+say Hello $n, are you here to fight or watch?
+~
+#3404
+say Very good $n. Please register with my collegue next to me.
+emote points to the old monk beside him
+mob call 3402 $n null null
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

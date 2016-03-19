@@ -1,0 +1,2678 @@
+#AREADATA
+Name Waterfall fed lake~
+Builders Terraco-d~
+VNUMs 1700 1799
+Credits Vegeta --- Waterfall Lake~
+Security 9
+End
+
+
+
+#MOBILES
+#1700
+Large blue fish~
+A Large blue fish~
+A large blue fish with many sharp teeth swims slowly here
+~
+This fish is about the size of a school bus and has teeth about the size
+of a human child.  It swims around slowly due to the fact that it is the top
+of the food chain of this lake.  It's scales are dark blue and shine
+slightly.  
+~
+human~
+AGP 0 0 0
+500000 250
+45 10 10 30 50 
+100 100
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 15
+AHMV ADEFKOX medium unknown
+F par BCGHIJ
+#1701
+man sized bright yellow fish~
+A bright yellow fish~
+A bright yellow fish about the size of a human man swims around here
+~
+This fish is a shade of yellow that is almost blindingly bright.  It is
+about the size of a large human man though weights in much more then that. 
+It has many sharp teeth that it usues to destroy what it is eating.  
+~
+human~
+AGP 0 0 0
+350000 200
+35 40 35 50 35 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 ADEFKOQVX medium unknown
+F for AHMV
+F par BCGHIJ
+#1702
+small school fish~
+a small school of fish~
+A small school of dark red fish swim around here
+~
+About two dozen fish swimming tightly together to help scare away fish
+that might eat them.  
+~
+human~
+AGP 0 0 0
+0 200
+10 10 10 10 10 
+150 200
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1700
+Giant Lake (southern shore)~
+A large lake here seperates the mountains that seem to wrap around the
+north of here.  The forest wraps around the south and most of the east and
+west of the lake.  It is nearly a perfect oval shape and is massive.  The
+water is very clear and clean looking.  There is a thick forest south of
+here and the shores of the lake continue east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1755
+D1
+~
+~
+0 0 1729
+D3
+~
+~
+0 0 1701
+S
+#1701
+Giant Lake (southern shore)~
+The shore is gently starting to turn north here on the west side of the
+oval shaped lake.  Many sounds can be heard from the forest to the south and
+sometimes the glare of what looks like eyes can be seen.  The surfae of the
+lake seems very calm and smooth.  The clear water shimers a light shade of
+blue.  The forest is to the south and the shore continues west and east. 
+The lake is north.  
+~
+0 0 0
+D0
+~
+~
+0 0 1751
+D1
+~
+~
+0 0 1700
+D3
+~
+~
+0 0 1702
+S
+#1702
+Giant Lake (southern shore)~
+The giant lake to the north looks almost completly smooth except for a
+few small ripples.  The shore continues to slightly turn north and continues
+to do so to the western most point of this oval.  Sounds of leaves rustling
+around come from south in the forest.  The mountains are getting closer the
+farther west one goes.  
+~
+0 0 0
+D0
+~
+~
+0 0 1746
+D1
+~
+~
+0 0 1701
+D3
+~
+~
+0 0 1703
+S
+#1703
+Giant Lake (southern shore)~
+In the wet mud at the side of the lake lots of paw prints of small
+creatures can be seen.  The clear, smooth water strethes all the way to the
+mountains in the north.  Every so often a small fish can be seen jumping out
+towrds the center.  Rustlings sounds from the bushes to the south can be
+heard here.  The shoreline continues west and east from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1741
+D1
+~
+~
+0 0 1702
+D3
+~
+~
+0 0 1704
+S
+#1704
+Gaint Lake (south western shore)~
+A calm breeze blows rom the ocean here helping to keep the shore side
+cooled.  Many animals can be seen flying over head.  Some are birds and some
+are lizards but all seem to just hang in the air.  The ground is starting to
+become more rocky and unstable.  The forest surrounds the south while the
+mountains are just a little farther west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1705
+D1
+~
+~
+0 0 1703
+D3
+~
+~
+0 0 1798
+S
+#1705
+Giant Lake (south western shore)~
+The gruond is almost all small rocks now but some dirt patches remain in
+a few spots.  The shore line to is becoming more rocky and there seem to be
+less trees in the forest in this area.  The lakes western most point is a
+little farther west and the mountains are een closer.  
+~
+0 0 0
+D0
+~
+~
+0 0 1736
+D1
+~
+~
+0 0 1741
+D2
+~
+~
+0 0 1704
+D3
+~
+~
+0 0 1706
+S
+#1706
+Giant Lake (south western shore)~
+The mountains are close to the north west with forest surrounding
+everything but the lake to the north.  The tops of the trees bend a bit as a
+strong breeze blows off the lake causeing a few more ripples.  
+~
+0 0 0
+D0
+~
+~
+0 0 1733
+D1
+~
+~
+0 0 1705
+D2
+~
+~
+0 0 1798
+D3
+~
+~
+0 0 1707
+S
+#1707
+Giant Lake (south western shore)~
+The shore line here is very rocky and unstable looking.  The mountains
+begin just north west of here and tower above the trees in the forest south.
+Over the forest some animals can be seen flying around.  The shore is ruffer
+here with the water slapping against the bare rocks.  
+~
+0 0 0
+D0
+~
+~
+0 0 1708
+D1
+~
+~
+0 0 1706
+D2
+~
+~
+0 0 3900
+S
+#1708
+Giant Lake (western shore)~
+The shore of the lake here is rock wall that is about 10 feet over the
+lake.  The forest is a little south of here as it cant survive the rocky
+terain of the mountains.  The mountains tower above the trees dominating the
+skyline.  
+~
+0 0 0
+D0
+~
+~
+0 0 1730
+D1
+~
+~
+0 0 1733
+D2
+~
+~
+0 0 1707
+D3
+~
+~
+0 0 1709
+S
+#1709
+Giant Lake (western shore)~
+At the base of a mountain on a cliff standing about 20 feet over the lake
+a gentle breeze blows in from the east.  The water is choppy against the
+rock cliff that has been wore away almost smooth.  The mountains west seem
+to stretch up past the clouds and some of the tops can't be seen because of
+this.  
+~
+0 0 0
+D0
+~
+~
+0 0 1710
+D1
+~
+~
+0 0 1708
+S
+#1710
+Gaint Lake (western shore)~
+The shore here is a 25 foot tall rock cliff.  The water is very choppy
+from slapping the rocks.  This is the western most point of the lake and
+from here the forest and the mountains can be seen surrounding the lake.  A
+few animal can be seen flying over the forest to the south east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1711
+D1
+~
+~
+0 0 1730
+D2
+~
+~
+0 0 1709
+D3
+~
+~
+0 0 1100
+S
+#1711
+Giant Lake (western shore)~
+Almost as far west as one can go around the lake the shoreline is about
+30 feet high.  Some dull rocks stick up just past the water line near the
+shore.  The water is ruff here due to the waterfall to the east.  The
+mountains are north and west of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1103
+D1
+~
+~
+0 0 1712
+D2
+~
+~
+0 0 1710
+D3
+~
+~
+0 0 1101
+S
+#1712
+Giant Lake (western shore)~
+The shore here is about 45 feet high.  The small waves being creatd by
+the waterfall east of here slap against the rock cliff causing a slight
+sound.  The mountains no the north tower high into the air.  A forest can be
+seen across the lake to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1713
+D1
+~
+~
+0 0 1731
+D2
+~
+~
+0 0 1730
+D3
+~
+~
+0 0 1711
+S
+#1713
+Giant Lake (north western shore)~
+The 50 foot high shore line here combined with the slapping of the waves
+on the cliff and the sound of the waterfall to the east cause alot of noise
+right here.  The waterfall is just a little ways east of here while the
+mountains are west.  A forest stand across the lake to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 1714
+D2
+~
+~
+0 0 1712
+S
+#1714
+Giant Lake (north western shore)~
+The 60 foot shore line with sharp rocks below seem to somehow dominate
+the veiw here.  The waterfall to the east is causing a light mist in the air
+here and waves that are slapping around on the cliff below.  The mountains
+to the north tower over everything here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1715
+D2
+~
+~
+0 0 1731
+D3
+~
+~
+0 0 1713
+S
+#1715
+Giant Lake (north western shore)~
+The air is thick with the mist of the waterfall direstctly east of here. 
+The path is about 4 feet wide here and looks to be that way the whole way
+behind the waterfall.  With the slickness of the rock the footing to the
+east is very unstable.  
+~
+0 0 0
+D0
+~
+~
+0 0 1716
+D1
+~
+~
+0 0 1737
+D2
+~
+~
+0 0 1734
+D3
+~
+~
+0 0 1714
+S
+#1716
+Giant Lake (northern shore)~
+The ledge that goes behind the waterfall leads east though the ledge is
+narrow and wet.  There is a ledge about 7 feet high here that seems to lead
+up into the mountains.  South of here the ledge wisdens a bit and goes back
+towards the forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 1717
+D2
+~
+~
+0 0 1715
+D4
+~
+~
+0 0 1108
+S
+#1717
+Behind a Waterfall (northern shore)~
+The waterfall cascades over a cliff to the north and falls down to the
+south kicking up a thick mist of cool water.  The way west leads out from
+behind the waterfall while east leads farther behind it.  Nothing else can
+be seen due to the mountain north and the water flowing over the cliff and
+falling to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 1718
+D2
+~
+~
+0 0 1737
+D3
+~
+~
+0 0 1716
+S
+#1718
+Behind the Waterfall (northern shore)~
+This is the middle of the waterfall though this is standing behind it. 
+To the east and west there is only the narrow ledge that leads behind the
+waterfall.  The air here feels thick when breathed in due to the waterfall
+churning the water and kicking up a thick mist of water.  
+~
+0 4 0
+D1
+~
+~
+0 0 1719
+D2
+~
+~
+0 0 1742
+D3
+~
+~
+0 0 1717
+S
+#1719
+Behind the Waterfall (northern shore)~
+The thick mist being churned up by the waterfall makes the air here
+thick.  The roaring on the waterfall is almost deafening.  It is a little
+darker here then to the east which is not behind the waterfall.  To the west
+the narrow ledge that goes behind the waterfall continues.  
+~
+0 4 0
+D1
+~
+~
+0 0 1720
+D2
+~
+~
+0 0 1747
+D3
+~
+~
+0 0 1718
+S
+#1720
+Giant Lake (northern shore)~
+The ledge continues weat behind the waterfall and south where it widens
+and looks to go around the edge of the lake.  The air is heavy here with the
+mist being kiked up by the waterfall.  The level of noise is also very high
+as the falls make a loud roar as the fall and hit the lake below.  
+~
+0 0 0
+D2
+~
+~
+0 0 1721
+D3
+~
+~
+0 0 1719
+S
+#1721
+Waterfall Lake (eastern shore)~
+The sound of the waterfall crashing down creating a loud rumbling here
+that seems to match the thick air perfectly.  The path seems to lead behind
+the waterfall to the north while this side of the lake seems to curve more
+the the western side makeing the shape of an oval.  The water is somewhat
+ruff here because of the waterfall and the waves slap up against the 70 foot
+high cliff rather loudly.  Right beside the path to the east is a 10 foot
+ledge that looks like it is a path that leads farther up into the mountains.
+~
+0 0 0
+D0
+~
+~
+0 0 1720
+D1
+~
+~
+0 0 1722
+D2
+~
+~
+0 0 1752
+D3
+~
+~
+0 0 1747
+S
+#1722
+Giant Lake (north eastern shore)~
+This part of the lake is next to the mountains though the forest is just
+south east of here.  The lake itself bends around in amlost a perfect half
+circle to the south from what can be seen.  The sound and the waves are
+quiet lower then west of here.  The forest is east of here while the
+mountains lay north.  
+~
+0 0 0
+D2
+~
+~
+0 0 1723
+D3
+~
+~
+0 0 1721
+S
+#1723
+Giant Lake (north eastern shore)~
+The eastern part of the lake is almost a perfect half circle.  There is a
+waterfall visible to the north west and a forest sits to the east.  The path
+around the lake continues to curve south helping to outline the forest and
+mountains in this valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 1722
+D1
+~
+~
+0 0 1724
+D2
+~
+~
+0 0 1756
+D3
+~
+~
+0 0 1752
+S
+#1724
+Giant Lake (eastern shore)~
+The curving shoreline continues to do so making a half circle that
+connect the north and south shores.  The surfae of the water as seen from
+standing on the 30 foot cliff that makes up this shore is the forest to the
+south.  It stands tall and strong seeming to go on forever.  The small waves
+made by the waterfall slap lightly against the cliff making a slight sound. 
+~
+0 0 0
+D2
+~
+~
+0 0 1725
+D3
+~
+~
+0 0 1723
+S
+#1725
+Gaint Lake (eastern shore)~
+The water here is a bit clamer then to the north but ruffer then south of
+here.  A waterfall can be seen to the north west causing a slight rumble
+here combined with the slight slap of the large ripples hitting the 15 foot
+high shoreline.  The forest seems to wrap around the lake here though some
+mountains can be seen seen to the north 
+~
+0 0 0
+D0
+~
+~
+0 0 1724
+D2
+~
+~
+0 0 1726
+D3
+~
+~
+0 0 1756
+S
+#1726
+Giant Lake (eatern shore)~
+The easern shore continues north and south of here.  The shore here is 10
+feet high with it high to the north and a simple sand beach to the south. 
+There is a very dull sound of the falls to the northwest and the large
+ripples in the lake slapping against the shore.  A forest is east of here
+and wraps around the lake to the western side.  
+~
+0 0 0
+D0
+~
+~
+0 0 1725
+D2
+~
+~
+0 0 1727
+D3
+~
+~
+0 0 1757
+S
+#1727
+Giant Lake (south eastern shore)~
+A low sound of crashing water can be heard from the waterfall across the
+lake.  The water here is almost perfectly smooth here though.  Unlike the
+shoreline that can be seen north of here there is no cliff.  The ground and
+the water meet almost perfectly.  The water looks like it gets darker
+farther out meaning that this is probably a fairly deep lake.  The shoreline
+to the west is also level with the ground and the forest surrounding the
+water here make for a nice veiw.  
+~
+0 0 0
+D0
+~
+~
+0 0 1726
+D2
+~
+~
+0 0 1728
+D3
+~
+~
+0 0 1758
+S
+#1728
+Gaint Lake (south eastern shore)~
+The shore continues north and west here.  The surface of the water is
+smooth except the occasional jumping fish making ripples in it.  Noises can
+be heard from the forest to the south and a large waterfall can be seen
+across the lake flowing out of the mountains.  The clear blue water looks
+cool and refreshing.  Off to the south just a bit as the water seems further
+away there is a small sign that reads "The Road to South City, popluation
+48,000,000 all welcome".  The sing seems a bit odd out here in no where but
+its here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1727
+D2
+~
+~
+0 0 4800
+D3
+~
+~
+0 0 1729
+S
+#1729
+Giant Lake (south eastern shore)~
+The shoreline runs east and west here circling around the lake.  With the
+mountains towering over everything to the north and the dense forest to the
+south this seems like the more relaxing place around.  Occasionaly a fish
+can be seen jumping up out of the lake to try and get an insect that has
+flown to low.  The water looks to get deep not to far off the shore.  
+~
+0 0 0
+D0
+~
+~
+0 0 1758
+D1
+~
+~
+0 0 1728
+D3
+~
+~
+0 0 1700
+S
+#1730
+Surface of the Lake~
+Just off the shore here the water is still shallow enough that you can
+walk though it is a bit harder to do.  The water feel cool but not
+unplesantly cold on the skin though the deeper parts are sure to be colder. 
+Schools of very small fish swin around underwater looking for food and
+hoping to evae the bigger fish til they are grown.  The shore surrounds this
+cove on all sides but east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1712
+D1
+~
+~
+0 0 1732
+D2
+~
+~
+0 0 1708
+D3
+~
+~
+0 0 1710
+S
+#1731
+Surface of the Lake~
+Just off the northwestern shore the water is deep enough one must swim to
+fly to cross it.  Fish can be seen swiming below as can the bottom due to
+the clarity of the water.  Large fish can be seen below sticking to the
+deeper waters.  The shore to the north is a cliff that leads to the
+waterfall.  
+~
+0 0 0
+D0
+~
+~
+0 0 1714
+D1
+~
+~
+0 0 1734
+D2
+~
+~
+0 0 1732
+D3
+~
+~
+0 0 1712
+D5
+~
+~
+0 0 1759
+S
+#1732
+Surface of the Lake~
+The bottom of the lake drops off here making the water deep enough that
+one must fly or swim to get across it.  The water seems to be colder near
+the middle where its deepest point is.  Floating here the view of mountains
+and forests seem to tell of times when large citys and thier loud noises
+where unknown.  
+~
+0 0 0
+D0
+~
+~
+0 0 1731
+D1
+~
+~
+0 0 1735
+D2
+~
+~
+0 0 1733
+D3
+~
+~
+0 0 1730
+D5
+~
+~
+0 0 1760
+S
+#1733
+Surface of the Lake~
+Just off the shore here the cool water is about waist deep but the clear
+water makes seeing the bottom possible.  Groups of small fish swim around
+these shallow waters to help protect themselves against the larger fish the
+inhabit the deep waters.  The shore is west and south of here if the need
+arises to leave the wter quickly.  
+~
+0 0 0
+D0
+~
+~
+0 0 1732
+D1
+~
+~
+0 0 1736
+D2
+~
+~
+0 0 1706
+D3
+~
+~
+0 0 1708
+S
+#1734
+Surface of the Lake~
+The north shore is a cliff but it an easily be reached if a need to leave
+the lake arises.  Even though the water is clear the blue tint causes the
+bottom to be unseeable.  This also makes the depth of this lake impossible
+to determine without diving down and seeing for oneself.  
+~
+0 0 0
+D0
+~
+~
+0 0 1715
+D1
+~
+~
+0 0 1738
+D2
+~
+~
+0 0 1735
+D3
+~
+~
+0 0 1731
+D5
+~
+~
+0 0 1761
+S
+#1735
+Surface of the Lake~
+Even through the clear blue water the bottom of this lake is not visible.
+The water is slightly colder here then closer to the shoreline but its not
+unbearable.  The waterfall north east of here is kicking up a mist of water
+that makes the air a little thick here.  There is water on all sides here
+with land closest to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1734
+D1
+~
+~
+0 0 1739
+D2
+~
+~
+0 0 1736
+D3
+~
+~
+0 0 1732
+D5
+~
+~
+0 0 1762
+S
+#1736
+Surface of the Lake~
+Just off the southern shore the water is about waist deep and cool.  Alot
+of smaller fish swim around here using the shallow waters to help guard
+themselves against the bigger fish that could easily eat them.  The closest
+land is directly south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1735
+D1
+~
+~
+0 0 1740
+D2
+~
+~
+0 0 1705
+D3
+~
+~
+0 0 1733
+S
+#1737
+Beneath the Waterfall~
+The waterfall flow directly down on this room making it hard to see
+anything.  The bottom is made of sharp rocks that have been cut by the
+falling water making this a dangerous place to play around.  
+~
+0 0 0
+D0
+~
+~
+0 0 1717
+D1
+~
+~
+0 0 1742
+D2
+~
+~
+0 0 1738
+D3
+~
+~
+0 0 1715
+D5
+~
+~
+0 0 1763
+S
+#1738
+Surface of the Lake~
+Out near the center of the lake here the water is its coldest and close
+to unbearable due to it coming from the mountains.  This depth of the lake
+here is impossible to tell without swimming down and seeing for oneself. 
+Large shadows move around deep underwater giving this part of the lake an
+uneasy feeling to it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1737
+D1
+~
+~
+0 0 1743
+D2
+~
+~
+0 0 1739
+D3
+~
+~
+0 0 1734
+D5
+~
+~
+0 0 1764
+S
+#1739
+Surface of the Lake~
+At the center of the lake here the water is at its coldest and deepest. 
+The clear water isn't even enough to make up for the depth of this part of
+the lake as the bottom is not visible giving way to darkness.  Large shadows
+can be seen moving around below the surfae but are to far down to make out. 
+The roar of the waterfall to the north is very loud and drowns out the
+sounds from the forest to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1738
+D1
+~
+~
+0 0 1744
+D2
+~
+~
+0 0 1740
+D3
+~
+~
+0 0 1735
+D5
+~
+~
+0 0 1765
+S
+#1740
+Surface of the Lake~
+Just off the southern shore of the lake here the bottom has dropped off
+and is not visible from the surface.  Lr 1 Just off the southern shore of
+the lake here the bottom has dropped off and is not visible from the
+surface.  Fish of all different colors and sizes swim around and some larger
+shadows can be seen moving around in the darkness below.  The quickest way
+to the shore is south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1739
+D1
+~
+~
+0 0 1745
+D2
+~
+~
+0 0 1741
+D3
+~
+~
+0 0 1736
+D5
+~
+~
+0 0 1766
+S
+#1741
+Surface of the Lake~
+Just off the southern shore the water is only about waist deep here but a
+sudden drop off can be seen to the north.  Schools of small fish swim about
+here staying in the shallow waters to help protect against the larger fish
+in the deep.  The bottom is rocky here making great hiding spots for the
+little fish as well.  The shore is directly west and south of here if the
+urge to get out of the cold water arises.  
+~
+0 0 0
+D0
+~
+~
+0 0 1740
+D1
+~
+~
+0 0 1746
+D2
+~
+~
+0 0 1703
+D3
+~
+~
+0 0 1705
+S
+#1742
+Beneath the Waterfall~
+The waterfall flows in over this place making it impossible to see
+anything but the massive amount of water being dumped here.  There is a
+ledge north that one could get on to get behind the waterfall if needed. 
+Sharp rocks make up the bottom though the base of them is to deep to see
+from here.  Not many fish swim here as a result of the churning waters.  
+~
+0 0 0
+D0
+~
+~
+0 0 1718
+D1
+~
+~
+0 0 1747
+D2
+~
+~
+0 0 1743
+D3
+~
+~
+0 0 1737
+D5
+~
+~
+0 0 1767
+S
+#1743
+Surface of the Lake~
+The sound of the waterfall directly north is exstremly loud and also
+causes there to be waves here.  The shadows of large fish swiming near the
+bottom can be seen here as well as some that are swiming close enough to the
+surface to be seen completly.  The cold water, even though clear, keeps the
+bottom from being visible due to its depth.  The closest shore is north
+through the waterfall from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1742
+D1
+~
+~
+0 0 1748
+D2
+~
+~
+0 0 1744
+D3
+~
+~
+0 0 1738
+D5
+~
+~
+0 0 1768
+S
+#1744
+Surface of the Lake~
+The middle of the lake is the coldest point.  Probably the deepest to but
+the bottom hasn't been visible in the area around it so who knows.  Fish of
+all sizes swim around hunting or being hunted.  The crashing of the
+waterfall to the north drowns out the noises from the forest to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1743
+D1
+~
+~
+0 0 1749
+D2
+~
+~
+0 0 1745
+D3
+~
+~
+0 0 1739
+D5
+~
+~
+0 0 1769
+S
+#1745
+Surface of the Lake~
+The bottom is just barly visible here and is far to deep to be stood on. 
+Large fish can be seen swiming around below the surface looking for food. 
+The water is slightly colder the right off the shore but it is tolerable. 
+The closest shore is to the south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1744
+D1
+~
+~
+0 0 1750
+D2
+~
+~
+0 0 1746
+D3
+~
+~
+0 0 1740
+S
+#1746
+Surface of the Lake~
+Just off the southern shore here the water is about waist deep with many
+small fish swiming around the rocky bottom.  The water is cool but not
+unpleasantly cold and is exstremly clear.  A low rumbling sound can be heard
+from the north where the waterfall is.  The fastest way out of the water
+should a need arise is to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1745
+D1
+~
+~
+0 0 1751
+D2
+~
+~
+0 0 1702
+D3
+~
+~
+0 0 1741
+S
+#1747
+Surface of the Lake~
+With ledges to the north and east leaving the water is not that hard from
+here.  The waterfall crashing down on all sides and overtop of anyone that
+stands here makes for a loud experience though.  Sharp rocks can be seen
+just below the surface of the churning water but the base of them can not as
+the churing and the depth make it impossible.  Few fish choose to swim here
+due to the ruff waters but those that do have a hard time with it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1719
+D1
+~
+~
+0 0 1721
+D2
+~
+~
+0 0 1748
+D3
+~
+~
+0 0 1742
+D5
+~
+~
+0 0 1771
+S
+#1748
+Surface of the Lake~
+A little ways off the north eastern shore here the bottom is not visible
+due to its depth.  Fish can be seen swiming all around here hopeing not to
+get sucked in to the churing waters of the waterfall to the north.  The
+rumbling of the waterfall creates alot of noise here.  The closest shore is
+to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1747
+D1
+~
+~
+0 0 1752
+D2
+~
+~
+0 0 1749
+D3
+~
+~
+0 0 1743
+D5
+~
+~
+0 0 1772
+S
+#1749
+Surface of the Lake~
+A good ways off of the eastern shore here the water is rather cold and
+very deep.  The bottom is not visible but some of the fish that have choosen
+to stay near the top are.  The shadows of larger ones can be seen moving
+around below here though their size can't be judged very well.  
+~
+0 0 0
+D0
+~
+~
+0 0 1748
+D1
+~
+~
+0 0 1753
+D2
+~
+~
+0 0 1750
+D3
+~
+~
+0 0 1744
+D5
+~
+~
+0 0 1773
+S
+#1750
+Surface of the Lake~
+The bottom of the lake can barly be seen here.  Shadows can be seen
+swiming around on the bottom and fish higher up where they an clearly be
+seen.  The water is a little cold but not unbearly so.  The sound of the
+waterfall to the north is a low rumble here.  The shore is closest south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1749
+D1
+~
+~
+0 0 1754
+D2
+~
+~
+0 0 1751
+D3
+~
+~
+0 0 1745
+D5
+~
+~
+0 0 1774
+S
+#1751
+Surface of the Lake~
+Just off the southern shore the water is about waist deep but appears to
+get alot deeper just north of here.  Small fish swim in school around the
+rocky bottom using the rocks to help hide from preditors.  The water is a
+little cool but not uncomfortably cold.  The waterfall north is barly
+audible here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1750
+D1
+~
+~
+0 0 1755
+D2
+~
+~
+0 0 1701
+D3
+~
+~
+0 0 1746
+S
+#1752
+Surface of the Lake~
+The shore is directly north and east of here but is a little higher then
+the lake.  The bottom is not visible but soe shadows moving around can be
+seen way down.  The water is cold and loud as it slaps up against the rock
+walls north and east.  Many kinds of fish swim around looking for food and
+trying not to end up food.  
+~
+0 0 0
+D0
+~
+~
+0 0 1721
+D1
+~
+~
+0 0 1723
+D2
+~
+~
+0 0 1753
+D3
+~
+~
+0 0 1748
+D5
+~
+~
+0 0 1775
+S
+#1753
+Surface of the Lake~
+Just off shore in the north eastern part of the lake the water is cold
+and very deep.  The bottom is not visible even though the lake has very
+clean and clear water.  Fish can be seen swimming in school all around and
+the shadows of the bigger fish can be seen seen way below in the darkness. 
+The closest shore is to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1752
+D1
+~
+~
+0 0 1756
+D2
+~
+~
+0 0 1754
+D3
+~
+~
+0 0 1749
+D5
+~
+~
+0 0 1776
+S
+#1754
+Surface of the Lake~
+The water here is cool and deep but the bottom can be seen though just
+barly.  Large fish can be seen swimming around near the bottom occasionaly
+coming closer to the top to catch a smaller fish that isn't paying any
+attention.  Large rocks that have survived years of erosion line the bottom
+as well helping the large fish to blend in till the strike.  The surface of
+the water is almost perfectly smooth here except for a few small waves from
+the wind and the waterfall north west of here.  The closest shore is south. 
+~
+0 0 0
+D0
+~
+~
+0 0 1753
+D1
+~
+~
+0 0 1757
+D2
+~
+~
+0 0 1755
+D3
+~
+~
+0 0 1750
+D5
+~
+~
+0 0 1777
+S
+#1755
+Surface of the Lake~
+The water is is about waist deep and almost perfectly smooth except for a
+few small waves created by the wind.  The rocky bottom is home to many types
+of small fish that ue the rocks to help hide themselves from the preditors
+that only come this far in to find an easy meal.  The waterfall to the north
+west is causing a rumbling sound that can barly be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 1754
+D1
+~
+~
+0 0 1758
+D2
+~
+~
+0 0 1700
+D3
+~
+~
+0 0 1751
+S
+#1756
+Surface of the Lake~
+The water here is smooth and deep.  The bottom can be seen though just
+barly due to the depth of it.  The cliff to the east looks low enough to get
+out to if the need should so arise.  A waterfall can be seen north west of
+here and the sound it makes can just barly be heard.  The sound of the small
+waves slapping against the cliff seems to help drown it out.  
+~
+0 0 0
+D0
+~
+~
+0 0 1723
+D1
+~
+~
+0 0 1725
+D2
+~
+~
+0 0 1757
+D3
+~
+~
+0 0 1753
+D5
+~
+~
+0 0 1778
+S
+#1757
+Surface of the Lake~
+The bottom of the lake can be seen here though it is a little hard to
+make out things that rest on it.  The surface is almost completly smooth if
+not for the small ripples the wind creates and smacks into the cliff to the
+east.  Many different kinds of fish swim around here though the smaller ones
+seem to stay down on the bottom near the rocks so they can hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 1756
+D1
+~
+~
+0 0 1726
+D2
+~
+~
+0 0 1758
+D3
+~
+~
+0 0 1754
+D5
+~
+~
+0 0 1779
+S
+#1758
+Surface of the Lake~
+This is the south eastern corner of the lake and the shoreline is, of
+course, south and east of here.  The water is only about waist deep though
+the rocky bottom doesnt make for good footing usualy.  Schools of the
+smaller fish swim around here using the shallow water and rocks to help
+protect themselves against the bigger fish.  The surface is almost completly
+smooth except for some small ripples that was up on the shore south and
+east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1757
+D1
+~
+~
+0 0 1727
+D2
+~
+~
+0 0 1729
+D3
+~
+~
+0 0 1755
+S
+#1759
+Underwater~
+Swimming about 20 feet below the surface the water is colder then the top
+and is almost to the point where it is painfuly cold.  It is slightly darker
+here due to the fact that less light can get down this far but seeing is
+still not realy a problem.  The larger fish swim around not caring about
+much of anything since some are bigger then most humans.  The smaller fish
+hide from anything that comes near them.  
+~
+0 0 0
+D1
+~
+~
+0 0 1761
+D2
+~
+~
+0 0 1760
+D4
+~
+~
+0 0 1731
+S
+#1760
+Underwater~
+Swimming about 20 feet down the bottom is easily visible.  Large fish
+swim around hunting anything they think they can eat as the smaller ones try
+to hide as to not become dinner.  The rocks this deep are smoother then the
+ones found right around the shoreline.  
+~
+0 0 0
+D0
+~
+~
+0 0 1759
+D1
+~
+~
+0 0 1762
+D4
+~
+~
+0 0 1732
+S
+#1761
+Underwater~
+Simming around near the bottom here things move can be seen moving in all
+directions.  The bottom has many rocks sticking out of the mud which have
+been made into protection by the smaller fish.  Some large fish swim around
+hunting and overlooking those that have hidden well.  
+~
+0 0 0
+D1
+~
+~
+0 0 1764
+D2
+~
+~
+0 0 1762
+D3
+~
+~
+0 0 1759
+D4
+~
+~
+0 0 1734
+S
+#1762
+Underwater~
+Near the bottom here everything in every direction seems to be alive. 
+Well rounded rocks line the mud bottom giving the smaller fish a place to
+hide.  The bigger fish swim around looking for food not paying attention to
+anything that doesn't pose threat.  The surface is directly up.  
+~
+0 0 0
+D0
+~
+~
+0 0 1761
+D1
+~
+~
+0 0 1765
+D3
+~
+~
+0 0 1760
+D4
+~
+~
+0 0 1735
+S
+#1763
+Underwater~
+THe water up on the surface is churning alot making the visiblity lower
+then clear parts of the lake.  The bottom is stll a ways down from here. 
+Sharp rocks that stick up all around this room created by the falls wearing
+them down differently then the rest of the lake bottom.  Not many small fish
+swim here due to the churning of the water but large fish swim though it
+with no problem.  
+~
+0 0 0
+D1
+~
+~
+0 0 1767
+D2
+~
+~
+0 0 1764
+D4
+~
+~
+0 0 1737
+D5
+~
+~
+0 0 1780
+S
+#1764
+Underwater~
+The bottom can be seen here though it is still a little farth down.  The
+water here is colder then the surface but slightly warmer then the deeper
+parts.  Most of the smaller fish seem to have choosen to stay out of the
+deeper waters where the larger fish swim and hunt.  
+~
+0 0 0
+D0
+~
+~
+0 0 1763
+D1
+~
+~
+0 0 1768
+D2
+~
+~
+0 0 1765
+D3
+~
+~
+0 0 1761
+D4
+~
+~
+0 0 1738
+D5
+~
+~
+0 0 1781
+S
+#1765
+Underwater~
+The bottom is just a little farther down from here and the surface just
+above.  Things swim around in all directions here and some even hide on the
+rocky bottom.  The water is slightly colder the above and slightly warmer
+then below.  
+~
+0 0 0
+D0
+~
+~
+0 0 1764
+D1
+~
+~
+0 0 1769
+D2
+~
+~
+0 0 1766
+D3
+~
+~
+0 0 1762
+D4
+~
+~
+0 0 1739
+D5
+~
+~
+0 0 201
+S
+#1766
+Underwater~
+Swiming on the bottom here the smoothly rounded rocks that stick out of
+the mud bottom can be seen well.  Smaller fish use some to help hide
+themselves while some of the larger fish sit motionless trying to trick some
+of the smaller fish into trying to hide near them.  The surface can be seen
+directly up.  
+~
+0 0 0
+D0
+~
+~
+0 0 1765
+D1
+~
+~
+0 0 1770
+D4
+~
+~
+0 0 1740
+S
+#1767
+Underwater~
+The cold water is very active here due to the waterfall dumping water
+dire3ctly up from here.  The sharp rocks that stick up from the bottom fill
+this room and the rooms up and down from here.  The bottom can be seen
+though the churning water makes it hard to make out anything specific.  Few
+fish swim here due to the water moving so much but the ones that do are
+large.  
+~
+0 0 0
+D1
+~
+~
+0 0 1771
+D2
+~
+~
+0 0 1768
+D3
+~
+~
+0 0 1763
+D4
+~
+~
+0 0 1742
+D5
+~
+~
+0 0 1783
+S
+#1768
+Underwater~
+Just south of the waterfall the bottom is just barly visible here.  Large
+fish, 3 times the size of most human men, can be seen swimming around near
+the bottom looking for anything that looks like it will fit in their mouths.
+THe water is slightly colder the then surface but not as cold as the depths.
+The surface is directly up from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1767
+D1
+~
+~
+0 0 1772
+D2
+~
+~
+0 0 1769
+D3
+~
+~
+0 0 1764
+D4
+~
+~
+0 0 1743
+D5
+~
+~
+0 0 1784
+S
+#1769
+Underwater~
+The bottom is just slightly farth down from here and the rocks that stick
+up out of the mud can be seen well.  Many fish swim around them to look for
+food or for protection from becoming food.  The water here is slightly
+colder then it is above but not quite as cold as below.  The surface is
+directly up from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1768
+D1
+~
+~
+0 0 1773
+D2
+~
+~
+0 0 1770
+D3
+~
+~
+0 0 1765
+D4
+~
+~
+0 0 1744
+D5
+~
+~
+0 0 1785
+S
+#1770
+Underwater~
+Swimming on the bottom of the lake the rocks that stick up out of the mud
+floor seems to harbor many guests.  Small fish of all kinds seem to flock
+here for the protection the rocks offer from the larger fish that live in
+this lake with them.  The surface is directly up from here and offers
+swimmers a chance to cath thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1769
+D1
+~
+~
+0 0 1774
+D3
+~
+~
+0 0 1766
+S
+#1771
+Underwater~
+Swimming beneath the waterfall here the water is very violent.  Few fish
+choose to swim here due to the undertoe that is created by the water dumping
+into the room above.  Some of the bigger fish however swim through it with
+no problem due to their large size.  The surface is up from here though
+swimming beneath a waterfall might not be the best place to try and catch
+ones breath.  
+~
+0 0 0
+D2
+~
+~
+0 0 1772
+D3
+~
+~
+0 0 1767
+D4
+~
+~
+0 0 1747
+D5
+~
+~
+0 0 1786
+S
+#1772
+Underwater~
+Just south of the churning waters created by the waterfall the bottom can
+be seen but is still quite a ways down from here.  Fish of all sizes swim
+here though few are small.  Most of the smaller fish have choosen to stay
+near the shore where the shallow waters prevents the larger fish from
+comeing to feed.  The surface is directly up from here and offers a chance
+to breath again.  
+~
+0 0 0
+D0
+~
+~
+0 0 1771
+D1
+~
+~
+0 0 1775
+D2
+~
+~
+0 0 1773
+D3
+~
+~
+0 0 1768
+D4
+~
+~
+0 0 1748
+D5
+~
+~
+0 0 1787
+S
+#1773
+Underwater~
+The rocky bottom is just slightly farther down here and from this
+distance appears to be home to many small fish.  Larger ones do swim around
+though the rocks help to hide any of the smaller fish that use them as a
+home.  The cold water is almost painfuly so but on a hot day would probably
+feel rather nice.  The surface is directly up from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1772
+D1
+~
+~
+0 0 1776
+D2
+~
+~
+0 0 1774
+D3
+~
+~
+0 0 1769
+D4
+~
+~
+0 0 1749
+D5
+~
+~
+0 0 1788
+S
+#1774
+Underwater~
+Swimming on the bottom here the rocks seems to serve a purpose.  The
+smaller fish hide under them to help protect themselves against the large
+fish that prey on them.  The rocks are well rounded and smooth from years of
+erosion.  The surface is directly up from here offering one a chance to
+catch their breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1773
+D1
+~
+~
+0 0 1777
+D3
+~
+~
+0 0 1770
+D4
+~
+~
+0 0 1750
+S
+#1775
+Underwater~
+The north and eastern walls are solid rock of the mountains that have
+been wore down almost perfectly smooth.  The water is clear here and allows
+one to see the floor of the lake a little farther down from here.  Many fish
+swim around here feeding and hiding.  The surface is directly up from here. 
+~
+0 0 0
+D2
+~
+~
+0 0 1776
+D3
+~
+~
+0 0 1772
+D4
+~
+~
+0 0 1752
+D5
+~
+~
+0 0 1789
+S
+#1776
+Underwater~
+The clear water offers a good view of everything in all directions.  The
+bottom can be seen from here though it is still quite a ways down from here.
+Fish swim around not paying much attention to anything they don't view as a
+threat.  The surface is directly up from here.
+~
+0 0 0
+D0
+~
+~
+0 0 1775
+D1
+~
+~
+0 0 1778
+D2
+~
+~
+0 0 1777
+D3
+~
+~
+0 0 1773
+D4
+~
+~
+0 0 1753
+D5
+~
+~
+0 0 1790
+S
+#1777
+Underwater~
+Small fish hide under the smoothly rounded rock that are embeded in the
+mud floor of the lake.  Some of the larger fish swim around scanning the
+area for food while those that are the same color as the rocks lay perfectly
+still waiting on a smaller fish to try and hide near them.  The surface is
+straight up from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1776
+D1
+~
+~
+0 0 1779
+D3
+~
+~
+0 0 1774
+D4
+~
+~
+0 0 1754
+S
+#1778
+Underwater~
+Small fish hide under the smoothly rounded rock that are embeded in the
+mud floor of the lake.  Some of the larger fish swim around scanning the
+area for food while those that are the same color as the rocks lay perfectly
+still waiting on a smaller fish to try and hide near them.  The surface is
+straight up from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 1779
+D3
+~
+~
+0 0 1776
+D4
+~
+~
+0 0 1756
+S
+#1779
+Underwater~
+Small fish hide under the smoothly rounded rock that are embeded in the
+mud floor of the lake.  Some of the larger fish swim around scanning the
+area for food while those that are the same color as the rocks lay perfectly
+still waiting on a smaller fish to try and hide near them.  The surface is
+straight up from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1778
+D3
+~
+~
+0 0 1777
+D4
+~
+~
+0 0 1757
+S
+#1780
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.
+~
+0 0 0
+D1
+~
+~
+0 0 1783
+D2
+~
+~
+0 0 1781
+D4
+~
+~
+0 0 1763
+D5
+~
+~
+0 0 1791
+S
+#1781
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1780
+D1
+~
+~
+0 0 1784
+D2
+~
+~
+0 0 201
+D4
+~
+~
+0 0 1764
+D5
+~
+~
+0 0 1792
+S
+#1783
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1786
+D2
+~
+~
+0 0 1784
+D3
+~
+~
+0 0 1780
+D4
+~
+~
+0 0 1767
+D5
+~
+~
+0 0 1793
+S
+#1784
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1783
+D1
+~
+~
+0 0 1787
+D2
+~
+~
+0 0 1785
+D3
+~
+~
+0 0 1781
+D4
+~
+~
+0 0 1768
+D5
+~
+~
+0 0 1794
+S
+#1785
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1784
+D1
+~
+~
+0 0 1788
+D3
+~
+~
+0 0 201
+D4
+~
+~
+0 0 1769
+S
+#1786
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 1787
+D3
+~
+~
+0 0 1783
+D4
+~
+~
+0 0 1771
+D5
+~
+~
+0 0 1795
+S
+#1787
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1786
+D1
+~
+~
+0 0 1789
+D2
+~
+~
+0 0 1788
+D3
+~
+~
+0 0 1784
+D4
+~
+~
+0 0 1772
+D5
+~
+~
+0 0 1796
+S
+#1788
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1787
+D1
+~
+~
+0 0 1790
+D3
+~
+~
+0 0 1785
+D4
+~
+~
+0 0 1773
+S
+#1789
+Underwater~
+The bottom is still a little farther down here but the rocky bottom can
+be seen fairly easy.  The waterfall above doesn't affect the waters here so
+many fish can be seen swimming around.  THe water is colder here then above
+but not as cold as the deepest point below.  The surface is a little ways up
+from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 1790
+D3
+~
+~
+0 0 1787
+D4
+~
+~
+0 0 1775
+D5
+~
+~
+0 0 1797
+S
+#1790
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1789
+D3
+~
+~
+0 0 1788
+D4
+~
+~
+0 0 1776
+S
+#1791
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D1
+~
+~
+0 0 1793
+D2
+~
+~
+0 0 1792
+D4
+~
+~
+0 0 1780
+S
+#1792
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1791
+D1
+~
+~
+0 0 1794
+D4
+~
+~
+0 0 1781
+S
+#1793
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D1
+~
+~
+0 0 1795
+D3
+~
+~
+0 0 1791
+D4
+~
+~
+0 0 1783
+S
+#1794
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1793
+D1
+~
+~
+0 0 1796
+D3
+~
+~
+0 0 1792
+D4
+~
+~
+0 0 1784
+S
+#1795
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D2
+~
+~
+0 0 1796
+D3
+~
+~
+0 0 1793
+D4
+~
+~
+0 0 1786
+S
+#1796
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D0
+~
+~
+0 0 1795
+D1
+~
+~
+0 0 1797
+D3
+~
+~
+0 0 1794
+D4
+~
+~
+0 0 1787
+S
+#1797
+Underwater~
+The bottom this deep is covered in rocks and large fish.  Most are bigger
+then the average human male and look like the could probably eat one.  The
+water is almost painfuly cold and the high pressure causes a swimmers lungs
+to use air up faster then normal.  The surface is a ways up from here and
+offers a chance for someone to catch thier breath.  
+~
+0 0 0
+D3
+~
+~
+0 0 1796
+D4
+~
+~
+0 0 1789
+S
+#1798
+A forest path~
+This small path of dirt and roots has seemed to have made from years of
+walking Off to the north a small amount of lake can be seen with the the
+light sparkling off the surface.  Glancing to the northeast the lake is more
+visable and the sclouds that roll by are reflected siver as the light rays
+bounce off the lake surface and seem to go into the sky in endless beams of
+glorious rainbow colored beams.  
+~
+0 0 0
+D0
+~
+~
+0 0 1706
+D1
+~
+~
+0 0 1704
+D3
+~
+~
+0 0 3900
+S
+#1799
+snowy mountains~
+Ascending into increasingly white and fantastic realms.  A winding road in
+the mountians.  An alabaster wonderland all around you, below you, great vistas
+of evergreen forests shrouded with snow, rocky crags looming high above like
+The old-man faces of watching gods, bearded with ice.  Fat white flakes suddenly
+begin to spiral out of the iron-gray afternoon sky.  It's beautiful:  the snow,
+the steeply rising land, the valleys crowded with trees and purple shadows,
+sprinkled with small villages.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 4790 0 1717 The entrance to the ship loaded to Behind a Waterfall (northern shore)
+M 0 1701 3 1780 1 Load A bright yellow fish
+M 0 1701 3 1781 1 Load A bright yellow fish
+M 0 1701 3 1786 1 Load A bright yellow fish
+M 0 1701 3 1787 1 Load A bright yellow fish
+M 0 1700 3 1791 1 Load A Large blue fish
+M 0 1700 3 1793 1 Load A Large blue fish
+M 0 1700 3 1795 1 Load A Large blue fish
+O 0 5301 0 1797 A patch of seaweed loaded to Underwater
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

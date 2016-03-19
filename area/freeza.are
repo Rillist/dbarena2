@@ -1,0 +1,1607 @@
+#AREADATA
+Name Planet Frieza~
+Builders Kube~
+VNUMs 5100 5199
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#5100
+Ice Spectre~
+Icerian Battle Drone~
+A Giant Creature with flaming fists and breath of cold
+~
+~
+icer~
+ABRS 0 0 0
+2500000000000 158113
+688 688 688 688 688 
+100 100
+chill
+0 0 0 0
+0 0 0 0
+stand stand none 33950
+AHMV ABCDEFGHIJK large unknown
+#5120
+Armor Salesman~
+A shopkeep~
+An armor salesman
+~
+~
+icer~
+AB 0 0 0
+10 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 44
+AHMV ABCDEFGHIJK large unknown
+#5125
+Server~
+The Server~
+A mess hall server
+~
+~
+icer~
+ABRS 0 0 0
+75000000000 18257
+291 291 291 291 291 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 13606
+AHMV ABCDEFGHIJK large unknown
+#5126
+Mess Hall Chef~
+A Mess Hall Chef~
+A Mess Hall Chef
+~
+~
+icer~
+ABRS 0 0 0
+100000000000 21081
+311 311 311 311 311 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 14620
+AHMV ABCDEFGHIJK huge unknown
+#5156
+Icerian Scientist~
+An Icerian Scientist~
+A very evil looking scientist
+~
+~
+icer~
+AB 0 -1000 0
+500000000000 70710
+480 480 480 480 480 
+100 100
+chill
+0 0 0 0
+0 0 0 0
+stand stand male 22704
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#5120
+Icerian Metal Armor~
+{CIcerian {DMetal {BArmor{x~
+A suit of Icerian Armor~
+unknown~
+1
+armor X AD
+CFG CFG CFG CFG 0
+0 2 50000 P
+#5121
+Icerian Tail Enhancement~
+{CIcerian {DTail {BEnhancement{x~
+A replacement for an Icer's Tail~
+unknown~
+1
+armor X AR
+ABDG ABDG ABDG ABDG 0
+0 2 25000 P
+#5122
+Icer Arm Plate~
+{CIcerian {DArm {BGuards{x~
+A pair of arm bands~
+unknown~
+1
+armor X AI
+BEF BEF BEF BEF 0
+0 1 25000 P
+#5123
+Icer container~
+{CIcerian {DContainer {BPouch{x~
+A small pouch~
+unknown~
+1
+container X AL
+10000000 0 0 1000000 1
+0 1 30000 P
+#5124
+Icer Shank~
+{CIcerian {DBattle {BShank{x~
+A small metallic object~
+unknown~
+1
+weapon X AN
+exotic 100 100 slice D
+0 1 35000 P
+#5126
+Glop~
+a glop of somethin supposedly edible~
+A glop of somethin supposedly edible~
+unknown~
+1
+food 0 AO
+ABCE ABCE 0 0 BEF
+0 1 10 P
+#5127
+Stale Bread~
+a piece of stale bread~
+A piece of stale bread~
+unknown~
+1
+food 0 A
+B B 0 0 ADE
+0 1 15 P
+#5128
+Cup of water~
+a Cup of water~
+A Cup of water~
+unknown~
+1
+drink 0 A
+5 5 'water' 0 0
+0 1 5 P
+#5137
+A rock~
+a rock~
+{x~
+rock~
+1
+trash X 0
+0 0 0 0 0
+0 0 0 P
+O ACT 5137 pushes the rock.~
+#5156
+Control Panel~
+a large control panel~
+A large machine sitting in the corner~
+unknown~
+1
+trash B 0
+0 0 0 0 0
+0 1000 1000000 P
+#5187
+Bag of seed~
+a bag of seed~
+A large rather worn bag of seed lies here.~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 50 50 P
+#5189
+Water Purifier~
+a large purification system~
+A large purification unit sits here.~
+unknown~
+1
+fountain B 0
+1000 1000 'water' 0 0
+0 1000 10000 P
+#0
+
+
+
+#ROOMS
+#5100
+Station Docking Port~
+~
+0 8 0
+D2
+~
+~
+0 0 5101
+M -1000 H -1000
+S
+#5101
+Station Main Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5100
+D2
+~
+~
+0 0 5102
+S
+#5102
+Station Main Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5101
+D2
+~
+~
+0 0 5103
+D3
+~
+~
+0 0 5107
+S
+#5103
+Station Main Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5102
+D1
+~
+~
+0 0 5109
+D2
+~
+~
+0 0 5104
+S
+#5104
+Station Main Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5103
+D1
+~
+~
+0 0 5125
+D2
+~
+~
+0 0 5105
+S
+#5105
+Station Main Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5104
+D2
+~
+~
+0 0 5106
+S
+#5106
+Station Main Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5105
+D5
+~
+~
+0 0 5127
+S
+#5107
+Passageway~
+~
+0 0 0
+D1
+~
+~
+0 0 5102
+D3
+~
+~
+0 0 5108
+S
+#5108
+Entrance to Habitat Sphere~
+~
+0 0 0
+D1
+~
+~
+0 0 5107
+D4
+~
+~
+0 0 5163
+S
+#5109
+Passage A~
+~
+0 0 0
+D0
+~
+~
+0 0 5115
+D1
+~
+~
+0 0 5110
+D3
+~
+~
+0 0 5103
+S
+#5110
+Passage A~
+~
+0 0 0
+D1
+~
+~
+0 0 5111
+D2
+~
+~
+0 0 5121
+D3
+~
+~
+0 0 5109
+S
+#5111
+Passage A~
+~
+0 0 0
+D0
+~
+~
+0 0 5113
+D1
+~
+~
+0 0 5112
+D2
+~
+~
+0 0 5120
+D3
+~
+~
+0 0 5110
+S
+#5112
+Passage A~
+~
+0 0 0
+D3
+~
+~
+0 0 5111
+D5
+~
+~
+0 0 5190
+S
+#5113
+Passage B~
+~
+0 0 0
+D2
+~
+~
+0 0 5111
+D3
+~
+~
+0 0 5114
+S
+#5114
+Passage B~
+~
+0 0 0
+D1
+~
+~
+0 0 5113
+D3
+~
+~
+0 0 5115
+S
+#5115
+Passage B~
+~
+0 0 0
+D0
+~
+~
+0 0 5116
+D1
+~
+~
+0 0 5114
+D2
+~
+~
+0 0 5109
+S
+#5116
+Passage Way~
+~
+0 0 0
+D1
+~
+~
+0 0 5117
+D2
+~
+~
+0 0 5115
+S
+#5117
+Passageway to Greenery~
+~
+0 0 0
+D0
+~
+~
+0 0 5118
+D3
+~
+~
+0 0 5116
+S
+#5118
+Entrance To Greenery~
+~
+0 0 0
+D2
+~
+~
+0 0 5117
+D4
+~
+~
+0 0 5119
+S
+#5119
+Entrance To the Greenery~
+~
+0 0 0
+D1
+~
+~
+0 0 5175
+D4
+~
+~
+0 0 5184
+D5
+~
+~
+0 0 5118
+S
+#5120
+Station Armory~
+~
+0 0 0
+D0
+~
+~
+0 0 5111
+S
+#5121
+Passage C~
+~
+0 0 0
+D0
+~
+~
+0 0 5110
+D2
+~
+~
+0 0 5122
+S
+#5122
+Passage C~
+~
+0 0 0
+D0
+~
+~
+0 0 5121
+D1
+~
+~
+0 0 5123
+D2
+~
+~
+0 0 5124
+S
+#5123
+Entrance To Command Deck~
+~
+0 0 0
+D3
+~
+~
+0 0 5122
+D4
+~
+~
+0 0 5142
+S
+#5124
+Passage C~
+~
+0 0 0
+D0
+~
+~
+0 0 5122
+S
+#5125
+Mess Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 5126
+D3
+~
+~
+0 0 5104
+S
+#5126
+Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 5125
+S
+#5127
+Under the edge of the ship~
+~
+0 0 0
+D2
+~
+~
+0 0 5128
+D4
+~
+~
+0 0 5106
+S
+#5128
+A few steps out~
+~
+0 0 0
+D0
+~
+~
+0 0 5127
+D3
+~
+~
+0 0 5129
+S
+#5129
+A small crevace~
+~
+0 0 0
+D1
+~
+~
+0 0 5128
+D2
+~
+~
+0 0 5130
+S
+#5130
+Pass in the crevace~
+~
+0 0 0
+D0
+~
+~
+0 0 5129
+D2
+~
+~
+0 0 5131
+S
+#5131
+Crossing of trails~
+~
+0 0 0
+D0
+~
+~
+0 0 5130
+D1
+~
+~
+0 0 5133
+D2
+~
+~
+0 0 5132
+S
+#5132
+A Dead End~
+~
+0 0 0
+D0
+~
+~
+0 0 5131
+S
+#5133
+Junction between trails~
+~
+0 0 0
+D1
+~
+~
+0 0 5134
+D3
+~
+~
+0 0 5131
+S
+#5134
+A path through the Ice~
+~
+0 0 0
+D2
+~
+~
+0 0 5135
+D3
+~
+~
+0 0 5133
+S
+#5135
+A path through the Ice~
+~
+0 0 0
+D0
+~
+~
+0 0 5134
+D2
+~
+~
+0 0 5136
+S
+#5136
+An entrance to a Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 5135
+D1
+~
+~
+0 0 5137
+S
+#5137
+A small indentation in the Ice~
+~
+0 0 0
+D3
+~
+~
+0 0 5136
+D5
+~
+~
+0 0 5138
+S
+#5138
+Just behind the Entrance~
+~
+0 0 0
+D2
+~
+~
+0 0 5139
+D4
+~
+~
+0 0 5137
+S
+#5139
+Undgerground Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5138
+D1
+~
+~
+0 0 5140
+S
+#5140
+Underground Walkway~
+~
+0 0 0
+D1
+~
+~
+0 0 5141
+D2
+~
+~
+0 0 5159
+D3
+~
+~
+0 0 5139
+S
+#5141
+Underground Walkway~
+~
+0 0 0
+D1
+~
+~
+0 0 5152
+D3
+~
+~
+0 0 5140
+S
+#5142
+Entrance To Command Deck~
+~
+0 0 0
+D2
+~
+~
+0 0 5143
+D5
+~
+~
+0 0 5123
+S
+#5143
+Sector D~
+~
+0 8 0
+D0
+~
+~
+0 0 5142
+D1
+~
+~
+0 0 5149
+D2
+~
+~
+0 0 5144
+D3
+~
+~
+0 0 5151
+S
+#5144
+Sector B~
+~
+0 8 0
+D0
+~
+~
+0 0 5143
+D1
+~
+~
+0 0 5147
+D2
+~
+~
+0 0 5145
+D3
+~
+~
+0 0 5146
+S
+#5145
+Sector B: Main Guns~
+~
+0 8 0
+D0
+~
+~
+0 0 5144
+S
+#5146
+Sector C~
+~
+0 8 0
+D1
+~
+~
+0 0 5144
+D2
+~
+~
+0 0 5150
+S
+#5147
+Sector A~
+~
+0 8 0
+D2
+~
+~
+0 0 5148
+D3
+~
+~
+0 0 5144
+S
+#5148
+Sector A: Bridge~
+~
+0 8 0
+D0
+~
+~
+0 0 5147
+S
+#5149
+Sector D: Missile Launching Systems~
+~
+0 8 0
+D3
+~
+~
+0 0 5143
+S
+#5150
+Sector C: Auxiliary Guns~
+~
+0 8 0
+D0
+~
+~
+0 0 5146
+S
+#5151
+Sector D: Munitions Room~
+~
+0 8 0
+D1
+~
+~
+0 0 5143
+S
+#5152
+Curve in the path~
+~
+0 0 0
+D2
+~
+~
+0 0 5153
+D3
+~
+~
+0 0 5141
+S
+#5153
+Underground Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5152
+D2
+~
+~
+0 0 5154
+S
+#5154
+Underground Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 5153
+D2
+~
+~
+0 0 5155
+S
+#5155
+Hole in the Wall~
+~
+0 0 0
+D0
+~
+~
+0 0 5154
+D3
+~
+~
+0 0 5156
+S
+#5156
+A Very High-Tech lab~
+~
+0 8 0
+D1
+~
+~
+0 0 5155
+D2
+~
+~
+0 0 5158
+D3
+~
+~
+0 0 5157
+S
+#5157
+Storage Area~
+~
+0 0 0
+D1
+~
+~
+0 0 5156
+S
+#5158
+Stairs to Testing Facilities~
+~
+0 0 0
+D0
+~
+~
+0 0 5156
+D5
+~
+~
+0 0 5160
+S
+#5159
+Mysterious Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 5140
+S
+#5160
+Stairs to Lab~
+~
+0 0 0
+D1
+~
+~
+0 0 5161
+D4
+~
+~
+0 0 5158
+S
+#5161
+Monitoring Control~
+~
+0 0 0
+D2
+~
+~
+0 0 5162
+D3
+~
+~
+0 0 5160
+S
+#5162
+Ice Beast~
+~
+0 0 0
+D0
+~
+~
+0 0 5161
+S
+#5163
+Entrance to Habitat Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 5164
+D5
+~
+~
+0 0 5108
+S
+#5164
+Passage D - Habitat Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 5199
+D1
+~
+~
+0 0 5165
+D2
+~
+~
+0 0 5163
+D3
+~
+~
+0 0 5171
+S
+#5165
+Passage D - Habitat Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 5170
+D1
+~
+~
+0 0 5166
+D3
+~
+~
+0 0 5164
+S
+#5166
+Passage D - Habitat Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 5167
+D1
+~
+~
+0 0 5168
+D3
+~
+~
+0 0 5165
+S
+#5167
+Living Pod F~
+~
+0 3596 0
+D2
+~
+~
+0 0 5166
+M 6000 H 6000
+S
+#5168
+Living Pod G~
+~
+0 3596 0
+D3
+~
+~
+0 0 5166
+M 6000 H 6000
+S
+#5169
+Living Pod A~
+~
+0 3596 0
+D1
+~
+~
+0 0 5172
+M 6000 H 6000
+S
+#5170
+Living Pod E~
+~
+0 3596 0
+D2
+~
+~
+0 0 5165
+M 6000 H 6000
+S
+#5171
+Passage D - Habitat Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 5173
+D1
+~
+~
+0 0 5164
+D3
+~
+~
+0 0 5172
+S
+#5172
+Passage D - Habitat Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 5174
+D1
+~
+~
+0 0 5171
+D3
+~
+~
+0 0 5169
+S
+#5173
+Living Pod C~
+~
+0 3596 0
+D2
+~
+~
+0 0 5171
+M 6000 H 6000
+S
+#5174
+Living Pod B~
+~
+0 3596 0
+D2
+~
+~
+0 0 5172
+M 6000 H 6000
+S
+#5175
+Small Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 5176
+D3
+~
+~
+0 0 5119
+S
+#5176
+Vegi-Pod A~
+~
+0 0 0
+D0
+~
+~
+0 0 5182
+D1
+~
+~
+0 0 5177
+D3
+~
+~
+0 0 5175
+S
+#5177
+Vegi-Pod B~
+~
+0 0 0
+D0
+~
+~
+0 0 5178
+D3
+~
+~
+0 0 5176
+S
+#5178
+Vegi-Pod C~
+~
+0 0 0
+D0
+~
+~
+0 0 5179
+D1
+~
+~
+0 0 5183
+D2
+~
+~
+0 0 5177
+D3
+~
+~
+0 0 5182
+S
+#5179
+Vegi-Pod F~
+~
+0 0 0
+D2
+~
+~
+0 0 5178
+D3
+~
+~
+0 0 5180
+S
+#5180
+Vegi-Pod E~
+~
+0 0 0
+D1
+~
+~
+0 0 5179
+D2
+~
+~
+0 0 5182
+D3
+~
+~
+0 0 5181
+S
+#5181
+Storage Closet~
+~
+0 0 0
+D1
+~
+~
+0 0 5180
+S
+#5182
+Vegi-Pod D~
+~
+0 0 0
+D0
+~
+~
+0 0 5180
+D1
+~
+~
+0 0 5178
+D2
+~
+~
+0 0 5176
+S
+#5183
+Gardner's Quarters~
+~
+0 0 0
+D3
+~
+~
+0 0 5178
+S
+#5184
+Greenery Operations~
+~
+0 0 0
+D0
+~
+~
+0 0 5185
+D5
+~
+~
+0 0 5119
+S
+#5185
+Small Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 5186
+D2
+~
+~
+0 0 5184
+S
+#5186
+Circular Platform~
+~
+0 0 0
+D0
+~
+~
+0 0 5188
+D1
+~
+~
+0 0 5187
+D2
+~
+~
+0 0 5189
+D3
+~
+~
+0 0 5185
+S
+#5187
+Seed Room~
+~
+0 0 0
+D3
+~
+~
+0 0 5186
+S
+#5188
+Power Generator~
+~
+0 0 0
+D2
+~
+~
+0 0 5186
+S
+#5189
+Water Purification System~
+~
+0 0 0
+D0
+~
+~
+0 0 5186
+R GRALL 5189 100~
+S
+#5190
+Row of Cells~
+~
+0 0 0
+D1
+~
+~
+0 0 5192
+D2
+~
+~
+0 0 5191
+D4
+~
+~
+0 0 5112
+S
+#5191
+Cell 1~
+~
+0 0 0
+D0
+~
+~
+0 0 5190
+S
+#5192
+Walkway~
+~
+0 0 0
+D1
+~
+~
+0 0 5193
+D3
+~
+~
+0 0 5190
+S
+#5193
+Row of Cells~
+~
+0 0 0
+D1
+~
+~
+0 0 5195
+D2
+~
+~
+0 0 5194
+D3
+~
+~
+0 0 5192
+S
+#5194
+Cell 2~
+~
+0 0 0
+D0
+~
+~
+0 0 5193
+S
+#5195
+Turn in the Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 5196
+D3
+~
+~
+0 0 5193
+S
+#5196
+Row of Cells~
+~
+0 0 0
+D0
+~
+~
+0 0 5195
+D1
+~
+~
+0 0 5198
+D2
+~
+~
+0 0 5197
+S
+#5197
+Cell 4~
+~
+0 0 0
+D0
+~
+~
+0 0 5196
+S
+#5198
+Cell 3~
+~
+0 0 0
+D3
+~
+~
+0 0 5196
+S
+#5199
+Living Pod D~
+~
+0 3592 0
+D2
+~
+~
+0 0 5164
+M 6000 H 6000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 5120 1 5120 1 Load A shopkeep
+O 0 5120 0 5120 {cicerian {dmetal {barmor{x loaded to Station Armory
+O 0 5121 0 5120 {cicerian {dtail {benhancement{x loaded to Station Armory
+O 0 5122 0 5120 {cicerian {darm {bguards{x loaded to Station Armory
+O 0 5123 0 5120 {cicerian {dcontainer {bpouch{x loaded to Station Armory
+O 0 5124 0 5120 {cicerian {dbattle {bshank{x loaded to Station Armory
+M 0 5125 1 5125 1 Load The Server
+O 0 5126 0 5125 A glop of somethin supposedly edible loaded to Mess Hall
+O 0 5127 0 5125 A piece of stale bread loaded to Mess Hall
+O 0 5128 0 5125 A cup of water loaded to Mess Hall
+M 0 5126 1 5126 1 Load A Mess Hall Chef
+M 0 5156 1 5156 1 Load An Icerian Scientist
+O 0 5156 0 5156 A large control panel loaded to A Very High-Tech lab
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+O 0 954 0 5159 A black senzu bean loaded to Mysterious Cave
+M 0 5100 1 5162 1 Load Icerian Battle Drone
+O 0 5187 0 5187 A bag of seed loaded to Seed Room
+O 0 5187 0 5187 A bag of seed loaded to Seed Room
+O 0 5187 0 5187 A bag of seed loaded to Seed Room
+O 0 5187 0 5187 A bag of seed loaded to Seed Room
+O 0 5189 0 5189 A large purification system loaded to Water Purification System
+S
+
+
+
+#SHOPS
+5120 9 9 9 9 9 60 110 0 23
+5125 0 19 0 0 0 60 110 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#5127
+obj echoat $n face gets a contorted face as you gag from the horrible taste.
+obj echoaround $n gets a rather contorted look on their face and cringes in pain.
+~
+#5137
+obj echoat $n The ice opens up and drags you down into the darkness
+obj echoaround $n The ice opens up and drags $n down into the darkness
+obj gtransfer $n 5138
+~
+#0
+
+#ROOMPROGS
+#5189
+room echo A loud hum can be heard from the motors running the Purification Unit.
+~
+#0
+
+#$

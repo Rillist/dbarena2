@@ -1,0 +1,477 @@
+#AREADATA
+Name Jungle~
+Builders Bulma~
+VNUMs 1600 1699
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#1600
+Viper~
+A pissed off Viper~
+A Viper that has been stepped on and made mad
+~
+~
+snake~
+AF M -1000 0
+2000 3
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+E H L I
+stand stand male 0
+AGYc DEFKLQX medium unknown
+F for X
+F par AV
+#1604
+A Black Jaguar~
+a Pregnant Jaguar~
+A Solid Black Pregnant Female Jaguar
+~
+~
+cat~
+AF Z 1000 0
+2000 200
+10 10 10 10 10 
+100 100
+claw
+0 0 0 0
+FH 0 0 R
+stand stand female 2147483647
+AGV ACDEFHJKQUV medium unknown
+#1605
+A Bumble Bee~
+bee~
+A small but deadly bumble bee
+~
+~
+centipede~
+ABF JZ 556 0
+2000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+QR BMNPQ FHIK E
+stand stand female 100
+ABGHO ABCGHJK medium unknown
+#1606
+Tyranosaurus Rex~
+A Giant Tyranosaurus Rex ~
+A Giant Tyranosaurus Rex 
+~
+~
+lizard~
+AF 0 -1000 0
+20000 20000
+40 10 10 10 10 
+100 100
+chomp
+0 0 0 0
+0 0 L I
+stand stand male 120
+AGXc ACDEFHKQV medium unknown
+#1672
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1673
+dog zutaut~
+Zutaut~
+A dog like creature with long white and grey spotted fur
+~
+A dog like cretur with long white and grey spotted fur
+and long druping ears. His snout is longer then normal
+and all four k-nine's are about an inch and a half long
+and sitck out of his mouth on bothe sides.
+His fur is long and curly, and his eyes look like those
+of a cat. his ears look like thoses of a a doberman. Ha
+has horn like things comeing from the top of his head.
+~
+human~
+AP J 0 0
+4999500 100
+50 2 0 0 1 
+100 100
+none
+0 0 0 0
+0 0 B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#1674
+blah blah~
+blah blah~
+A dorky looking person
+~
+~
+human~
+A 0 0 0
+10000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1698
+A Bright Golden Dragon~
+a golden dragon~
+A Giant Golden Dragon, With razor sharp claws and teeth is here.
+~
+~
+dragon~
+A HJT 1000 0
+2000000000 50
+10 10 10 10 1698 
+100 1
+flame
+0 0 0 0
+H 0 BEH FI
+stand stand male 2147483647
+AHZ ABCDEFGHIJKPQUVWX giant unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1600
+Entrance to the Jungle~
+Through the thick limbs and leaves of the trees that stretch overhead
+little light makes it to the floor of this jungle.  All direction look the
+same as the thick undergrowth makes seeing the ground near impossible. 
+Sounds of movement can be heard in all directions as the animals of this
+jungle rustle the leaves and bushes as they move.  
+~
+0 4 0
+D0
+~
+~
+0 0 1601
+D3
+~
+~
+0 0 1602
+S
+#1601
+A Jungle Border~
+An ocean is right beside the Jungle!  Some light shines through for not
+many trees block the way.  Birds can be heard singing in the distance. 
+Lovely Flowers grow here, but may be poisonous.  Monkeys are howling from
+high above.  Many creatures are in this single part of the Jungle, but they
+protect and help each other.  Watch out!  
+~
+0 0 0
+D2
+~
+~
+0 0 1600
+D3
+~
+~
+0 0 1606
+S
+#1602
+A Jungle Border~
+Traps have been set all around because hunters have been trying to catch
+a wild sabertooth.  There is no light coming through the canopy because it
+is so thick.  Bushes of thorns are everywhere.  Any step forward could lead
+to danger!  
+~
+0 0 0
+D1
+~
+~
+0 0 1600
+D3
+~
+~
+0 0 1603
+S
+#1603
+Outside the Heart of the Jungle~
+No light can shine through because of the canopy now is so thick.  Hungry
+eyes are all around!  Something has dug a hole in the ground.  Wonder what
+could have made it?  
+~
+0 0 0
+D1
+~
+~
+0 0 1602
+D3
+~
+~
+0 0 1605
+D5
+~
+~
+0 0 1604
+S
+#1604
+A Jaguar's Lair~
+Bones have been piled up and towering stacks.  Skulls are lying around
+the place making it look like a pig's stye.  Many eyes are glowing blood
+red.  Low rumbling growls are coming from the shadows!  Wonder whats there? 
+But without light there is no way of telling!  
+~
+0 0 0
+D4
+~
+~
+0 0 1603
+S
+#1605
+The Heart of the Jungle~
+The deep, dark heart of the jungle, thick with vegetation, hence why not
+much light shines in this area.  Flowers blossom everywhere, giving off a
+magical scent.  Spiders weave their nets and lizards crawl around on the
+base of trees.  This place is teaming with life.  
+~
+0 0 0
+D0
+~
+~
+0 0 1606
+D1
+~
+~
+0 0 1603
+D3
+~
+~
+0 0 1608
+S
+#1606
+Deeper into the Jungle ~
+No light and little air gets into this part of the jungle.  The trees
+grow so close together all must slipp between them to get through.  Not many
+things live in this area of the jungle because it is so thick.  But one
+GREAT creature does and he lives right here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1601
+D2
+~
+~
+0 0 1605
+D3
+~
+~
+0 0 1607
+S
+#1607
+A Burning Jungle Area~
+Walls surround the place so that the fire can get nowhere else.  Nothing
+but fire-loving creatures could stand the heat.  Fire bursts from every inch
+of ground inside the walls.  The sky looks solid Black because of the smoke.
+Not very much can be seen bye normal vision.  Voices come from the walls,
+mocking all that enter here.  Demons frolic here because it is so hot.  Be
+careful for going anywhere but out of here may be a fatal mistake!  
+~
+0 0 0
+D1
+~
+~
+0 0 1606
+S
+#1608
+The Kaomie River~
+A medium sized river with a very swift current flows here.  Many tropical
+fish live below the water surface.  Light shines through the tree tops
+warming the water.  
+~
+0 0 6
+D1
+~
+~
+0 0 1605
+D2
+~
+~
+0 0 1609
+S
+#1609
+Further down the Kaomie River..~
+You are treading water in the middle of the Kaomie River, the current pulls
+you slowly southwards.  A slight rumbling sound fills the air here
+ and you notice less fish in this area. The jungle is still so thick
+ that the sunlight barely peeks throught the trees overhead.
+~
+0 0 0
+D0
+~
+~
+0 0 1608
+D2
+~
+~
+0 0 1610
+S
+#1610
+Near a Massive Waterfall..~
+The current moves faster here and the rumbling is near deafening.
+You latch onto a small outcropping of rocks to avoid being dragged away,
+nearby to the south you see a screen of mist. The rumbling must be
+coming from that direction.
+~
+0 0 0
+D0
+~
+~
+0 0 1609
+D2
+~
+~
+0 0 1611
+S
+#1611
+The brink of a Massive Waterfall..~
+The current here is so strong you cannot swim back! You begin to
+float near the edge, looking down you can see its going to be a long fall
+better hold your breath!
+~
+0 0 0
+D0
+~
+~
+0 0 1610
+D5
+~
+~
+0 0 1612
+R GRALL 1600 100~
+S
+#1612
+A large pool at the bottom of a Waterfall~
+A thick mist is formed here from the crashing waterfall. There
+are no streams leading away from the pool, you wonder where
+all this water goes to. A extremely load roar emits from the
+southern jungle. Maybe you shouldnt have went down the waterfall...
+~
+0 0 0
+D2
+~
+~
+0 0 1613
+D4
+~
+~
+0 0 1611
+S
+#1613
+Inside a dangerous jungle~
+Trees cover the area as a dense jungle surrouds the path on every side. 
+Birds chirping all around, there looks like no exit besides the way back
+south.  Wait, is that water to the north?  
+~
+0 0 0
+D0
+~
+~
+0 0 1612
+D2
+~
+~
+0 0 1614
+S
+#1614
+Somewhere in a dangerous jungle~
+~
+0 0 0
+D0
+~
+~
+0 0 1613
+S
+#1698
+Gohan's Room~
+There are many bookcases full of books about magic and myths against the
+northern wall.  A Golden Dragon is here as a pet so don't try to kill him or
+you will die!  Of Gohan's family hang all over the walls covering all of the
+space besdies the area for a single picture and the doors.  Light shines in
+from the sun which is right outside the window Glowing red lamps are on
+tables everywhere.  Thousands upon Thousands of awards are in a Trophycase
+against the southern wall.  
+~
+0 4 0
+S
+#1699
+The Corner~
+To get here something very bad must have been done.  Why was it done is
+the question that needs answering Say anything and you can just guess what
+will happen!  Now sit down and DON'T say a word!!!  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1604
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#1600
+room echoat $n You madly grasp for a branch as the current pulls you over the falls!
+room echoaround $n $n is pulled over the falls!
+room transfer $n 1612
+room echoat $n You fall into the large pool with a great splash!
+room echoaround $n $n lands into the large pool with a great splash!
+~
+#1601
+room echoat $n You are still falling down the waterfall!
+room echoaround $n $n still falls down the waterfall!
+room force $n down
+~
+#0
+
+#$

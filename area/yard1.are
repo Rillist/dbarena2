@@ -1,0 +1,1286 @@
+#AREADATA
+Name Yardrat~
+Builders Majinfred-d~
+VNUMs 300 399
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#300
+Pl Dummy~
+Pl Dummy~
+Pl Dummy stands here for your enjoyment.
+~
+~
+human~
+ABGP 0 0 0
+200000000000 0
+5 5 5 5 1000 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#302
+Yardrat Citizen~
+Yardrat Citizen~
+A Yardrat Citizen, going about his business.
+~
+~
+human~
+AP 0 250 0
+10000000 158
+28 28 28 28 28 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 1405
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#306
+Yardrat Guard~
+Yardrat Guard~
+A Yardrat Guard, protecting the people.
+~
+~
+human~
+AR 0 500 0
+15000000 258
+61 61 61 61 61 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 1618
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#308
+Yardrat Priest~
+Yardrat Priest~
+A Yardrat Priest, in a yoga position.
+~
+~
+human~
+AP 0 750 0
+20000000 666
+80 80 80 80 80 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+sit stand male 2600
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#309
+Yardrat Civilian~
+Yardrat Civilian~
+A Yardrat Civilian is meditating here.
+~
+~
+human~
+AP 0 350 0
+30000000 365
+67 67 67 67 67 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 1924
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#310
+Yardrat Civilian~
+Yardrat Civilian~
+A Yardrat Civilian is training here.
+~
+~
+human~
+AP 0 350 0
+40000000 421
+69 69 69 69 69 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 2067
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#313
+Yardrat Receptionist~
+Yardrat Receptionist~
+A Yardrat Receptionist, registering new fighters.
+~
+~
+human~
+AP 0 750 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 300 100~
+#316
+Yardrat Combatant~
+Yardrat Combatant~
+A Yardrat Combatant awaits his next challenger.
+~
+~
+human~
+AP 0 100 0
+60000000 516
+74 74 74 74 74 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 2288
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#319
+Yardrat Fighter~
+Yardrat Fighter~
+A Yardrat Fighter wants to prove himself.
+~
+~
+human~
+AP 0 100 0
+100000000 666
+80 80 80 80 80 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 2600
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#321
+Yardrat Elite~
+Yardrat Elite~
+Yardrat Elite smiles all-knowingly.
+~
+~
+human~
+AP 0 100 0
+200000000 942
+89 89 89 89 89 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 3091
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#323
+Lxcia Super Yardrat~
+Super Yardrat~
+Lxcia, A Super Yardrat, is smirking.
+~
+~
+human~
+AP 0 -100 0
+300000000 1154
+95 95 95 95 95 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 3421
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#325
+Yardrat Healer~
+Yardrat Healer~
+A Yardrat Healer, curing the sick and wounded.
+~
+~
+namek~
+A 0 500 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 140
+AHMV ABCDEFGHIJK large unknown
+M GREET 302 100~
+#326
+Yardrat Trainer~
+Yardrat Trainer~
+A Yardrat Trainer improving people's stats.
+~
+~
+human~
+AJ 0 500 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 140
+AHMV ABCDEFGHIJK large unknown
+M GREET 301 100~
+#330
+Yardrat Wise Man~
+Yardrat Wise Man~
+A Yardrat wise man sits here, aware of you.
+~
+~
+human~
+AP 0 1000 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 304 100~
+#331
+Yardrat Teacher~
+Yardrat Teacher~
+A Yardrat Teacher, teaching 'heal'
+~
+~
+human~
+A 0 1000 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 305 100~
+M BRIBE 308 1000~
+#335
+Sand Worm~
+Sand Worm~
+A vicious sandworm slithers here!
+~
+~
+human~
+ABFP 0 -1000 0
+400000000 2000
+130 130 130 130 130 
+100 100
+charge
+0 0 0 0
+0 O 0 0
+stand stand none 3818
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 303 100~
+#336
+Yardrat Teacher~
+Yardrat Teacher~
+A Yardrat Teacher, teaching 'cure vision'
+~
+~
+human~
+A 0 1000 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 306 100~
+M BRIBE 309 20000~
+#337
+Yardrat Teacher~
+Yardrat Teacher~
+A Yardrat Teacher, teaching 'revive'
+~
+~
+human~
+A 0 1000 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 307 100~
+M BRIBE 310 100000~
+#338
+Baby Sandworm~
+Baby Sandworm~
+A baby sandworm gnashes its teeth.
+~
+~
+human~
+ABFP 0 -750 0
+20000000 223
+33 33 33 33 33 
+100 100
+charge
+0 0 0 0
+0 0 0 0
+stand stand none 1671
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 311 100~
+#339
+Sandworm Larvae~
+Sandworm larvae~
+Living sandworm larvae crawl slowly.
+~
+~
+human~
+ABFP 0 -500 0
+2000000 70
+18 18 18 18 18 
+100 100
+suction
+0 0 0 0
+0 0 0 0
+stand stand none 940
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 311 100~
+#350
+A Majin Mystic~
+Telstarin~
+{x({RHostile{x) Telstarin the {DMajin {CM{cy{Cs{ct{Ci{cc{x is here.
+~
+~
+half-breed~
+AR 0 -800 0
+30259001644 17320
+268 268 268 268 268 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 11236
+AHMV ABCDEFGHIJK large unknown
+#397
+Trouse~
+Trouse~
+Trouse, a Super Saiya-jin from the future.
+~
+~
+saiya-jin~
+A 0 1000 0
+15000000000 14142
+248 248 248 248 248 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10153
+AHMV ABCDEFGHIJK large unknown
+#398
+Evil Personified~
+Evil Personified~
+Evil Personified stands here, and wants to hurt you.
+~
+~
+human~
+AS 0 -1000 0
+50000000000000 707106
+1000 1000 1000 1000 1000 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 71796
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#399
+Death Bringer 2~
+Death Bringer 2~
+Death Bringer 2 brings you death.
+~
+~
+android~
+A 0 0 0
+3000000000 5477
+177 177 177 177 177 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 6318
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#300
+shuttle~
+a spherical shuttle to earth~
+A spherical shuttle looks ready to head to Earth.~
+unknown~
+1
+portal 0 0
+0 0 0 DGH 0
+0 -31072 0 P
+#301
+A Furry Rug~
+a Furry Rug~
+A Furry Rug~
+unknown~
+1
+furniture 0 P
+A EIJKN EHK CFG CFG
+0 0 0 P
+#313
+sign~
+a sign~
+{W A sign reading: {CWelcome To The Yardrat Training Complex Alpha{W.{x~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#332
+A sign~
+a sign~
+{WA small sign showing a warning: {RBEWARE THE BEASTS WITHIN!{x~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#335
+Dried skull~
+dried skull~
+{WA dried skull from a huge animal lies here as a warning.{x~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#300
+Yardrat Spaceport~
+This appears to be the spaceport of Yardrat.  There is a large ship in
+the middle of this giant room, surrounded by citizens and workers of
+Yardrat.  They all seem to be talking in some strange tongue.  There also is
+a large door leading out of the building to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 301
+S
+#301
+Yardrat Streets~
+This dusty road is lined with citizens and workers of Yardrat.  They all
+seem to be rushing from place to place, not paying any attention to their
+new visitor.  There is a hut further to the north, and two smaller buildings
+to the west and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 302
+D1
+~
+~
+0 0 303
+D2
+~
+~
+0 0 300
+D3
+~
+~
+0 0 304
+S
+#302
+A Dusty Road~
+This road winds along north to the clearing of a small hut.  The only
+thing noticeable around this road is the endless desertlike plains that
+stretch on what seems like forever into the distance.  This must be a very
+primitive place indeed.  
+~
+0 0 0
+D0
+~
+~
+0 0 305
+D1
+~
+~
+0 0 311
+D2
+~
+~
+0 0 301
+S
+#303
+Yardrat House~
+The first thing noticeable in this small hut are the sculptures scattered
+around.  Small, wooden bowls and other assortment of dishwear sit in a mess
+around the room.  There is a small bookcase along the eastern wall and a
+furry rug on the floor.  The atmosphere in here is very calm.  
+~
+0 0 0
+D2
+~
+~
+0 0 310
+D3
+~
+~
+0 0 301
+S
+#304
+Yardrat House~
+Like many of the other Yardrat houses, this one has many different
+sculptures and bowls and dishwear laying about the house.  This house is
+small and almost hut like, you should be careful not to hit your head on the
+way out.  The only way out is to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 301
+D2
+~
+~
+0 0 309
+S
+#305
+Foyer to the Hut~
+This small patch of road is occupied by two small towers on either side. 
+They seem to be guarding the hut to the north, what could possibly be of any
+value to be protected in this barren wasteland?  The road leads north to the
+hut and west and east to the towers.  
+~
+0 0 0
+D0
+~
+~
+0 0 308
+D1
+~
+~
+0 0 307
+D2
+~
+~
+0 0 302
+D3
+~
+~
+0 0 306
+S
+#306
+The West Guard Tower~
+This road leads to a tall stone tower, watching over Yardrat.  The figure
+in the tower keeps a keen eye on the happenings of the small town here. 
+Telling by the look the guard is giving, it would be best to move on.  The
+only way out is to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 305
+S
+#307
+The East Guard Tower~
+Like its brother across the road, this tower is just as tall, and just as
+forbidding.  The guard snorts and points to the road to the west, signaling
+to leave here.  It would be best to move on before there are any problems. 
+The only exit is to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 305
+S
+#308
+A Small Hut~
+The sight in here is of absolute wonder.  The entire room seems to be
+enclosed in a white aura, as if this was a very holy place.  A large chair
+sits in the center of the room, giving off the most light.  A small man sits
+here in a yoga position, he has a very concentrated look on his face.  There
+are others in this room as well, seeming to be in a sort of prayer.  
+~
+0 0 0
+D2
+~
+~
+0 0 305
+S
+#309
+Meditation Room~
+This room is very basic, and mostly empty.  There is a dusty rug on the
+floor in the centre of the room on which a Yardrat civilian sits, in a deep
+meditation.  Several small wierdly shaped objects float nearby him.  
+~
+0 0 0
+D0
+~
+~
+0 0 304
+S
+#310
+Training Room~
+The Yardrat people are obviously driven by a desire to become stronger,
+and stay healthy, as most races do.  This small training room reflects that
+desire.  There are weights and various other basic training implements, and
+a single Yardrat civilian stands here, training.  He is using a peculiar
+technique which involves moving from one point of the room to another,
+instantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 303
+S
+#311
+A Tarmac Road~
+The dusty road turns onto a larger tarmac path, proving that this place
+has at least a basic understanding of less primitive technologies.  This
+road appears to be newer than the dusty one, and continues leading into the
+east.  Looking east, you can faintly see a building, bigger than the huts
+you have encountered thus far.  
+~
+0 0 0
+D0
+~
+~
+0 0 327
+D1
+~
+~
+0 0 312
+D3
+~
+~
+0 0 302
+S
+#312
+Tarmac Road Ends~
+The tarmac road curves at this point to face towards a large building. 
+The building appears to be quite new, like the road, and it appears to be
+constructed with concrete or something similar.  In any case, it is more
+advanced than the huts you saw before.  The building is single story, and
+its doors appear to be strong and metallic.  No windows can be seen on the
+building from this angle.  
+~
+0 0 0
+D1
+~
+~
+0 0 324
+D2
+~
+~
+1 0 313
+D3
+~
+~
+0 0 311
+S
+#313
+Training Complex Alpha - Reception~
+This room is very clean and sterile, and is much unlike the other
+buildings of the Yardrat City.  This building is labelled as a Training
+Complex at a sign in this reception.  The Yardrat people obviously take
+their training very seriously.  South leads into a corridor with joined east
+and west exits containing training fighters, waiting for someone to practice
+their techniques against, but be warned, the Yardrat system of combat and
+honour means none will by shy about killing weaklings.  
+~
+0 0 0
+D0
+~
+~
+1 0 312
+D2
+~
+~
+0 0 314
+S
+#314
+Start Of Corridor~
+This is the start of the corridor.  To the east and west there are
+entrances to combat cubicals.  Be warned, in such cubicals, only one of two
+fighters will leave alive.  Yardrats believe that the strong become
+stronger, while the weak shall perish.  
+~
+0 0 0
+D0
+~
+~
+0 0 313
+D1
+~
+~
+0 0 315
+D2
+~
+~
+0 0 317
+D3
+~
+~
+0 0 316
+S
+#315
+Training Room B~
+This room is small, and cube like.  The walls are padded with a soft
+material, and a Yardrat fighter stands here looking bored.  The room has no
+windows, and the door is left wide-open for a quick escape if nescessary.  
+~
+0 0 0
+D3
+~
+~
+0 0 314
+S
+#316
+Training Room A~
+This room is small, and cube like.  The walls are padded with a soft
+material, and a Yardrat fighter stands here looking bored.  The room has no
+windows, and the door is left wide-open for a quick escape if nescessary.  
+~
+0 0 0
+D1
+~
+~
+0 0 314
+S
+#317
+Corridor Continues~
+The corridor continues on with more exits to the east and west, which
+look identical to the ones that came beforehand.  Except now, the fighters
+contained within are slightly stronger.  The corridor continues further to
+the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 314
+D1
+~
+~
+0 0 318
+D2
+~
+~
+0 0 320
+D3
+~
+~
+0 0 319
+S
+#318
+Training Room D~
+This room is slightly larger than the first two, but still cube like. 
+The walls are padded with a soft material, and a Yardrat fighter stands here
+looking bored.  The room has no windows, and the door is left wide-open for
+a quick escape if nescessary.  
+~
+0 0 0
+D3
+~
+~
+0 0 317
+S
+#319
+Training Room C~
+This room is slightly larger than the first two, but still cube like. 
+The walls are padded with a soft material, and a Yardrat fighter stands here
+looking bored.  The room has no windows, and the door is left wide-open for
+a quick escape if nescessary.  
+~
+0 0 0
+D1
+~
+~
+0 0 317
+S
+#320
+Corridor Ends~
+The corridor ends here, cutting off into three seperate rooms.  The ones
+to the east and west look identical to the doors seen before, but the one
+south is different.  It appears to be larger, and somewhat fancier.  The
+being within must be important.  
+~
+0 0 0
+D0
+~
+~
+0 0 317
+D1
+~
+~
+0 0 322
+D2
+~
+~
+0 0 323
+D3
+~
+~
+0 0 321
+S
+#321
+Training Room E~
+This room is slightly larger than the last two, but still cube like.  The
+walls are padded with a soft material, and a Yardrat fighter stands here
+looking bored.  The room has no windows, and the door is left wide-open for
+a quick escape if nescessary.  
+~
+0 0 0
+D1
+~
+~
+0 0 320
+S
+#322
+Training Room F~
+This room is slightly larger than the last two, but still cube like.  The
+walls are padded with a soft material, and a Yardrat fighter stands here
+looking bored.  The room has no windows, and the door is left wide-open for
+a quick escape if nescessary.  
+~
+0 0 0
+D3
+~
+~
+0 0 320
+S
+#323
+Final Training Room~
+This room is far larger than the other training rooms.  It is shaped like
+a cube, but the walls are no longer padded, instead, dark metallic walls
+that seem to have lost their shine long ago greet you, as do the many blood
+stains upon it.  A single female Yardrat being stands in this room, grinning
+mischieviously and confidently upon your body with lust.  
+~
+0 0 0
+D0
+~
+~
+0 0 320
+S
+#324
+Dusty Road Again~
+Once again the tarmac road changes to a dusty one, and it is obvious that
+this road is not as heavily traversed as the ones before it.  You can see
+small huts to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 325
+D1
+~
+~
+0 0 332
+D2
+~
+~
+0 0 326
+D3
+~
+~
+0 0 312
+S
+#325
+Small Yardrat Hospital~
+This hospital is a small hut, inside is a simple room with a single bed. 
+A Yardrat healer stands here, curing patients with great pace and ease using
+a wierd ki technique.  The Yardrat smiles at you warmly and beckons for you
+to approach.  
+~
+0 0 0
+D2
+~
+~
+0 0 324
+M 300 H 300
+S
+#326
+Yardrat Experience Hut~
+There is a single old Yardrat in this small hut, and the only thing
+contained within besides him is a rug, upon which he sits.  He looks at you,
+his eyes showing wisdom, even beyond his years.  
+~
+0 0 0
+D0
+~
+~
+0 0 324
+S
+#327
+Narrow Tarmac Path~
+A narrow tarmac path turns off from the larger road before it, and leads
+far into the north.  Surrounding the path is nothing but a desert wasteland,
+and there is no people to be seen in this area.  
+~
+0 0 0
+D0
+~
+~
+0 0 328
+D2
+~
+~
+0 0 311
+S
+#328
+Narrow Tarmac Path Continues~
+A narrow tarmac path continues to lead far into the north.  Again,
+surrounding the path is nothing but a desert wasteland, and there is no
+people to be seen in this area.  
+~
+0 0 0
+D0
+~
+~
+0 0 329
+D2
+~
+~
+0 0 327
+S
+#329
+Narrow Tarmac Path Ends~
+A narrow tarmac path ends here, and turns into a small three level
+building.  The building is cuboid in shape, and has no windows, and only a
+single door at the front.  The special markings on the building show it to
+be sacred.  
+~
+0 0 0
+D1
+~
+~
+0 0 330
+D2
+~
+~
+0 0 328
+S
+#330
+Tower Of Wisdom~
+The interior of this building is small, but cozy.  The room is cooled by
+a ventilation system, protecting it from the harsh desertlands outside.  A
+single Yardrat, peacefully sitting on the floor, meditates here.  A ladder
+leads up onto the next floor from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 331
+S
+#331
+Level Two~
+The walls in here are covered by paintings of great battles fought, many
+centuries ago, upon the planet of Yardrat.  It shows the Yardrat people
+valiantly fighting off evil invaders with long, flowing, spiked hair and
+brown furred tails.  On the same paintings, each one shows a Yardrat using a
+strange technique, and healing the wounds of his fellow Yardrat...  Also in
+this room, a quiet Yardrat meditates peacefully.  Ladders lead up and down
+to the other floors from here.  
+~
+0 0 0
+D4
+~
+~
+0 0 336
+D5
+~
+~
+0 0 330
+S
+#332
+Unused Trail~
+There is a small marked trail here, yet the weeds and structure of it
+show that it has been unused for a long time now.  Beyond the trail and to
+the south east, there are no more signs of civilization, just vast desert. 
+A sign warning of dangers ahead stands here, the letters red and bold.  
+~
+0 0 0
+D1
+~
+~
+0 0 333
+D3
+~
+~
+0 0 324
+S
+#333
+Vast Desert Plains~
+The vast desert starts here, the trail before vanishing as you venture
+further from the Yardrat city.  The land before you is desolate and barren,
+and its hard to imagine anything being able to live here.  
+~
+0 0 0
+D2
+~
+~
+0 0 334
+D3
+~
+~
+0 0 332
+S
+#334
+More Desert Plains~
+The desert continues on in a vast strech, and yet, there is something
+menacing in the surrounding area that you can't quite put your finger on.  A
+skull from a long dead animal lies here.  
+~
+0 0 0
+D0
+~
+~
+0 0 333
+D1
+~
+~
+0 0 335
+D2
+~
+~
+0 0 338
+S
+#335
+A Trap!~
+Something is wrong here, the ground beneath you seems to move all on its
+own.  You look around in surprise as a sandworm bursts from under the sand
+and charges at you!  
+~
+0 0 0
+D3
+~
+~
+0 0 334
+S
+#336
+Level Three~
+The walls in here are also covered by paintings of battles fought.  It
+shows the Yardrat people once again valiantly fighting off the same evil
+invaders as before, yet this time, the healers are different.  They are
+healing wounds made specifically to the eyes.  Ladders lead up and down to
+the other floors from here.  A yardrat sits, eyeing you cautiously as you
+enter.  
+~
+0 0 0
+D4
+~
+~
+1 0 337
+D5
+~
+~
+0 0 331
+S
+#337
+Level Four~
+Once again, the walls have paintings.  And once again, they show the
+battle against the monkey-men invaders.  Yet this time, the healers are
+different than each before.  The healer yardrats in the paintings show
+incredible skill with their work, as they heal wounds easily and with great
+pace.  A single yardrat sits in the centre of the room, willing to teach if
+you are willing to learn.  A ladder leads down from here to former floors.  
+~
+0 0 0
+D5
+~
+~
+1 0 336
+S
+#338
+Sandworm Nest~
+You seem to have stumbled upon a sandworm nest!  Luckily for you, the
+mother isn't here right now.  Unluckily for you, the children are.....  And
+they are NOT happy to be disturbed by an outsider!  
+~
+0 4 0
+D0
+~
+~
+0 0 334
+S
+#382
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 312 2 1
+D 0 313 0 1
+D 0 336 4 1
+D 0 337 5 1
+O 0 300 0 300 A spherical shuttle to earth loaded to Yardrat Spaceport
+M 0 302 1 301 1 Load Yardrat Citizen
+M 0 302 2 302 1 Load Yardrat Citizen
+M 0 302 3 302 1 Load Yardrat Citizen
+M 0 302 4 305 1 Load Yardrat Citizen
+M 0 306 1 306 1 Load Yardrat Guard
+M 0 306 1 307 1 Load Yardrat Guard
+M 0 308 1 308 1 Load Yardrat Priest
+M 0 309 1 309 1 Load Yardrat Civilian
+M 0 310 1 310 1 Load Yardrat Civilian
+M 0 302 1 311 1 Load Yardrat Citizen
+M 0 302 1 312 1 Load Yardrat Citizen
+O 0 313 0 313 A sign loaded to Training Complex Alpha - Reception
+M 0 313 1 313 1 Load Yardrat Receptionist
+M 0 316 2 315 1 Load Yardrat Combatant
+M 0 316 2 316 1 Load Yardrat Combatant
+M 0 319 2 318 1 Load Yardrat Fighter
+M 0 319 2 319 1 Load Yardrat Fighter
+M 0 321 2 321 1 Load Yardrat Elite
+M 0 321 2 322 1 Load Yardrat Elite
+M 0 323 1 323 1 Load Super Yardrat
+M 0 325 1 325 1 Load Yardrat Healer
+M 0 326 1 326 1 Load Yardrat Trainer
+M 0 330 1 330 1 Load Yardrat Wise Man
+M 0 331 1 331 1 Load Yardrat Teacher
+O 0 332 0 332 A sign loaded to Unused Trail
+O 0 335 0 334 Dried skull loaded to More Desert Plains
+M 0 335 2 335 1 Load Sand Worm
+M 0 336 1 336 1 Load Yardrat Teacher
+M 0 337 1 337 1 Load Yardrat Teacher
+M 0 338 1 338 1 Load Baby Sandworm
+M 0 339 2 338 2 Load Sandworm larvae
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#300
+say Welcome to the training complex alpha, if you are not an experienced fighter, please leave. The combat that takes place within can be fatal.
+emot shuffles through some files on her desk, before looking back up at you.
+say If you wish, you may now venture south.
+~
+#301
+bow $n
+say Greetings traveller. Please feel at home here, and if you wish, I will teach you how to improve your body's strength.
+~
+#302
+bow $n
+say Allow me to heal your wounds, weary traveller.
+emote concentrates hard as he places his hands on your forehead.
+revive $n
+
+~
+#303
+emote erupts out from the sand and descends upon $n!!!
+attack $n
+~
+#304
+emot looks upon you peacefully as you enter.
+say Welcome to the tower of wisdom. We teach young martial artists in attaining skills here. For our services, we must unfortunatly charge, so we may continue to run. The teachers of the skills are up from here. Good luck.
+~
+#305
+bow $n
+say I presume you wish to learn the art of heal? Please hand me 1,000 zenni, and I will show you all I know.
+~
+#306
+bow $n
+say Welcome to my level, I can teach you the skill of healing wounds caused to the eye. The price of my services is a mere 20,000 zenni.
+~
+#307
+bow $n
+say I see you have come in search of more advanced healing techniques. For 100,000 zenni, I can teach you the ultimate in healing skills, a practice known as 'revival'.
+~
+#308
+emot nods, "{GAs you wish....{x"
+echo After several training sessions, you learn the art of heal!
+mob gainskill heal $n
+~
+#309
+emot nods, "{GAs you wish....{x"
+mob gainskill 'cure vision' $q
+~
+#310
+emot nods, "{GAs you wish....{x"
+mob gainskill revive $n
+~
+#311
+pmote rushes from its nest and pounces at $n!!!
+attack $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

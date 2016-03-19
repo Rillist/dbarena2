@@ -1,0 +1,1363 @@
+#AREADATA
+Name earth8~
+Builders Work-2-done~
+VNUMs 4100 4199
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#4100
+namekian cape~
+{wA {WWhite {GNamekian {wCape{0~
+{wA {WWhite {GNamekian {wCape{0~
+cloth~
+1
+armor XY AK
+EHI EHI EHI EHI 0
+0 20 0 P
+#4101
+namekian gi~
+{wA {MPurple {GNamekian {wGi{0~
+{wA {MPurple {GNamekian {wGi{0 lies here.~
+unknown~
+1
+armor X ADF
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+0 10 0 P
+#4102
+heavy turban~
+{wA {WWhite {wTurban with a {MPurple {wTop{0~
+{wA {WWhite {wTurban with a {MPurple {wTop{0 lies here.~
+unknown~
+1
+armor X AE
+DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+0 0 0 P
+#4103
+orange namekian shoes~
+{wA pair of {OOrange {GNamekian {wShoes{0~
+{wA pair of {OOrange {GNamekian {wShoe{0 lies here.~
+unknown~
+1
+armor X AG
+CDEFHJ CDEFHJ CDEFHJ CDEFHJ 0
+0 2 0 P
+#4104
+Sword of Xcaliber~
+a Sword of Xcaliber~
+A ancient looking sword lies here.~
+unknown~
+2000
+weapon AB AN
+sword 50 50 none 0
+1000000 5 500000 P
+#4105
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 ADS
+0 0 0 0 0
+0 0 0 P
+#4106
+red gi~
+{wA {rRed {wGi with the {DShadoW {rSyndicatE{w symbol on the left side of the chest.{0~
+A {rRed {wGi lies here.{0~
+unknown~
+1
+armor X ADF
+BCEH BCEH BCEH BCEH 0
+0 5 0 P
+#4107
+wristbands~
+{wA pair of {YOrange {wWristbands{0~
+{wA pair of {YOrange {wWristbands{0~
+unknown~
+1
+weapon X AN
+exotic 50 50 divine 0
+0 1 0 P
+#4108
+pants~
+{wA Pair of {MPurple {GNamekian {MPants{0~
+{wA Pair of {MPurple {GNamekian {MPants{0~
+unknown~
+1
+armor X AF
+DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+0 10 0 P
+#4109
+namekian belt~
+{wA {BBlue {GNamekian {wBelt{0~
+{wA {BBlue {GNamekian {wBelt{0~
+unknown~
+1
+armor X AL
+DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+0 0 0 P
+#4110
+black shirt~
+a {DBlack Shirt {0with 2 {RRed X's{0~
+A {DBlack Shirt {0with 2 {RRed X's{0 lies here.~
+unknown~
+1
+armor X AD
+CDFI CDFI CDFI CDFI 0
+0 2 0 P
+#4111
+trench coat~
+a {DBlack, Leather Trench Coat {0with a {Dsword {0on the back~
+A {DBlack, Leather Trench Coat {0with a {Dsword {0on the back lies here.~
+unknown~
+1
+armor X AK
+DGH DGH DGH DGH 0
+0 5 0 P
+#4112
+leather pants~
+a pair of {DBlack, Leather Pants{0 with a {Rred stripe {0down the right leg~
+A pair of {DBlack, Leather Pants{0 with a {Rred stripe {0down the right leg lie here.~
+unknown~
+1
+armor X AF
+CFG CFG CFG CFG 0
+0 2 0 P
+#4113
+leather gloves~
+a pair of {DBlack, leather gloves{0 with {Wwhite stripes on each knuckle{0~
+A pair of {DBlack, leather gloves{0 with {Wwhite stripes on each knuckle{0 lie here.~
+unknown~
+1
+armor X AH
+BEF BEF BEF BEF 0
+0 1 0 P
+#4114
+leather boots~
+a pair of {DBlack, leather boots{0 with a {Rred stripe {0down each side~
+A pair of {DBlack, leather boots{0 with a {Rred stripe {0down each side lie here.~
+unknown~
+1
+armor X AG
+CFG CFG CFG CFG 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#4100
+Open Field~
+A wide span of grass and trees field the area.  The sky can easuly be
+seen as there are few trees.  Open field and bush can be seen for miles. 
+Far in the distnace the can be a span of moutain ranges, even the tips of
+the mountains coverd in snow can be seen.  Making out what on them is close
+to imposible.  The breeze rishes down upon the skys adding a slight shift to
+the trre and a light featheri Far in the distance, there can be seen a span
+of mountain ranges, even the tips of the mountains coverd with snow can be
+sighted.  Making out whats on them is close to immposible.  The breeze
+rushes down upon the skys causing a slight shift to the trees and a light
+feathering of the grass tips beneath.  
+~
+0 8 2
+D1
+~
+~
+0 0 4101
+S
+#4101
+Open Field~
+The grass starts to get a bit heavy and thick.  More trees are becomming
+more visible, trees bush and other brush become more dense.  To the north,
+there can be seen a thick wooded forest, to the east, the field continues
+on.  The wind continues to blow, but soon after calms a bit giving an erie
+feeling.  Noises can be heard to the north where the forest is.  Crackling
+of animal foot steps can also be heard tracking through the forest floor.  
+~
+0 0 2
+D0
+~
+~
+0 0 4102
+D3
+~
+~
+0 0 4100
+S
+#4102
+Forest~
+The field comes to an end.  A wide span of trees and bursh surround the
+area.  Birds, owls and other forest creatures can be heard all around.  The
+wind picks up a bit causing the trees to whistle and create stange noises. 
+The leaves beneath begin to crackle 
+~
+0 0 3
+D0
+~
+~
+0 0 4103
+D2
+~
+~
+0 0 4101
+S
+#4103
+Forest~
+The brush thickens and the forest contnues.  Silence soon comes over. 
+All now that can be heard is the crikets singing, echoing threw the wide
+span of forest land.  As the brush thickens, the path get thinner and
+thinner.  
+~
+0 0 3
+D0
+~
+~
+0 0 4104
+D2
+~
+~
+0 0 4102
+S
+#4104
+Forest~
+The forest continues on.  To the north seems to be a bit light lighting. 
+To the west there seems to be a path leading somewhere.  The brush seems to
+be thinning out a bit.  The forest seems to be comming to an end.  Looking
+threw the bush, there can be seen a bit of feild in the distance.  
+~
+0 0 3
+D0
+~
+~
+0 0 4113
+D2
+~
+~
+0 0 4103
+D3
+~
+~
+0 0 4105
+S
+#4105
+Pathway~
+A path lies here, looks to be made by man.  The path seems to be leading
+somewhere but is quite long.  The lighting seems to be clearer on this path
+and there is more room to meneuver around.  
+~
+0 0 3
+D1
+~
+~
+0 0 4104
+D3
+~
+~
+0 0 4106
+S
+#4106
+Pathway~
+The path way continues on...  There seems to be a clearing around here,
+looks as if some has been here before, maybe even a camping site was set up
+here.  There is more ground to be coverd ahead.  
+~
+0 0 3
+D1
+~
+~
+0 0 4105
+D3
+~
+~
+0 0 4107
+S
+#4107
+Path Way~
+The Pathway continues, there is a slight bend in the road.  There is a
+clearing noticed at the end of this foot path here.  The sun begins to shin
+as the raise come aross your face and begin to over come your eyes.  Only a
+few more steps it seems and soon the path will end.  
+~
+0 0 3
+D0
+~
+~
+0 0 4108
+D1
+~
+~
+0 0 4106
+S
+#4108
+Pathway~
+The can be seen a bid of an opening at the end of the path now.  Continue
+on and find out whats at the end.  The forest noises fade from being erie to
+know being a pleasant feeling as the forest calms and the brush thins out
+toward the end.  
+~
+0 0 3
+D0
+~
+~
+0 0 4109
+D1
+~
+~
+0 0 4119
+D2
+~
+~
+0 0 4107
+S
+#4109
+Path way~
+Now it is very clear.  Finally there can be seen a opening in the
+distance.  The forest almost comes to an end.  A slight breeza comes across
+the air, a feeling of relief feelis the air.  It becomes more clear as the
+path goes on.  The sun beams down , creating splits from the trees as the
+sun rays begin to seperate.  
+~
+0 0 3
+D0
+~
+~
+0 0 4110
+D2
+~
+~
+0 0 4108
+S
+#4110
+Open Field~
+A field spans for miles and to the east can be seen a span of mountain
+ranges.  To the west, it cant quite be determined whats in that direction. 
+A few trees field the area, but only in the distant and none near this
+point.  The grass here seems more green and healthy, a hint of pine fills
+the air.  
+~
+0 0 2
+D1
+~
+~
+0 0 4111
+D2
+~
+~
+0 0 4109
+S
+#4111
+Open Field~
+The grass become higher and more thick.  The mountains to the east become
+more visible.  They even look a bit taller as you get cloer to them.  Trees
+began to apear as the wind picks up a little.  Birds can be heard in the
+distance and small animals scatter by.  
+~
+0 0 2
+D1
+~
+~
+0 0 4112
+D3
+~
+~
+0 0 4110
+S
+#4112
+Open Field~
+Its clear now, not to much farther to go.  In the distance there can be seen
+small trees sitting up on the top of the moutains, just another few miles.
+People cant quite be seen from here but a feeling comes across that there
+should be someone there.
+~
+0 0 2
+D0
+~
+~
+0 0 4118
+D1
+~
+~
+0 0 4116
+D2
+~
+~
+0 0 4115
+D3
+~
+~
+0 0 4111
+S
+#4113
+Forest~
+The forest continues on.  The brush thickens a bit and the lighting is
+not all that good.  More sounds can be heard coming from the north, even the
+forest cretures seemed frightend from whats up ahead.  The path seems fresh
+as it seems very few have come across this way.  What lies a head is unkown
+and seems to be undetermined.  
+~
+0 0 3
+D0
+~
+~
+0 0 4114
+D2
+~
+~
+0 0 4104
+D3
+~
+~
+0 0 4117
+S
+#4114
+Forest~
+Its dark, the trees thicken blocking the little bit of sun that can
+barley reach the forest floor.  Sound of the wind can be heard squeezing in
+between the limbs of the trees and the brush of the forest grounds.  Vines
+come down from above as the path narrows.  
+~
+0 0 3
+D0
+~
+~
+0 0 4115
+D2
+~
+~
+0 0 4113
+S
+#4115
+Forest~
+Its a miricle, as there can be seen a clearing.  Its a bit erie how this
+forest can be turned from a solitude of darkness to a freedom of birghtness.
+There can be seen an opening threw the dense wood.  Grass becomes visible
+threw this lighting and the wind speed decreases dramaticly.  
+~
+0 0 0
+D0
+~
+~
+0 0 4112
+D2
+~
+~
+0 0 4114
+S
+#4116
+Open Field~
+Things look the same from here.  The field seem endless but as more
+ground is coverd, that though seems to be dissapearing.  Grassy plains field
+the area.  The mountains still a distance away, more things become visible
+from this point on.  The wind seems to be calming a bit, radomly shifting as
+it does so.  
+~
+0 0 2
+D1
+~
+~
+0 0 4120
+D3
+~
+~
+0 0 4112
+S
+#4117
+Forest~
+Venturing deeper into the woods, vines begin to come down from the top
+and bats scatter from one side to the other.  Light is dim and very little
+sound can be heard.  The floot seems to be coverd in thorns, and thick vinny
+type limbs.  The dense wooded area continues to the east and the west.  
+~
+0 0 3
+D1
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4119
+S
+#4118
+Open Field~
+Its clear now, not to much farther to go.  In the distance there can be seen
+small trees sitting up on the top of the moutains, just another few miles.
+People cant quite be seen from here but a feeling comes across that there
+should be someone or something nearby.
+~
+0 0 0
+D2
+~
+~
+0 0 4112
+S
+#4119
+Forest~
+Venturing deeper into the woods, vines begin to come down from the top
+and bats scatter from one side to the other.  Light is dim and very little
+sound can be heard.  The floor seems to be coverd in thorns, and thick vinny
+type limbs.  The dense wooded area continues to the east. To the west you notice a bit of light.
+~
+0 0 0
+D1
+~
+~
+0 0 4117
+D3
+~
+~
+0 0 4108
+S
+#4120
+Open Field~
+Things look the same from here.  The field seems endless but as more
+ground is covered, that seems to be dissapearing.  Grassy plains form the
+area.  The mountains, still a distance away, can barely be seen from here. 
+The wind seems to be calming as you move on.  
+~
+0 0 0
+D0
+~
+~
+0 0 4121
+D1
+~
+~
+0 0 4122
+D2
+~
+~
+0 0 4123
+D3
+~
+~
+0 0 4116
+S
+#4121
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4125
+D1
+~
+~
+0 0 4124
+D2
+~
+~
+0 0 4120
+S
+#4122
+Open Field~
+Things look the same from here.  The field seems endless but as more
+ground is covered, that seems to be dissapearing.  Grassy plains form the
+area.  The mountains, still a distance away, can barely be seen from here. 
+The wind seems to be calming as you move on.  
+~
+0 0 0
+D0
+~
+~
+0 0 4124
+D1
+~
+~
+0 0 4127
+D3
+~
+~
+0 0 4120
+S
+#4123
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4120
+S
+#4124
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4126
+D1
+~
+~
+0 0 4128
+D2
+~
+~
+0 0 4122
+D3
+~
+~
+0 0 4121
+S
+#4125
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4126
+D2
+~
+~
+0 0 4121
+S
+#4126
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4129
+D2
+~
+~
+0 0 4124
+D3
+~
+~
+0 0 4125
+S
+#4127
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4128
+D1
+~
+~
+0 0 4130
+D3
+~
+~
+0 0 4122
+S
+#4128
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4129
+D2
+~
+~
+0 0 4127
+D3
+~
+~
+0 0 4124
+S
+#4129
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4128
+D3
+~
+~
+0 0 4126
+S
+#4130
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4131
+D2
+~
+~
+0 0 4156
+D3
+~
+~
+0 0 4127
+S
+#4131
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4132
+D3
+~
+~
+0 0 4130
+S
+#4132
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4133
+D3
+~
+~
+0 0 4131
+S
+#4133
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4141
+D1
+~
+~
+0 0 4134
+D3
+~
+~
+0 0 4132
+S
+#4134
+The entrance of a small cave~
+~
+0 0 0
+D1
+~
+~
+0 0 4136
+D2
+~
+~
+0 0 4135
+D3
+~
+~
+0 0 4133
+S
+#4135
+A Dark Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 4134
+D2
+~
+~
+0 0 4137
+S
+#4136
+The end of the Cave~
+~
+0 0 0
+D3
+~
+~
+0 0 4134
+S
+#4137
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4135
+D2
+~
+~
+0 0 4138
+S
+#4138
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4137
+D1
+~
+~
+0 0 4139
+D2
+~
+~
+0 0 4172
+S
+#4139
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4140
+D3
+~
+~
+0 0 4138
+S
+#4140
+A monsters Home~
+~
+0 0 0
+D3
+~
+~
+0 0 4139
+S
+#4141
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4142
+D2
+~
+~
+0 0 4133
+S
+#4142
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4146
+D1
+~
+~
+0 0 4145
+D2
+~
+~
+0 0 4141
+S
+#4143
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4142
+S
+#4144
+~
+~
+0 0 0
+D3
+~
+~
+0 0 4142
+S
+#4145
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4148
+D1
+~
+~
+0 0 4147
+D3
+~
+~
+0 0 4142
+S
+#4146
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4142
+S
+#4147
+~
+~
+0 0 0
+D3
+~
+~
+0 0 4145
+S
+#4148
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4149
+D2
+~
+~
+0 0 4145
+S
+#4149
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4150
+D2
+~
+~
+0 0 4148
+S
+#4150
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4151
+D2
+~
+~
+0 0 4149
+S
+#4151
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4152
+D2
+~
+~
+0 0 4150
+S
+#4152
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4153
+D2
+~
+~
+0 0 4151
+S
+#4153
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4154
+D3
+~
+~
+0 0 4152
+S
+#4154
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4155
+D3
+~
+~
+0 0 4153
+S
+#4155
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4154
+S
+#4156
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4130
+D2
+~
+~
+0 0 4157
+S
+#4157
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4156
+D2
+~
+~
+0 0 4158
+S
+#4158
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4157
+D2
+~
+~
+0 0 4159
+D3
+~
+~
+0 0 4170
+S
+#4159
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4158
+D1
+~
+~
+0 0 4171
+D2
+~
+~
+0 0 4160
+S
+#4160
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4159
+D2
+~
+~
+0 0 4161
+D3
+~
+~
+0 0 4164
+S
+#4161
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4160
+D1
+~
+~
+0 0 4163
+D2
+~
+~
+0 0 4162
+S
+#4162
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4161
+S
+#4163
+~
+~
+0 0 0
+D3
+~
+~
+0 0 4161
+S
+#4164
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4160
+D3
+~
+~
+0 0 4165
+S
+#4165
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4168
+D1
+~
+~
+0 0 4164
+D2
+~
+~
+0 0 4166
+S
+#4166
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4165
+D3
+~
+~
+0 0 4167
+S
+#4167
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4166
+S
+#4168
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4169
+D2
+~
+~
+0 0 4165
+S
+#4169
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4170
+D2
+~
+~
+0 0 4168
+S
+#4170
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4158
+D3
+~
+~
+0 0 4169
+S
+#4171
+~
+~
+0 0 0
+D3
+~
+~
+0 0 4159
+S
+#4172
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4138
+D2
+~
+~
+0 0 4173
+S
+#4173
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4172
+D1
+~
+~
+0 0 4175
+D2
+~
+~
+0 0 4174
+S
+#4174
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4173
+S
+#4175
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4176
+D2
+~
+~
+0 0 4177
+D3
+~
+~
+0 0 4173
+S
+#4176
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4179
+D3
+~
+~
+0 0 4175
+S
+#4177
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4175
+D2
+~
+~
+0 0 4178
+S
+#4178
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4177
+S
+#4179
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4176
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

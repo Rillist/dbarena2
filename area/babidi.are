@@ -1,0 +1,305 @@
+#AREADATA
+Name Babidi's Castle~
+Builders Bloodsmear~
+VNUMs 4900 4999
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#4908
+plush fashioned seat 1~
+an electromagnetic door that rises up into the ceiling~
+An electromagnetic door that ascends into the ceiling~
+unknown~
+1
+portal 0 0
+0 0 0 ABFIJM 0
+0 0 0 P
+E
+seat~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+#0
+
+
+
+#ROOMS
+#4900
+Light Desert~
+ The desert spans to the south of here, tall rock formations block
+passage to the east or west.  The ground is becoming more rocky and harder
+then it is in the desert.  To the north you spot the markings of a faded old
+path in the sand.  
+~
+0 0 10
+D0
+~
+~
+0 0 4901
+S
+#4901
+Old Faded Pathway~
+The ground here is more solid like packed dirt then loose sand.  The worn
+trail you saw before turns to the east.  Rock formations block passage to
+the north and west.  Strange markings can be seen in the sand that might
+have been tracks of some strange creature.  
+~
+0 0 0
+D1
+~
+~
+0 0 4902
+D2
+~
+~
+0 0 4900
+S
+#4902
+Old Faded Pathway~
+The path seems to go east and west here.  High rocky walls block the
+north and south.  The markings are clearer here and seem to head east. 
+There seems to be metal debris scattered and buried in the sand.  By the
+quantity of rust it seems to have been here a long time.  
+~
+0 0 0
+D1
+~
+~
+0 0 4903
+D3
+~
+~
+0 0 4901
+S
+#4903
+Old Faded Pathway~
+The trail continues eastward from here.  To the west and south lies the
+desert where you came from.  The rocky walls here are more rough and jagged
+and large rocks litter the pathway.  You notice bleached white bones half
+buried in the sand.  Upon closer inspection you find four or five skeletons
+littering this area.  
+~
+0 0 0
+D1
+~
+~
+0 0 4904
+D3
+~
+~
+0 0 4902
+S
+#4904
+Turn in the Path~
+~
+0 0 0
+D0
+~
+~
+0 0 4905
+D3
+~
+~
+0 0 4903
+S
+#4905
+Stone Path~
+~
+0 0 0
+D0
+~
+~
+0 0 4906
+D2
+~
+~
+0 0 4904
+S
+#4906
+Stone Path~
+~
+0 0 0
+D0
+~
+~
+0 0 4907
+D2
+~
+~
+0 0 4905
+S
+#4907
+Entrance to the Castle of Babidi~
+~
+0 0 0
+D0
+~
+~
+0 0 4910
+D2
+~
+~
+0 0 4906
+S
+#4910
+The Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 4916
+D1
+~
+~
+0 0 4914
+D2
+~
+~
+0 0 4907
+D3
+~
+~
+0 0 4913
+D4
+~
+~
+0 0 4911
+D5
+~
+~
+0 0 4912
+S
+#4911
+The Control Room~
+~
+0 0 0
+D5
+~
+~
+0 0 4910
+S
+#4912
+Vault Door~
+~
+0 0 0
+D4
+~
+~
+0 0 4910
+S
+#4913
+Base of the Stairs~
+~
+0 0 0
+D1
+~
+~
+0 0 4910
+S
+#4914
+Meeting Room~
+~
+0 0 0
+D3
+~
+~
+0 0 4910
+S
+#4916
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 4917
+D2
+~
+~
+0 0 4910
+S
+#4917
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 4919
+D2
+~
+~
+0 0 4916
+S
+#4918
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4917
+S
+#4919
+The Grand Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 4920
+D2
+~
+~
+0 0 4917
+S
+#4920
+The Grand Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 4919
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

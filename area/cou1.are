@@ -1,0 +1,3148 @@
+#AREADATA
+Name The Center of the Universe~
+Builders Alik-d Kube-d~
+VNUMs 400 599
+Credits Goku --- COU~
+Security 8
+End
+
+
+
+#MOBILES
+#400
+trainer~
+The Trainer~
+The Trainer is here doing pushups.
+~
+~
+human~
+ABGP H 0 0
+250
+45 10 10 30 50 
+100 100
+bite
+0 0 0 0
+0 0 0 0
+stand stand male 15
+AHMV ADEFKOX medium unknown
+F par BCGHIJ
+#401
+master~
+The Master~
+The Master is here practicing his skills here.
+~
+~
+human~
+ABGP H 0 0
+200
+35 40 35 50 35 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 ADEFKOQVX medium unknown
+F for AHMV
+F par BCGHIJ
+#402
+sales clerk~
+A sales clerk~
+A sales clerk is standing beside you ready to help you find what you need.
+~
+Mpecho &C$I says, 'Welcome to the Gap $n!  What can I help you with today?'
+~
+human~
+ABGP H 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+sit sit none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#403
+newbie fighter~
+A Newbie Fighter~
+A Newbie Fighter is trembling in fear.
+~
+This guy looks like he will be an easy battle.
+mpmload 403
+~
+human~
+ABGP 0 0 0
+200
+4 10 4 3 3 
+150 400
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 25
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#404
+fighter~
+A Fighter~
+A Fighter is here looking nervous.
+~
+Mpmload 404
+~
+human~
+ABGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+slap
+0 0 0 0
+0 0 0 0
+stand stand female 50
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#405
+better fighter~
+A Better Fighter~
+A Better Fighter is here, attempting to look strong.
+~
+Mpmload 405
+punch
+~
+human~
+ABGP 0 -50 0
+200
+15 25 15 10 15 
+150 400
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 100
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#406
+advanced fighter~
+An Advanced Fighter~
+An Advanced Fighter is here jumping around practicing his moves.
+~
+Mpmload 406
+kick
+~
+human~
+ABGP 0 -100 0
+200
+15 35 15 15 15 
+150 400
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 400
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#407
+supreme fighter~
+A Supreme Fighter~
+A Supreme Fighter is powering up getting ready to fight.
+~
+Mpmload 407
+punch
+kick
+~
+human~
+ABGP 0 -300 0
+200
+20 46 20 20 20 
+150 400
+pierce
+0 0 0 0
+0 0 0 0
+stand stand female 500
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#408
+ultimate fighter~
+An Ultimate Fighter~
+An Ultimate Fighter is standing with her arms crossed, waiting for a
+challenger.
+~
+Mpmload 208
+kamehameha
+~
+human~
+ABGP 0 -500 0
+200
+25 55 25 25 25 
+150 400
+slash
+0 0 0 0
+0 0 0 0
+stand stand male 500
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#409
+master fighter~
+The Master Fighter~
+The Master Fighter is ready to put your skills to the test.
+~
+Mpmload 409
+'gallic gun'
+~
+human~
+ABGP 0 -750 0
+200
+30 100 30 30 30 
+150 400
+slash
+0 0 0 0
+0 0 0 0
+stand stand male 1000
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#410
+newbie fighter~
+A Newbie Fighter~
+A Newbie Fighter is trembling in fear.
+~
+This guy looks like he will be an easy battle.
+mpmload 410
+~
+human~
+ABGP 0 0 0
+200
+4 10 4 3 3 
+150 400
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 25
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#411
+fighter~
+A Fighter~
+A Fighter is here looking nervous.
+~
+Mpmload 411
+~
+human~
+ABGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+slap
+0 0 0 0
+0 0 0 0
+stand stand none 50
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#412
+better fighter~
+A Better Fighter~
+A Better Fighter is here, attempting to look strong.
+~
+Mpmload 412
+punch
+~
+human~
+ABGP 0 50 0
+200
+15 25 15 15 15 
+150 400
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 100
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#413
+advanced fighter~
+An Advanced Fighter~
+An Advanced Fighter is here jumping around practicing his moves.
+~
+Mpmload 413
+kick
+~
+human~
+ABGP 0 100 0
+200
+15 35 15 15 15 
+150 400
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 400
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#414
+supreme fighter~
+A Supreme Fighter~
+A Supreme Fighter is powering up getting ready to fight.
+~
+Mpmload 414
+punch
+kick
+~
+human~
+ABGP 0 500 0
+200
+20 46 20 20 20 
+150 400
+pierce
+0 0 0 0
+0 0 0 0
+stand stand none 500
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#415
+ultimate fighter~
+An Ultimate Fighter~
+An Ultimate Fighter is standing with her arms crossed, waiting for a
+challenger.
+~
+Mpmload 415
+kamehameha
+~
+human~
+ABGP 0 500 0
+200
+25 55 25 25 25 
+150 400
+slash
+0 0 0 0
+0 0 0 0
+stand stand none 500
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#416
+master fighter~
+The Master Fighter~
+The Master Fighter is ready to put your skills to the test.
+~
+Mpmload 416
+'gallic gun'
+~
+human~
+ABGP 0 750 0
+200
+30 100 30 30 30 
+150 400
+slash
+0 0 0 0
+0 0 0 0
+stand stand male 1000
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#417
+medic~
+An Apprentice Medic~
+An Apprentice Medic is wandering around looking for the wounded
+~
+Mpecho _whi $I asks, 'Do you need some medical assistance?'
+mpecho _lbl $I says, 'You must stop fighting before I can help you. '
+mprestore $n 2
+mpecho _lbl $I says, 'Okay, I hope you feel better now. This is my first week.'
+~
+human~
+AGP H 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#418
+security guard~
+A Security Guard~
+A Security Guard is keeping order.
+~
+He looks pretty strong.
+ispc($n)
+mpecho _lbl $I says, 'How are you today, $n?'
+mpecho _lbl $I says, 'Hello, citizen.'
+mpecho _lbl $I asks, 'How are you today $n?'
+mpecho _lbl $I says, 'That's great!'
+mpecho _lbl $I says, 'Oh, I'm sorry to hear that $n.'
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#419
+armor salesman~
+The armor salesman~
+The armor salesman is looking over his inventory.
+~
+Mpecho &C$I says, 'Welcome $n.  What can I do for you today?'
+~
+human~
+ABGP H 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+sit sit none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#420
+owner~
+The store owner~
+The store owner is waiting politely to help you.
+~
+Mpecho &C$I says, 'Welcome $n. I've got the best scouters money can buy!'
+~
+human~
+ABGP H 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#421
+Scientist~
+A Scientist~
+A Scientist is here working at his computer terminal.
+~
+Mpecho &C$I says, 'Bah!  I'm busy, what do you need?'
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#422
+bounty officer~
+Bounty Officer~
+The Bounty Officer is leaning against the wall smoking.
+~
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#423
+man~
+A shady man~
+A shady looking man is here eyeing you.
+~
+Nod $n
+mea $n $I whispers to you 'Hmm... Very well, I will tell you the password to
+mea $n &Wour secret hide out.  Go to the '&wcenter&W' of the universe and
+say,
+mea $n &W'&wkiraa rei&W'.  You will then be shown the way.'
+mpechoaround $n $I whispers something to $n.
+slap $n
+mpecho &C$I says, 'I don't accept bribes, fool.'
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#424
+super duper strong saiyan fighter~
+The super duper strong Saiyan fighter~
+The super duper strong Saiyan fighter stands firm, with arms crossed.
+~
+Mpmload 424
+'final flash'
+'big bang kamehameha'
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#425
+super duper strong saiyan fighter~
+The super duper strong Saiyan fighter~
+The super duper strong Saiyan fighter stands firm, with arms crossed.
+~
+Mpmload 425
+'final flash'
+'big bang kamehameha'
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#426
+icer transporter~
+An Icer Transporter~
+A nondescript Icer stands here, ready to transport you to and from Iceria.
+~
+Say Greetings, $n. If you wish to travel to Mount Areukk, the spaceport of Iceria, simple say "transport me to Iceria"
+say I can't do that while you're fighting, $n!
+say Very well.
+mea $n There's a bright flash as you're transported to Iceria!
+mer $n There's a bright flash as $n is transported to Iceria!
+mptransfer $n 150000
+~
+human~
+AGP 0 0 0
+200
+10 10 10 10 10 
+150 400
+bite
+0 0 0 0
+0 0 0 0
+stand stand none 5
+b ADEFKOX medium unknown
+F for AHMV
+F par BCGHIJ
+#0
+
+
+
+#OBJECTS
+#400
+white high tops~
+a pair of {wWhite{x high tops {w[{rSTR{w:{R1{w]{x~
+A pair of white high tops are laying here on the ground.~
+latex~
+1
+armor R AG
+BD BD BD BD 0
+100 1 100 P
+A
+1 1
+#401
+black high tops~
+a pair of {DBlack{x high tops {w[{bDEX{w:{B1{w]{x~
+A pair of black high tops are laying here.~
+latex~
+1
+armor R AG
+BD BD BD BD 0
+100 1 100 P
+A
+2 1
+#402
+white boots~
+a pair of {wWhite{x boots {w[{rSTR{w:{R2{w]{x~
+A pair of white boots are laying here.~
+latex~
+1
+armor R AG
+ABCD ABCD ABCD ABCD 0
+500 1 500 P
+A
+1 2
+#403
+black boots~
+a pair of {DBlack{x boots {w[{bDEX{w:{B2{w]{x~
+A pair of black boots are laying here.~
+latex~
+1
+armor R AG
+ABCD ABCD ABCD ABCD 0
+100 1 500 P
+A
+2 2
+#404
+white pants~
+a pair of {wWhite{x pants {w[{rSTR{w:{R1{w]{x~
+A pair of white pants are laying here.~
+~
+1
+armor R AF
+ABCD ABCD ABCD ABCD 0
+100 1 450 P
+A
+1 1
+#405
+black pants~
+a pair of {DBlack{x pants {w[{bDEX{w:{B1{w]{x~
+A pair of black pants are laying here.~
+~
+1
+armor R AF
+ABCD ABCD ABCD ABCD 0
+100 1 450 P
+A
+2 1
+#406
+camo pants~
+a pair of {gC{ya{gm{yo{x pants {w[{bDEX{w:{B2{rSTR{w:{R-1{w]{x~
+A pair of camo pants are laying here.~
+~
+1
+armor R AF
+ABCD ABCD ABCD ABCD 0
+100 1 500 P
+A
+1 -1
+A
+2 2
+#407
+white shirt~
+a {wWhite{x shirt {w[{rSTR{w:{R1{w]{x~
+A white shirt is laying here.~
+~
+1
+armor R AD
+ABCD ABCD ABCD ABCD 0
+100 1 450 P
+A
+1 1
+#408
+black shirt~
+a {DBlack{x shirt {w[{bDEX{w:{B1{w]{x~
+A black shirt is laying here.~
+~
+1
+armor R AD
+ABCD ABCD ABCD ABCD 0
+100 1 250 P
+A
+2 1
+#409
+camo shirt~
+a {gC{ya{gm{yo{x shirt {w[{bDEX{w:{B2{rSTR{w:{R-1{w]{x~
+A camo shirt is laying here.~
+~
+1
+armor R AD
+ABCD ABCD ABCD ABCD 0
+100 1 500 P
+A
+2 2
+A
+1 -1
+#410
+white gloves~
+a pair of {wWhite{x gloves {w[{rSTR{w:{R2{w]{x~
+A pair of white gloves are laying here.~
+~
+1
+armor R AH
+ABCD ABCD ABCD ABCD 0
+100 1 500 P
+A
+1 2
+#411
+fingerless gloves~
+a pair of {DBlack{x gloves {w[{bDEX{w:{B2{w]{x~
+A pair of black gloves are laying here.~
+~
+1
+armor R AH
+ABCD ABCD ABCD ABCD 0
+100 1 500 P
+A
+2 2
+#412
+i battle armor~
+Class I battle armor~
+A set of battle armor is laying here.~
+~
+1
+armor RX AK
+ADE ADE ADE ADE 0
+100 1 1000 P
+A
+20 1
+A
+12 100
+A
+13 100
+#413
+ii battle armor~
+Class II battle armor~
+A set of battle armor is laying here.~
+~
+1
+armor RX AK
+BEF BEF BEF BEF 0
+1000 1 10000 P
+A
+13 1000
+A
+12 1000
+A
+20 2
+#414
+iii battle armor~
+Class III battle armor~
+A set of battle armor is laying here.~
+~
+1
+armor RX AK
+ABDG ABDG ABDG ABDG 0
+10000 1 100000 P
+A
+13 10000
+A
+12 10000
+A
+20 3
+#415
+iv battle armor~
+Class IV battle armor~
+A set of battle armor is laying here.~
+~
+1
+armor RX AK
+CFG CFG CFG CFG 0
+100000 1 1000000 P
+A
+13 100000
+A
+12 100000
+A
+20 4
+#416
+i scouter~
+a class I Scouter {w[{gINT{w:{G1{w]{x~
+A small metal object lies here beeping and flashing.~
+~
+1
+armor Xa AS
+0 0 0 0 0
+1000 1 100 P
+A
+3 1
+#417
+ii scouter~
+a class II Scouter {w[{gINT{w:{G2{w]{x~
+A small metal object lies here beeping and flashing.~
+~
+1
+armor Xa AS
+0 0 0 0 0
+10000 1 1000 P
+A
+3 2
+#418
+iii scouter~
+a class III Scouter {w[{gINT{w:{G3{w]{x~
+A small metal object lies here beeping and flashing.~
+~
+1
+armor Xa AS
+0 0 0 0 0
+100000 1 10000 P
+A
+3 3
+#419
+iv scouter~
+a class IV Scouter {w[{gINT{w:{G3{cWIL{w:{C1{w]{x~
+A small metal object lies here beeping and flashing.~
+~
+1
+armor ABX AD
+0 0 0 0 0
+1000000 1 25000 P
+A
+3 3
+A
+4 1
+#420
+v scouter~
+a class V Scouter {w[{gINT{w:{G3{cWIL{w:{C2{w]{x~
+A small metal object lies here beeping and flashing.~
+~
+1
+armor Xa AS
+0 0 0 0 0
+10000000 1 50000 P
+A
+4 2
+A
+3 3
+#421
+vi scouter~
+a class VI Scouter {w[{gINT{w:{G3{cWIL{w:{C3{w]{x~
+A small metal object lies here beeping and flashing.~
+~
+1
+armor Xa AS
+0 0 0 0 0
+100000000 1 100000 P
+A
+4 3
+A
+3 3
+#422
+a brightly glowing orb~
+a brightly glowing orb~
+A brightly glowing orb hovers here.~
+~
+1
+light ABX AQ
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+100 1 50 P
+#0
+
+
+
+#ROOMS
+#400
+The Center of the Universe~
+You are standing at the center of the space station.  You can hear many
+things that sound like machines running around.  This place looks very clean
+and well kept.  You can sense a good force coming from above you, and an
+evil force from below.  To the south are sounds of space ships arriving and
+departing.  
+~
+0 8 0
+D2
+~
+~
+0 -1 405
+D4
+~
+~
+0 0 411
+D5
+~
+~
+0 0 511
+S
+#405
+Corridor to the Docking Bays~
+This is a long corridor leading towards the docking bays.  You see many
+people here. Some are walking away from the docking bays, and others
+are heading towards them.
+~
+0 8 0
+D0
+~
+~
+0 -1 400
+D2
+~
+~
+0 -1 406
+S
+#406
+Check in Station~
+You are in the check in station.  Here everyone is being scanned making
+sure that they don't have anything illegal on them.  You see two big signs
+above the exits to the west and east.  The western most sign reads, 'Docking
+Bay 1', and the east reads, 'Docking Bay 2'.
+~
+0 8 0
+D0
+~
+~
+0 -1 405
+D1
+~
+~
+0 -1 407
+D3
+~
+~
+0 -1 409
+D4
+~
+~
+0 -1 470
+S
+#407
+Waiting Room~
+You are standing in a very well kept room.  There are many comfortable
+looking chairs every where.  The landing bay is further towards the south.
+~
+0 8 0
+D2
+~
+~
+0 -1 408
+D3
+~
+~
+0 -1 406
+S
+#408
+Docking Bay 2~
+You can see many ships here, landing and taking off.  There are many
+people walking around, either looking for their flight, or heading back
+towards the space station.
+~
+0 8 0
+D0
+~
+~
+0 -1 407
+S
+#409
+Waiting Room~
+You are standing in a very well kept room.  There are many comfortable
+looking chairs every where.  The landing bay is further towards the south.
+~
+0 8 0
+D1
+~
+~
+0 -1 406
+D2
+~
+~
+0 -1 410
+S
+#410
+Docking Bay 1~
+You can see many ships here, landing and taking off.  There are many
+people walking around, either looking for their flight, or heading back
+towards the space station.
+~
+0 8 0
+D0
+~
+~
+0 -1 409
+S
+#411
+Upper Section~
+You feel an overwhelming sense of good from this area.  There are many
+people wandering around.  You hear the sounds of fighting and training
+coming from all directions except for the west.  It sounds more like a
+marketplace in that direction.
+~
+0 8 0
+D0
+~
+~
+0 0 412
+D1
+~
+~
+0 0 431
+D2
+~
+~
+0 -1 420
+D3
+~
+~
+0 0 424
+D4
+~
+~
+0 -1 462
+D5
+~
+~
+0 0 400
+S
+#412
+Corridor to the Training Complex~
+You see a big sign over head reading, 'Training Complex Ahead'.  You hear
+many odd sounds from the north.  From this distance it's pretty hard to make
+out the sounds.
+~
+0 8 0
+D0
+~
+~
+0 0 413
+D2
+~
+~
+0 0 411
+S
+#413
+The Training Complex~
+You are inside the Training Complex.  To the east is a building with a
+sign on the door reading, 'Gym'.  To the north is another well-sized
+building.  The sign there reads, 'Dojo'.  The western building's sign reads
+"Gravity Training Facility'.
+~
+0 8 0
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 416
+S
+#414
+Practicing Dojo~
+You are in a wide-open room.  Many people are practicing their newly
+learned abilities and skills in side.  There is the Master, in the middle of
+the room, scolding a young student.
+~
+0 1032 0
+D2
+~
+~
+0 0 413
+S
+#415
+The Training Gym~
+You've entered the training gym.  You can see many people working out on
+all sorts of machines.
+~
+0 1032 0
+D3
+~
+~
+0 0 413
+S
+#416
+Gravity Training Building~
+Every room in the building is equipped with a gravity chamber.  A
+computerize voice says, 'Please enter a room and begin training.'.
+~
+0 8 0
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 419
+D3
+~
+~
+0 0 417
+S
+#417
+Gravity Training Room #4~
+You've entered a small room.  You can hear the sound of the gravity
+generator running, filling the room with a quite, humming sound.
+~
+0 268435464 0
+D1
+~
+~
+0 0 416
+D2
+~
+~
+0 0 418
+S
+#418
+Gravity Training Room #5~
+You've entered a small room.  You can hear the sound of the gravity
+generator running, filling the room with a quite, humming sound.
+~
+0 268435464 0
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 419
+S
+#419
+Gravity Training Room #1~
+You've entered a small room.  You can hear the sound of the gravity
+generator running, filling the room with a quite, humming sound.
+~
+0 268435464 0
+D0
+~
+~
+0 0 416
+D3
+~
+~
+0 0 418
+S
+#420
+Corridor to the Sparring Arena~
+You are inside a very long corridor.  A sign ahead reads, 'Sparing
+Arena'. You can hear muffled sounds of fighting towards the east.
+~
+0 8 0
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 421
+S
+#421
+A Long Corridor~
+The sounds of fighting are becoming much more clear as you approach the
+arena. There seems to be some kind of security station ahead.
+~
+0 8 0
+D1
+~
+~
+0 0 422
+D3
+~
+~
+0 0 420
+S
+#422
+Security Station Alpha~
+There is an automated door here.  It scans everyone who enters the arena.
+There is a sign next to the door reading, 'Only good aligned combatants may
+enter this arena.'
+!isgood($n)
+mpecho _whi The machine scans $n...
+mpecho _whi A computer voice says, '$n is not good aligned.'
+mpecho _whi $n is forced to leave.
+mpforce $n west
+~
+0 1036 0
+D1
+~
+~
+0 0 423
+D3
+~
+~
+0 0 421
+S
+#423
+Sparring Arena~
+You are in a wide-open room, perfectly set up for sparing.  The floor is
+covered in sand, and the walls are covered in energy absorbing plates.  The
+plates are there so that the combatants don't destroy the space station
+incase they miss their partner with an energy blast.
+~
+0 0 0
+D3
+~
+~
+0 0 422
+S
+#424
+Corridor to the Shopping Complex~
+You are standing in what looks like a long corridor.  A sign above your
+head reads, 'Shopping Complex Ahead'. 
+~
+0 8 0
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 425
+S
+#425
+In the Corridor~
+As you begin to approach the shopping complex, you begin to hear the
+sounds of many people buying and selling things.
+~
+0 8 0
+D0
+~
+~
+0 0 424
+D3
+~
+~
+0 0 426
+S
+#426
+Entrance to the Shopping Complex~
+You're standing in front of a huge building.  Even from here, the sounds
+of people shopping is almost defining.
+~
+0 8 0
+D1
+~
+~
+0 0 425
+D2
+~
+~
+0 0 427
+S
+#427
+Inside the Shopping Complex~
+There has to be thousands of people inside here.  It's almost imposable
+to move because of how crowded it is in here.  Looking over peoples heads,
+looking for some place to go there are only three stores that you might be
+able to reach. A store off to the east, one to the south, and also to the
+west.
+~
+0 8 0
+D0
+~
+~
+0 0 426
+D1
+~
+~
+0 0 430
+D2
+~
+~
+0 0 428
+D3
+~
+~
+0 0 429
+S
+#428
+Battle Armor Store~
+There are many suits of armor hung up all over the walls.  There are all
+kinds every where.  There is hardly anybody inside the store, and the store
+owner looks pretty bored.
+~
+0 1032 0
+D0
+~
+~
+0 0 427
+S
+#429
+The CoU Gap~
+This is a big clothing store with many people running around looking for
+the coolest new clothes.
+~
+0 1032 0
+D1
+~
+~
+0 0 427
+S
+#430
+Capsule Corp's Tech Shop~
+This room is filled with all sorts of strange devices and components.  It
+looks like they have a good supply of scouters as well.  To the south is
+Capsule Corp's repair shop.
+~
+0 1032 0
+D2
+~
+~
+0 -1 463
+D3
+~
+~
+0 0 427
+S
+#431
+Corridor to the Battle Arena~
+You are standing in a long corridor leading towards the battle arena.
+There are muffled sounds of people fighting further down the corridor.
+~
+0 8 0
+D1
+~
+~
+0 0 432
+D3
+~
+~
+0 0 411
+S
+#432
+Halfway Down the Corridor~
+As you get closer to the battle arena the sounds of fighting become much
+louder.
+~
+0 8 0
+D1
+~
+~
+0 0 433
+D3
+~
+~
+0 0 431
+S
+#433
+Entrance to the Battle Arena~
+You are standing in front of the battle arena entrance.  Ahead of you is
+a huge tower, it must be filled with many fighters.
+~
+0 12 0
+D1
+~
+~
+0 0 434
+D3
+~
+~
+0 0 432
+S
+#434
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 437
+D1
+~
+~
+0 0 435
+D3
+~
+~
+0 0 433
+S
+#435
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 436
+D3
+~
+~
+0 0 434
+S
+#436
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 435
+D3
+~
+~
+0 0 437
+D4
+~
+~
+0 0 440
+S
+#437
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 436
+D2
+~
+~
+0 0 434
+S
+#438
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 441
+D1
+~
+~
+0 0 439
+D4
+~
+~
+0 0 442
+S
+#439
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 440
+D3
+~
+~
+0 0 438
+S
+#440
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 439
+D3
+~
+~
+0 0 441
+D5
+~
+~
+0 0 436
+S
+#441
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 440
+D2
+~
+~
+0 0 438
+S
+#442
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 445
+D1
+~
+~
+0 0 443
+D5
+~
+~
+0 0 438
+S
+#443
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 444
+D3
+~
+~
+0 0 442
+S
+#444
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 443
+D3
+~
+~
+0 0 445
+D4
+~
+~
+0 0 448
+S
+#445
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 444
+D2
+~
+~
+0 0 442
+S
+#446
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 449
+D1
+~
+~
+0 0 447
+D4
+~
+~
+0 0 450
+S
+#447
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 448
+D3
+~
+~
+0 0 446
+S
+#448
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 447
+D3
+~
+~
+0 0 449
+D5
+~
+~
+0 0 444
+S
+#449
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 448
+D2
+~
+~
+0 0 446
+S
+#450
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 453
+D1
+~
+~
+0 0 451
+D5
+~
+~
+0 0 446
+S
+#451
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 452
+D3
+~
+~
+0 0 450
+S
+#452
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 451
+D3
+~
+~
+0 0 453
+D4
+~
+~
+0 0 456
+S
+#453
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 452
+D2
+~
+~
+0 0 450
+S
+#454
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 455
+D4
+~
+~
+0 0 458
+S
+#455
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 456
+D3
+~
+~
+0 0 454
+S
+#456
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 455
+D3
+~
+~
+0 0 457
+D5
+~
+~
+0 0 452
+S
+#457
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 456
+D2
+~
+~
+0 0 454
+S
+#458
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 459
+D5
+~
+~
+0 0 454
+S
+#459
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 460
+D3
+~
+~
+0 0 458
+S
+#460
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 -1 566
+D2
+~
+~
+0 0 459
+D3
+~
+~
+0 0 461
+S
+#461
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 -1 567
+D1
+~
+~
+0 0 460
+D2
+~
+~
+0 0 458
+S
+#462
+Sick Bay~
+This is the Medical Office.  Here all your wounds will be healed up by
+the doctors.  Along the walls are some big tanks filled with some kind of
+blue liquid.  Some people whom are in critical condition are inside the
+healing tanks.  As you look at one of them you can actually see their wounds
+healing and closing up.
+~
+0 1024 0
+D5
+~
+~
+0 -1 411
+S
+#463
+Equipment Repair Lab~
+This is a large cluttered room. There are all kinds of tools and
+diagnostic equipment scattered around the room.  In the center of the room
+is a large table covered with all sorts of electronic supplies.  Off in the
+corner of the room is a small man sitting at a computer terminal, typing
+away at something.
+~
+0 1032 0
+D0
+~
+~
+0 -1 430
+S
+#464
+A Small Access Tunnel~
+You are in a small tunnel that, at most, could hold 2 people inside at
+one time.  This place looks like no one has been here for years. There are
+cobwebs everywhere and random pieces of junk all over the place.  You can
+see that this old access tunnel continues on to the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 465
+D4
+~
+~
+0 -1 400
+S
+#465
+A Small Access Tunnel~
+There are all kinds of random pieces of junk everywhere.  Lots of little
+pieces of glass and metal that look really sharp.  The tunnel continues to
+the east.
+~
+0 8 0
+D1
+~
+~
+0 -1 466
+D3
+~
+~
+0 -1 464
+S
+#466
+A Small Access Tunnel~
+There are all kinds of random pieces of junk everywhere.  Lots of little
+pieces of glass and metal that look really sharp.  The tunnel looks like it
+ends to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 467
+D3
+~
+~
+0 -1 465
+S
+#467
+A Small Access Hatch~
+You have come to the end of the access tunnel, but it doesn't look like
+there are any doors here.  There is just a small control panel on the wall.
+How ever, the spot you are crouching on seems like the cleanest place you've
+seen in this entire tunnel.
+control panel
+It looks like a standard voice activated control panel.
+floor ground
+There is a clean spot here about as around as a person would be.
+'kiraa rei' 100
+mpecho &wYou push the red button and say the password.
+mpecho &RA trap door slides open beneath you!
+mpecho &wYou fall down a small tunnel for a few seconds,
+mpecho &wUntil you fall into a large pile of junk...
+mptransfer $n 468
+mpat 468 mpforce $n look
+~
+0 8 0
+D2
+~
+~
+0 -1 466
+S
+#468
+A Forgotten Cargo Bay~
+This is a huge wide-open room filled with all kinds of stuff.  Old boxes
+and containers have been left unattended for many years it seems. Scrap
+metal and other kinds of junk cover the floor.  Dust and cobwebs cover
+everything.  Off to the west you can see a small office and inside appears
+to be someone.
+~
+0 8 0
+D3
+~
+~
+0 -1 469
+D5
+~
+~
+0 -1 400
+S
+#469
+The Bounty Office~
+This is a small dark office room.  There is only one light in the entire
+room, which is coming from an old lighting fixture hanging from the ceiling,
+swaying back and forth.  There is an evil looking man leaning against the
+wall, smoking a cigarette and flipping a single zeni coin.
+~
+0 1032 0
+D1
+~
+~
+0 -1 468
+S
+#470
+Iceria Transport Station~
+This little room is full of seats for people to sit in while waiting
+for their Icerian transport to arive. The room is decorated with a cheesy
+ice and snow theme, so there are fake blocks of ice sitting around and
+oversized fake snowflakes hanging from the ceiling.
+~
+0 8 0
+D5
+~
+~
+0 -1 406
+S
+#511
+Lower Section~
+You feel an overwhelming sense of evil from this area.  There are many
+people wandering around.  You hear the sounds of fighting and training
+coming from all directions except for the west.  It sounds more like a
+marketplace in that direction.
+~
+0 8 0
+D0
+~
+~
+0 0 512
+D1
+~
+~
+0 0 531
+D2
+~
+~
+0 -1 520
+D3
+~
+~
+0 0 524
+D4
+~
+~
+0 0 400
+D5
+~
+~
+0 -1 562
+S
+#512
+Corridor to the Training Complex~
+You see a big sign over head reading, 'Training Complex Ahead'.  You hear
+many odd sounds from the north.  From this distance it's pretty hard to make
+out the sounds.
+~
+0 8 0
+D0
+~
+~
+0 0 513
+D2
+~
+~
+0 0 511
+S
+#513
+The Training Complex~
+You are inside the Training Complex.  To the east is a building with a
+sign on the door reading, 'Gym'.  To the north is another well-sized
+building.  The sign there reads, 'Dojo'.  The western building's sign reads
+"Gravity Training Facility'.
+~
+0 8 0
+D0
+~
+~
+0 0 514
+D1
+~
+~
+0 0 515
+D2
+~
+~
+0 0 512
+D3
+~
+~
+0 0 516
+S
+#514
+Practicing Dojo~
+You are in a wide-open room.  Many people are practicing their newly
+learned abilities and skills in side.  There is the Master, in the middle of
+the room, scolding a young student.
+~
+0 1036 0
+D2
+~
+~
+0 0 513
+S
+#515
+The Training Gym~
+You've entered the training gym.  You can see many people working out on
+all sorts of machines.
+~
+0 1036 0
+D3
+~
+~
+0 0 513
+S
+#516
+Gravity Training Building~
+Every room in the building is equipped with a gravity chamber.  A
+computerize voice says, 'Please enter a room and begin training.'.
+~
+0 8 0
+D1
+~
+~
+0 0 513
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 0 517
+S
+#517
+Gravity Training Room #4~
+You've entered a small room.  You can hear the sound of the gravity
+generator running, filling the room with a quite, humming sound.
+~
+0 268435468 0
+D1
+~
+~
+0 0 516
+D2
+~
+~
+0 0 518
+S
+#518
+Gravity Training Room #5~
+You've entered a small room.  You can hear the sound of the gravity
+generator running, filling the room with a quite, humming sound.
+~
+0 268435468 0
+D0
+~
+~
+0 0 517
+D1
+~
+~
+0 0 519
+S
+#519
+Gravity Training Room #1~
+You've entered a small room.  You can hear the sound of the gravity
+generator running, filling the room with a quite, humming sound.
+~
+0 268435468 0
+D0
+~
+~
+0 0 516
+D3
+~
+~
+0 0 518
+S
+#520
+Corridor to the Sparring Arena~
+You are inside a very long corridor.  A sign ahead reads, 'Sparing
+Arena'. You can hear muffled sounds of fighting towards the east.
+~
+0 8 0
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 521
+S
+#521
+A Long Corridor~
+The sounds of fighting are becoming much more clear as you approach the
+arena. There seems to be some kind of security station ahead.
+~
+0 8 0
+D1
+~
+~
+0 0 522
+D3
+~
+~
+0 0 520
+S
+#522
+Security Station Alpha~
+There is an automated door here.  It scans everyone who enters the arena.
+There is a sign next to the door reading, 'only evil aligned combatants may
+enter this arena.'
+~
+0 1036 0
+D1
+~
+~
+0 0 523
+D3
+~
+~
+0 0 521
+S
+#523
+Sparring Arena~
+You are in a wide-open room, perfectly set up for sparing.  The floor is
+covered in sand, and the walls are covered in energy absorbing plates.  The
+plates are there so that the combatants don't destroy the space station
+incase they miss their partner with an energy blast.
+~
+0 67108872 0
+D3
+~
+~
+0 0 522
+S
+#524
+Corridor to the Shopping Complex~
+You are standing in what looks like a long corridor.  A sign above your
+head reads, 'Shopping Complex Ahead'.
+~
+0 8 0
+D1
+~
+~
+0 0 511
+D2
+~
+~
+0 0 525
+S
+#525
+In the Corridor~
+As you begin to approach the shopping complex, you begin to hear the
+sounds of many people buying and selling things.
+~
+0 8 0
+D0
+~
+~
+0 0 524
+D3
+~
+~
+0 0 526
+S
+#526
+Entrance to the Shopping Complex~
+You're standing in front of a huge building.  Even from here, the sounds
+of people shopping is almost defining.
+~
+0 8 0
+D1
+~
+~
+0 0 525
+D2
+~
+~
+0 0 527
+S
+#527
+Inside the Shopping Complex~
+There has to be thousands of people inside here.  It's almost imposable
+to move because of how crowded it is in here.  Looking over peoples heads,
+looking for some place to go there are only three stores that you might be
+able to reach. One to the east, another to the south, and also to the west.
+~
+0 8 0
+D0
+~
+~
+0 0 526
+D1
+~
+~
+0 0 530
+D2
+~
+~
+0 0 528
+D3
+~
+~
+0 0 529
+S
+#528
+Battle Armor Store~
+There is many suits of armor hung up all over the walls.  There are all
+kinds everywhere.  There is hardly anybody inside the store, and the store
+owner looks pretty bored.
+~
+0 1036 0
+D0
+~
+~
+0 0 527
+S
+#529
+The CoU Gap~
+This is a big clothing store with many people running around looking for
+the coolest new clothes.
+~
+0 1036 0
+D1
+~
+~
+0 0 527
+S
+#530
+Capsule Corp's Tech Shop~
+This room is filled with all sorts of strange devices and components.  It
+looks like they have a good supply of scouters as well.  To the south is
+Capsule Corp's repair shop.
+~
+0 1036 0
+D2
+~
+~
+0 -1 563
+D3
+~
+~
+0 0 527
+S
+#531
+Corridor to the Battle Arena~
+You are standing in a long corridor leading towards the battle arena.
+There are muffled sounds of people fighting further down the corridor.
+~
+0 8 0
+D1
+~
+~
+0 0 532
+D3
+~
+~
+0 0 511
+S
+#532
+Halfway Down the Corridor~
+As you get closer to the battle arena the sounds of fighting become much
+louder.
+~
+0 8 0
+D1
+~
+~
+0 0 533
+D3
+~
+~
+0 0 531
+S
+#533
+Entrance to the Battle Arena~
+You are standing in front of the battle arena entrance.  Ahead of you is
+a huge tower, it must be filled with many fighters.
+~
+0 12 0
+D1
+~
+~
+0 0 534
+D3
+~
+~
+0 0 532
+S
+#534
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 537
+D1
+~
+~
+0 0 535
+D3
+~
+~
+0 0 533
+S
+#535
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 536
+D3
+~
+~
+0 0 534
+S
+#536
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 535
+D3
+~
+~
+0 0 537
+D5
+~
+~
+0 0 540
+S
+#537
+Battle Arena Level 01~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 536
+D2
+~
+~
+0 0 534
+S
+#538
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 541
+D1
+~
+~
+0 0 539
+D5
+~
+~
+0 0 542
+S
+#539
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 540
+D3
+~
+~
+0 0 538
+S
+#540
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 539
+D3
+~
+~
+0 0 541
+D4
+~
+~
+0 0 536
+S
+#541
+Battle Arena Level 02~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 540
+D2
+~
+~
+0 0 538
+S
+#542
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 545
+D1
+~
+~
+0 0 543
+D4
+~
+~
+0 0 538
+S
+#543
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 544
+D3
+~
+~
+0 0 542
+S
+#544
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 543
+D3
+~
+~
+0 0 545
+D5
+~
+~
+0 0 548
+S
+#545
+Battle Arena Level 03~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 544
+D2
+~
+~
+0 0 542
+S
+#546
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 549
+D1
+~
+~
+0 0 547
+D5
+~
+~
+0 0 550
+S
+#547
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 548
+D3
+~
+~
+0 0 546
+S
+#548
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 547
+D3
+~
+~
+0 0 549
+D4
+~
+~
+0 0 544
+S
+#549
+Battle Arena Level 04~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 548
+D2
+~
+~
+0 0 546
+S
+#550
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 553
+D1
+~
+~
+0 0 551
+D4
+~
+~
+0 0 546
+S
+#551
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 552
+D3
+~
+~
+0 0 550
+S
+#552
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 551
+D3
+~
+~
+0 0 553
+D5
+~
+~
+0 0 556
+S
+#553
+Battle Arena Level 05~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 552
+D2
+~
+~
+0 0 550
+S
+#554
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 557
+D1
+~
+~
+0 0 555
+D5
+~
+~
+0 0 558
+S
+#555
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 556
+D3
+~
+~
+0 0 554
+S
+#556
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 555
+D3
+~
+~
+0 0 557
+D4
+~
+~
+0 0 552
+S
+#557
+Battle Arena Level 06~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 556
+D2
+~
+~
+0 0 554
+S
+#558
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 561
+D1
+~
+~
+0 0 559
+D2
+~
+~
+0 -1 564
+D4
+~
+~
+0 0 554
+S
+#559
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D0
+~
+~
+0 0 560
+D2
+~
+~
+0 -1 565
+D3
+~
+~
+0 0 558
+S
+#560
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D2
+~
+~
+0 0 559
+D3
+~
+~
+0 0 561
+S
+#561
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 0
+D1
+~
+~
+0 0 560
+D2
+~
+~
+0 0 558
+S
+#562
+Sick Bay~
+This is the Medical Office.  Here all your wounds will be healed up by
+the doctors.  Along the walls are some big tanks filled with some kind of
+blue liquid.  Some people whom are in critical condition are inside the
+healing tanks.  As you look at one of them you can actually see their wounds
+healing and closing up.
+~
+0 1024 0
+D4
+~
+~
+0 -1 511
+S
+#563
+Equipment Repair Lab~
+This is a large cluttered room. There are all kinds of tools and
+diagnostic equipment scattered around the room.  In the center of the room
+is a large table covered with all sorts of electronic supplies.  Off in the
+corner of the room is a small man sitting at a computer terminal, typing
+away at something.
+~
+0 1036 0
+D0
+~
+~
+0 -1 530
+S
+#564
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 1
+D0
+~
+~
+0 -1 558
+D1
+~
+~
+0 -1 565
+S
+#565
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space station isn't destroyed by a stray
+energy blast.
+~
+0 8 1
+D0
+~
+~
+0 -1 559
+D3
+~
+~
+0 -1 564
+S
+#566
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space statation isn't destroyed by a stray
+energy blast.
+~
+0 8 1
+D2
+~
+~
+0 -1 460
+D3
+~
+~
+0 -1 567
+S
+#567
+Battle Arena Level 07~
+You are standing in the battle arena floor.  Energy absorbing plates
+cover the walls, to make sure the space statation isn't destroyed by a stray
+energy blast.
+~
+0 8 1
+D1
+~
+~
+0 -1 566
+D2
+~
+~
+0 -1 461
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 401 2 414 1 Load The Master
+M 0 400 2 415 1 Load The Trainer
+M 0 419 2 428 1 Load The armor salesman
+G 0 412 0 Class i battle armor is given to The armor salesman
+G 0 413 0 Class ii battle armor is given to The armor salesman
+G 0 414 0 Class iii battle armor is given to The armor salesman
+G 0 415 0 Class iv battle armor is given to The armor salesman
+M 0 402 2 429 1 Load A sales clerk
+G 0 408 0 A {dblack{x shirt {w[{bdex{w:{b1{w]{x is given to A sales clerk
+G 0 409 0 A {gc{ya{gm{yo{x shirt {w[{bdex{w:{b2{rstr{w:{r-1{w]{x is given to A sales clerk
+G 0 403 0 A pair of {dblack{x boots {w[{bdex{w:{b2{w]{x is given to A sales clerk
+G 0 410 0 A pair of {wwhite{x gloves {w[{rstr{w:{r2{w]{x is given to A sales clerk
+G 0 401 0 A pair of {dblack{x high tops {w[{bdex{w:{b1{w]{x is given to A sales clerk
+G 0 411 0 A pair of {dblack{x gloves {w[{bdex{w:{b2{w]{x is given to A sales clerk
+G 0 402 0 A pair of {wwhite{x boots {w[{rstr{w:{r2{w]{x is given to A sales clerk
+G 0 400 0 A pair of {wwhite{x high tops {w[{rstr{w:{r1{w]{x is given to A sales clerk
+G 0 407 0 A {wwhite{x shirt {w[{rstr{w:{r1{w]{x is given to A sales clerk
+G 0 405 0 A pair of {dblack{x pants {w[{bdex{w:{b1{w]{x is given to A sales clerk
+G 0 406 0 A pair of {gc{ya{gm{yo{x pants {w[{bdex{w:{b2{rstr{w:{r-1{w]{x is given to A sales clerk
+G 0 404 0 A pair of {wwhite{x pants {w[{rstr{w:{r1{w]{x is given to A sales clerk
+M 0 420 2 430 1 Load The store owner
+G 0 422 0 A brightly glowing orb is given to The store owner
+G 0 416 0 A class i scouter {w[{gint{w:{g1{w]{x is given to The store owner
+G 0 417 0 A class ii scouter {w[{gint{w:{g2{w]{x is given to The store owner
+G 0 418 0 A class iii scouter {w[{gint{w:{g3{w]{x is given to The store owner
+G 0 419 0 A class iv scouter {w[{gint{w:{g3{cwil{w:{c1{w]{x is given to The store owner
+G 0 420 0 A class v scouter {w[{gint{w:{g3{cwil{w:{c2{w]{x is given to The store owner
+G 0 421 0 A class vi scouter {w[{gint{w:{g3{cwil{w:{c3{w]{x is given to The store owner
+M 0 403 1 434 1 Load A Newbie Fighter
+M 0 417 1 434 1 Load An Apprentice Medic
+M 0 403 1 435 1 Load A Newbie Fighter
+M 0 403 1 436 1 Load A Newbie Fighter
+M 0 403 1 437 1 Load A Newbie Fighter
+M 0 404 1 438 1 Load A Fighter
+M 0 404 1 439 1 Load A Fighter
+M 0 404 1 440 1 Load A Fighter
+M 0 404 1 441 1 Load A Fighter
+M 0 405 1 442 1 Load A Better Fighter
+M 0 405 1 443 1 Load A Better Fighter
+M 0 417 1 443 1 Load An Apprentice Medic
+M 0 405 1 444 1 Load A Better Fighter
+M 0 405 1 445 1 Load A Better Fighter
+M 0 406 1 446 1 Load An Advanced Fighter
+M 0 406 1 447 1 Load An Advanced Fighter
+M 0 406 1 448 1 Load An Advanced Fighter
+M 0 406 1 449 1 Load An Advanced Fighter
+M 0 407 1 450 1 Load A Supreme Fighter
+M 0 407 1 451 1 Load A Supreme Fighter
+M 0 407 1 452 1 Load A Supreme Fighter
+M 0 407 1 453 1 Load A Supreme Fighter
+M 0 417 1 453 1 Load An Apprentice Medic
+M 0 408 1 454 1 Load An Ultimate Fighter
+M 0 417 1 454 1 Load An Apprentice Medic
+M 0 408 1 455 1 Load An Ultimate Fighter
+M 0 408 1 456 1 Load An Ultimate Fighter
+M 0 408 1 457 1 Load An Ultimate Fighter
+M 0 409 1 458 1 Load The Master Fighter
+M 0 409 1 459 1 Load The Master Fighter
+M 0 409 1 460 1 Load The Master Fighter
+M 0 409 1 461 1 Load The Master Fighter
+M 0 421 2 463 1 Load A Scientist
+M 0 426 1 470 1 Load An Icer Transporter
+M 0 401 2 514 1 Load The Master
+M 0 400 2 515 1 Load The Trainer
+M 0 419 2 528 1 Load The armor salesman
+G 0 412 0 Class i battle armor is given to The armor salesman
+G 0 413 0 Class ii battle armor is given to The armor salesman
+G 0 414 0 Class iii battle armor is given to The armor salesman
+G 0 415 0 Class iv battle armor is given to The armor salesman
+M 0 402 2 529 1 Load A sales clerk
+G 0 408 0 A {dblack{x shirt {w[{bdex{w:{b1{w]{x is given to A sales clerk
+G 0 409 0 A {gc{ya{gm{yo{x shirt {w[{bdex{w:{b2{rstr{w:{r-1{w]{x is given to A sales clerk
+G 0 403 0 A pair of {dblack{x boots {w[{bdex{w:{b2{w]{x is given to A sales clerk
+G 0 410 0 A pair of {wwhite{x gloves {w[{rstr{w:{r2{w]{x is given to A sales clerk
+G 0 401 0 A pair of {dblack{x high tops {w[{bdex{w:{b1{w]{x is given to A sales clerk
+G 0 411 0 A pair of {dblack{x gloves {w[{bdex{w:{b2{w]{x is given to A sales clerk
+G 0 402 0 A pair of {wwhite{x boots {w[{rstr{w:{r2{w]{x is given to A sales clerk
+G 0 400 0 A pair of {wwhite{x high tops {w[{rstr{w:{r1{w]{x is given to A sales clerk
+G 0 407 0 A {wwhite{x shirt {w[{rstr{w:{r1{w]{x is given to A sales clerk
+G 0 405 0 A pair of {dblack{x pants {w[{bdex{w:{b1{w]{x is given to A sales clerk
+G 0 406 0 A pair of {gc{ya{gm{yo{x pants {w[{bdex{w:{b2{rstr{w:{r-1{w]{x is given to A sales clerk
+G 0 404 0 A pair of {wwhite{x pants {w[{rstr{w:{r1{w]{x is given to A sales clerk
+M 0 420 2 530 1 Load The store owner
+G 0 416 0 A class i scouter {w[{gint{w:{g1{w]{x is given to The store owner
+G 0 417 0 A class ii scouter {w[{gint{w:{g2{w]{x is given to The store owner
+G 0 418 0 A class iii scouter {w[{gint{w:{g3{w]{x is given to The store owner
+G 0 419 0 A class iv scouter {w[{gint{w:{g3{cwil{w:{c1{w]{x is given to The store owner
+G 0 420 0 A class v scouter {w[{gint{w:{g3{cwil{w:{c2{w]{x is given to The store owner
+G 0 421 0 A class vi scouter {w[{gint{w:{g3{cwil{w:{c3{w]{x is given to The store owner
+M 0 410 1 534 1 Load A Newbie Fighter
+M 0 417 1 534 1 Load An Apprentice Medic
+M 0 410 1 535 1 Load A Newbie Fighter
+M 0 410 1 536 1 Load A Newbie Fighter
+M 0 410 1 537 1 Load A Newbie Fighter
+M 0 411 1 538 1 Load A Fighter
+M 0 411 1 539 1 Load A Fighter
+M 0 411 1 540 1 Load A Fighter
+M 0 411 1 541 1 Load A Fighter
+M 0 412 1 542 1 Load A Better Fighter
+M 0 417 1 542 1 Load An Apprentice Medic
+M 0 412 1 543 1 Load A Better Fighter
+M 0 412 1 544 1 Load A Better Fighter
+M 0 412 1 545 1 Load A Better Fighter
+M 0 413 1 546 1 Load An Advanced Fighter
+M 0 413 1 547 1 Load An Advanced Fighter
+M 0 413 1 548 1 Load An Advanced Fighter
+M 0 413 1 549 1 Load An Advanced Fighter
+M 0 414 1 550 1 Load A Supreme Fighter
+M 0 417 1 550 1 Load An Apprentice Medic
+M 0 414 1 551 1 Load A Supreme Fighter
+M 0 414 1 552 1 Load A Supreme Fighter
+M 0 414 1 553 1 Load A Supreme Fighter
+M 0 415 1 554 1 Load An Ultimate Fighter
+M 0 415 1 555 1 Load An Ultimate Fighter
+M 0 415 1 556 1 Load An Ultimate Fighter
+M 0 415 1 557 1 Load An Ultimate Fighter
+M 0 416 1 558 1 Load The Master Fighter
+M 0 417 1 558 1 Load An Apprentice Medic
+M 0 416 1 559 1 Load The Master Fighter
+M 0 416 1 560 1 Load The Master Fighter
+M 0 416 1 561 1 Load The Master Fighter
+M 0 421 2 563 1 Load A Scientist
+M 0 416 1 564 1 Load The Master Fighter
+M 0 416 1 565 1 Load The Master Fighter
+M 0 409 1 566 1 Load The Master Fighter
+M 0 409 1 567 1 Load The Master Fighter
+S
+
+
+
+#SHOPS
+402 9 1 0 0 0 100 50 0 23
+419 9 1 0 0 0 100 50 0 23
+420 9 1 65 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#410
+-
+>
+-
+-
+ 
+ 
+~
+#417
+echo _whi $I asks, 'Do you need some medical assistance?'
+echo _lbl $I says, 'You must stop fighting before I can help you. '
+restore $n 2
+echo _lbl $I says, 'Okay, I hope you feel better now. This is my first week.'
+~
+#0
+
+#OBJPROGS
+#400
+~
+#0
+
+#ROOMPROGS
+#535
+~
+#0
+
+#$

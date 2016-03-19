@@ -1,0 +1,2560 @@
+#AREADATA
+Name Earth forest~
+Builders Terraco-d~
+VNUMs 3300 3399
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3300
+Getona~
+Getona~
+Getona is watching the comings and going.
+~
+Stand here is a man about 6' 3" tall with short black hair that stands up.
+He has a small almost flat nose. His arm s are biult up with big musslles.
+He has large legs that with mussles that show with every move. His eyes are 
+a hazzle color and seem to change withthe light movments.
+~
+human~
+ABG 0 0 0
+40000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+FIK Z 0 0
+sit stand male 0
+AHMV ABCDEFGHIJK large unknown
+M GRALL 3300 100~
+#3301
+A black Rat~
+A black rat~
+A black rat with a long pinkish tail
+~
+~
+human~
+AFG 0 -500 0
+500000 11
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3302
+Bosnia~
+Bosnia~
+Bosnia is standing here looking at you
+~
+~
+human~
+ABGc 0 -500 0
+300000000 5773
+84 84 84 84 84 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 3301 100~
+M ACT 3303 whisper~
+M ACT 3305 says~
+#3303
+Droshnia~
+Droshnia~
+Droshnia is standing here with Bosnia
+~
+~
+human~
+ABGc 0 -500 0
+300000000 5773
+84 84 84 84 84 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 3302 look~
+#3304
+Charsha~
+Charsha~
+Charsha Watches you come through, but he looks jelous
+~
+~
+human~
+ABGc 0 -500 0
+300000000 5773
+84 84 84 84 84 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 3304 nods~
+#3305
+Geaea~
+Geaea~
+Geaea is stanging here enshoured in a bright light
+~
+~
+human~
+ABGR 0 -500 0
+2000000000 14907
+220 220 220 220 220 
+100 100
+punch
+0 0 0 0
+H 0 E 0
+stand stand male 4000
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+M GRALL 3306 100~
+M DELAY 3399 100~
+M SPEECH 3398 ok~
+#3306
+deer herd~
+A herd of deer~
+A herd of deer quietly grazing
+~
+~
+android~
+AP 0 0 0
+2000000000 4472
+165 165 165 165 165 
+100 100
+smash
+0 0 0 0
+FHI 0 0 0
+stand stand none 5709
+AHMV ABCDEFGHIJK medium unknown
+M KILL 3307 100~
+#3307
+A guard~
+A guard~
+A guard stands here, ready for battle
+~
+~
+human~
+ABGS 0 0 0
+4000000000 5000
+185 185 185 185 185 
+100 100
+punch
+0 0 0 0
+0 E 0 0
+stand stand male 6790
+AHMV ABCDEFGHIJK medium unknown
+#3308
+squirrel~
+a squirrel~
+A brown squirrel looking for a nut
+~
+~
+human~
+ABGP 0 0 0
+200000000 3535
+63 63 63 63 63 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AGV AEFQ small unknown
+F for HM
+F par BCDGHIJK
+M KILL 3309 100~
+#3309
+ghost~
+a ghost~
+The ghost of a long-ago victim
+~
+The ghost consists of a white mist-like substance.  It fades in and out
+uncontrollably, making it appear and frightening someone in the seemingly
+empty room.  
+~
+human~
+ABGO T 0 0
+700000000 0
+200 200 200 200 200 
+100 100
+none
+0 0 0 0
+0 0 0 N
+stand stand none 0
+KL 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3310
+member guard~
+A {Ctower{x guard~
+A {Cmember{x {Wof the tower guard{x
+~
+A tower guard is here in service to his lord.  He's covered in heavy
+armor for which to protect him.  He is no amature beware.  
+~
+human~
+ABG DFJ -50 0
+700000000 6614
+118 118 118 118 118 
+100 100
+punch
+0 0 0 0
+FI 0 0 0
+stand stand male 100
+H ABCDF large unknown
+F for AMV
+F par EGHIJK
+#3311
+crimson guard~
+A {RCrimson{x Guard~
+A {Cmember{x of the {Rcrimson{x guard stands here watching the passage.
+~
+A member of the crimson guard stands before you.  Prepared for anything
+that may come inbtween him and his lord.  These guards are the best at what
+they do. They are outfitted in crimson armor to go with their namesake.
+~
+human~
+ABGR 0 -50 0
+650000000 6373
+114 114 114 114 114 
+100 100
+punch
+0 0 0 0
+CF 0 0 0
+stand stand none 100
+V ABCF medium unknown
+F for AHM
+F par DEGHIJK
+#3312
+guard royal~
+A royal crimson guard~
+A royal {RCrimson{x guard stands here quietly guarding the room.
+~
+The royal guard are one of the most elite set of fighters in these
+parts.  Many fear thier awsome fighting potential.  They are armored to the
+core with the latest in protective gear.  
+~
+human~
+ABGR 0 0 0
+700000000 6614
+118 118 118 118 118 
+100 100
+punch
+0 0 0 0
+FK 0 0 0
+stand stand male 100
+V BCF medium unknown
+F for AHM
+F par ADEGHIJK
+#3313
+gyre forest~
+the forest gyre~
+A forest gyre flying around to find some prey
+~
+Flying through the air, red strippings are clearly visible underneath its
+wings.  It screams a piercing cry as it sees its prey.  
+~
+human~
+AGP T -200 0
+300000000 4330
+77 77 77 77 77 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AGW ADPQ medium unknown
+F for HMV
+F par BCEFGHIJK
+M KILL 3308 100~
+#3314
+bat~
+A large bat~
+A large {Dbat{x like creature is waiting on the ledge.
+~
+~
+human~
+ABG 0 -50 0
+500000000 5590
+100 100 100 100 100 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 100
+0 DJKPV medium unknown
+F for AHMV
+F par ABCEFGHI
+#3315
+Small bush~
+small green bush~
+Small green bush that has lots of leaves
+~
+~
+human~
+ABQ 0 0 0
+125 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 83
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 3315 100~
+#3340
+Gokouo~
+A small child~
+A small child about the age of 7
+~
+~
+saiya-jin~
+A 0 0 0
+300000000000 1500
+86 86 86 86 86 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 4330
+AHMV ABCDEFGHIJK medium unknown
+#3341
+stegosaurus~
+A massive stegosaurus~
+A massive stegosaurus grazes peacefully here.
+~
+This massive dinosaur ignores you as he grazes on the meadow grass.  The
+spikes on the tail look very sharp though, and slightly bloodstained.  
+~
+android~
+AGP 0 0 0
+500000000 2236
+134 134 134 134 134 
+100 100
+crush
+0 0 0 0
+FHIM 0 0 0
+stand stand male 4037
+AHMV ABCDEFGHIJK huge unknown
+M RANDOM 3341 10~
+M FIGHT 3344 50~
+M FIGHT 3343 10~
+M GRALL 3342 40~
+#3399
+monster~
+a icer S.E.S. soldier~
+A soldier part of the icer's "Saiyan Extermination Squad"
+~
+~
+icer~
+AG 0 0 0
+5000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#3300
+bikini~
+a {Dblack leather bikini{x with {Rred flames{x airbrushed onto it~
+A {Dblack leather bikini{x with {Rred flames{x airbrushed onto it~
+unknown~
+1000000
+armor 0 ALO
+0 0 0 0 0
+0 0 0 P
+#3301
+Heart shaed locket~
+a heart shaped locket~
+A heart shaped locket with a gold chain and a small dimond in the center of the heart~
+unknown~
+100
+jewelry 0 AC
+0 0 0 0 0
+100 0 40000 P
+E
+inscription~
+To Kahlan
+with love
+Rumor
+~
+#3302
+boots ~
+a pair of thigh-high {Dblack{x leather high-heeled boots~
+A pair of thigh-high {Dblack{x high-heeled boots~
+leather~
+100000
+armor 0 AGO
+0 0 0 0 0
+0 0 0 P
+#3306
+Ace's head~
+ace's head~
+Ace's head has been cut off and lays here in a pool of blood~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3307
+Xizix's silced off arm~
+xizix's sliced off arm~
+Xizix's sliced off arm lays here with three fingers missing~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3308
+Pet Rat~
+a little grey rat~
+A little grey rat with a pink tail~
+unknown~
+100
+trash 0 A
+0 0 0 0 0
+0 2 20 P
+#3309
+A hamburger~
+a hamburger~
+A hamburger with everything on it~
+unknown~
+1
+food 0 A
+0 0 0 0 0
+0 0 0 P
+#3341
+grade scout scouter~
+grade I Scouter~
+A sturdy looking scouter lies here.~
+unknown~
+50
+jewelry a AS
+0 0 0 0 0
+500000 0 800 P
+#3342
+scout scouter ii~
+a grade II scouter~
+A sturdy looking scouter hums slightly.~
+metal~
+150
+jewelry a AS
+0 0 0 0 0
+20000000 1 1500 P
+#3392
+computer~
+a computer~
+A top notch computer~
+unknown~
+1
+furniture 0 0
+A 0 D 0 0
+0 0 0 P
+#3393
+dragonball 1 one~
+a dragonball with one star~
+An orange ball with one {yyellow{x star~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#3394
+dragonball 2 two~
+a dragonball with two stars~
+An orange ball with two {yyellow{x stars~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#3395
+dragonball 3 three~
+a dragonball with three stars~
+An orange ball with three {yyellow{x stars~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#3396
+dragonball 4 four~
+a dragonball with four stars~
+An orange ball with four {yyellow{x stars~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#3397
+dragonball 5 five~
+a dragonball with five stars~
+An orange ball with five {yyellow{x stars~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#3398
+dragonball 6 six~
+a dragonball with six stars~
+An orange ball with six {yyellow{x stars~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#3399
+dragonball 7 seven~
+a dragonball with seven stars~
+An orange ball with seven {yyellow{x stars~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#3300
+An Intersection~
+Here is where the path you are on intersects with another.  Looking in
+all four directions, you see paths that keep going on for what seems
+forever.  Trees line all four paths, and some have roots showing up into the
+path.  
+~
+0 0 0
+D0
+~
+~
+0 0 3341
+D1
+~
+~
+0 0 3301
+D2
+~
+~
+0 0 3327
+D3
+~
+~
+0 0 3314
+S
+#3301
+Just after the intersection~
+The area around this part of the trail is covered in a canopy of leaves
+and branches.  The forest floor is covered in dead leaves and twigs.  Every
+once in a while the leaves move but there is no wind.  The trees seem to be
+covered in a dead looking brown and greyish bark.  There are a few snakes
+siting in the trees, watching the passers by.  
+~
+0 0 0
+D1
+~
+~
+0 0 3302
+D3
+~
+~
+0 0 3300
+S
+#3302
+In a dark forest~
+The forest is dark and cold feeling.  The wind blows along the tops of
+the trees making leaves fall to the ground.  There is what seems to be some
+sort of movement out in the trees just by the trail.  Small and large
+silouettes can be seen through the darkness, even with a light held to the
+tree line.  The ground seems to move all on its own with the bugs and
+snakes.  A rat scurries through the leaves.  
+~
+0 0 0
+D1
+~
+~
+0 0 3303
+D3
+~
+~
+0 0 3301
+S
+#3303
+In a dark forest~
+As the the forest get darker and darker, the wind picks up the things
+that are moving around in the tree line.  The leaves just seem to fall like
+rain as the the sky become less and less visible.  The rats seem to be
+growing in number here.  The things in the tree line seem to be getting
+closer and closer, as the ground feels more and more like a mushy type of
+sand instead of rock.  
+~
+0 0 0
+D1
+~
+~
+0 0 3304
+D3
+~
+~
+0 0 3302
+S
+#3304
+In a dark forest~
+Standing in this area of the forest, there is something on the ground
+that catches the attention of whom ever walks through this area.  The shinny
+object on the ground looks like a blade of some sort.  It glissens in what
+little light that shows here.  Looking at the path, there appears to be
+something under the leaves the crosses the whole trail.  
+~
+0 0 0
+D1
+~
+~
+0 0 3305
+D3
+~
+~
+0 0 3303
+S
+#3305
+In the dark forest~
+The forest is getting darker here and the wind blows in from the south at
+a high speed.  A little bit of light comes in from above, wether it be moon
+or sun, the leaves mostly filter the light keeping it from reaching the
+ground.  The ground continues to look as if it were alive and breathing. 
+The rats move around through the leaves on the ground unhindered by them.  
+~
+0 0 0
+D1
+~
+~
+0 0 3306
+D3
+~
+~
+0 0 3304
+S
+#3306
+The dark forest~
+The darkness continues on as less and less light filters through.  The
+bugs and rats seem to thin out here for some weird reason.  Continueing down
+the trail, the feeling of cold and power starts to seep in.  The wind seems
+to blow a name as it meanders through the trees and grasses.  
+~
+0 0 0
+D1
+~
+~
+0 0 3307
+D3
+~
+~
+0 0 3305
+S
+#3307
+The darkness grows~
+The darkness seems to grow but looking off the east, a light can be seen. 
+It is not real bright but dimly sitting there.  The power grows as the winds
+pick up, the feeling of chills runing every where.  The birds and bugs and
+rats seem to only go in that direction by only chassing its food.  The
+feeling of wind going down the small hairs on who ever stands here sends
+chills surging through the body.  
+~
+0 0 0
+D1
+~
+~
+0 0 3308
+D3
+~
+~
+0 0 3306
+S
+#3308
+The darkness starts to fade~
+Moving through the trees, the darkness starts to fade as the light off to
+the east starts to grow.  A shape of somthing begins to grow as the light
+gets brighter.  The shadows of the trees start to dimly show as well. 
+String in the leaves is a rat that has managed to work its way through as it
+looks for food.  
+~
+0 0 0
+D1
+~
+~
+0 0 3309
+D3
+~
+~
+0 0 3307
+S
+#3309
+The light grows~
+The trees seem to show more of their shadows as the light grows brighter
+and rivets of bark can be seen.  The winds now dieing down dosnt move the
+leaves as much anymore.  The figure in the light seems to be getting bigger
+as well, and seems to be looking more and more like a person then a mass of
+swirling lights and arcs.  
+~
+0 0 0
+D1
+~
+~
+0 0 3310
+D3
+~
+~
+0 0 3308
+S
+#3310
+The light~
+The forest is lit up bright as day here, as a man stands here with light
+radiating off him.  He looks like the sun but a man is clearly visible from
+inside the light.  The light is bright the trees around him are extremly
+visible all the little bark line and missing chunks can be seen coming from
+out of the darkness.  The things scurring about have seem to have gone into
+hiding from the light. 
+~
+0 1024 0
+D1
+~
+~
+0 0 3311
+D3
+~
+~
+0 0 3309
+S
+#3311
+Exiting the light~
+As the light begins to fade, the trees start to become less and less
+visible as the darkness begins to grow again.  Off to the east, a light can
+be seen but barely.  The objects that are behind the tree line show again
+but seem to push all to the east as they make noises in the back ground of
+the forest and up in the canopy.  Moving to the east something starts to
+show up in the horizen.  
+~
+0 0 0
+D1
+~
+~
+0 0 3312
+D3
+~
+~
+0 0 3310
+S
+#3312
+In a spot of pure darkness~
+The darkness of this spot seems so dark that things can only be heard and
+not seen.  The trees have completely vanished in the dark and looking
+around, a person feels as though they want to hurry east fast.  Not being
+able to see their hands infront of the face, the light feels like it would
+be welcomed by all.  
+~
+0 0 0
+D1
+~
+~
+0 0 3313
+D3
+~
+~
+0 0 3311
+S
+#3313
+The end of the darkness~
+The end of the darkness looks like an outline of a cave entrance.  The
+trees make a somewhat half-moon shape.  The leaves seem to thin out as it
+seems to the growth above starts to let more light in through there small holes
+and things.  The ground seems to clean up a bit as the path starts to show
+more in the light.  The end of the path looks so clean it seems to be like a
+person comes and cleans it.  
+~
+0 0 0
+D3
+~
+~
+0 0 3312
+S
+#3314
+Just after the intersection~
+The forest lining the trail is dark and deep.  Dead leaves litter the
+forest floor and the trail, and a few fallen branches can be seen strewn
+about.  A few trees are losing some of their bark, while others seem rotten
+through and ready to fall under their own weight.  A few bird calls are
+heard in the distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 3300
+D3
+~
+~
+0 0 3315
+S
+#3315
+In a dark forest~
+The trail becomes a bit rougher because of roots of nearby trees.  Leaves
+litter the forest floor along with a few fallen branches, and sometimes a
+fallen tree.  A small herd of 3 deer can be seen to the south, standing
+still and listening for predators.  A bird's cry is heard off in the
+distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 3314
+D3
+~
+~
+0 0 3316
+S
+#3316
+In a forest~
+The forest can be seen in greater detail here, greatly helped with the
+space left open within the canopy by the fall of a huge tree, letting in
+more light in.  The huge trunk of the fallen tree is near the trail, a few
+of its branches across the trail.  A brief breeze makes the tree tops sway,
+making a few birds fly off.  
+~
+0 0 0
+D1
+~
+~
+0 0 3315
+D3
+~
+~
+0 0 3317
+S
+#3317
+In the forest~
+A few tree trunks are laid across the trail, having been pushed down by a
+big gust of wind.  All the branches have been cut or broken off by previous
+travellers.  A few animals have made their homes in the fallen trees, as a
+few squirrels, rats and even a skunk.  
+~
+0 0 0
+D1
+~
+~
+0 0 3316
+D3
+~
+~
+0 0 3318
+S
+#3318
+In the forest~
+Up above, the canopy thickens as more healthy trees grow here.  Green
+lush bushes border the trail.  A small squirrel is seen running up a tree to
+hide.  Calls from many animals can be heard in all directions, as a little
+herd of deer is seen to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 3317
+D3
+~
+~
+0 0 3319
+S
+#3319
+In a forest clearing~
+The trail enters an odd clearing within the forest.  Tall trees border
+the field.  This seems to be a particular popular area for grazing, as a few
+herds of deer are seen head bent to the ground, feeding on lush grasses.  A
+fire pit has been dug up by previous travellers when they stopped here to
+rest.  
+~
+0 0 0
+D1
+~
+~
+0 0 3318
+D3
+~
+~
+0 0 3320
+M 5 H 5
+S
+#3320
+In the forest~
+Up above, the canopy thickens as more healthy trees grow here.  Green
+lush bushes border the trail.  A small squirrel is seen running up a tree to
+hide.  Calls from many animals can be heard in all directions, as a little
+herd of deer is seen to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 3319
+D3
+~
+~
+0 0 3321
+S
+#3321
+In the forest~
+Up above, the canopy thickens as more healthy trees grow here.  Green
+lush bushes border the trail.  A small squirrel is seen running up a tree to
+hide.  Calls from many animals can be heard in all directions, as a little
+herd of deer is seen to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 3320
+D3
+~
+~
+0 0 3322
+S
+#3322
+In the forest~
+Up above, the canopy thickens as more healthy trees grow here.  Green
+lush bushes border the trail.  A small squirrel is seen running up a tree to
+hide.  Calls from many animals can be heard in all directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 3321
+D3
+~
+~
+0 0 3323
+S
+#3323
+In the forest~
+Up above, the canopy thickens as more healthy trees grow here.  Green
+lush bushes border the trail.  A small squirrel is seen running up a tree to
+hide.  Calls from many animals can be heard in all directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 3322
+D3
+~
+~
+0 0 3324
+S
+#3324
+In the forest~
+A few tree trunks are laid across the trail, having been pushed down by a
+big gust of wind.  All the branches have been cut or broken off by previous
+travellers.  A few animals have made their homes in the fallen trees, as a
+few squirels, rats and even a skunk.  
+~
+0 0 0
+D1
+~
+~
+0 0 3323
+D3
+~
+~
+0 0 3325
+S
+#3325
+In the forest~
+The trail becomes a bit rougher because of roots of nearby trees.  Leaves
+litter the forest floor along with a few fallen branches, and sometimes a
+fallen tree.  A small herd of 3 deer can be seen to the south, standing
+still and listening for predators.  A bird's cry is heard off in the
+distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 3324
+D3
+~
+~
+0 0 3326
+S
+#3326
+The forest clearing~
+The tall trees of the clearing seem like a border between the darkness of
+the forest to the east, and this clear, bright field.  Green lush grasses
+grow and a small herd of deer can be seen near the trees, feeding upon brush
+and bushes.  The compacted dirt trail also goes west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3325
+S
+#3327
+The forest~
+The forest starts to take on a lighter side.  The ground around feels
+hard and soft in spots but for the most part feels hard and rocky.  Looking
+at the trees, they are what appears to be evergreens unlike before where as
+the most part appered to be maples and such.  The wind blows through the
+trail crevace and feels cold and frosty as it blows from the south.  Most
+spots have pine needles laying around in piles stacked there from the
+blowing wind.  
+~
+0 0 0
+D0
+~
+~
+0 0 3300
+D2
+~
+~
+0 0 3328
+S
+#3328
+The coldness grows~
+The cold starts to grow fast as the wind begins to pick up and drop the
+temperature in the area.  The tops of the trees are swaying in the wind not
+to hard but yet fast enough to be seen. A gust blows by every once in a
+while, causing goosebumps on every living thing in the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 3327
+D2
+~
+~
+0 0 3329
+S
+#3329
+The frost starts~
+The ground and trees are starting to become covered with a small layer of
+frost on them.  The ground feels very hard and cold but yet still pliable
+under a step.  The needles on the ground have seem to become frozen to the
+ground.  Moving through the forest on the trail, it begins to get colder.  
+~
+0 0 0
+D0
+~
+~
+0 0 3328
+D2
+~
+~
+0 0 3330
+S
+#3330
+Frosty trail~
+The trees and trail are now covered so much in frost and ice that it
+looks it is a half inch thick on the tree tops.  There appears to be small
+sections of snow laying in some spots but it is mostly frost and ice
+crystals.  The wind picks up a bit more moving down the trail at a normal
+rate of speed.  
+~
+0 0 0
+D0
+~
+~
+0 0 3329
+D2
+~
+~
+0 0 3331
+S
+#3331
+Frosty Trail~
+The trees and trail are now covered so much in frost and ice that it
+looks it is a half inch thick on the tree tops.  There appears to be small
+sections of snow that look about a inch deep laying in some spots but it is
+mostly frost and ice crystals.  The wind picks up a bit more moving down the
+trail at a normal rate of speed.  
+~
+0 0 0
+D0
+~
+~
+0 0 3330
+D2
+~
+~
+0 0 3332
+S
+#3332
+The wind picks up~
+The wind picks up moving down the trail.  Small flakes of snow have
+started to fall.  The trail and trees around the area are covered in small
+crystals of ice.  The wind has started to pick up as the trees around the
+area begin to sway harder in the wind and the clouds above are starting to
+turn a greyish color.  
+~
+0 0 0
+D0
+~
+~
+0 0 3331
+D2
+~
+~
+0 0 3333
+S
+#3333
+The snow picks up~
+The wind and snow start to blow around and freezes everything.  The only
+warmth in the area is when the wind stops blowing and the snow dies down. 
+The ground is covered in about inch of snow but even the evergreens are
+starting to turn brown and dead looking.  There is also ice that hangs from
+the limbs and falls out of the trees when the hevay ones grow to large to
+hold themselves up in the tree.  
+~
+0 0 0
+D0
+~
+~
+0 0 3332
+D2
+~
+~
+0 0 3334
+S
+#3334
+The end of the trees~
+The trees start to end as a large field comes into view.  The ground is
+now covered in a foot of ice and snow.  The sky starts to come into view as
+the clouds that show are a dark grey and stormy looking.  There is a little
+bit of grass showing but it seems to be only the tops of those blades and
+small bushes can be seen sticking up out of the snow.  
+~
+0 0 0
+D0
+~
+~
+0 0 3333
+D2
+~
+~
+0 0 3335
+S
+#3335
+The open field~
+The field is covered in ice and snow.  There is about three feet of snow
+everywhere.  The wind and snow is so blinding it seems like there is nothing
+but loops and going backwards instead of forwards and circles.  The trail
+has now completly disappeared into the driving snow and wind.  
+~
+0 0 0
+D0
+~
+~
+0 0 3334
+D2
+~
+~
+0 0 3336
+S
+#3336
+An open field~
+The wind is blowing and the snow is falling as the trail moves along. 
+There are a few foot prints on top the snow that look like a bird has
+recently come through but it seems no life is capable of living in this
+field outside the ground.  The snow is moving through the air like millions
+of tiny little knifes cuting at the flesh of anything that wanders through
+the area 
+~
+0 0 0
+D0
+~
+~
+0 0 3335
+D2
+~
+~
+0 0 3337
+S
+#3337
+An open field~
+The openess of this field allows the wind to blow wildly about the area
+in all directions possible.  The snow whips around in small twisted columns
+of air and wind.  There appears to be something over in the distance but it
+is to hard to make out what it is.  
+~
+0 0 0
+D0
+~
+~
+0 0 3336
+D2
+~
+~
+0 0 3338
+S
+#3338
+An open field~
+The wind blows as it appears to come from the waters that seems to be
+ahead.  The crashing waves can be heard now as they hit the ice and the snow
+and wind whips unmercifully across the field.  The view to the south seems
+to show a mountain but it may also be a hallucination.  
+~
+0 0 0
+D0
+~
+~
+0 0 3337
+D2
+~
+~
+0 0 3339
+S
+#3339
+The Icy Beach~
+A huge sheet of ice stretches out for miles.  Bright lights flicker in
+the sky as gases rise from the earth into the sky.  The reflections off the
+ice are very bright, making it hard to see much.  
+~
+0 0 0
+D0
+~
+~
+0 0 3338
+D2
+~
+~
+0 0 3340
+S
+#3340
+The Icy Beach~
+A huge sheet of ice stretches out for miles.  Bright lights flicker in
+the sky as gases rise from the earth into the sky.  The reflections off the
+ice are very bright, making it hard to see much.  
+~
+0 0 0
+D0
+~
+~
+0 0 3339
+D1
+~
+~
+0 0 3398
+S
+#3341
+{cA{x {gforest{x {cpath{x~
+The trees are close together in this section of the forest, narrowing the
+path.  The path is still firm and clear though, and shows no signs of dying
+out.  You can't really be sure, but it looks like there's a small valley
+ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 3342
+D2
+~
+~
+0 0 3300
+S
+#3342
+A split in the path~
+The path splits off in two directions here.  Off to the east, the path
+seems to narrow rapidly, looking rather unused.  You can tell there is a
+small valley to the north, but the trees and underbrush are too thick to go
+that way.  
+~
+0 0 2
+D1
+~
+~
+0 0 3343
+D2
+~
+~
+0 0 3341
+D3
+~
+~
+0 0 3348
+S
+#3343
+An {GO{gvergrown {cpath~
+The pine trees tower over head and thick underbrush clogs the ground,
+narrowing the trail considerably.  The path continues to the north, sloping
+downwards at a rapid pace into a small valley.  Pine needles litter the
+forest floor, clumped up where the wind has blown them against the various
+bushes.  
+~
+0 0 2
+D0
+~
+~
+0 0 3344
+D3
+~
+~
+0 0 3342
+S
+#3344
+An {GO{gvergrown {cpath~
+The trees and brush continue to crowd the path.  It is overgrown almost
+to the point of looking unused.  You seem to have reached the bottom of the
+valley, for the path has leveled out now.  Further to the north, you can see
+where the ground suddenly rises back up again.  
+~
+0 0 2
+D0
+~
+~
+0 0 3345
+D2
+~
+~
+0 0 3343
+S
+#3345
+Faded Ruins~
+A steep slope, combined with thick clumps of brush, makes going north a
+very unpleasant prospect.  The trail has almost completly disappeared here,
+though you can see it continuing to the west and south.  Some weathered old
+stones can be seen near the edge of the rise.  
+~
+0 0 2
+E
+stones~
+Upon closer examining of the stones, you can see that they once were part
+of some kind of building, though what exactly it was cannot be determined. 
+Spots of red discoloration can be seen, indicating that metal use to be
+here.  
+~
+D2
+~
+~
+0 0 3344
+D3
+~
+~
+0 0 3346
+S
+#3346
+Thick brush~
+You can follow the trail here, though just barely.  The underbush has
+grown thick, and has almost completly choked out the path.  The path looks
+like it widens quickly to the west, while to the east it still looks rather
+rough.  
+~
+0 0 2
+D1
+~
+~
+0 0 3345
+D3
+~
+~
+0 0 3347
+S
+#3347
+A {wshaded{c path~
+The path runs east and south here, with the southern route climbing up
+out of the valley.  The trees and brush grow close together towards the
+east, but it looks like there use to be a path, and you should be able to
+force your way through it with little trouble.  
+~
+0 0 0
+D1
+~
+~
+0 0 3346
+D2
+~
+~
+0 0 3349
+D3
+~
+~
+0 0 3350
+S
+#3348
+A {gforest{x {cpath{x~
+The path curves here, heading both east and north.  You can see to the
+north the path slopes down into a small valley.  This part of the forest
+seems rather peacefull and quiet, with very few sounds breaking the silence. 
+~
+0 0 0
+D0
+~
+~
+0 0 3349
+D1
+~
+~
+0 0 3342
+S
+#3349
+A {Gforest{c path~
+This section of the forest is nice and peacefull.  The trees have closed
+in a little on the path, but it still runs strong to the north and south. 
+Towards the south it looks like the trees thin out just a little, while to
+the north the path slopes down into a small valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 3347
+D2
+~
+~
+0 0 3348
+S
+#3350
+A {wshaded{c path~
+The path hugs close to the edge of the valley.  The ground slopes up
+steeply to the south and east, and is heavly overgrown.  The path runs
+strong to the north and east.  Far off to the north, you can see the ground
+sloping back up again.  
+~
+0 0 2
+D0
+~
+~
+0 0 3351
+D1
+~
+~
+0 0 3347
+S
+#3351
+A fork in the path~
+The forest is very quiet here.  At first it is peaceful, but slowly the
+silence becomes a little oppresive.  No birds can be heard at all, and no
+forest creaturs can be seen.  It's like they all wish to stay away from this
+spot.  The path splits here, with the main route running north and south,
+with a wide side path leading off to the west.  To the north, the ground
+slopes up out of the valley.  
+~
+0 0 2
+D0
+~
+~
+0 0 3352
+D2
+~
+~
+0 0 3350
+D3
+~
+~
+0 0 3357
+S
+#3352
+Meadow's edge~
+Switching from a valley to almost a hill, you are able to scan out across
+the tree tops with ease.  Off to the southwest, you can see what looks like
+a stone tower rising above the tree tops.  As far as the path goes, it seems
+to have gone away.  Off to the east is a small medow, and back south is the
+path and the forest valley.  
+~
+0 4 2
+D1
+~
+~
+0 0 3353
+D2
+~
+~
+0 0 3351
+S
+#3353
+A meadow~
+A large meadow spreads out to the north and east.  Tall grasses wave
+slightly from the wind rolling off the mountains far to the north, with
+brilliant spots of colored wild flowers popping up here and there.  A great
+forest runs to the west and south, filled with mostly pines as near as you
+can tell.  The southern edge is densely overgrow, but a solid path leads into
+the western part of the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 3356
+D1
+~
+~
+0 0 3354
+D3
+~
+~
+0 0 3352
+S
+#3354
+A meadow~
+Tall grasses wave in the wind, with bright wild flowers popping up here
+and there to provide splashes of color.  To the south is a dense forest,
+making travel that way troublesome.  Progress to the east is halted by a
+raging river that flows down from the mountains to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 3355
+D3
+~
+~
+0 0 3353
+S
+#3355
+A meadow~
+The sounds of rushing water fills your ears as the mountain fed river
+rushes and carves its way through the meadow.  The meadow extends out to the
+west and south, its tall grasses waving slightly in the wind rolling off the
+northen mountains.  
+~
+0 0 0
+D2
+~
+~
+0 0 3902
+D3
+~
+~
+0 0 3356
+S
+#3356
+A meadow~
+A peacefull meadow stretches out to the east and south.  The green and
+brown grasses occasionaly give way to brightly colored wild flowers, and
+they all sway gently to the breeze from the northen mountains.  Further off
+to the south, you can see the start of a mighty forest.  
+~
+0 0 1
+D1
+~
+~
+0 0 3355
+D2
+~
+~
+0 0 3353
+S
+#3357
+A worn path~
+The compact trail winds through here as if made by a slithering snake on
+the forest floor.  Roots push out through the path every so often, making it
+somewhat difficult at times.  Tall, dark trees rise up into the air,
+spreading their branches and it's folliage to hide the sky from travellers
+passing through here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3351
+D3
+~
+~
+0 0 3358
+S
+#3358
+A worn path~
+The compact trail winds through here as if made by a slithering snake on
+the forest floor.  Roots push out through the path every so often, making it
+somewhat difficult at times.  Tall, dark trees rise up into the air,
+spreading their branches and it's folliage to hide the sky from travellers
+passing through here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3357
+D2
+~
+~
+0 0 3359
+S
+#3359
+A worn path~
+The compact trail winds through here as if made by a slithering snake on
+the forest floor.  Roots push out through the path every so often, making it
+somewhat difficult at times.  Tall, dark trees rise up into the air,
+spreading their branches and it's folliage to hide the sky from travellers
+passing through here.  
+~
+0 0 0
+D0
+~
+~
+0 0 3358
+D3
+~
+~
+0 0 3360
+S
+#3360
+A weathered stone wall~
+The stone wall here is a light grey color with large cracks in between
+the stones.  The mud like stuff that is used to hold it together is weather
+worn and small chunks missing.  The rocks used to make the wall are like a
+granite type.  Just before the gate to the north, a large crack within the 6
+foot high wall reveals what is behind.  A large tower, that by the details
+visible from here, was used in a battle.  
+~
+0 0 0
+D0
+~
+~
+0 0 3361
+D1
+~
+~
+0 0 3359
+S
+#3361
+Before the gate~
+A small breeze can be felt comeing from the west.  There is a large iron
+gate gate standing here some broken parts are laying on the ground apperntly
+fallen from the gate.  The stone wall that is on both sides of the gate is
+weathered smooth over time and is a light greyish color.  There are weeds
+gowing up inbetween the bars of the gate.  The gate seems to beable to still
+be opend from the looks of things.  
+~
+0 0 0
+D2
+~
+~
+0 0 3360
+D3
+~
+gate~
+1 0 3362
+S
+#3362
+The {wtower{c door.{x~
+The doors to the tower are a set of large wodden duoble doors with large
+iron door knockers in the center of each.  The design of the doors seem to
+sugest that they are very old.  The grey stone wround them is so worn and
+weathered, they are a smooth as glass.  There ar windows that circel the
+tower in a spiral shape and are going up the sides of the tower.  
+~
+0 0 0
+D1
+~
+~
+1 0 3361
+D3
+~
+~
+0 0 3363
+S
+#3363
+Just inside the tower door~
+Standing beside the door, inside of the tower.  Looking around, things
+can be seen scattered on the floor and hung on the wall.  A corpse, held on
+the wall by a spike, slowly decomposes as a unimaginable stench reigns the
+air, making everyone sick.  The floor is splattered with blood, and littered
+with various body parts.  Small patches of mold and mushrooms grow
+undisturbed within the cracks of the floor.  
+~
+0 8 0
+D1
+~
+~
+0 0 3362
+D3
+~
+~
+0 0 3364
+S
+#3364
+Before the stairs~
+Standing here is a set of stairs, which seem to work it's way up to the
+next floor.  It's made entirely of black and white marble.  The steps are
+covered in a dark crimson tone of blood.  The rails are glazed in it's own
+sinister glow of red.  Screams are heard through the halls of the entry way
+which lies to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 3363
+D4
+~
+~
+0 0 3365
+S
+#3365
+Entrance to the Second floor~
+Climbing up from the first floor, the blood trail continues to be the
+main attraction. Disfigured body parts are stren along the floors, and
+slumped against the walls.  Death and decay are the only comfort here.  To
+the east screams are can be heard as if muffled.  Leading south lies another
+sinister room.  Looking west an old study can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 3366
+D1
+~
+~
+0 0 3367
+D2
+~
+~
+0 0 3368
+D3
+~
+~
+0 0 3369
+D5
+~
+~
+0 0 3364
+S
+#3366
+An old storage room~
+This old storage room appears to have been barren for years.  The
+barrels of wine long since gone.  Not even a critter to be found amongst the
+broken crates of spoiled food.  This just continues to show that there has
+been no need of it for quite some time.  The walls are brittle with age,
+already starting to show signs of decay.  To the south lies the entry way.  
+~
+0 8 0
+D2
+~
+~
+0 0 3365
+S
+#3367
+The torture chamber~
+Entering this horrid chamber, the stench is thick enough to cut with a
+knife.  Though it can be cut with waving of the hand.  Multiple devices of
+pain are scattered throughout.  Bodies still dripping of blood are engaged
+in the torturing grasps of the stretcher, and the iron maiden copies.  A
+feeling of sickness passes over this room with relentless current.  Toward
+the west lies the exit to the entry way.  Along the east wall, it appears to
+look different than the rest.  
+~
+0 8 0
+D1
+~
+wall~
+1 0 3370
+D3
+~
+wall~
+0 0 3365
+S
+#3368
+A darkened room~
+This room seems like all the rest, riddled with that god awful stench of
+death, except there is no light to be found, but from that of the exit to
+the north.  Cracks along the southern wall can barely be seen in this damp
+and dark place.  And yet it's almost as if there is an erie presence
+watching the movements of the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 3365
+S
+#3369
+A forgotten study~
+The room is stuffy, with that of the old bookshelfs that line the walls. 
+The books themselves are dusty and tattered.  There is a window which can be
+seen out of and appears to be the only window on this floor.  There is a
+small desk with a skeletal carcass sitting in a old wooden chair.  The
+skeleton appears to have been here for quite some time, a protruding knife
+can be seen coming from his ribcage.  The thought of foul play comes to mind
+until you notice a letter of abandonment on the desk with the pen just out
+of his reach.  A small framed picture hangs above the desk, of what appears
+to be a brualized woman.  The exit is back toward the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 3365
+S
+#3370
+A dark passage behind the torture chamber~
+After finding the secret wall, this dark passage stretches toward the
+east.  The stench of death is even stronger than the room before this. 
+There's small puddles of dampness scattered throughout the floor.  The webs
+of spiders still remain intact as the passage is littered with their
+designs.  There seems to be an abundance of rat's in here.  Towards the east
+the passage continues.  
+~
+0 8 0
+D1
+~
+~
+0 0 3371
+D3
+~
+wall~
+1 0 3367
+S
+#3371
+A {Wskull {cstaircase{x~
+Riddled with cobwebs are these stairs, made out of what appears to be
+bones, of many different types of animals, and humans.  On the head of the
+railing a skull of a human is seen with a red glow in it's eye sockets.  The
+steps seem to be made largely out of thick femur bones, bound tightly almost
+as if fused together.  Looking up you see what appears to be another floor. 
+To the west is the exit back to the dark passage way.  
+~
+0 8 0
+D3
+~
+~
+0 0 3370
+D4
+~
+~
+0 0 3372
+S
+#3372
+Continuing up the {Wskull {cstaircase{x~
+Following the staircase, which seems to be winding up in a spiral. 
+Almost like traveling up inside a creature, the staircase continues to
+stretch up toward the sky, not sure of it's end.  The railling now looks a
+bit different than the start of the stairs.  There are two possible exits,
+heading up and that of heading back down.
+~
+0 8 0
+D4
+~
+~
+0 0 3373
+D5
+~
+~
+0 0 3371
+S
+#3373
+Top of the {Wskull {cstaircase{x~
+At last the gruesome deliverer is at an end, shrugging off the affects
+of its visage, there appears to be some sort of hallway to the north which
+yurns for exploration.  At first glance the hallway seems to be slightly
+tattered with the painting ripped, and hanging off center.  The floors are
+lined with a thick red carpet.  Upon closer inspection the carpet wasn't red
+by origin.  There is a wet layer of blood covering the entire floor.  Almost
+as if a bloodbath had occured here.  To the north lies the ruined hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 3374
+D5
+~
+~
+0 0 3372
+S
+#3374
+The ruined hallway~
+The hallway appears to have been defiled in all ways possible.  The
+statues which line the sides are broken and in dismay.  There are many
+pictures torn from their exsquisit boarders.  The carpet drenched in layers
+of blood.  There are a few body parts strung out along the floor.  At a
+quick glance there are heads, feet, arms and even legs.  This is by far the
+most gruesome scene encountered.  The to the north the hallway continues.  
+~
+0 8 0
+D0
+~
+~
+0 0 3375
+D2
+~
+~
+0 0 3373
+S
+#3375
+The ruined hallway~
+The hallway appears to have been defiled in all ways possible.  The
+statues which line the sides are broken and in dismay.  There are many
+pictures torn from their exsquisit boarders.  The carpet drenched in layers
+of blood.  There are a few body parts strung out along the floor.  At a
+quick glance there are heads, feet, arms and even legs.  This is by far the
+most gruesome scene encountered.  The to the north the hallway continues.  
+~
+0 8 0
+D0
+~
+~
+0 0 3376
+D2
+~
+~
+0 0 3374
+S
+#3376
+A turn in ruined hallway~
+Continuing along, there is a turn to the east.  The room looks no better
+than those before it.  Mostly just large cracks in the walls which house
+this hallway.  There isn't even a single area not destroyed in some manner. 
+The sight grows tiresome, as the hallway continues to the east and back
+toward the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 3378
+D2
+~
+~
+0 0 3375
+S
+#3377
+A dead end to the north~
+Continuing along, there is a turn to the east.  The room looks no better
+than those before it.  Mostly just large cracks in the walls which house
+this hallway.  There isn't even a single area not destroyed in some manner. 
+The sight grows tiresome, as the hallway continues to the east and back
+toward the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 3379
+D2
+~
+~
+0 0 3378
+S
+#3378
+A turn in the hallway~
+Almost as if to discourage those who would venture these hallways the
+path is blocked by yet another turn.  The antic of the maker of these halls
+much have been order to do this so as to ward off those attempting to sieze
+control.  There is something about this place, that is starting to become
+clear. The stench grows more putrid as the hallway continues to the north.
+~
+0 8 0
+D0
+~
+~
+0 0 3377
+D3
+~
+~
+0 0 3376
+S
+#3379
+Begining of a deteriorated staircase~
+The staircase is slowly falling apart.  The steps are old and made of
+old stones.  There's signs of structrural damage throughout it's length. 
+The rails are broken and in some parts missing.  There isn't much hope for
+this old beauty.  The stairs are the only means of accending.  
+~
+0 8 0
+D3
+~
+~
+0 0 3377
+D4
+~
+~
+0 0 3380
+S
+#3380
+Top of the deteriorated staircase~
+Now at the top of the shambled staircase, there is a strange breeze that
+can be felt.  There feels like there is a gaping hole somewhere allowing
+wind to travel freely through the area.  The walls are brittle and starting
+to fall apart.  There's not much more this place can take.  Moving on might
+be a good idea.  
+~
+0 8 0
+D0
+~
+~
+0 0 3381
+D5
+~
+~
+0 0 3379
+S
+#3381
+The entrance to the top floor~
+Upon entering the entrance to the room, the wind is ripping through the
+area, the source seems to be coming from the east, as hole is clear seen. 
+To the north you notice a checkin station.  And to the west the start of a
+crimson hallway.  There's not much here but a few weared down chairs which
+are set against the wall.  There are a few shields with swords crossing
+through them, hung on a neighboring wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 3386
+D1
+~
+~
+0 0 3383
+D2
+~
+~
+0 0 3380
+D3
+~
+~
+0 0 3382
+S
+#3382
+A {rcrimson{x {cpassage{x~
+The walls here are bathed in blood.  There are many different things
+scatter amongst the floor, soldier's armor with corpses still residing
+inside them.  A large spear seems to be the victims means of death.  There
+is a few torch stands hung on the walls missing their counter parts.  There
+seems to be a red glow emantating from the room as you walk through it.  
+~
+0 8 0
+D1
+~
+~
+0 0 3381
+D3
+~
+~
+0 0 3385
+S
+#3383
+A large gaping hole in the wall~
+There is a giant hole which is apparently due to the years of standing. 
+Only now the signs of age are showing true.  The opening of the hole is
+about 5 and half feet in diameter.  The edges of the hole itself are
+peculiar in design, they almost look like they were melted.  It stretches
+clear to the outside, looking down over the area.  To the east is the exit
+of the hole.  Back to the west is the entrance way.  
+~
+0 8 0
+D1
+~
+~
+0 0 3384
+D3
+~
+~
+0 0 3381
+S
+#3384
+Out side of the hole~
+As you peek outside of the hole there's a visible ledge, by which one
+may stand on.  As you look down you notice many different or rather yet
+similar markings.  This place must have been attacked by someone or
+something.  The wind rips around as it floods inside.  Looking out you can
+see the surrounding area of the tower.  A magnificent sight to be seen.  
+~
+0 0 0
+D3
+~
+~
+0 0 3383
+S
+#3385
+A {rcrimson{x {cpassage{x~
+Making your way down the passage, there are blast burns littering the
+walls.  As if a fierce struggle went on here.  The floors have many cracks
+and small holes in it.  The ceilings are not much better.  The ever present
+erie glow fills the passage more with each foot stepped.  There is a large
+pile of debris of what appears to have been a statue made of marble.  The
+pictures which once hung proudly on the wall now are laying about on the
+floor in ruin. The passage continues to the west and east.
+~
+0 8 0
+D1
+~
+~
+0 0 3382
+D3
+~
+~
+0 0 3387
+S
+#3386
+Guard post~
+Entering the room, you notice it as a guard station.  There is many a
+rack of armor and swords.  There's a small table with a clipboard on it,
+with what appears to be a duty roster and check in sheet.  Next to the door
+is cut out where the person would check in from.  Back towards the south
+lies the entrance way.  
+~
+0 8 0
+D2
+~
+~
+0 0 3381
+S
+#3387
+A {rcrimson{x {cpassage{x~
+Walking through the passage is growing even more grim.  There are even
+more blasts noticeable than that of the passage before it.  There are
+corpses lying against the wall and on the floor.  The walls are drenched in
+dry blood.  The floor is almost complete covered in remains.  There are
+pictures with their canvases halfway out of their frames, the statues now
+laying on their sides with their figures maimed.  The passage continues to
+the west and back to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 3385
+D3
+~
+~
+0 0 3388
+S
+#3388
+A turn in the passage~
+You come to a stop in the passage as it comes to a turn to the north. 
+The wall is riddle with small holes almost outlining a figure.  It looks
+like someone was used as target practice here.  As there is a corpse slumped
+to the ground beneath it.  There a few more corpses scatter along the floor,
+obviously they were the first to be attacked.  There the floor and ceiling
+tell a horrifying story of the events which took place here.  The passage
+continues to the north looking rather blood.  
+~
+0 8 0
+D0
+~
+~
+0 0 3389
+D1
+~
+~
+0 0 3387
+S
+#3389
+A {Rblood red {cpassage{x~
+Walking through this passage, you are appalled by what is seen.  There
+is blood everywhere, litterally everything is drentched in it.  The corpses
+still fresh with oozing wounds of defeat.  The walls are dripping with
+saturation of the bloodbath which took place.  The statues of ruin are now
+like a disgusting masterpiece of sorts.  To think of what happened here, had
+you come any sooner.  To the north the passage continues, and to the south
+back the way you came.  
+~
+0 8 0
+D0
+~
+~
+0 0 3390
+D2
+~
+~
+0 0 3388
+S
+#3390
+A {Rblood red {cpassage{x~
+There is no ends in sight for the massacre that continues to show it's
+presence.  The passage is covered in blood, the floor is no exception. 
+There are many corpses of those who were trying to guard the way.  The way
+is almost blocked by normal means from the bodies laying on top of eachother
+as if someone or a group of someone piled them up for show.  The path
+continues north and to back to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 3391
+D2
+~
+~
+0 0 3389
+S
+#3391
+A {Rblood red {cpassage{x~
+As you continue there is much of the same present of that of the room
+before it.  Except that the blood in this passage seems to have been dried,
+either by an intense raise in heat or by some other means.  The corpses are
+all black and burned beyond all recognition.  There must have been quite
+alot of power that swept through this area.  To the north the passage
+continues and back south.  
+~
+0 8 0
+D0
+~
+~
+0 0 3392
+D2
+~
+~
+0 0 3390
+S
+#3392
+A {Rblood red {cpassage{x~
+The walls are cracked and in need of repair.  The floors are filled with
+large holes and crevices.  There is no blood to be found, but the signs of a
+battle are definately here.  The once well kept passage now are in need of
+much care.  The pictures that once lined this passage are no more, all that
+remains is the outline of where they once hanged.  The pedistals of the
+statues are all but destroyed.  The passage continues north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 3393
+D2
+~
+~
+0 0 3391
+S
+#3393
+A turn in a {Rblood red {cpassage{x~
+You come to a turn in the path.  The walls and floor look much like the
+passage before it.  There are many blast marks lining the walls, floors and
+ceiling.  There is a strong smell of death near by.  There is a corpse with
+what appears to be a large blast through it's chest.  The torches on the
+wall are all but nothing, and the pictures are all but destroyed.  The path
+turn leads to the west, and back to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 3392
+D3
+~
+~
+0 0 3394
+S
+#3394
+Entrance way to the top~
+As you enter the room you notice it's the entrance to rest of the tower.
+There is a few corpses which lay about the walkway.  The torches are still
+lit, as though the struggle did not last long.  There are a few blast marks
+on the ceiling and floor, where the corpses reside.  The stautes and
+pictures remain intact.  The walls are not as damaged as those you have seen
+before it.  To the south the entrance lies.  Back to the east is the passage
+which brought you here.  
+~
+0 8 0
+D1
+~
+~
+0 0 3393
+D2
+~
+~
+0 0 3395
+S
+#3395
+A {Ygolden {cstaircase{x~
+Before you stands a golden staircase, which shall take you to the top of
+the tower.  It appears to be made out of gold, althought now it's a bit
+dusty and worn.  There are many chips and blast marks found along it.  There
+seems to have been a lot of fighting here as the teeth of some poor guard
+lay on the first few steps.  The corpse of the guard appears to have been
+drug up a few steps and set down with care.  As you look up the stairs, foot
+prints in blood can be seen.  To the north lies the way you came.  
+~
+0 8 0
+D0
+~
+~
+0 0 3394
+D4
+~
+~
+0 0 3396
+S
+#3396
+The top of the {Ygolden {cstaircase{x~
+The end of the great stairs, have left you at the top of the tower.  The
+bloody footprints appear to step toward the west and then stop.  The guard
+is laying over the railing with blood running down and out his mouth.  There
+are a few more bodies laying among the top of the steps.  To the west lies
+the last room.  Back down the stairs is the way you came.  
+~
+0 8 0
+D3
+~
+~
+1 0 3397
+D5
+~
+~
+0 0 3395
+S
+#3397
+The {Cthrone {croom of the tower{x~
+Upon entering this great big room the throne is the first thing you see. 
+It's huge and undeniably the most beautifully crafted furnishings in this
+place.  The back is covered with lots of jewels and the arm rests are that
+of gold and diamonds.  Just below the throne lies a few steps.  There are
+bodies laying everywhere in this huge room, many disfiguried and then some
+with just body parts.  There are huge pillar's which are spaced out equally
+throughout the huge throne room.  There is what appears to be a crown left
+at the foot of the steps of the throne, all but melted down with jewels
+laying inside a glob of melted gold.  Whatever happened here was not pretty.
+To the east lies the exit.  
+~
+0 8 0
+D1
+~
+~
+1 0 3396
+S
+#3398
+The Icy Beach~
+A huge sheet of ice stretches out for miles.  Bright lights flicker in
+the sky as gases rise from the earth into the sky.  The reflections off the
+ice are very bright, making it hard to see much.  
+~
+0 0 0
+D1
+~
+~
+0 0 3399
+D3
+~
+~
+0 0 3340
+S
+#3399
+The Icy Beach~
+A huge sheet of ice stretches out for miles.  Bright lights flicker in
+the sky as gases rise from the earth into the sky.  The reflections off the
+ice are very bright, making it hard to see much.  To the north, there is a
+trail of ice extending over the cold waters of the artic.  
+~
+0 0 0
+D0
+~
+~
+0 0 1900
+D3
+~
+~
+0 0 3398
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3361 3 1
+D 0 3362 1 1
+D 0 3367 1 1
+D 0 3370 3 1
+D 0 3396 3 1
+D 0 3397 1 1
+M 0 3315 1 3300 1 Load small green bush
+M 0 3300 1 3301 1 Load Getona
+M 0 3301 1 3302 1 Load A black rat
+M 0 3301 1 3302 1 Load A black rat
+M 0 3301 1 3302 1 Load A black rat
+M 0 3301 1 3303 1 Load A black rat
+M 0 3301 1 3303 1 Load A black rat
+M 0 3301 1 3303 1 Load A black rat
+M 0 3304 1 3304 1 Load Charsha
+M 0 3302 1 3304 1 Load Bosnia
+M 0 3303 1 3304 1 Load Droshnia
+M 0 3301 1 3305 1 Load A black rat
+M 0 3301 1 3305 1 Load A black rat
+M 0 3301 1 3305 1 Load A black rat
+M 0 3301 1 3305 1 Load A black rat
+M 0 3301 1 3305 1 Load A black rat
+M 0 3301 1 3305 1 Load A black rat
+M 0 3305 1 3310 1 Load Geaea
+M 0 3306 1 3315 1 Load A herd of deer
+M 0 3308 1 3317 1 Load a squirrel
+M 0 3313 2 3318 1 Load the forest gyre
+M 0 3308 1 3318 1 Load a squirrel
+M 0 3306 1 3318 1 Load A herd of deer
+M 0 3306 2 3319 1 Load A herd of deer
+M 0 3308 1 3320 1 Load a squirrel
+M 0 3313 2 3321 1 Load the forest gyre
+M 0 3308 1 3321 1 Load a squirrel
+M 0 3313 1 3325 1 Load the forest gyre
+M 0 3306 1 3325 1 Load A herd of deer
+M 0 3313 1 3326 1 Load the forest gyre
+M 0 3306 1 3326 1 Load A herd of deer
+O 0 4601 0 3342 A small brick wall loaded to A split in the path
+O 0 3901 0 3346 A puddle of water loaded to Thick brush
+M 0 3341 1 3354 1 Load A massive stegosaurus
+M 0 3341 2 3356 1 Load A massive stegosaurus
+M 0 3307 1 3363 1 Load A guard
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3301 1 3364 1 Load A black rat
+M 0 3309 2 3367 1 Load a ghost
+M 0 3311 3 3382 1 Load A {RCrimson{x Guard
+M 0 3314 1 3384 1 Load A large bat
+M 0 3311 3 3385 1 Load A {RCrimson{x Guard
+M 0 3310 3 3386 1 Load A {Ctower{x guard
+M 0 3311 3 3387 1 Load A {RCrimson{x Guard
+M 0 3311 3 3389 1 Load A {RCrimson{x Guard
+M 0 3311 3 3390 1 Load A {RCrimson{x Guard
+M 0 3311 1 3392 1 Load A {RCrimson{x Guard
+M 0 3311 1 3392 1 Load A {RCrimson{x Guard
+M 0 3311 1 3393 1 Load A {RCrimson{x Guard
+M 0 3311 1 3393 1 Load A {RCrimson{x Guard
+M 0 3312 3 3395 1 Load A royal crimson guard
+M 0 3312 3 3396 1 Load A royal crimson guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#3300
+say there are all kinds of things in here only the brave should proceed.
+~
+#3301
+say Hey, hows things
+mob echoat $n $I looks at you
+mob echoaround $n $I looks at $n
+~
+#3302
+mob echoat $q $I looks at you.
+mob echoaround $q $I looks at $q.
+mob echo $I whispers to Bosnia.
+~
+#3303
+nod $n
+~
+#3304
+say No toll no go...
+~
+#3305
+mob echo $I pulls a rope out of some leaves
+~
+#3306
+Emot watches you come in and surges with his power watching you.
+say I dont want to fight but will if I have to,
+emot gives a cold stare at $n
+mob remember $n
+mob delay 1
+~
+#3307
+mob echoaround $n $I ducks down low, charges forward, and head-butts $n!
+mob echoat $n $I rammed its head into your stomach!  That HURT.
+~
+#3308
+mob echoat $n $I stoops and dives at your head.
+mob echoaround $n $I stoops and dives at $s head.
+~
+#3309
+mob echoat $n $I jumps into the air and drops on you.
+mob echoaround $n $I jumps into the air and drops on $m.
+~
+#3310
+if race $n 'namek'
+say it isnt easy being green? well let me help you out
+emot uproots its self and heads for all the nameks close by
+mob remember $n
+mob delay 1
+else
+break
+endif
+~
+#3315
+if race $n 'namek'
+say it isnt easy being green? well let me help you out.
+emot uproots itself and heads for all the nameks close by.
+mob echoaround $n $I throws some leaves at $n.
+mob echoat $n $I throws some leaves at you.
+mob kill $n
+endif
+~
+#3341
+if hastarget $i
+mob echoat $q The beast snarls and growls at you.
+mob echoaround $q The $i snarls and growls at $q
+else
+emote lumbers around finding a new spot of grass to munch.
+endif
+~
+#3342
+emote raises its head, regarding you for a moment before returning to grazing.
+~
+#3343
+emote roars in rage at being disturbed from its grazing.
+~
+#3344
+mob echoat $n $i shifts its wait, and the massive spiked tail comes flying at you
+mob damage $n 1500 2000
+~
+#3398
+nod
+mob gainskill 'eye gouge' $q
+~
+#3399
+say If you dont hit me, I will teach you something.
+say Say ok, if you agree to my terms
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

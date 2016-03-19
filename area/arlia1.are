@@ -1,0 +1,636 @@
+#AREADATA
+Name Arlia~
+Builders Cypress~
+VNUMs 5500 5599
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#5500
+An Arlian Guard~
+An Arlian Guard~
+An Arlian Guard stands here, eyeing you.
+~
+~
+human~
+A T 0 0
+100000000 0
+50 50 10 50 50 
+100 100
+punch
+1 0 0 0
+FIK 0 0 0
+stand stand none 2000
+0 ABCDEFGHIJK large unknown
+F for AHMV
+#5501
+Arlian Shopkeeper~
+Arlian Shopkeeper~
+An Arlian Shopkeeper stands here, looking at you.
+~
+~
+human~
+AB 0 0 0
+1000 2
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 1000000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#5502
+Arlian Gate Guard~
+Arlian Gate Guard~
+One of the two Arlian Gate Guards is here, staring you down.
+~
+~
+human~
+A JTc 0 0
+2500000000000 158
+28 28 28 28 28 
+100 100
+punch
+1 1 1 1
+0 0 0 0
+stand stand male 1405
+0 ABCDEFGHIM giant unknown
+F for AHMV
+F par JK
+#0
+
+
+
+#OBJECTS
+#5500
+Healing Tank~
+healing Tank~
+A healing tank sits against the wall here.~
+unknown~
+-1
+furniture X 0
+DFGHIJ FHJKPQ FIL DEHJLMN DEHJLMN
+0 1000 10000000 P
+#5501
+A blue gi~
+{WA {BBlue {Wgi-shirt{x~
+{WA {BBlue {Wgi-shirt{x lies here.~
+cloth~
+100
+armor X AK
+BD BD BD BD 0
+0 2 1500 P
+#5502
+A pair of blue pants~
+{WA pair of {BBlue{W pants{x~
+{WA pair of {BBlue{W pants{x are lying here.~
+cloth~
+100
+armor X AF
+BD BD BD BD 0
+0 2 1500 P
+#5503
+a blue wristband~
+{WA {BBlue{W wristband{x~
+{WA {BBlue{W wristband{x is lying here.~
+cloth~
+100
+armor X AM
+AC AC AC AC 0
+0 5 1500 P
+#5504
+a cyan lensed scouter~
+{WA {CCyan Lensed{W Scouter{x~
+{WA {CCyan Lensed{W Scouter{x is lying here.~
+metal~
+1000
+jewelry Xa AS
+0 0 0 0 0
+50000000000000 1 50000 P
+#5505
+A pair of Blue boots with Golden outlining~
+{WA pair of {BBlue{W boots with {YGolden{W outlining{x~
+{WA pair of {BBlue{W boots with {YGolden{W outlining{x are lying here.~
+cloth~
+100
+armor X AG
+AC AC AC AC 0
+0 3 1500 P
+#5506
+an orange gi shirt~
+{WAn {yOrange {Wgi-shirt{x~
+{WAn {yOrange {Wgi-shirt{x lies here.~
+unknown~
+100
+armor X AD
+BD BD BD BD 0
+0 2 2000 P
+#5507
+A pair of white gloves~
+{WA pair of {wWhite{W gloves{x~
+Some {wwhite{x gloves are lying here.~
+unknown~
+1
+armor X AH
+AC AC AC AC 0
+0 0 0 P
+#5508
+A potara earring~
+{YA {yPotara {YEarring{x~
+A strange looking earring is lying here.~
+unknown~
+1
+jewelry X AT
+0 0 0 0 0
+0 0 0 P
+#5509
+a fully developed senzu bean~
+a fully-developed senzu bean~
+A green bean lies here.~
+unknown~
+1
+food 0 AO
+A A 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcde
+0 0 0 P
+#5510
+A leather sword sheath~
+a {yLeather{w-{DSword {ySheath{x~
+A leather sheath lies here.~
+Cloth~
+100
+container X AQ
+1000 0 0 200 200
+0 2 0 P
+#0
+
+
+
+#ROOMS
+#5500
+Arlian Docking Station~
+Small, white space pods line the walls here, some being brought onto the
+launcher, getting ready to launch.  There is one, slightly bigger ship here,
+with the word "Earth" written on it.  The dock is shaped in a dome form,
+with two openings, one for launching, and another for landing, on the soft
+mat on the right side of the dome.  
+~
+0 8 0
+D0
+~
+~
+0 0 5502
+D1
+~
+~
+0 0 5501
+S
+#5501
+Healing Tank Chamber~
+In this room, on the far wall is one, large healing tank.  The tank
+bubbles with a green-ish blue liquid, which is capable of healing battle
+wounds at a very high rate.  The room is made of a shiny metal, and shaped
+in a square.  
+~
+0 8 0
+D3
+~
+~
+0 0 5500
+S
+#5502
+A Small Hallway~
+This small hallway, which to the north leads out into the planet, and to
+the south leads to the docking bay is shaped in a dome kind of form.  There
+are two walls on either side of it, that leads up into a semi-circle.  
+~
+0 0 0
+D0
+~
+~
+0 0 5504
+D1
+~
+~
+0 0 5503
+D2
+~
+~
+0 0 5500
+S
+#5503
+A Shop~
+This is a very, very large shop, filled with many items, ranging from
+scouters to clothing.  The shelf on the left wall is stocked with some of
+the best scouters you can find, for the right price.  On the right shelf is
+various objects, and on the far wall is a rack of clothing.  On the far
+right corner, is a register, where you purchase your needs.  
+~
+0 8 0
+D3
+~
+~
+0 0 5502
+S
+#5504
+A Small Hallway~
+This small hallway, which to the north leads out into the planet, and to
+the south leads to the docking bay is shaped in a dome kind of form.  There
+are two walls on either side of it, that leads up into a semi-circle.  
+~
+0 8 0
+D0
+~
+~
+0 0 5505
+D2
+~
+~
+0 0 5502
+S
+#5505
+A Small Hallway~
+This small hallway, which to the north leads out into the planet, and to
+the south leads to the docking bay is shaped in a dome kind of form.  There
+are two walls on either side of it, that leads up into a semi-circle.  
+~
+0 8 0
+D0
+~
+~
+0 0 5506
+D2
+~
+~
+0 0 5504
+S
+#5506
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5509
+D1
+~
+~
+0 0 5507
+D2
+~
+~
+0 0 5505
+D3
+~
+~
+0 0 5508
+S
+#5507
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5510
+D3
+~
+~
+0 0 5506
+S
+#5508
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5511
+D1
+~
+~
+0 0 5506
+S
+#5509
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5512
+D1
+~
+~
+0 0 5510
+D2
+~
+~
+0 0 5506
+D3
+~
+~
+0 0 5511
+S
+#5510
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5513
+D2
+~
+~
+0 0 5507
+D3
+~
+~
+0 0 5509
+S
+#5511
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 5514
+D1
+~
+~
+0 0 5509
+D2
+~
+~
+0 0 5508
+S
+#5512
+Castle Path~
+The large field comes to a large path made of dirt.  To the north is the
+Arlian Castle, home of the Arlian King.  To the east, and west, the field
+continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 5515
+D1
+~
+~
+0 0 5513
+D2
+~
+~
+0 0 5509
+D3
+~
+~
+0 0 5514
+S
+#5513
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D2
+~
+~
+0 0 5510
+D3
+~
+~
+0 0 5512
+S
+#5514
+A Large Field~
+The grass in this field is very, very tall, it's hard to maneuver very well in it.  There are small creatures jumping about the field, and there is a small breeze in the air.
+~
+0 0 0
+D1
+~
+~
+0 0 5512
+D2
+~
+~
+0 0 5511
+S
+#5515
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5516
+D2
+~
+~
+0 0 5512
+S
+#5516
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D2
+~
+~
+0 0 5515
+D3
+~
+~
+0 0 5517
+S
+#5517
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5518
+D1
+~
+~
+0 0 5516
+S
+#5518
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D1
+~
+~
+0 0 5519
+D2
+~
+~
+0 0 5517
+S
+#5519
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D1
+~
+~
+0 0 5520
+D3
+~
+~
+0 0 5518
+S
+#5520
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5521
+D3
+~
+~
+0 0 5519
+S
+#5521
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D2
+~
+~
+0 0 5520
+D3
+~
+~
+0 0 5522
+S
+#5522
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5523
+D1
+~
+~
+0 0 5521
+S
+#5523
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5524
+D2
+~
+~
+0 0 5522
+S
+#5524
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5525
+D2
+~
+~
+0 0 5523
+S
+#5525
+Castle Path~
+The path to the Arlian Castle is a winding path, made of yellow dirt.  It is very long, and winds from east to west, "dodging" various objects like big stones, and trees.
+~
+0 0 0
+D0
+~
+~
+0 0 5526
+D2
+~
+~
+0 0 5524
+S
+#5526
+Castle Gates~
+A huge gate stands here, being guarded.  The gate is 40 feet high into the air, and has spikes at the top of it.  The gate is made of the hardest material known to Arlians.  There are two guards here, which are a force to be reckoned with.
+~
+0 0 0
+D2
+~
+~
+0 0 5525
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 5500 0 5501 Healing tank loaded to Healing Tank Chamber
+M 0 5500 2 5502 15 Load An Arlian Guard
+M 0 5501 1 5503 1 Load Arlian Shopkeeper
+O 0 5505 0 5503 {wa pair of {bblue{w boots with {ygolden{w outlining{x loaded to A Shop
+O 0 5504 0 5503 {wa {ccyan lensed{w scouter{x loaded to A Shop
+O 0 5503 0 5503 {wa {bblue{w wristband{x loaded to A Shop
+O 0 5502 0 5503 {wa pair of {bblue{w pants{x loaded to A Shop
+O 0 5501 0 5503 {wa {bblue {wgi-shirt{x loaded to A Shop
+M 0 5500 1 5504 2 Load An Arlian Guard
+M 0 5502 2 5526 2 Load Arlian Gate Guard
+S
+
+
+
+#SHOPS
+5501 0 0 0 0 0 110 60 0 23
+0
+
+
+
+#MOBPROGS
+#5500
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

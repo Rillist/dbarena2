@@ -1,0 +1,2304 @@
+#AREADATA
+Name Shizin~
+Builders Yoshi~
+VNUMs 2300 2399
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#2300
+black dragon~
+a giant dragon is here.~
+A huge and raging dragon is ready to fight
+~
+~
+dragon~
+AS JTV 1000 0
+6000000000 7745
+199 199 199 199 199 
+100 100
+punch
+0 0 0 0
+CH A BEH FI
+stand stand none 7514
+AH ACDEFGHIJKPQUVX huge unknown
+F for Z
+#2301
+krillin~
+krillin~
+Krillin is here.
+~
+~
+human~
+AR 0 0 0
+1000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2302
+krillin~
+krillin~
+Krillin is here
+~
+~
+human~
+A 0 0 0
+1000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2303
+Supream Kai~
+Supream Kai~
+The Supream Kai stands here.
+~
+~
+human~
+ABRS T 1000 0
+2000000000000 94280
+624 624 624 624 624 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 30919
+AHMV ABCDEFGHIJK large unknown
+M GRALL 2301 100~
+M BRIBE 2300 100000~
+#2304
+Kibito~
+Kabito~
+Kibito stands here guarding his master.
+~
+~
+human~
+ABRS T 1000 0
+500000000000 47140
+450 450 450 450 450 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 21863
+AHMV ABCDEFGHIJK large unknown
+#2333
+test mob~
+test mob~
+Test mob
+~
+~
+human~
+A B 0 0
+500 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 118
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2350
+Bio Android~
+Cell~
+Cell is here.
+~
+~
+bio-android~
+ARS Td 0 0
+250000000000 25000
+1 353 353 1 353 
+1 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 17677
+AHMV ABCDEFGHIJK large unknown
+#2351
+c~
+Shadow Monster~
+The Monster who hides in the Shadows is here looking.
+~
+~
+bio-android~
+AFRS HJTZc -1000 0
+1000000000000 100000
+560 560 560 560 560 
+100 -31072
+punch
+1000 1000 1000 1000
+0 0 0 0
+stand stand none 27000
+AHMV ABCDEFGHIJK large unknown
+#2352
+az~
+{bAzurik{x~
+{bAzurik{x, the Lore Apprentice is here.
+~
+~
+human~
+0 H 1000 0
+500000000000 70710
+480 480 480 480 480 
+100 100
+slash
+7071 7071 7071 7071
+0 0 0 0
+stand stand male 22704
+AHMV ABCDEFGHIJK large unknown
+#2398
+hedge green~
+a small green hedge~
+A small green hedge is here.
+~
+~
+human~
+AH 0 0 0
+300000000 1732
+125 125 125 125 125 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 3553
+AHMV ABCDEFGHIJK large unknown
+#2399
+butterfly~
+a butterfly~
+A little butterfly is flying softly.
+~
+~
+human~
+AH 0 0 0
+1000000000 1581
+88 88 88 88 88 
+100 100
+slash
+0 0 0 0
+0 0 0 0
+stand stand none 4445
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#2300
+crinco~
+rune Blade~
+A blade is here.~
+unknown~
+1000000
+weapon AB AN
+exotic 0 0 none 0
+500000 0 0 P
+#2301
+tree~
+{xA {gGreen{x Tree~
+{xA single {gtree{x stands here.~
+unknown~
+1
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+#2302
+Sword Z rprog2306~
+{xThe Legendary Z Sword~
+A sword is here wedged in the mountian top.~
+unknown~
+2147483647
+weapon JK ANP
+exotic 8 11 none 0
+0 1500 0 P
+#2303
+Bridge~
+bridge~
+A small wooden bridge is here.~
+unknown~
+1
+trash 0 P
+0 0 0 0 0
+0 0 0 P
+#2333
+answering~
+terracos answering machine~
+Terracos answering machine.~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#2342
+winded justice~
+{bW{wi{bn{wd{be{wd {bJustice~
+A winded justice lies here waiting for it owner to pick it up.~
+Saber~
+3298732
+armor GIX AN
+0 0 0 0 0
+387238782 0 2147483647 P
+#2343
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2360
+item~
+item~
+Item~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+A
+8 6
+#2398
+kai suit armor~
+a Suit of Kai Armor~
+A Suit of Kai Armor is here.~
+unknown~
+1
+armor KRX AD
+DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+1000000000 1 0 P
+#0
+
+
+
+#ROOMS
+#2300
+High Above the Check-In Station~
+Very high in the air, a planet can be seen in the far north.  All around
+nothing is seen but a bed of clouds flooding the horzion.  Far below is the
+Check-In Station and Snakeway can be seen in the distant west.  There is a
+drifting smell in the air, one that smells of pure rich power.  One would
+think the smell originates from the far planet of Shizin in the distant
+north.  
+~
+0 0 9
+D0
+~
+~
+0 0 2301
+S
+#2301
+Flying Towards A Planet~
+Flying towards the planet Shizin the smell of pure power gets greater and
+much thicker in the air.  The planet approachs at rapid speed, as it gets
+larger, a handful of much smaller planets can be seen floating around
+Shizin.  
+~
+0 0 9
+D0
+~
+~
+0 0 2303
+D2
+~
+~
+0 0 2300
+S
+#2302
+Entrance to the <San-Oni> Castle~
+~
+0 4 0
+S
+#2303
+Flying Towards A Planet~
+Flying towards the planet Shizin the smell of pure power gets greater and
+much thicker in the air.  The planet approachs at rapid speed, as it gets
+larger, a handful of much smaller planets can be seen floating around
+Shizin.  
+~
+0 0 9
+D0
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2301
+S
+#2304
+Flying Towards A Planet~
+Flying towards the planet Shizin the smell of pure power gets greater and
+much thicker in the air.  The planet approachs at rapid speed, as it gets
+larger, a handful of much smaller planets can be seen floating around
+Shizin.  
+~
+0 0 9
+D0
+~
+~
+0 0 2305
+D2
+~
+~
+0 0 2303
+S
+#2305
+Approachin the Planet Shizin~
+Approaching the planet the sky gets dark and changes to a dark shade of
+blue.  There is one large green planet in the center of many smaller planets
+orbiting it.  The large green planet is Planet Shizin and it is surrounded
+with a pure white aura.  The orbiting planets are a deep dark purple and are
+also surrounded with a much smaller white aura.  
+~
+0 0 9
+D0
+~
+~
+0 0 2306
+D2
+~
+~
+0 0 2304
+S
+#2306
+Flying Between the Planets~
+The planets surrounding Shizin are very mysterious in many ways.  A few
+sparkle as they are passed, others glow very brightly in no certian pattern.
+All of the planets are a deep dark purple except the planet Shizin.  Many
+trees and hills can be seen in the distance on the surface of Shizin.  It
+looks and feels very pure and sacred.  
+~
+0 0 3
+D0
+~
+~
+0 0 2307
+D2
+~
+~
+0 0 2305
+S
+#2307
+A Long Dirt Path~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  There is a long dirt path
+coming from the south and leading north of here.  
+~
+0 0 3
+D0
+~
+~
+0 0 2308
+D2
+~
+~
+0 0 2306
+D3
+~
+~
+0 0 2376
+S
+#2308
+A Flowing River~
+A mighty river flows in from the west and to the east here.  It is very
+swift moving and looks powerful enough to sweep even the best swimmer down
+stream going east of here.  Only someone that is flying can safely cross
+here, or if that person crosses the bridge leading over the river.  
+~
+0 0 3
+D0
+~
+~
+0 0 2309
+D1
+~
+~
+0 0 2329
+D2
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2325
+S
+#2309
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 3
+D0
+~
+~
+0 0 2310
+D1
+~
+~
+0 0 2373
+D2
+~
+~
+0 0 2308
+D3
+~
+~
+0 0 2374
+S
+#2310
+A Small Patch In the Plane~
+This is the only noticable spot in the planes where the landscape is
+different from the rest.  There is a small dirt patch here that breaks the
+grass line.  There is a small tree planted here, it provided some shade and
+a place to sleep under.  There is a large rock here in the south east part
+of the room, it looks like an idel spot for sitting.  In the distant north
+is a spiked mountian surrounded by a lake.  
+~
+0 0 1
+D0
+~
+~
+0 0 2311
+D1
+~
+~
+0 0 2339
+D2
+~
+~
+0 0 2309
+D3
+~
+~
+0 0 2320
+S
+#2311
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 1
+D0
+~
+~
+0 0 2312
+D1
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2310
+D3
+~
+~
+0 0 2348
+S
+#2312
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2313
+D1
+~
+~
+0 0 2354
+D2
+~
+~
+0 0 2311
+D3
+~
+~
+0 0 2349
+S
+#2313
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D0
+~
+~
+0 0 2314
+D1
+~
+~
+0 0 2355
+D2
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2350
+D5
+~
+~
+0 0 2389
+R ACT 2301 leaves~
+S
+#2314
+At the Base of the Mountian~
+Now at the base of the mountian, it is now clear how tail and massive it
+really is.  The mountian is shaped like a large skyscrapper and it towers
+hundreds of feet high over the ground.  There is a path of grass around the
+base and a small path leading up for one to scale its enormous flanks.  A
+small breeze drifts in and lightly blows the grass creating a rustling sound
+as the pieces of grass scratch together.  
+~
+0 0 0
+D0
+~
+~
+0 0 2387
+D1
+~
+~
+0 0 2363
+D2
+~
+~
+0 0 2313
+D3
+~
+~
+0 0 2351
+D4
+~
+~
+0 0 2315
+R ACT 2305 leaves~
+R RANDOM 2304 50~
+S
+#2315
+Climbing the Sacred Mountian~
+~
+0 0 0
+D4
+~
+~
+0 0 2316
+D5
+~
+~
+0 0 2314
+S
+#2316
+On Top the Mountian~
+~
+0 0 0
+D0
+~
+~
+0 0 2317
+D3
+~
+~
+0 0 2319
+D5
+~
+~
+0 0 2315
+S
+#2317
+On Top the Mountian~
+~
+0 0 0
+D2
+~
+~
+0 0 2316
+D3
+~
+~
+0 0 2318
+S
+#2318
+The Legendary Sword~
+~
+0 0 0
+D1
+~
+~
+0 0 2317
+D2
+~
+~
+0 0 2319
+S
+#2319
+On Top the Mountian~
+~
+0 0 0
+D0
+~
+~
+0 0 2318
+D1
+~
+~
+0 0 2316
+S
+#2320
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2348
+D1
+~
+~
+0 0 2310
+D2
+~
+~
+0 0 2374
+D3
+~
+~
+0 0 2321
+S
+#2321
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2347
+D1
+~
+~
+0 0 2320
+D2
+~
+~
+0 0 2372
+D3
+~
+~
+0 0 2322
+S
+#2322
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2341
+D1
+~
+~
+0 0 2321
+D2
+~
+~
+0 0 2367
+D3
+~
+~
+0 0 2323
+S
+#2323
+A Hill Overolooking the Mountian~
+From on top this hill, the mountians of which the Legendary Z Sword is
+sheathed can be seen in the distant north-east.  It is a large towering
+mountian surrounded by a lake of water.  On top of this hill, a small group
+of flowers grow.  The sounds of the river can be heard rushing down the
+waterfall nearby.  The hill looks like it overhangs the river in the south. 
+~
+0 0 0
+D1
+~
+~
+0 0 2322
+D2
+~
+~
+0 0 2324
+S
+#2324
+On Top Large Hill~
+~
+0 0 0
+D0
+~
+~
+0 0 2323
+D5
+~
+~
+0 0 2327
+S
+#2325
+A Flowing River~
+A mighty river flows in from the west and to the east of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream going east of here.  Only someone that is flying can safely
+cross here.  
+~
+0 0 0
+D1
+~
+~
+0 0 2308
+D3
+~
+~
+0 0 2326
+S
+#2326
+A Flowing River~
+A mighty river flows in from the west and to the east of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream going east of here.  Only someone that is flying can safely
+cross here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2374
+D1
+~
+~
+0 0 2325
+D3
+~
+~
+0 0 2327
+S
+#2327
+A Flowing River~
+A mighty river flows in from the west and to the east of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream going east of here.  Only someone that is flying can safely
+cross here.  Above this section of the river is the edge of a large hill
+that over looks the river's banks.  
+~
+0 0 0
+D0
+~
+~
+0 0 2372
+D1
+~
+~
+0 0 2326
+D3
+~
+~
+0 0 2328
+D4
+~
+~
+0 0 2324
+S
+#2328
+A Flowing River~
+A mighty river flows in from the west and to the east of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream going east of here.  Only someone that is flying can safely
+cross here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2367
+D1
+~
+~
+0 0 2327
+D2
+~
+~
+0 0 2369
+D3
+~
+~
+0 0 2340
+S
+#2329
+A Flowing River~
+A mighty river flows in from the west and to the east of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream going east of here.  Only someone that is flying can safely
+cross here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2373
+D1
+~
+~
+0 0 2330
+D2
+~
+~
+0 0 2380
+D3
+~
+~
+0 0 2308
+S
+#2330
+A Flowing River~
+A mighty river flows in from the west and to the north of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream going north of here.  Only someone that is flying can safely
+cross here.  There is a calm let out of the river leading east, it leads
+into a small cave.  
+~
+0 0 0
+D0
+~
+~
+0 0 2332
+D1
+~
+~
+0 0 2331
+D2
+~
+~
+0 0 2381
+D3
+~
+~
+0 0 2329
+S
+#2331
+Entrance to a Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 2368
+D3
+~
+~
+0 0 2330
+S
+#2332
+A Flowing River~
+A might river flows in from the south and to the north of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream north of here.  Only someone that is flying can safely cross
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2330
+S
+#2334
+A Flowing River~
+A might river flows in from the south and to the north of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream north of here.  Only someone that is flying can safely cross
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2332
+S
+#2335
+A Flowing River~
+A might river flows in from the south and to the north of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream north of here.  Only someone that is flying can safely cross
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2334
+S
+#2336
+A Flowing River~
+A might river flows in from the south and to the north of here.  It is
+very swift moving and looks powerful enough to sweep even the best swimmer
+down stream north of here.  Only someone that is flying can safely cross
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2362
+D2
+~
+~
+0 0 2335
+D3
+~
+~
+0 0 2337
+S
+#2337
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2359
+D1
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2338
+S
+#2338
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2358
+D1
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2375
+D3
+~
+~
+0 0 2339
+S
+#2339
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2353
+D1
+~
+~
+0 0 2338
+D2
+~
+~
+0 0 2373
+D3
+~
+~
+0 0 2310
+S
+#2340
+Beneath the Waterfall~
+The waterfall flows directly down on this room making it hard to see
+anything.  The bottom is made of sharp rocks that have been cut by the
+falling water making this a dangerous place to be.  
+~
+0 0 0
+D1
+~
+~
+0 0 2328
+D4
+~
+~
+0 0 2362
+S
+#2341
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2342
+D1
+~
+~
+0 0 2347
+D2
+~
+~
+0 0 2322
+D3
+~
+~
+0 0 2359
+S
+#2342
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2343
+D1
+~
+~
+0 0 2346
+D2
+~
+~
+0 0 2341
+D3
+~
+~
+0 0 2360
+S
+#2343
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2352
+D1
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2342
+D3
+~
+~
+0 0 2361
+S
+#2344
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2382
+D1
+~
+~
+0 0 2351
+D2
+~
+~
+0 0 2345
+D3
+~
+~
+0 0 2352
+S
+#2345
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2344
+D1
+~
+~
+0 0 2350
+D2
+~
+~
+0 0 2346
+D3
+~
+~
+0 0 2343
+S
+#2346
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2345
+D1
+~
+~
+0 0 2349
+D2
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2342
+S
+#2347
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2346
+D1
+~
+~
+0 0 2348
+D2
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2341
+S
+#2348
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2349
+D1
+~
+~
+0 0 2311
+D2
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2347
+S
+#2349
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2350
+D1
+~
+~
+0 0 2312
+D2
+~
+~
+0 0 2348
+D3
+~
+~
+0 0 2346
+S
+#2350
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D0
+~
+~
+0 0 2351
+D1
+~
+~
+0 0 2313
+D2
+~
+~
+0 0 2349
+D3
+~
+~
+0 0 2345
+S
+#2351
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D0
+~
+~
+0 0 2388
+D1
+~
+~
+0 0 2314
+D2
+~
+~
+0 0 2350
+D3
+~
+~
+0 0 2344
+S
+#2352
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2383
+D1
+~
+~
+0 0 2344
+D2
+~
+~
+0 0 2343
+D3
+~
+~
+0 0 2365
+S
+#2353
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2354
+D1
+~
+~
+0 0 2358
+D2
+~
+~
+0 0 2339
+D3
+~
+~
+0 0 2311
+S
+#2354
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2355
+D1
+~
+~
+0 0 2357
+D2
+~
+~
+0 0 2353
+D3
+~
+~
+0 0 2312
+S
+#2355
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D0
+~
+~
+0 0 2363
+D1
+~
+~
+0 0 2356
+D2
+~
+~
+0 0 2354
+D3
+~
+~
+0 0 2313
+S
+#2356
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2364
+D1
+~
+~
+0 0 2361
+D2
+~
+~
+0 0 2357
+D3
+~
+~
+0 0 2355
+S
+#2357
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2356
+D1
+~
+~
+0 0 2360
+D2
+~
+~
+0 0 2358
+D3
+~
+~
+0 0 2354
+S
+#2358
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2357
+D1
+~
+~
+0 0 2359
+D2
+~
+~
+0 0 2338
+D3
+~
+~
+0 0 2353
+S
+#2359
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2360
+D1
+~
+~
+0 0 2341
+D2
+~
+~
+0 0 2337
+D3
+~
+~
+0 0 2358
+S
+#2360
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2361
+D1
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2359
+D3
+~
+~
+0 0 2357
+S
+#2361
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2365
+D1
+~
+~
+0 0 2343
+D2
+~
+~
+0 0 2360
+D3
+~
+~
+0 0 2356
+S
+#2362
+On Top the Waterfall~
+Many rocks stick out of the water causing very powerful rapids.  Anyone
+that would try to swim over this would be swept off.  A white mist rises up
+from below where the falls meet the river.  In the distance a large mountian
+can be seen and also a small cave.  
+~
+0 0 0
+D2
+~
+~
+0 0 2336
+D5
+~
+~
+0 0 2340
+S
+#2363
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D0
+~
+~
+0 0 2386
+D1
+~
+~
+0 0 2364
+D2
+~
+~
+0 0 2355
+D3
+~
+~
+0 0 2314
+S
+#2364
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2385
+D1
+~
+~
+0 0 2365
+D2
+~
+~
+0 0 2356
+D3
+~
+~
+0 0 2363
+S
+#2365
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2384
+D1
+~
+~
+0 0 2352
+D2
+~
+~
+0 0 2361
+D3
+~
+~
+0 0 2364
+S
+#2366
+~
+~
+0 4 0
+S
+#2367
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2322
+D1
+~
+~
+0 0 2372
+D2
+~
+~
+0 0 2328
+S
+#2368
+Inside the Cave~
+~
+0 1 0
+D0
+~
+~
+0 0 2371
+D1
+~
+~
+0 0 2379
+D2
+~
+~
+0 0 2378
+D3
+~
+~
+0 0 2331
+S
+#2369
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2328
+D1
+~
+~
+0 0 2370
+S
+#2370
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D1
+~
+~
+0 0 2376
+D3
+~
+~
+0 0 2369
+S
+#2371
+A Small Bears Den~
+~
+0 5 0
+D2
+~
+~
+0 0 2368
+S
+#2372
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2321
+D1
+~
+~
+0 0 2374
+D2
+~
+~
+0 0 2327
+D3
+~
+~
+0 0 2367
+S
+#2373
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2339
+D1
+~
+~
+0 0 2375
+D2
+~
+~
+0 0 2329
+D3
+~
+~
+0 0 2309
+S
+#2374
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2320
+D1
+~
+~
+0 0 2309
+D2
+~
+~
+0 0 2326
+D3
+~
+~
+0 0 2372
+S
+#2375
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2338
+D1
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2373
+S
+#2376
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D1
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2370
+S
+#2377
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2337
+D3
+~
+~
+0 0 2375
+S
+#2378
+A Bright Fire~
+~
+0 0 0
+D0
+~
+~
+0 0 2368
+S
+#2379
+A Small Pond of Water~
+~
+0 0 0
+D3
+~
+~
+0 0 2368
+D5
+~
+~
+0 0 2390
+R ACT 2300 leaves~
+S
+#2380
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2329
+D1
+~
+~
+0 0 2381
+S
+#2381
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2330
+D3
+~
+~
+0 0 2380
+S
+#2382
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D1
+~
+~
+0 0 2388
+D2
+~
+~
+0 0 2344
+D3
+~
+~
+0 0 2383
+S
+#2383
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D1
+~
+~
+0 0 2382
+D2
+~
+~
+0 0 2352
+D3
+~
+~
+0 0 2384
+S
+#2384
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D1
+~
+~
+0 0 2383
+D2
+~
+~
+0 0 2365
+D3
+~
+~
+0 0 2385
+S
+#2385
+Shizin Planes~
+The planes are very healthy looking, they are rich with deep green grass
+and trees are grown in small patches in random places.  In the distance a
+small mountian range can be seen and a river also.  There are small hills
+and cliffs all over in the distant horzions.  
+~
+0 0 0
+D1
+~
+~
+0 0 2384
+D2
+~
+~
+0 0 2364
+D3
+~
+~
+0 0 2386
+S
+#2386
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D1
+~
+~
+0 0 2385
+D2
+~
+~
+0 0 2363
+D3
+~
+~
+0 0 2387
+S
+#2387
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D1
+~
+~
+0 0 2386
+D2
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2388
+S
+#2388
+A Small Lake~
+There is a small blue lake surrounding a very skinny mountian which
+stands in the center.  On top the mountian rests a legendary sword that no
+one has ever pulled out.  The sky here is a deep dark purple and the
+orbiting planets are closer in sight and easier on the eye.  
+~
+0 0 0
+D1
+~
+~
+0 0 2387
+D2
+~
+~
+0 0 2351
+D3
+~
+~
+0 0 2382
+S
+#2389
+Under the Surface of a Small Lake~
+~
+0 0 0
+D2
+~
+~
+0 0 2390
+D4
+~
+~
+0 0 2313
+R ACT 2303 leaves~
+S
+#2390
+Swimming Through a Small Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 2389
+D4
+~
+~
+0 0 2379
+R ACT 2302 leaves~
+S
+#2398
+The Lock-Up~
+The room is dark and only ones with a light shall see the horrible
+monster that waits their arrival.  That creature is the horrible Shadow
+Monster and he is VERY hungary.  
+ 
+ 
+{R Those who are bad are sent here to battle for their lives...{x
+ 
+~
+0 2629636 0
+R ACT 2398 knocked~
+S
+#2399
+{GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x~
+{x
+        {G  ___   ____
+        /' --;'/ ,-_\     {Y\ | /
+       {G/ / --{yo{G\ {yo{G-\ \\   {Y--(_)--
+       {G'`  ` {y|-|{G   `` '
+             {y|-|
+             |-|{mO
+             {y|-{m(\,__
+           {Y..{y|-|{m\--{M,\_{Y....
+      ,;;;;;;;;;;;;;;;;;;;;;;;;,.
+  ,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,
+ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,{x
+ 
+~
+0 3146764 0
+E
+sign~
+Things To Do.....
+ 
+Zierk's House
+Planet Arlia -
+Quest Area
+Help Files -
+Shuttle Prog -
+Spacepod Prog -
+Finish and link Shizin -
+~
+M -1 H -1
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 2303 0 2308 Bridge loaded to A Flowing River
+M 0 2303 1 2310 1 Load Supream Kai
+O 0 2301 0 2310 {xa {ggreen{x tree loaded to A Small Patch In the Plane
+E 0 2398 0 5 A suit of kai armor is loaded on the body of Supream Kai
+M 0 2304 1 2310 1 Load Kabito
+M 0 2399 10 2311 1 Load a butterfly
+M 0 2398 10 2312 1 Load a small green hedge
+M 0 2399 10 2317 1 Load a butterfly
+M 0 2398 10 2320 1 Load a small green hedge
+M 0 1700 10 2330 1 Load A Large blue fish
+M 0 1700 10 2335 1 Load A Large blue fish
+M 0 2399 10 2335 1 Load a butterfly
+M 0 2399 10 2341 1 Load a butterfly
+M 0 2398 10 2344 1 Load a small green hedge
+M 0 2399 10 2345 1 Load a butterfly
+M 0 3306 15 2348 1 Load A herd of deer
+M 0 2399 10 2359 1 Load a butterfly
+M 0 2398 10 2360 1 Load a small green hedge
+M 0 2399 10 2365 1 Load a butterfly
+M 0 2399 10 2367 1 Load a butterfly
+M 0 2398 10 2377 1 Load a small green hedge
+M 0 2398 10 2381 1 Load a small green hedge
+M 0 2399 10 2381 1 Load a butterfly
+M 0 2351 1 2398 1 Load Shadow Monster
+O 0 4698 0 2399 {xan {yi{ym{wm{xo{yr{yt{ya{yl {cc{co{wu{xc{ch {wo{xf {rl{ra{wz{xi{rn{re{ws{xs loaded to {GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x
+O 0 2504 0 2399 A fountain loaded to {GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x
+O 0 2301 0 2399 {xa {ggreen{x tree loaded to {GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#2300
+emote nods, "{GAs you wish...{x"
+mob gainskill 'spirit bomb' $q
+~
+#2301
+look $n
+say I see you have come in search of a much more advanced technique. For 100,000 zenni, I can teach you the ultimate energy attack, a skill I like to call... 'The Spirit Bomb'.
+~
+#2345
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#2300
+Room Echoaround $n $n takes a deep breath and jumps into the pond.
+~
+#2301
+Room Echoaround $n $n takes a deep breath and jumps into the Small Lake.
+~
+#2302
+Room Echoaround $n $n swims hard and breaks the surface of the Small Pond.
+~
+#2303
+Room Echoaround $n $n swims hard and breaks the surface of the Small Lake.
+~
+#2304
+Room Echo A small breeze passes through the area.
+~
+#2305
+Room Echoaround $n $n grabs the side of the mountian and begins to climb up.
+~
+#2306
+~
+#2398
+Room Purge
+~
+#2399
+Room transfer $n 3615
+~
+#0
+
+#$

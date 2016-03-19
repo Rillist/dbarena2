@@ -1,0 +1,2373 @@
+#AREADATA
+Name South city~
+Builders Tholetho~
+VNUMs 2500 2599
+Credits South City~
+Security 3
+End
+
+
+
+#MOBILES
+#2500
+Bartender~
+The bartender~
+The bartender serves up drinks.
+~
+The bartender is a regular human male.  He wears a black tuxedo with a
+blsck top hat.  
+~
+human~
+ABG 0 350 0
+500 4
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 2500 100~
+#2501
+android~
+The large android~
+A large android is here taking zenni and letting folks into the rave.
+~
+~
+human~
+ABG 0 0 0
+1000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 2503 100~
+#2502
+music special~
+The bartender~
+The bartender serves up drinks to customers.
+~
+~
+human~
+ABG 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2503
+dj~
+The DJ~
+The DJ is here mixin a sweet track.
+~
+~
+human~
+ABGS 0 0 0
+200000 111
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 75
+AHMV ABCDEFGHIJK medium unknown
+#2504
+Dancer~
+A dancer~
+A dancer gets down and jiggy
+~
+~
+human~
+AG 0 0 0
+150000 96
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 75
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2505
+trainer~
+A personal trainer~
+A personal trainer stands here waiting to train someone.
+~
+~
+human~
+ABJ 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2506
+young lady~
+A young lady~
+A lovely young lady stands here waiting for business.
+~
+~
+human~
+A 0 0 0
+2000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2512
+Saiya-man~
+Saiya-man~
+The Great Saiya-man is here fighting crime.
+~
+~
+half-breed~
+AS 0 1000 0
+25000000000 0
+100 100 100 100 100 
+100 100
+none
+0 0 0 0
+DFHIP EKZ O 0
+stand stand male 1200
+ACHV ABCDEFGHIJK large unknown
+F for M
+M GREET 2512 100~
+#2513
+Greeter~
+Hotel greeter~
+The Hotel greeter stands here, welcoming people into the hotel with a smile.
+~
+~
+human~
+ABS 0 0 0
+150000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 EFGO 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 2513 100~
+#2514
+no name~
+Receptionist~
+The receptionist is waiting to hand out room keys.
+~
+~
+human~
+AB 0 0 0
+750 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 E 0 0
+stand stand none 50
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 2514 100~
+#2515
+stout male~
+A stout male~
+A stout male stands here watching over his store.
+~
+~
+human~
+AB 0 0 0
+50000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 50000
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2524
+no name~
+hostess~
+A hostess is here.
+~
+~
+human~
+AB 0 0 0
+150000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 E 0 0
+stand stand none 150
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 2524 100~
+#2525
+business woman~
+A business woman~
+A business woman is here rushing down the street.
+~
+~
+human~
+A 0 0 0
+2000 0
+8 12 15 9 11 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK large unknown
+#2526
+woman muscular~
+A muscular woman~
+A muscular looking woman stands here waiting for you to make a decision.
+~
+~
+human~
+AB 0 0 0
+1000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 E 0 0
+stand stand female 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2527
+speed bag~
+A speed bag~
+A speed bag is hanging here.
+~
+~
+human~
+A 0 0 0
+500000000000 0
+0 0 0 0 0 
+5000 5000
+none
+0 0 0 0
+C 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2584
+{BA Capsule Corp Scientist~
+A Scientist running back and foward.~
+A Scientist running back and foward.
+~
+~
+human~
+ABa 0 0 0
+3000000 173
+80 80 80 80 80 
+100 100
+punch
+0 0 0 0
+0 DKZ 0 H
+stand stand male 1123
+M A medium unknown
+F for AHV
+F par BCDEFGHIJK
+#2599
+An old man~
+An old man~
+An Old man Sits here quietly.
+~
+~
+human~
+ABa 0 0 0
+200000 44
+70 70 70 70 70 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 570
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#2500
+blue lensed saiyan scouter~
+a clear blue scouter~
+A cold scouter made of clear, blue ice~
+blue ice~
+1
+armor Xa AS
+BEF BEF BEF BEF 0
+500000000000 0 0 P
+#2501
+felt cap~
+a felt cap~
+A felt cap lies here.~
+unknown~
+100
+armor 0 AE
+AC AC AC AC 0
+10000 1 1000 P
+#2502
+meal large~
+a large meal~
+A large meal sits here rotting.~
+unknown~
+1
+food 0 A
+CE CE 0 0 BEF
+0 0 30 P
+#2503
+purse~
+a leather purse~
+A leather purse lies here unattended to.~
+leather~
+100
+container 0 AO
+75 A 0 0 0
+0 2 1000 P
+#2504
+fountain~
+a fountain~
+A {Wg{wl{Wi{wt{Wt{we{Wr{wi{Wn{wg {bf{Bo{bu{Bn{bt{Ba{bi{Bn{w made of beautiful {Bm{ba{Br{bb{Bl{be{w.~
+unknown~
+1
+fountain 0 0
+10000 10000 'water' 0 0
+0 0 0 P
+#2505
+pathway narrow~
+a narrow pathway~
+A narrow pathway to the south.~
+stone~
+1
+portal O 0
+0 0 0 AEJL 0
+0 0 0 P
+#2506
+narrow pathway~
+a narrow pathway~
+A narrow pathway to the south.~
+stone~
+1
+portal 0 0
+0 0 0 CEJL 0
+0 0 0 P
+#2507
+narrow pathway~
+a narrow pathway~
+A narrow pathway to the north.~
+stone~
+1
+portal 0 0
+0 0 0 EJL 0
+0 0 0 P
+#2508
+narrow pathway~
+a narrow pathway~
+A narrow pathway to the north.~
+stone~
+1
+portal O 0
+0 0 0 BDJL 0
+0 0 0 P
+#2509
+narrow pathway~
+a narrow pathway~
+A narrow pathway leading north.~
+unknown~
+1
+portal O 0
+0 0 0 ABCDFGHIL 0
+0 0 0 P
+#2510
+narrow pathway~
+a narrow pathway~
+A narrow pathway leading south.~
+unknown~
+1
+portal O 0
+0 0 0 BCDEFGHIL 0
+0 0 0 P
+#2511
+narrow pathway~
+a narrow pathway~
+A narrow pathway leading south.~
+unknown~
+1
+portal O 0
+0 0 0 DEFGHIL 0
+0 0 0 P
+#2512
+narrow pathway~
+a narrow pathway~
+A narrow pathway leading north.~
+unknown~
+1
+portal O 0
+0 0 0 ABDFGHIL 0
+0 0 0 P
+#2513
+rusty knife~
+a rusty knife~
+A rusty looking knife lies here.~
+unknown~
+50
+weapon 0 AN
+dagger 0 0 pierce 0
+0 1 100 P
+#2514
+Z sword legendary~
+the legendary Z sword~
+The legendary Z sword lies here embeded into the ground.~
+unknown~
+200
+weapon 0 AN
+sword 0 0 slash 0
+0 3000 0 P
+#2515
+saiya-man suit~
+a saiya-man suit~
+A green saiya-man suit lies here.~
+unknown~
+200
+armor B AD
+ABDG CFG ABDG BCEH 0
+1000000000 2 200000 P
+#2516
+helmet saiya-man~
+a saiya-man helmet~
+A shiny green helmet lies here.~
+unknown~
+100
+armor 0 AE
+0 BEF 0 ABDG 0
+0 10 50000 P
+#2517
+saiya-man cape cloth pile~
+a saiya-man cape~
+A pile of cloth lies here~
+unknown~
+100
+armor 0 AK
+ADE ADE ADE BEF 0
+0 15 75000 P
+#2518
+saiya-man gloves~
+a pair of saiya-man gloves~
+A set of black gloves lie here.~
+unknown~
+100
+armor 0 AH
+AC AC BD CE 0
+0 2 25000 P
+#2519
+saiya-man boots~
+a pair of saiya-man boots~
+A shiny black pair of boots lie here.~
+unknown~
+100000
+armor 0 AG
+AC AC AC AC 0
+0 10 30000 P
+#2520
+capsule food~
+a food capsule~
+A food capsule lies here.~
+unknown~
+50
+treasure PU AO
+0 0 0 0 0
+0 1 1000 P
+O DROP 2520 capsule food~
+#2521
+zenni~
+zenni~
+A pile of coins lie here.~
+unknown~
+1
+money 0 A
+IKNOQSTWXYabc 0 0 0 0
+0 1 0 P
+#2590
+{y A broken Lampost{x~
+a yellow lampost stands he're crooked, it's body barely supporting it, it looks as if it could fall any moment.~
+{y A broken Lampost{x~
+steel~
+1
+light AB 0
+0 0 0 0 0
+0 9999 0 B
+#2592
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#2595
+a White jumper suit~
+a White jumper suit.~
+A White Jumper suit.~
+unknown~
+40
+armor AV AD
+0 CFG 0 0 0
+10 15 100 P
+#2596
+A floating yellow orb of light.~
+{YA {yf{Yl{yo{Ya{yt{Yi{yn{Yg {yy{Ye{yl{Yl{yo{Yw {yo{Yr{yb {Yo{yf {Yl{yi{Yg{yh{Yt.{x~
+{YA {yf{Yl{yo{Ya{yt{Yi{yn{Yg {yy{Ye{yl{Yl{yo{Yw {yo{Yr{yb {Yo{yf {Yl{yi{Yg{yh{Yt.{x Floats here.~
+Pure Light~
+100
+light AB AQ
+0 0 ABCFGHIJ 0 0
+1000 1 2000 P
+#2597
+A Monkey's golden tailring~
+{YA {YG{yo{Yl{yd{Ye{yn {WT{Ya{Wi{Yl{Wr{Yi{Wn{Yg{x~
+{YA {WM{Yo{Wn{Yk{We{Yy{W's {YG{yo{Yl{yd{Ye{yn {WT{Ya{Wi{Yl{Wr{Yi{Wn{Yg lays here.{x~
+unknown~
+100
+armor I AR
+BDEG DF BCG ACEG 0
+200000 20 6000 P
+#2598
+Bulma's Armor~
+bulmas armor~
+(no description)~
+unknown~
+1
+armor 0 AD
+FJKLO FJKLO FJKLO FJKLO 0
+0 0 0 P
+#2599
+Saiya-jin broad sword~
+{bSaiya-jin {YBroad {cSword{x~
+A large iron sword lies here~
+unknown~
+100
+weapon X AN
+sword 0 0 slash D
+100000 15 10000 P
+#0
+
+
+
+#ROOMS
+#2500
+The Plaza~
+The large plaza of South City gleams with a cleanliness not found in most
+places.  Many people gather here around the pleasant looking fountain.  To
+the east there is a small sign that says, "This way to the rave of a
+lifetime."  Eastwards there is a music lounge and a bar for tourists.  
+~
+0 4 1
+D0
+~
+~
+0 0 4821
+D1
+~
+~
+0 0 2501
+D2
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2503
+S
+#2501
+Music Bar and Lounge~
+The Music Lounge is the tourist spot of South City.  It is filled with
+many trinkets and souvineers to purchase.  The Lounge is seperated into two
+adjoining parts.  One part is the bar for the adults to gossip at.  The
+other is the lounge where people can relax and listen to soothing music.  
+~
+0 0 0
+D1
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2527
+D3
+~
+~
+0 0 2500
+S
+#2502
+Music Bar~
+The Bar is the new addition to the Music Lounge.  People loved the lounge
+so much they wanted more added.  The bar is filled with pictures and posters
+of famous singers and band members.  The bar is lined with leather topped
+stools that look very comforting.  The bartender is a swell looking guy who
+greets all his customers with a smile.  
+~
+0 0 0
+D3
+~
+~
+0 0 2501
+S
+#2503
+Entrance to the Rave~
+The lobby to the Star Light club is lit up with porthole lighting.  A
+door leads into the main club but it is guarded by a mean looking bouncer. 
+A small alcove holds a desk where a hip looking man stands taking down names
+for members of the club.  Loud techno music can be heard booming from behind
+the leather covered doors.  
+~
+0 1024 0
+D1
+~
+~
+0 0 2500
+S
+#2504
+Dance room~
+The dance room is dark with neon lights lining the walls.  Many black
+lights hang from the ceiling casting a strange glow on light clothing and
+other items.  Several speakers hang from the corners of the room emitting
+deafening techno dance music.  A large strobe light blinks violently making
+the room stand still.  In one corner a DJ spins the tracks.  The exit is to
+the east, although why would anyone that got in want to leave?  
+~
+0 4 0
+D0
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2507
+S
+#2505
+Dance room~
+The dance room is dark with neon lights lining the walls.  Many black
+lights hang from the ceiling casting a strange glow on light clothing and
+other items.  Several speakers hang from the corners of the room emitting
+deafening techno dance music.  A large strobe light blinks violently making
+the room stand still.  In one corner a DJ spins the tracks.  
+~
+0 0 0
+D2
+~
+~
+0 0 2504
+D3
+~
+~
+0 0 2506
+D5
+~
+~
+0 0 2588
+S
+#2506
+Dance room~
+The dance room is dark with neon lights lining the walls.  Many black
+lights hang from the ceiling casting a strange glow on light clothing and
+other items.  Several speakers hang from the corners of the room emitting
+deafening techno dance music.  A large strobe light blinks violently making
+the room stand still.  In one corner a DJ spins the tracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 2505
+D2
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2587
+S
+#2507
+Dance room~
+The dance room is dark with neon lights lining the walls.  Many black
+lights hang from the ceiling casting a strange glow on light clothing and
+other items.  Several speakers hang from the corners of the room emitting
+deafening techno dance music.  A large strobe light blinks violently making
+the room stand still.  In one corner a DJ spins the tracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 2506
+D1
+~
+~
+0 0 2504
+D3
+~
+~
+0 0 2508
+S
+#2508
+DJ's booth~
+The DJ's booth is not very big but it contains all the things a DJ would
+need.  It seems to be made of sturdy wood covered in black velvet.  A large
+glassles window gives a view of the dance floor and the people on it.  A
+mini-fridge sits in one corner offering the DJ a cool beverage.  A machine
+for playing the music sits on a table which blends in with the rest of the
+booth.  
+~
+0 0 0
+D1
+~
+~
+0 0 2507
+S
+#2509
+North Central Road~
+In the distance to the south you can spot Capsule Corporation's dome
+building.  People are rushing down the streets going to work.  Tall
+buildings on the west and east sides of the street with little space between
+each one.  To the north is a large android on the west side of the street
+and the entrance to the music bar and lounge on the east side of the street.
+~
+0 0 1
+D0
+~
+~
+0 0 2500
+D2
+~
+~
+0 0 2510
+S
+#2510
+North Central Road~
+Central road is the main road of South City.  It travels along the north
+and south axis of the city.  Shopping centers line the sides of the street
+offering a variety of wares for traveling tourists.  A few necesitty shops
+are placed along the road for the residents of the city.  Every once in a
+while a plane from the airport roars by overhead.  
+~
+0 0 1
+D0
+~
+~
+0 0 2509
+D2
+~
+~
+0 0 2511
+S
+#2511
+North Central Road~
+Central road is the main road of South city.  It travels along the north
+and south axis of the city.  Shopping centers line the sides of the street
+offering a variety of wares for traveling tourists.  A few necessity shops
+are placed placed along the road for the residents of the city.  Every once
+in a while a plane from the airport roars by overhead.  To the south, the
+infamous Capsule Corporation building stands tall, positioned right in the
+middle of South City.  
+~
+0 0 1
+D0
+~
+~
+0 0 2510
+D2
+~
+~
+0 0 2528
+S
+#2512
+Universal hotel courtyard~
+The courtyard area of the Universal Hotel is very elegant.  Tropical
+trees and shrubbery grow in very well kept patches along the driveway.  Up
+at the doors, men in suits greet and open the glass doors for guests.  Limos
+line the driveway waiting to drop their passengers off to rest and relax at
+the hotel.  
+~
+0 0 0
+D1
+~
+~
+0 0 2513
+D3
+~
+~
+0 0 2566
+S
+#2513
+Under the archway~
+At the entranceway, the air is much cooler from the shade offered by the
+archway.  White marble pillars hold the arch up while banners hang across
+them, advertising the hotel.  The doors are made of strong glass lined with
+gold sidings.  The ground is littered with silver and gold sparkles that
+shine in the light.  
+~
+0 0 1
+D1
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2512
+S
+#2514
+The lobby~
+The lobby is a peaceful yet luxurious space filled with the essence of
+roses.  A few bellboys run about loading and unloading luggage.  A hyper
+receptionist runs about behind her desk with wide frantic eyes.  A few
+people sit in chairs chatting and laughing, or reading the daily paper while
+waiting for their rooms to be ready.  The sound of chitter chatter comes
+from the restaurant to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2515
+D2
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2513
+S
+#2515
+Hallway~
+The hallway stretches a ways with doors on each side.  Each door has a
+gold plated number hanging on it.  A blue carpet stretches the length of the
+hallway leaving a bit of polished wood visible on the sides.  
+~
+0 0 0
+D0
+~
+~
+0 0 2516
+D1
+~
+~
+0 0 2522
+D2
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2523
+S
+#2516
+Hallway~
+The hallway stretches a ways with doors on each side.  Each door has a
+gold plated number hanging on it.  A blue carpet stretches the length of the
+hallway leaving a bit of polished wood visible on the sides.  
+~
+0 0 0
+D0
+~
+~
+0 0 2517
+D1
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2521
+S
+#2517
+Hallway~
+The hallway stretches a ways with doors on each side.  Each door has a
+gold plated number hanging on it.  A blue carpet stretches the length of the
+hallway leaving a bit of polished wood visible on the sides.  
+~
+0 0 0
+D1
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2516
+D3
+~
+~
+0 0 2519
+S
+#2518
+A room~
+This small room is mainly for resting and healing ones wounds.  The air
+smells like spring air and ammonia.  A large king sized bed made for 2 is
+placed against a wall.  A french window gives a view of South City.  
+~
+0 0 0
+D3
+~
+~
+0 0 2517
+M 500 H 500
+S
+#2519
+A room~
+This small room is mainly for resting and healing ones wounds.  The air
+smells like spring air and ammonia.  A large king sized bed made for 2 is
+placed against a wall.  A french window gives a view of South City.  
+~
+0 0 0
+D1
+~
+~
+0 0 2517
+M 500 H 500
+S
+#2520
+A room~
+This small room is mainly for resting and healing ones wounds.  The air
+smells like spring air and ammonia.  A large king sized bed made for 2 is
+placed against a wall.  A french window gives a view of South City.  
+~
+0 0 0
+D3
+~
+~
+0 0 2516
+M 500 H 500
+S
+#2521
+A room~
+This small room is mainly for resting and healing ones wounds.  The air
+smells like spring air and ammonia.  A large king sized bed made for 2 is
+placed against a wall.  A french window gives a view of South City.  
+~
+0 0 0
+D1
+~
+~
+0 0 2516
+M 500 H 500
+S
+#2522
+A room~
+This small room is mainly for resting and healing ones wounds.  The air
+smells like spring air and ammonia.  A large king sized bed made for 2 is
+placed against a wall.  A french window gives a view of South City.  
+~
+0 0 0
+D3
+~
+~
+0 0 2515
+M 500 H 500
+S
+#2523
+A room~
+This small room is mainly for resting and healing ones wounds.  The air
+smells like spring air and ammonia.  A large king sized bed made for 2 is
+placed against a wall.  A french window gives a view of South City.  
+~
+0 0 0
+D1
+~
+~
+0 0 2515
+M 500 H 500
+S
+#2524
+The Hotel Restaurant~
+The restaurant is filled with laughter as customers chat amongst
+themselves.  Some are here waiting for rooms while others are here for the
+award-winning food.  Various strange plants and decor give the restaurant an
+upbeat ambiance.  A hostess is here, welcoming customers into the restaurant
+with a big smile.  What is with everyone and smiling around here?  
+~
+0 4 0
+D0
+~
+~
+0 0 2514
+S
+#2525
+Entering South city~
+A short blacktop road leads south into the famous South City.  Cars buzz
+by in and out of the city on the main road.  Youngsters play on the
+outskirts of the city enjoying the open air.  Trees line the road making a
+tropical look for interested tourists.  
+~
+0 4 1
+D2
+~
+~
+0 0 2500
+S
+#2526
+Weapon depot~
+All around the store there are many weapons, such as swords and knives,
+hanging from the wall.  To the west side of the shop stands a counter with
+many more weapons in it.  Behind the counter stands a muscular looking woman.
+~
+0 1024 0
+D1
+~
+~
+0 0 2547
+S
+#2527
+Music Lounge~
+The lounge of the Music bar is dimly lite.  Soft jazz music is playing,
+giving the room a dark and eerie feel to it.  People sit at booths and on
+cusions on the floor, chatting with one another about various topics.  
+~
+0 0 0
+D0
+~
+~
+0 0 2501
+S
+#2528
+Nearing {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+Directly to the south is the walkway leading into {YC{ya{Yp{ys{Yu{yl{Ye
+{yC{Yo{yr{Yp{w.  The street splits here leading east and west around
+{YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{w.  Buildings align the streets going around
+{YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{w.  Cars zoom down the streets wrecklessly almost
+hitting one another.
+~
+0 0 1
+D0
+~
+~
+0 0 2511
+D1
+~
+~
+0 0 2537
+D2
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2531
+S
+#2529
+Walkway to {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the south is the entrance to {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{w. On each side of the
+walkway leading south there are big beautiful gardens.  To the north
+leads back to the streets of the city with people rushing in every
+direction.
+~
+0 0 1
+D0
+~
+~
+0 0 2528
+D2
+~
+~
+0 0 2530
+S
+#2530
+{YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+Inside there are many items around the room here.  On the left side of
+the room there are many capsules behind a glass case.  The right side of the
+room is covered in displays of what the capsules do.  In the back of the
+room there is a counter with a cashier waiting for business.  Behind her is
+a door that seems to lead in the back room of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{w.
+~
+0 0 0
+D0
+~
+~
+0 0 2529
+S
+#2531
+Northwest of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the north and west of here stand large buildings that hang over
+intersecting streets.  Southeast you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads around {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w
+~
+0 0 1
+D1
+~
+~
+0 0 2528
+D2
+~
+~
+0 0 2532
+S
+#2532
+West of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the north and south of here stand large buildings that hang over
+intersecting streets.  East you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads around {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w
+~
+0 0 1
+D0
+~
+~
+0 0 2531
+D2
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2542
+S
+#2533
+Southwest of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the west and south of here stand large buildings that hang over
+intersecting streets.  Northeast you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads around {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w
+~
+0 0 1
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2534
+S
+#2534
+South of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the west and east of here stand large buildings that hang over
+intersecting streets.  North you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  South is South Central Road.
+~
+0 0 1
+D1
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2565
+D3
+~
+~
+0 0 2533
+S
+#2535
+Southeast of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the east and south of here stand large buildings that hang over
+intersecting streets.  Northwest you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads around {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w
+~
+0 0 1
+D0
+~
+~
+0 0 2536
+D3
+~
+~
+0 0 2534
+S
+#2536
+East of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the north and south of here stand large buildings that hang over
+intersecting streets.  West you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads around {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w
+~
+0 0 1
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2535
+S
+#2537
+Northeast of {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w~
+To the north and east of here stand large buildings that hang over
+intersecting streets.  Southwest you can see {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Along the
+streets are many citizens wandering around.  Cars fly down the road.  The
+road leads around {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w
+~
+0 0 1
+D2
+~
+~
+0 0 2536
+D3
+~
+~
+0 0 2528
+S
+#2538
+East Horizon Road~
+To the west of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the east.
+Many buildings align Horizon Road north and south.  Little shops are
+set up along the side of the road.  People rush down the street going
+to their jobs and getting food for family.
+~
+0 4 1
+D1
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2536
+S
+#2539
+East Horizon Road~
+To the west of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the east
+and west.  Many buildings align Horizon Road north and south.  Little
+shops are set up along the side of the road.  People rush down the
+street going to their jobs and getting food for family.
+~
+0 4 1
+D1
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2590
+D3
+~
+~
+0 0 2538
+S
+#2540
+East Horizon Road~
+To the west of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the east
+and west.  Many buildings align Horizon Road north and south.  Little
+shops are set up along the side of the road.  People rush down the
+street going to their jobs and getting food for family.
+~
+0 4 1
+D1
+~
+~
+0 0 2541
+D3
+~
+~
+0 0 2539
+S
+#2541
+Intersection of Horizon Road and Grand Avenue~
+To the west of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the west
+and to the south is Grand Avenue.  Many buildings align the corner of
+Grand Avenue and Horizon Road.  Little shops are set up along the side
+of the road.  People rush down the street going to their jobs and
+getting food for family.
+~
+0 4 1
+D2
+~
+~
+0 0 2546
+D3
+~
+~
+0 0 2540
+S
+#2542
+West Horizon Road~
+To the East of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the west.
+Many buildings align Horizon Road north and south.  Little shops are
+set up along the side of the road.  People rush down the street going
+to their jobs and getting food for family.  
+~
+0 4 1
+D1
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2543
+S
+#2543
+West Horizon Road~
+To the East of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the east
+and west.  Many buildings align Horizon Road north and south.  Little 
+shops are set up along the side of the road.  People rush down the street
+going to their jobs and getting food for family. 
+~
+0 4 1
+D1
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2544
+S
+#2544
+West Horizon Road~
+To the East of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the east
+and west.  Many buildings align Horizon Road north and south.  Little 
+shops are set up along the side of the road.  People rush down the street
+going to their jobs and getting food for family.
+~
+0 4 1
+D1
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2545
+S
+#2545
+Intersection of Horizon Road and 36th Avenue~
+To the East of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  Horizon Road leads to the east
+intersecting with 36th Avenue.  Many buildings align Horizon Road 
+north and south.  Little shops are set up along the side of the road.
+People rush down the street going to their jobs and getting food for
+family.
+~
+0 4 1
+D1
+~
+~
+0 0 2544
+D2
+~
+~
+0 0 2564
+S
+#2546
+Grand Avenue~
+To the north of here is Horizon Road.  Grand Avenue leads to the south
+intersecting with Elm Street.  Buildings align the avenue to the west and
+east sides while small shops are set up along side the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 2541
+D2
+~
+~
+0 0 2547
+S
+#2547
+Grand Avenue~
+To the north of here is Horizon Road.  Grand Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street. 
+Buildings align the avenue to the west and east sides while small shops are
+set up along side the street.  To the west is the weapons depot.
+~
+0 0 1
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2548
+D3
+~
+~
+0 0 2526
+S
+#2548
+Grand Avenue~
+To the north of here is Horizon Road.  Grand Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street. 
+Buildings align the avenue to the west and east sides while small shops are
+set up along side the street.  To the north on the west side of the street
+you can see the weapons depot.
+~
+0 0 1
+D0
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2549
+S
+#2549
+Grand Avenue~
+To the north of here is Horizon Road.  Grand Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street.
+Buildings align the avenue to the west and east sides while small shops are
+set up along side the street.  To the north on the west side of the street
+you can see the weapons depot.
+~
+0 0 1
+D0
+~
+~
+0 0 2548
+D2
+~
+~
+0 0 2550
+S
+#2550
+Intersection of Elm Street and Grand Avenue~
+To the north leads Grand Avenue leading to Horizon Road.  To the west is
+Elm Street.  Buildings surround the intersection to the east and south. 
+Citizens scurry through the streets bumping into one another and going to
+shops. 
+~
+0 0 1
+D0
+~
+~
+0 0 2549
+D3
+~
+~
+0 0 2551
+S
+#2551
+East Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road. 
+~
+0 0 1
+D1
+~
+~
+0 0 2550
+D3
+~
+~
+0 0 2552
+S
+#2552
+East Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road. 
+~
+0 0 1
+D1
+~
+~
+0 0 2551
+D3
+~
+~
+0 0 2553
+S
+#2553
+East Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road. 
+~
+0 0 1
+D0
+~
+~
+0 0 2589
+D1
+~
+~
+0 0 2552
+D3
+~
+~
+0 0 2554
+S
+#2554
+East Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road.  
+~
+0 0 1
+D1
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2555
+S
+#2555
+Intersection of South Central and Elm street~
+To the North of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  South Central Road leads
+to the north and Elm street leads east and west.  Many buildings
+align South Central east and west.  Little shops are set up along
+the side of the street.  People rush down the street going to their
+jobs and getting food for family.
+~
+0 0 1
+D0
+~
+~
+0 0 2567
+D1
+~
+~
+0 0 2554
+D3
+~
+~
+0 0 2556
+S
+#2556
+West Elm Street~
+West lies the intersection of Elm Street and 36th Avenue.  Elm Street
+leads east as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road.  
+~
+0 0 1
+D1
+~
+~
+0 0 2555
+D3
+~
+~
+0 0 2557
+S
+#2557
+West Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road.  North is a personal training room.
+~
+0 0 1
+D0
+~
+~
+0 0 2569
+D1
+~
+~
+0 0 2556
+D3
+~
+~
+0 0 2558
+S
+#2558
+West Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road.
+~
+0 0 1
+D1
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2559
+S
+#2559
+West Elm Street~
+East lies the intersection of Elm Street and Grand Avenue.  Elm Street
+leads west as far as you can see.  Buildings are aligned by the side of the
+street to the north and south.  Business folks walk along the road while
+fast cars fly down the road.
+~
+0 0 1
+D1
+~
+~
+0 0 2558
+D3
+~
+~
+0 0 2560
+S
+#2560
+Intersection of Elm Street and 36th Avenue~
+To the north leads 36th Avenue leading to Horizon Road.  To the east is
+Elm Street.  Buildings surround the intersection to the west and south. 
+Citizens scurry through the streets bumping into one another and going to
+shops.
+~
+0 0 1
+D0
+~
+~
+0 0 2561
+D1
+~
+~
+0 0 2559
+S
+#2561
+36th Avenue~
+To the north of here is Horizon Road.  36th Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street. 
+Buildings align the avenue to the west and east sides while small shops are
+set up along side the street.  Citizens scurry in and out of the shops.
+~
+0 0 1
+D0
+~
+~
+0 0 2562
+D2
+~
+~
+0 0 2560
+S
+#2562
+36th Avenue~
+To the north of here is Horizon Road.  36th Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street. 
+Buildings align the avenue to the west and east sides while small shops are
+set up along side the street.  To the north on the east side of the street
+you can see the armory.
+~
+0 0 1
+D0
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2561
+S
+#2563
+36th Avenue~
+To the north of here is Horizon Road.  36th Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street. 
+Buildings align the avenue to the west side while small shops are
+set up along side the street.  To the east is the armory.
+~
+0 0 1
+D0
+~
+~
+0 0 2564
+D1
+~
+~
+0 0 2568
+D2
+~
+~
+0 0 2562
+S
+#2564
+36th Avenue~
+To the north of here is Horizon Road.  36th Avenue leads north
+intersecting with Horizon Road and south intersecting with Elm Street. 
+Buildings align the avenue to the west and east sides while small shops are
+set up along side the street.  South on the east side of the road
+is the armory.
+~
+0 0 1
+D0
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2563
+S
+#2565
+South Central Road~
+To the North of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  South Central leads south.
+Many buildings align South Central east and west.  Little shops
+are set up along the side of the road.  People rush down the
+street going to their jobs and getting food for family.
+~
+0 0 1
+D0
+~
+~
+0 0 2534
+D2
+~
+~
+0 0 2566
+S
+#2566
+South Central Road~
+To the North of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  South Central leads north and
+south.  Many buildings align South Central east and west.  Little shops are
+set up along the side of the road.  People rush down the street going to
+their jobs and getting food for family.  To the east sets the hotel
+courtyard.
+~
+0 0 1
+D0
+~
+~
+0 0 2565
+D1
+~
+~
+0 0 2512
+D2
+~
+~
+0 0 2567
+S
+#2567
+South Central Road~
+To the North of here is {YC{ya{Yp{ys{Yu{yl{Ye {yC{Yo{yr{Yp{y.{w  South Central leads north.
+Many buildings align South Central east and west.  Little shops
+are set up along the side of the road.  People rush down the
+street going to their jobs and getting food for family.  To
+the south is Elm street.
+~
+0 0 1
+D0
+~
+~
+0 0 2566
+D2
+~
+~
+0 0 2555
+S
+#2568
+Armory~
+Hanging on all the walls are suits of armor and gi.  Many different
+pieces to choose from.  To the east side of the shop is a couter with
+a strong built man standing behind it.  In the counter there are many
+small pieces of armor.
+~
+0 0 0
+D3
+~
+~
+0 0 2563
+S
+#2569
+Personal training room~
+Around the room stands coloumns holding up the ceiling.  A large square
+shaped mat lies in the middle of the floor.  The stinch of sweat lingers in
+the air.  To the north of the room stands a personal trainer.  
+~
+0 1024 0
+D2
+~
+~
+0 0 2557
+S
+#2570
+A narrow alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 2571
+S
+#2571
+A narrow alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 2572
+D2
+~
+~
+0 0 2570
+S
+#2572
+A narrow alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 2577
+D2
+~
+~
+0 0 2571
+D3
+~
+~
+0 0 2573
+S
+#2573
+black market~
+~
+0 0 0
+D1
+~
+~
+0 0 2572
+D3
+~
+~
+0 0 2574
+S
+#2574
+black market~
+~
+0 0 0
+D1
+~
+~
+0 0 2573
+D3
+~
+~
+0 0 2575
+S
+#2575
+black market~
+~
+0 0 0
+D1
+~
+~
+0 0 2574
+D5
+~
+~
+0 0 2586
+S
+#2576
+A narrow alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 2578
+S
+#2577
+A narrow alleyway~
+~
+0 0 0
+D2
+~
+~
+0 0 2572
+S
+#2578
+A narrow alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 2579
+D2
+~
+~
+0 0 2576
+S
+#2579
+A narrow alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 2580
+D1
+~
+~
+0 0 2581
+D2
+~
+~
+0 0 2578
+S
+#2580
+A narrow alleyway~
+~
+0 0 0
+D2
+~
+~
+0 0 2579
+S
+#2581
+black market~
+~
+0 0 0
+D1
+~
+~
+0 0 2582
+D3
+~
+~
+0 0 2579
+S
+#2582
+black market~
+~
+0 0 0
+D1
+~
+~
+0 0 2583
+D3
+~
+~
+0 0 2581
+S
+#2583
+black market~
+~
+0 0 0
+D3
+~
+~
+0 0 2582
+D5
+~
+~
+0 0 2584
+S
+#2584
+sewers~
+~
+0 0 0
+D1
+~
+~
+0 0 2585
+D4
+~
+~
+0 0 2583
+S
+#2585
+sewers~
+~
+0 0 0
+D1
+~
+~
+0 0 2586
+D3
+~
+~
+0 0 2584
+S
+#2586
+sewers~
+~
+0 0 0
+D3
+~
+~
+0 0 2585
+D4
+~
+~
+0 0 2575
+S
+#2587
+A bathroom~
+~
+0 0 0
+D1
+~
+~
+0 0 2506
+S
+#2588
+The jungle room~
+~
+0 0 0
+D4
+~
+~
+0 0 2505
+S
+#2589
+Jewelry store~
+~
+0 0 0
+D2
+~
+~
+0 0 2553
+S
+#2590
+{bDark alley~
+- {b It's a very dark alley, the glistening and twinking broken{y
+{ylamposts {b spark. The utterly ridiculous darkness swallows the place 
+with aweness.  A broken sign stands here, as if you could read it anyway in
+this dark dark room.  Chills of wind and terror swallow up the whole place,
+it's inamaginable that such a place resides in Capsule corp.  The nightly
+fog moves around.  {x 
+~
+0 1048580 0
+D0
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2591
+S
+#2591
+{wA very blurry room~
+This room is very foggy, and you could easily be lost here,
+coincidentally this room looks very familiar.  The toom spins and turns and
+no matter where, it all looks the same over and over again, exits are
+scarce, and oxygen seems precious now, an awful fealing of claustrophobia
+overcomes.  
+~
+0 0 0
+D0
+~
+~
+0 0 2590
+D1
+~
+~
+0 0 2592
+D2
+~
+~
+0 0 2591
+S
+#2592
+Long  dark street~
+A sudden row of dark but well shown streets appears here, the shuffle of
+exits and rooms amaze.  Curiosity and wonder don't fail to show across your
+face.  Smoke seems to be coming from atop one of the houses.  However noone
+seems to be helping the people around.  
+~
+0 0 0
+D1
+~
+~
+0 0 2593
+D3
+~
+~
+0 0 2591
+S
+#2593
+A long slightly lighter street.~
+A smell of burn grows strong, the smoke coming from south, fire seems to
+heat the place, and help the light.  Closer inspection shows this to be a
+scientists's little condominium.  The fire seems to grow stronger and noone
+seems to care.  
+~
+0 0 0
+D0
+~
+~
+0 0 2595
+D1
+~
+~
+0 0 2596
+D2
+~
+~
+0 0 2594
+D3
+~
+~
+0 0 2592
+S
+#2594
+{RA scientists burning home.{x~
+{RFire and flame engulfs everything as your heart races and the adrenalin
+climbs.  {YA Scientist races to and fro carrying a pale of water.  Noone
+seems to be helping him.  {RA bright light explodes as various chemicals
+explode one by one, creating a huge smoke.  {YThe scientist look at you
+scared and screams, "Run South!  Quick!  The flames will kill you!  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 2593
+D2
+You run scared, the adrenalin driving, you find urself all the way back
+somewhere.  
+~
+~
+0 0 2539
+S
+#2595
+Calm house~
+The room looks white spot clean, a couple of suits hang on the wall.  The
+suits look white and with a glass helmet, kind of like an astronauts.  Puffs
+of blue and white smoke rise up from the floor as the whole room turns red. 
+The room is so white it hurts to look at the wall.  
+~
+0 0 0
+D2
+~
+~
+0 0 2593
+S
+#2596
+{YA very well lighted street{x~
+A very well lit room is here, the street no longer looks dark and a ball
+of light floating seems to liven up the place.  Looking around 4 balls of
+light are visible, this must be their way or method to light the place.  The
+balls seem to be magnetic or heat-seeking, one of them is almost dragged by
+your own being.  These lights seem very useful.  
+~
+0 0 0
+D1
+~
+~
+0 0 2597
+D2
+~
+~
+0 0 2598
+D3
+~
+~
+0 0 2593
+S
+#2597
+{yResearch lab{x~
+Cages and doors all broken, Bananas and food all over the floor.  The
+whole place seems broken and messed up, this apparently used to be a animal
+research lab, however something must have happened to it .  Junk and leaves
+everywhere, it's hard to walk around this tremendous mess, however one shiny
+thing seems to glow out of one of the piles.  
+~
+0 0 0
+D3
+~
+~
+0 0 2596
+S
+#2598
+{bA very dark alley{x~
+{bAll of a sudden all light is lost and a dark alley appears.  It seems
+the light from the orbs north does not affect this place.  It is very
+mysterious and scary here, owls stand around hooting and crickets chirping. 
+However this place is not scary enough to drive someone away.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 2596
+D1
+~
+~
+0 0 2599
+S
+#2599
+{C A Senzu Bean Shop.~
+{bIt's a very lonely room, nothing anywhere but a couple of dust, and a
+square corner, however there's a guy here.  Very old and frail, I see no
+reason you shouldn't trust him.  
+ 
+ 
+{YThe old man says, ' This is a black market senzu shop, However, for you to see the list of all types of Senzus I have to sell '
+ 
+The man coughs.
+The old man says, ' You will have to give me 1000 units, I promise you, once you see the instant heal senzus you wont regret it '
+~
+0 0 0
+D3
+~
+~
+0 0 2598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 2504 0 2500 A fountain loaded to The Plaza
+M 0 2500 1 2502 1 Load The bartender
+G 0 2502 0 A large meal is given to The bartender
+M 0 2501 1 2503 1 Load The large android
+M 0 2504 1 2505 10 Load A dancer
+M 0 2504 1 2506 1 Load A dancer
+M 0 2504 1 2507 1 Load A dancer
+M 0 2503 1 2508 1 Load The DJ
+M 0 2526 1 2526 1 Load A muscular woman
+E 0 1500 0 11 {ban elite {ccrystal {bsword{x is loaded as a shield of A muscular woman
+E 0 3200 0 11 Black dagger is loaded as a shield of A muscular woman
+E 0 2513 0 11 A rusty knife is loaded as a shield of A muscular woman
+E 0 2514 0 11 The legendary z sword is loaded as a shield of A muscular woman
+M 0 2506 1 2530 1 Load A young lady
+E 0 2520 0 11 A food capsule is loaded as a shield of A young lady
+O 0 2505 0 2539 A narrow pathway loaded to East Horizon Road
+O 0 2506 0 2543 A narrow pathway loaded to West Horizon Road
+O 0 2508 0 2552 A narrow pathway loaded to East Elm Street
+O 0 2507 0 2558 A narrow pathway loaded to West Elm Street
+M 0 2515 1 2568 1 Load A stout male
+E 0 2599 0 11 {bsaiya-jin {ybroad {csword{x is loaded as a shield of A stout male
+E 0 2501 0 11 A felt cap is loaded as a shield of A stout male
+E 0 2515 0 11 A saiya-man suit is loaded as a shield of A stout male
+E 0 2516 0 11 A saiya-man helmet is loaded as a shield of A stout male
+E 0 2517 0 11 A saiya-man cape is loaded as a shield of A stout male
+E 0 2518 0 11 A pair of saiya-man gloves is loaded as a shield of A stout male
+E 0 2519 0 11 A pair of saiya-man boots is loaded as a shield of A stout male
+M 0 2505 1 2569 1 Load A personal trainer
+O 0 2511 0 2570 A narrow pathway loaded to A narrow alleyway
+O 0 2510 0 2576 A narrow pathway loaded to A narrow alleyway
+O 0 2512 0 2577 A narrow pathway loaded to A narrow alleyway
+O 0 2509 0 2580 A narrow pathway loaded to A narrow alleyway
+O 0 2590 0 2590 A yellow lampost stands he're crooked, it's body barely supporting it, it looks as if it could fall any moment. loaded to {bDark alley
+M 0 2584 1 2594 1 Load A Scientist running back and foward.
+O 0 2595 0 2595 A white jumper suit. loaded to Calm house
+O 0 2596 0 2596 {ya {yf{yl{yo{ya{yt{yi{yn{yg {yy{ye{yl{yl{yo{yw {yo{yr{yb {yo{yf {yl{yi{yg{yh{yt.{x loaded to {YA very well lighted street{x
+O 0 2597 0 2597 {ya {yg{yo{yl{yd{ye{yn {wt{ya{wi{yl{wr{yi{wn{yg{x loaded to {yResearch lab{x
+M 0 2599 1 2599 1 Load An old man
+S
+
+
+
+#SHOPS
+2500 0 0 0 0 0 100 100 0 23
+2506 0 8 8 0 0 170 70 0 23
+2515 0 9 9 0 0 170 70 0 23
+2526 5 5 0 0 0 170 70 0 23
+0
+
+
+
+#MOBPROGS
+#2500
+say Hey stranger.
+smile $n
+~
+#2501
+~
+#2502
+nod
+say Right this way.
+emote leads you into the club, through the doors.
+mob transfer $n 2506
+~
+#2503
+emot looks at $n "Welcome man" looks over $n again
+say Theres an entrance fee 500 Zenni, if you can't afford it get the hell outta here
+emot holds his hand to $n
+~
+#2512
+emote strikes a pose for $n.
+say I am the Great Saiya-man!!
+~
+#2513
+emote smiles at $n, giving a deep bow of greeting.
+say Welcome to the Universal Hotel. I hope you enjoy your stay $n.
+~
+#2514
+emote smiles at $n, giving $n a quick nod.
+say Have you come for a room? We are almost filled up!
+~
+#2524
+emote smiles and bows.
+say Welcome! Please take a seat.
+~
+#0
+
+#OBJPROGS
+#2520
+obj echo Two meals pop out of the capsule!
+obj oload 2502
+obj oload 2502
+~
+#2599
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

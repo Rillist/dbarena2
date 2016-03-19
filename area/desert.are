@@ -1,0 +1,1900 @@
+#AREADATA
+Name Desert~
+Builders Ubuu~
+VNUMs 5200 5299
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#5200
+short demon daemon mini horns humanoid~
+mini-daemon~
+A short humanoid with a tail and horns
+~
+~
+human~
+ABRS 0 -1000 0
+750000 86
+74 74 74 74 74 
+100 100
+punch
+0 0 0 0
+FHIM 0 0 0
+stand stand none 794
+E ABCDEFGHIJKQUVW medium unknown
+F for AHMV
+#5201
+giant scorpion~
+giant scorpion~
+A giant sand-colored scorpion from the desert
+~
+~
+human~
+AGPR 0 0 0
+75000 18
+38 38 38 38 38 
+100 100
+punch
+0 0 0 0
+CFHKMO 0 0 0
+stand stand none 430
+AHMV ABCDEFGHIJK large unknown
+#5202
+fire salamander~
+fire salamander~
+A red snake-like creature flying above the desert
+~
+~
+human~
+AGRS T 0 0
+4000000 200
+82 82 82 82 82 
+100 100
+punch
+0 0 0 0
+ACFHKMO 0 0 0
+stand stand none 1207
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#5203
+sand trilobyte~
+sand trilobyte~
+A sand colored, horse shoe shaped insect
+~
+~
+human~
+AGPR 0 0 0
+150000 25
+39 39 39 39 39 
+100 100
+punch
+0 0 0 0
+FH 0 0 0
+stand stand none 511
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#5291
+ruby flying kitten~
+Ruby~
+A small red kitten with wings is here.
+~
+Before you flies a small, cute little kitten, with red fur and a pair of
+wings sprouting from her back.  Around her neck is a tag that says, "I
+belong to Ikana."  
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 5291 come~
+#5292
+flying cat nall~
+Nall~
+A small white cat with a pair of white wings is here.
+~
+This is a small white cat, looks like any other white cat, except for the
+fact that it has a pair of wings sprouting from his back, and it has a
+collar around his neck that says, "I belong to Auriana."  
+~
+human~
+ABIa 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 5292 here~
+#5293
+Kajtsa baby dragon~
+Baby Dragon Kajtsa~
+A small, baby dragon with silver scales and the name tag of "Kajtsa" is here.
+~
+Kajtsa is small for a baby dragon, being only 1' tall at the shoulders. 
+She is covered with silver scales, and even the wing membranes are silver
+colored.  Around her neck is a collar that says, "I belong to Kahlan."  
+~
+human~
+ABIa T 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 5293 kajtsa~
+#5294
+nova wolf timber~
+Nova wolf~
+A large grey timber wolf.
+~
+A large timber wolf with the name tag 'NOVA' hanging from the collar
+about his neck next to another tag that says, "Belongs to Hawke".
+This wolf has a scar above and below his right eye.
+~
+human~
+ABIa 0 0 0
+0 0
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 5294 nova~
+#5295
+Nimbus cloud~
+Nimbus cloud~
+A yellow nimbus cloud, just like the one Goku had
+~
+~
+human~
+ABIa 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK giant unknown
+#5296
+Joji hawk pet~
+Jojubi's pet hawk~
+A royal hawk, trained to follow Jojubi into battle.
+~
+~
+namek~
+ABIa T 0 0
+0 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 5296 joji~
+#5297
+mizcou flying squirrel~
+Mizcou~
+A small grey-furred flying squirrel is here.
+~
+This flying squirrel is just like any other flying squirrel, save for the
+fact that it has an "I belong to Mizzouse."  Tag hanging from around her
+neck.  
+~
+human~
+ABIa T 0 0
+100 1
+65 65 65 65 65 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 85
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 5297 mizcou~
+#5298
+stranger mysterious cloaked shini~
+mysterious stranger~
+A man whose features are hidden by a cloak.
+~
+This man stands about 4'5 in height, his face is completely hidden beneath the hood
+of his cloak. He also wears a simple brown robe, hiding whatever else he might be
+wearing.
+~
+half-breed~
+ABRSa 0 0 0
+1000000000000 100000
+560 560 560 560 560 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 27000
+AHMV ABCDEFGHIJK large unknown
+#5299
+teivin~
+Teivin~
+The half-daemon Tievin
+~
+A 5' tall half-daemon, his skin is pink and he has a white mohawk. He wears clothing
+similar to what the supreme kai, shin wears. His hands, arms, legs and feet have been
+covered in daemon flesh. He also has a pair of wings, like giant bat wings, but they
+are nothing more then the skeletal frame.
+~
+half-breed~
+ABRSa 0 0 0
+2500000000 5000
+171 171 171 171 171 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 6037
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#5200
+wrist bands wristbands~
+{MUbuu's {xgift {Ywristband{X~
+One of {MUbuu's{X gift {Ywristbands{X, one size fits all.~
+cloth~
+1
+armor UX AM
+BEF BEF BEF BEF 0
+0 0 0 P
+#5201
+Plushie~
+{MUbuu's {xGift {CPlushie{X~
+One of {MUbuu's{X gift {Cplushies{X, complete with the ability to fly, and light up eyes! It even goes {MUBUU{X when you squeeze it!~
+Cloth~
+1
+light NUX AQ
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 1 0 P
+#5202
+pants silk~
+{MUbuu's {wsilk {xpants~
+{MUbuu's {Wsilk {Xpants, which are given as gifts.~
+Silk Cloth~
+1
+armor UX AF
+BDEFGH BDEFGH BDEFGH BDEFGH 0
+0 0 0 P
+#5204
+cookie~
+{MUbuu{x shaped frosted sugar cookie~
+{MUbuu{X brand frosted sugar cookie~
+Dough~
+1
+food I A
+0 0 0 0 DEFGHKNQ
+0 0 0 P
+#5205
+wierd object~
+wierd object~
+It's a wierd object of some sort, you're not quite sure WHAT it is~
+unknown~
+1
+treasure 0 A
+0 0 0 0 0
+0 0 0 P
+#5295
+golden hilt~
+golden hilt~
+A hilt made from gilded gold that is missing a blade.~
+unknown~
+1
+treasure 0 A
+0 0 0 0 0
+0 0 0 P
+#5296
+cluster white crystal~
+cluster of white crystal~
+A cluster of white crystals glowing with a holy aura~
+unknown~
+1
+gem A A
+0 0 0 0 0
+0 0 0 P
+#5297
+blessed crystal blade~
+holy crystal blade~
+A blessed blade made from white crystal~
+unknown~
+1
+gem 0 A
+0 0 0 0 0
+0 0 0 P
+#5298
+soul gem~
+soul gem~
+A silvery white gem with moving blue swirls floats here, emitting a white aura.~
+unknown~
+1
+gem 0 A
+0 0 0 0 0
+0 0 0 P
+#5299
+saviour sword~
+the saviour sword~
+A sword with a semi-transparent crystal blade.~
+unknown~
+1
+weapon IKLX AN
+sword 100 20 slice DE
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#5200
+Desert Entrance~
+The grassy path slowly dies out, becoming nothing more then sand.  To the
+north is a large crevice.  Splitting a giant wall of stone that seems to be
+the only buffer keeping the desert from expanding any further to the south. 
+The heat continues to rise as you move closer to the deserts entrance.  Even
+from here you can see a large mountian far to the north, shimmering and
+wavering in the heat waves cast off by sands.  
+~
+0 0 0
+D0
+~
+~
+0 0 5201
+S
+#5201
+The crevice~
+You stand in a giant rend in the southern wall that protects the world
+from the expanding desert.  Just beyond the wall, and the coolness of its
+shade is the blazing hot desert.  Far to the north you can see a mountain,
+dancing in the shimmering heat waves.  
+~
+0 0 0
+D0
+~
+~
+0 0 5202
+D2
+~
+~
+0 0 5200
+S
+#5202
+Beyond the crevice~
+Your passage north is suddenly blocked by a sand pit to the north,
+occasionally a geyser of sand spurts high into the sky.  It's probably a
+good idea to follow the stone wall to the east, deeper into the desert, or
+to the west, towards what looks to be a cliff.  
+~
+0 0 0
+D1
+~
+~
+0 0 5204
+D2
+~
+~
+0 0 5201
+D3
+~
+~
+0 0 5203
+S
+#5203
+Ravine~
+The sand suddenly stops as you near the edge of a cliff, it looks to be a
+LOOOONG way down to the bottom.  You can continue on to the north, along the
+edge, which looks to slowly go down to meet the floor.  Also you can hear
+the sound of water flowing far down below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 5205
+D1
+~
+~
+0 0 5202
+S
+#5204
+Southern edge~
+You are now east of the sinkhole, the desert continues on seemingly
+endlessly in all directions but south.  Above the sun mercilessly beats down
+upon the desert, and any foolish enough to try and traverse it.  This
+section of the wall seems to be home to a colony of giant scorpions. 
+Probably should be careful.  
+~
+0 0 0
+D0
+~
+~
+0 0 5213
+D1
+~
+~
+0 0 5209
+D3
+~
+~
+0 0 5202
+S
+#5205
+Ravine's Cliff~
+The ravine continues to be far too deep to go down to the west, and the
+sound of water continues to be quietly heard, mostly hidden by the sound of
+the now howling desert winds.  To the north the cliff continues to slowly
+dip downwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 5206
+D2
+~
+~
+0 0 5203
+S
+#5206
+Ravine road~
+This section of the ravine's cliff is now actually starts going below the
+desert.  There is now a sheer cliff face to the east, and to the west is the
+ravine.  This section is remarkably well kept, and seems to be rather well
+trodden and used, almost as if it's a road of some kind.  
+~
+0 0 0
+D0
+~
+~
+0 0 5207
+D2
+~
+~
+0 0 5205
+S
+#5207
+Ravine road~
+The path continues downward, at this point you can no longer even see the
+tip of the mountain over the cliff to the east, and to the west the sounds
+of water begins to grow much louder.  In fact to the north and below, you
+can actually see the river as well as where the path ends.  
+~
+0 0 0
+D0
+~
+~
+0 0 5208
+D2
+~
+~
+0 0 5206
+S
+#5208
+Bottom of the ravine~
+The path down into the ravine ends here with a flat platform of dark
+stone.  To the west and north of it can be heard and seen the river at the
+bottom of the ravine.  In the cliff face to the east is a large pressure
+door built from some white metal.  
+~
+0 0 0
+D2
+~
+~
+0 0 5207
+S
+#5209
+Southern edge~
+The scorching sun bears down upon you from above, the desert spreads out
+to the north, west and east, to the south the comforts of a steep rockwall
+that seems to border all of the deserts southern borders gives one an idea
+of where they are in this desert.  Far to the north and west lies a
+mountain, it's image wavering in the heat shimmer.  
+~
+0 0 0
+D0
+~
+~
+0 0 5214
+D1
+~
+~
+0 0 5210
+D3
+~
+~
+0 0 5204
+S
+#5210
+Southern edge~
+The scorching sun bears down upon you from above, the desert spreads out
+to the north, west and east, to the south the comforts of a steep rockwall
+that seems to border all of the deserts southern borders gives one an idea
+of where they are in this desert.  Far to the north and west lies a
+mountain, it's image wavering in the heat shimmer.  
+~
+0 0 0
+D0
+~
+~
+0 0 5215
+D1
+~
+~
+0 0 5211
+D3
+~
+~
+0 0 5209
+S
+#5211
+Southern edge~
+The scorching sun bears down upon you from above, the desert spreads out
+to the north, west and east, to the south the comforts of a steep rockwall
+that seems to border all of the deserts southern borders gives one an idea
+of where they are in this desert.  Far to the north and west lies a
+mountain, it's image wavering in the heat shimmer.  
+~
+0 0 0
+D0
+~
+~
+0 0 5216
+D1
+~
+~
+0 0 5212
+D3
+~
+~
+0 0 5210
+S
+#5212
+Southeast desert~
+You have reached the southwest corner of the desert, to the north and
+west it extends almost endlessly.  The mountain continues to be within your
+range of vision to the northwest.  This area is a bit cooler then the rest
+of the desert because of the wall's shade.  
+~
+0 0 0
+D0
+~
+~
+0 0 5217
+D3
+~
+~
+0 0 5211
+S
+#5213
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5222
+D1
+~
+~
+0 0 5214
+D2
+~
+~
+0 0 5204
+S
+#5214
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5221
+D1
+~
+~
+0 0 5215
+D2
+~
+~
+0 0 5209
+D3
+~
+~
+0 0 5213
+S
+#5215
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5220
+D1
+~
+~
+0 0 5216
+D2
+~
+~
+0 0 5210
+D3
+~
+~
+0 0 5214
+S
+#5216
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5219
+D1
+~
+~
+0 0 5217
+D2
+~
+~
+0 0 5211
+D3
+~
+~
+0 0 5215
+S
+#5217
+Eastern wall~
+This section of the desert is far cooler then the rest due to the shade
+the giant stone wall creates.  To the south is the southeastern edge of the
+desert, to the north lies more desert in the shade of the rock wall.  East
+of here is the desert that is beneath the scorching sun.  The mountain can
+still be seen to the northwest.  
+~
+0 0 0
+D0
+~
+~
+0 0 5218
+D2
+~
+~
+0 0 5212
+D3
+~
+~
+0 0 5216
+S
+#5218
+Eastern wall~
+This section of the desert is far cooler then the rest due to the shade
+the giant stone wall creates.  To the south is the southeastern edge of the
+desert, to the north lies more desert in the shade of the rock wall.  East
+of here is the desert that is beneath the scorching sun.  The mountain can
+still be seen to the northwest.  
+~
+0 0 0
+D0
+~
+~
+0 0 5229
+D2
+~
+~
+0 0 5217
+D3
+~
+~
+0 0 5219
+S
+#5219
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5228
+D1
+~
+~
+0 0 5218
+D2
+~
+~
+0 0 5216
+D3
+~
+~
+0 0 5220
+S
+#5220
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5227
+D1
+~
+~
+0 0 5219
+D2
+~
+~
+0 0 5215
+D3
+~
+~
+0 0 5221
+S
+#5221
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5226
+D1
+~
+~
+0 0 5220
+D2
+~
+~
+0 0 5214
+D3
+~
+~
+0 0 5222
+S
+#5222
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5225
+D1
+~
+~
+0 0 5221
+D2
+~
+~
+0 0 5213
+D3
+~
+~
+0 0 5223
+S
+#5223
+Cliff~
+There is a sheer drop to the west into the depths of a ravine.  South of
+here is a sand pit that geysers occaisionally, and beyond it is the crevice
+you entered the desert through.  Directly north of here is the mountain,
+which still seems to be at the edges of your vision.  
+~
+0 0 0
+D0
+~
+~
+0 0 5224
+D1
+~
+~
+0 0 5222
+S
+#5224
+Cliff~
+There is a sheer drop to the west into the depths of a ravine.  South of
+here is a sand pit that geysers occaisionally, and beyond it is the crevice
+you entered the desert through.  Directly north of here is the mountain,
+which still seems to be at the edges of your vision.  
+~
+0 0 0
+D0
+~
+~
+0 0 5235
+D1
+~
+~
+0 0 5225
+D2
+~
+~
+0 0 5223
+S
+#5225
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  There is also another giant
+scorpion nest, this one larger then most others.  
+~
+0 0 0
+D0
+~
+~
+0 0 5234
+D1
+~
+~
+0 0 5226
+D2
+~
+~
+0 0 5222
+D3
+~
+~
+0 0 5224
+S
+#5226
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5233
+D1
+~
+~
+0 0 5227
+D2
+~
+~
+0 0 5221
+D3
+~
+~
+0 0 5225
+S
+#5227
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5232
+D1
+~
+~
+0 0 5228
+D2
+~
+~
+0 0 5220
+D3
+~
+~
+0 0 5226
+S
+#5228
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  
+~
+0 0 0
+D0
+~
+~
+0 0 5231
+D1
+~
+~
+0 0 5229
+D2
+~
+~
+0 0 5219
+D3
+~
+~
+0 0 5227
+S
+#5229
+Eastern wall~
+This section of the desert is far cooler then the rest due to the shade
+of the giant stone wall creates.  To the south is the southeastern edge of
+the desert, to the north lies more desert in the shade of the rock wall. 
+East of here is the desert that is beneath the scorching sun.  The mountain
+can still be seen to the west and north.  You can also see what looks to be
+a village to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 5230
+D2
+~
+~
+0 0 5218
+D3
+~
+~
+0 0 5228
+S
+#5230
+Eastern wall~
+This section of the desert is far cooler then the rest due to the shade
+of the giant stone wall creates.  To the south is the southeastern edge of
+the desert, to the north lies more desert in the shade of the rock wall. 
+East of here is the desert that is beneath the scorching sun.  The mountain
+can still be seen to the west and north.  You can also see what looks to be
+a village to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 5240
+D2
+~
+~
+0 0 5229
+D3
+~
+~
+0 0 5231
+S
+#5231
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  To the northeast you can
+see what may be a village of some sort.  
+~
+0 0 0
+D0
+~
+~
+0 0 5239
+D1
+~
+~
+0 0 5230
+D2
+~
+~
+0 0 5228
+D3
+~
+~
+0 0 5232
+S
+#5232
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  To the northeast you can
+see what may be a village of some sort.  There is also another of those
+blasted giant scorpion dens.  
+~
+0 0 0
+D0
+~
+~
+0 0 5238
+D1
+~
+~
+0 0 5231
+D2
+~
+~
+0 0 5227
+D3
+~
+~
+0 0 5233
+S
+#5233
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  To the northeast you can
+see what may be a village of some sort.  
+~
+0 0 0
+D0
+~
+~
+0 0 5237
+D1
+~
+~
+0 0 5232
+D2
+~
+~
+0 0 5226
+D3
+~
+~
+0 0 5234
+S
+#5234
+Desert~
+The sun continues to scorch and scour the desert as the winds whip the
+sands into wave like dunes.  To the northwest lies the mountain, dancing in
+the shimmering, heat waves, and south of you can be seen the rock wall that
+is the worlds only defense against the spread of this desert.  From here you
+can see that the wall extends far to the west, and then to the north, far to
+the west the desert abruptly ends with a cliff.  To the northeast you can
+see what may be a village of some sort.  
+~
+0 0 0
+D0
+~
+~
+0 0 5236
+D1
+~
+~
+0 0 5233
+D2
+~
+~
+0 0 5225
+D3
+~
+~
+0 0 5235
+S
+#5235
+Cliff~
+There is a sheer drop the west, falling away to the depths of the ravine.
+To the east is more desert, the same to the south.  North of here however is
+the base the mountain, as you crane your neck back to look up it, you
+realize that it is very steep.  One would have to be a skilled climber, or
+be able to fly to reach it's summit.  
+~
+0 0 0
+D1
+~
+~
+0 0 5234
+D2
+~
+~
+0 0 5224
+S
+#5236
+Mountain's base~
+Soaring up into the sky to the west of you is the mountain, it's sheer
+cliff face on this side is such that you could only fly to ascend it, to the
+north is an abrupt chasm, leading down to a river far below, across it is
+more desert, stretching as far as the eye can see.  To the east, near the
+wall is a what looks to be a village.  
+~
+0 0 0
+D1
+~
+~
+0 0 5237
+D2
+~
+~
+0 0 5234
+S
+#5237
+Along the chasm~
+The chasm continues eastward to the north, and the desert beyond it
+continues to be seemingly endless.  You are getting closer to the village to
+the east, but are still too far to depict any details beyond a cluster of
+white buildings.  
+~
+0 0 0
+D1
+~
+~
+0 0 5238
+D2
+~
+~
+0 0 5233
+D3
+~
+~
+0 0 5236
+S
+#5238
+Nearing the village~
+The west is is the mountain, and to the east is the village, although
+from hear you can see no activity there, but you can't tell for certain from
+this distance.  Distance.  There is also a hole in the ground nearby,
+probably home to more giant scorpions.  
+~
+0 0 0
+D1
+~
+~
+0 0 5239
+D2
+~
+~
+0 0 5232
+D3
+~
+~
+0 0 5237
+S
+#5239
+Village entrance~
+You now stand before the entrance to the village, you still do not see a
+single person in sight.  There are several white dome like buildings along
+to road to the north, at the end of the road is a larger white domed
+building.  There is one thing that you can easily tell from here, there was
+a battle, as there are no undamaged buildings, in fact a couple have
+collapsed to nothing more then rubble.  
+~
+0 0 0
+D0
+~
+~
+0 0 5241
+D1
+~
+~
+0 0 5240
+D2
+~
+~
+0 0 5231
+D3
+~
+~
+0 0 5238
+S
+#5240
+Eastern wall~
+The path to the east is blocked by the massive rock wall.  To the north
+it falls off into the chasm that splits the desert in two.  Far to the west
+you can see the mountain standing far above everything else.  Directly to
+the west is the entrance to the village.  
+~
+0 0 0
+D2
+~
+~
+0 0 5230
+D3
+~
+~
+0 0 5239
+S
+#5241
+Main street~
+The street is nothing more then a beaten path, going in between the
+various buildings.  To the east and west are both white domed buildings,
+they still seem to be standing and intact enough to search.  Farther north
+is more buildings.  
+~
+0 0 0
+D0
+~
+~
+0 0 5244
+D1
+~
+~
+0 0 5243
+D2
+~
+~
+0 0 5239
+D3
+~
+~
+0 0 5242
+S
+#5242
+Abandoned house~
+This house is in a state of horrible disrepair, there is a huge hole in
+the ceiling to the west, through it you can see the mountain.  Strewn about
+the place are various possessions, mostly destroyed and half buried in
+sands.  Of what is left, none of it is of any use.  It almost seems as if
+someone left in a hurry.  
+~
+0 0 0
+D1
+~
+~
+0 0 5241
+S
+#5243
+Abandoned store~
+At one time this was a store, but now it is not much more then ruins. 
+This building is remarkablly undamaged compared to some of the others,
+however there is also nothing of interest.  The shelves and cabinets are all
+empty, and there isn't even anything strewn about.  Whoever was last here,
+they cleaned this place out quite thoroughly.  At least there is a nice
+thick layer of sand in here, blown in by the winds from outside.  
+~
+0 0 0
+D3
+~
+~
+0 0 5241
+S
+#5244
+Main street~
+The building to the east has collapsed in upon itself, making it nothing
+more then a pile of rubble.  The house to the west however is still
+standing.  Within it you can see eyes peering out at you, hidden in the
+darkness.  To the north is the larger of the house, you can hear voices
+coming from it.  
+~
+0 0 0
+D0
+~
+~
+0 0 5246
+D2
+~
+~
+0 0 5241
+D3
+~
+~
+0 0 5245
+S
+#5245
+Refugees house~
+This is the one house that has people within it, well, not people but
+children.  They look at you with eyes wide with curiosity and fear, not
+quite knowing what to make of you.  As you try to approach them they quickly
+scramble out of site into thier hiding places, which afterwards you are at a
+lose to find.  It's as if thier hiding places have disappeared with thier
+occupants.  
+~
+0 0 0
+D1
+~
+~
+0 0 5244
+S
+#5246
+Before the large house~
+You now stand before the doors of the largest building in the village. 
+From within you can hear the sounds of growling and mumbling, occasionally a
+pair of briefly glowing eyes peer at you from the depths of the darkness. 
+The sun above continues to beat down from above, so it's possible those eyes
+are just mirages.  
+~
+0 0 0
+D0
+~
+~
+0 0 5247
+D2
+~
+~
+0 0 5244
+S
+#5247
+Entryway~
+You now stand in the entrance of the villages largest building.  The
+rooms to the east and west are too full with rubble to be entered, leaving
+the room to the north, and possibly and explination of what happened here. 
+Strewn among the rubble are the bodies of many short, humanoids with tails
+and horns.  
+~
+0 8 0
+D0
+~
+~
+0 0 5248
+D2
+~
+~
+0 0 5246
+S
+#5248
+Back room~
+The only light in this room is coming from the way you came.  As you move
+farther into the room you hear and feel the crunching of bones beneath your
+feet, quickly opening a window to let more light pour in, you realize that
+this room is piled with what was once the people of this village, or at
+least thier bones.  Among them are the bones that belong to the things that
+attacked you in the entry way.  You suddenly come to the realization of what
+transpired here.  Demons appeared and destroyed the town.  To the north is a
+door that leads to be backyard of the house.  
+~
+0 0 0
+D0
+~
+~
+1 0 5249
+D2
+~
+~
+0 0 5247
+S
+#5249
+Backyard~
+Stepping out throught he back door, you find yourself in the backyard of
+the house.  There is a stone well that is filled most of the way with sand. 
+Surrounding the well is a patch of grass that seems to be rather well
+nourished.  Along the right side of the backyard are the remains of what was
+once a garden.  North of here is a bridge that leads across the chasm.  
+~
+0 0 0
+D0
+~
+~
+0 0 5250
+D2
+~
+~
+1 0 5248
+S
+#5250
+Bridge~
+The bridge is made of rope and wooden planks, suspended across the chasm,
+which looks to be deeper here the farther to the west.  Across the bridge is
+more desert, expanding in all directions, seemingly to the ends of the
+earth.  To the north and west you can see an oasis, but even more disturbing
+are the red snake like creatures flying about to there.  
+~
+0 0 0
+D0
+~
+~
+0 0 5251
+D2
+~
+~
+0 0 5249
+S
+#5251
+Otherside~
+After crossing the bridge, you find yourself facing another hole in the
+ground, but unlike the scorpion wholes, this one is MUCH larger.  You still
+can see the oasis to the north and west.  East of you is the eastern wall of
+stone, which continues on to the north to meet another, much higher wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 5252
+D2
+~
+~
+0 0 5250
+S
+#5252
+Desert~
+To the east of you, the rock wall continues northward, to the west and
+north is more of the blasted desert, and the temperature is only rising the
+deeper into it that you go.  The sun above beats down upon the sands
+mercilessly.  To the north is the oasis, and you can still see the flying
+red snake creatures.  
+~
+0 0 0
+D0
+~
+~
+0 0 5261
+D2
+~
+~
+0 0 5251
+D3
+~
+~
+0 0 5253
+S
+#5253
+Desert~
+You can again see the oasis to the north, wavering and dancing in the
+heat of the desert.  The sun continues to burn the landscape with his
+scorching heat, and the wind has begin to pick up, making it hard to see
+anything.  You also discover another giant hole in the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 5267
+D1
+~
+~
+0 0 5252
+D3
+~
+~
+0 0 5254
+S
+#5254
+Desert~
+The passage westward has just been suddenly halted but very unsafe and
+unsteady sand pits, which geyser frequently.  You could go around but, you'd
+have a long walk to the north before you can find a path across it seems. 
+You can still see the flying snake things through the wind, it's nearly a
+sand storm now.  
+~
+0 0 0
+D0
+~
+~
+0 0 5255
+D1
+~
+~
+0 0 5253
+S
+#5255
+Desert~
+The sun continues to beat down mercilessly from above, wind continues
+coming in from the west, from the direction of the sinkholes, to the east is
+the oasis and to the north lies a large stone wall reaching up into the sky.
+You can still see the flying snake things through the wind kicked up sand,
+but it is starting to die down.  
+~
+0 0 0
+D0
+~
+~
+0 0 5256
+D1
+~
+~
+0 0 5267
+D2
+~
+~
+0 0 5254
+S
+#5256
+Desert~
+The sun continues to beat down mercilessly from above, wind continues
+coming in from the west, from the direction of the sinkholes, to the east is
+the oasis and to the north lies a large stone wall reaching up into the sky.
+You can still see the flying snake things through the wind kicked up sand,
+but it is starting to die down.  
+~
+0 0 0
+D0
+~
+~
+0 0 5257
+D2
+~
+~
+0 0 5255
+S
+#5257
+Northern limits~
+You have come to the point where you can continue west through the
+sinkholes, by way of a thin strip of land inbetween them.  To the east
+stretches a high wall of rock, eventually coming in contact with the eastern
+wall.  At the base of the wall is another giant hole.  
+~
+0 0 0
+D1
+~
+~
+0 0 5258
+D2
+~
+~
+0 0 5256
+D3
+~
+~
+0 0 5264
+S
+#5258
+Northern limits~
+You now stand directly north of the oasis, to the west are the sinkholes,
+to the east lies the eastern wall.  Soaring up above you lies a giant wall
+that looks to be made from hundreds of rocks stuck together.  You can easily
+climb up it.  
+~
+0 0 0
+D1
+~
+~
+0 0 5259
+D3
+~
+~
+0 0 5257
+D4
+~
+~
+0 0 5262
+S
+#5259
+North eastern edge~
+The northern and eastern walls tower above you, providing plenty of cool
+shade to escape from the heat of the sun with.  The walls stretch to the
+west and south from here.  To the southwest lies an oasis, with a small town
+about it.  You can also see red snakelike beings flying in the air above the
+desert.  
+~
+0 0 0
+D2
+~
+~
+0 0 5260
+D3
+~
+~
+0 0 5258
+S
+#5260
+Eastern edge~
+The northern and eastern walls meet north of here, to the west is an
+oasis town.  Farther to the south is a chasm, and the abandoned town.  You
+are protected against the heat of the sun by the shade cast by the eastern
+wall.  Beyond the oasis, and to the south you can see red, snakelike
+creatures flying above the sands of the desert.  
+~
+0 0 0
+D0
+~
+~
+0 0 5259
+D2
+~
+~
+0 0 5261
+S
+#5261
+Eastern edge~
+The northern and eastern walls meet north of here, to the northwest is an
+oasis town.  Farther to the south is a chasm, and the abandoned town.  You
+are protected against the heat of the sun by the shade cast by the eastern
+wall.  Beyond the oasis, and to the south you can see red, snakelike
+creatures flying above the sands of the desert.  
+~
+0 0 0
+D0
+~
+~
+0 0 5260
+D2
+~
+~
+0 0 5252
+D3
+~
+~
+0 0 5267
+S
+#5262
+Climbing the rock wall~
+You are now about half-way up the rock wall, the desert stretches out
+beneath you to the south, up above you can hear the sounds of splashing
+water.  The heat from the sun also has become more bearable, and the wind
+has died down, making this an almost pleasant climb.  
+~
+0 0 0
+D4
+~
+~
+0 0 5263
+D5
+~
+~
+0 0 5258
+S
+#5263
+Entrance to Pteradactly Haven.~
+You stand at the top of the cliff, unrolling before you is an enormous
+lake with many pteradactyls are playing and enjoying the water.  Beyond the
+lake is a jungle like forest, that is filled with many kinds of plants, and
+more pteradactyls, doing a variety of activities, both on the beach and
+deeper in the forest.  Also the air feels much cooler here then it did down
+below in the desert.  
+~
+0 0 0
+D5
+~
+~
+0 0 5262
+S
+#5264
+Path through the sinkholes~
+You are now passing through a thin strip of land that has a field of sink
+holes that geyser sand high up into the air on both sides, one bad step
+could end up getting you dragged into the sinkholes.  To the west is a
+cliff, and to the east is a safer portion of the desert 
+~
+0 0 0
+D1
+~
+~
+0 0 5257
+D3
+~
+~
+0 0 5265
+S
+#5265
+Another cliff~
+You have just passed out of the sink hole area of the desert and have
+managed to discover a cliff, which continues on to the south.  Far below is
+the rest of the desert.  
+~
+0 0 0
+D1
+~
+~
+0 0 5264
+D2
+~
+~
+0 0 5266
+S
+#5266
+End of the cliff~
+You have reached the end of the cliff, far down below and stretching to
+the horizon is a desert mesa, and from here you can see more of those red,
+snakelike creatures flying about above it, as well as other creatures. 
+There are strong winds buffeting the cliff, as well as yourself from the
+west.  It may not be a good idea to still be on the cliff edge if the winds
+suddenly shift direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 5265
+S
+#5267
+Entrance to Oasis town~
+You now stand at the entrance to Oasis Town.  This town is lively with
+people, who are enjoying the seemingly endless spring water that the oasis
+provides.  There is also plenty of green grass, extending all the way to
+even where you are.  In the center of the oasis you notice a man meditating
+upon a small grassy island with a lone palm tree.  
+~
+0 0 0
+D1
+~
+~
+0 0 5261
+D2
+~
+~
+0 0 5253
+D3
+~
+~
+0 0 5255
+S
+#5298
+Pet Re-Pop room.~
+~
+0 4 0
+S
+#5299
+Ubuu's training room~
+This is a domed room that is in the same style as the space shuttle Goku
+flew to about the place are various implements of training items.  There are
+also many mecha Buu's about to be trained with.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5248 0 1
+D 0 5249 2 1
+M 0 5201 10 5204 2 Load giant scorpion
+M 0 5203 10 5220 2 Load sand trilobyte
+M 0 5201 10 5225 4 Load giant scorpion
+M 0 5203 10 5229 2 Load sand trilobyte
+M 0 5201 10 5232 3 Load giant scorpion
+M 0 5203 10 5233 2 Load sand trilobyte
+M 0 5203 10 5236 2 Load sand trilobyte
+M 0 5201 10 5238 1 Load giant scorpion
+M 0 5200 3 5247 3 Load mini-daemon
+M 0 5200 1 5248 1 Load mini-daemon
+M 0 5202 3 5251 1 Load fire salamander
+M 0 5202 3 5253 1 Load fire salamander
+M 0 5202 3 5257 1 Load fire salamander
+M 0 5203 10 5261 2 Load sand trilobyte
+M 0 5291 1 5298 1 Load Ruby
+M 0 5292 1 5298 1 Load Nall
+M 0 5293 1 5298 1 Load Baby Dragon Kajtsa
+M 0 5294 1 5298 1 Load Nova wolf
+M 0 5295 1 5298 1 Load Nimbus cloud
+M 0 5296 1 5298 1 Load Jojubi's pet hawk
+M 0 5297 1 5298 1 Load Mizcou
+M 0 298 1 5298 1 Load a small {Dblack{x storm cloud
+M 0 4606 1 5298 1 Load {GThrax{x the Virus
+M 0 4607 1 5298 1 Load Gabe's dog Connor
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5291
+if name $n 'Ikana'
+follow $n
+else
+mob echo $I hisses and shows its claws.
+endif
+~
+#5292
+if name $n 'Auriana'
+follow $n
+else
+mob echo $I hisses and shows its claws.
+endif
+~
+#5293
+if name $n 'Kahlan'
+follow $n
+else
+mob echoat $n $I growls and spits a fireball at you.
+mob echoaround $n $I growls and spits a fireball at $n.
+endif
+~
+#5294
+if name $n 'Hawke'
+follow $n
+else
+growl $n
+endif
+~
+#5296
+if name $n 'Jojubi'
+follow $n 
+else
+mob echoat $n $I spreads his wings and squawks at you.
+mob echoaround $n $I spreads his wings and squawks at $n.
+endif
+~
+#5297
+if name $n 'Mizzouse'
+follow $n
+else
+mob echoat $n $I throws a nut directly at your head!
+mob echoaround $n $I throws a nut directly at $n's head!
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

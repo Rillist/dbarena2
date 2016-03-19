@@ -1,0 +1,1118 @@
+#AREADATA
+Name filler rooms2~
+Builders Terraco-d~
+VNUMs 4800 4899
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#4898
+Draco~
+{MSayichia's {DPet {SSilver {RDragon{x~
+{MSayichia's {DPet {SSilver {RDragon{D, he guards her with all the powers of {RHell{x
+~
+{DStanding a towering 50ft tall, this mighty beast follows {MSayichia{D
+whereever she may roam. It is always at her side and guards her with
+every ounce of {Revil{D it can muster. Fangs hang down from its jaws at-
+least six-feet in length. Its claws are a massive 7ft long and his scales
+are so thick, not even the strongest energy attack could pierce his
+mighty hide. A very dangerous beast, it is wise not to tempt {MSayichia{D
+to sick this ferocious monster on you.{x
+~
+dragon~
+ABIRS JT -1000 0
+1000000000000 1000
+250 250 250 250 250 
+100 100
+flame
+0 0 0 0
+FHIM 0 BEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX (null) unknown
+M ACT 4898 slap~
+#4899
+Spik~
+A red dragon, wearing a a chain spiked collar~
+A Red dragon that stands about 100 Ft high, WEaring a spiked collar with Sayichia's Pet ingraved on it
+~
+~
+human~
+AI 0 -1 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 A H 0
+stand stand male 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#4800
+Dragon Pendant~
+{DA {SSilver {RDragon {DPendant{x~
+{DA {SSilver {RDragon {DPendant{x~
+unknown~
+1
+armor ABX AC
+EGIJOP EGIJOP EGIJOP EGIJOP 0
+0 1 1000000000 P
+#4801
+chrome dchair~
+chrome and ebony chair located behind the desk~
+A chrome chair with ebony padding, stationed behind the desk~
+unknown~
+1
+furniture 0 0
+A 0 E 0 0
+0 0 0 P
+E
+chair~
+With grooved arms, a reclining back and hydrolic pressure rings,
+the chair appears to be fashioned for perpetual, tedious hours
+behind the desk.
+~
+E
+chair~
+With grooved arms, a reclining back and hydrolic pressure rings, the
+chair appears to be fashioned for perpetual, tedious hours behind the desk. 
+~
+E
+chair~
+With grooved arms, a reclining back and hydrolic pressure rings, the chair
+appears to be fashioned for perpetual, tedious hours behind the desk.
+~
+E
+dchair~
+With grooved arms, a reclining back and hydrolic pressure rings, the chair
+appears to be fashioned for perpetual, tedious hours behind the desk.
+~
+E
+chrome~
+With grooved arms, a reclining back and hydrolic pressure rings, the chair
+appears to be fashioned for perpetual, tedious hours behind the desk.
+~
+E
+chrome~
+appears to be fashioned for perpetual, tedious hours behind the desk.
+~
+E
+chrome~
+With grooved arms, a reclining back and hydrolic pressure rings, the chair
+appears to be fashioned for perpetual, tedious hours behind the desk.
+~
+#4802
+desk granite angled~
+an empty section of the desk~
+An angled desk with a granite surface, bearing three monitors on one end~
+unknown~
+1
+furniture 0 0
+B 0 EG 0 0
+0 0 0 P
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle,
+facing out to the room from the corner, the desk proves to be
+a comforting, work-efficient and tactical advantage; on the angled
+section of the desk, three computer monitors cover the surface, and two
+keyboards fill the last of the gap. On its opposite end, the portion used for handling actual
+face-to-face business; a neatly arranged stack of papers, laser- and regular pens, and 
+pencils are placed into an iron-grid cup. The latter section of the furniture's surface gives
+an open view of the room, its monstrous fireplace, and the only exit within the quarters.
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the room from the 
+corner, the desk proves to be a comforting, work-efficient and tactical advantage; on the
+angled section of the desk, three computer monitors cover the surface, and two key-
+boards fill the last of the gap. On its opposite end, the portion used for handling actual
+face-to-face business; a neatly arranged stack of papers, laser- and regular pens, and
+pencils are placed into an iron-grid cup. The latter section of the furniture's surface gives
+an open view of the room, its monstrous fireplace, and the only exit within the quarters.
+~
+E
+desk~
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer
+monitors cover the surface, and two key- boards fill the last of the gap. 
+On its opposite end, the portion used for handling actual face-to-face
+business; a neatly arranged stack of papers, laser- and regular pens, and
+pencils are placed into an iron-grid cup.  The latter section of the
+furniture's surface gives an open view of the room, its monstrous fireplace,
+and the only exit within the quarters.  
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer moni-
+tors cover the surface, and two keyboards fill the last of the gap. On its 
+opposite end, the portion used for handling actual face-to-face business; a 
+neatly arranged stack of papers, laser- and regular pens, and pencils are 
+placed into an iron-grid cup.  The latter section of the furniture's surface gives 
+an open view of the room, its monstrous fireplace, and the only exit within 
+the quarters.
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer moni-
+tors cover the surface, and two keyboards fill the last of the gap. On its 
+opposite end, the portion used for handling actual face-to-face business; a 
+neatly arranged stack of papers, laser- and regular pens, and pencils are 
+placed into an iron-grid cup.  The latter section of the furniture's surface 
+gives an open view of the room, its monstrous fireplace, and the only exit 
+within the quarters.
+~
+E
+granite~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer moni-
+tors cover the surface, and two keyboards fill the last of the gap. On its 
+opposite end, the portion used for handling actual face-to-face business; a 
+neatly arranged stack of papers, laser- and regular pens, and pencils are 
+placed into an iron-grid cup.  The latter section of the furniture's surface 
+gives an open view of the room, its monstrous fireplace, and the only exit 
+within the quarters.
+~
+E
+angled~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer moni-
+tors cover the surface, and two keyboards fill the last of the gap. On its 
+opposite end, the portion used for handling actual face-to-face business; a 
+neatly arranged stack of papers, laser- and regular pens, and pencils are 
+placed into an iron-grid cup.  The latter section of the furniture's surface 
+gives an open view of the room, its monstrous fireplace, and the only exit 
+within the quarters.
+~
+#4803
+seat fashioned 1 blue-green plush~
+the velvety cushion of an eloquently made loveseat~
+A plush, sensationally-fashioned loveseat of dark, blue-green velvet~
+unknown~
+1
+furniture 0 0
+A 0 E 0 0
+0 0 0 P
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different tones
+in specific lighting. This chair, almost the size of a loveseat, reveals comfort
+and dedication in its creation, manifesting a dynamic ability to release the
+pressure pent-up in joints and relax muscles.
+~
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, re-
+veals comfort and dedication in its creation, manifesting a dynamic 
+ability to release the pressure pent-up in joints and relax muscles.
+ 
+~
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+chair~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+1~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+fashioned~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+seat~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+fashioned~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+1~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+1~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+blue-green~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+#4804
+insipid rug fur~
+a great expanse of miraculously soft fur~
+An insipid rug of dense fur~
+unknown~
+1
+furniture 0 0
+AC 0 EG 0 0
+0 0 0 P
+E
+insipid~
+Thick and wild, the fur becomes a metaphorical spread of grass, sinking 
+when pushed upon, and enveloping by affected strands of hair. Its size 
+appears to be roughly twenty-feet-by-fourteen-feet in its rugged circum-
+ference; throughout its entirety it becomes obvious that it's one large piece,
+not sewn together from multiple creatures. With precise examination, it 
+becomes palapble that the rug is merely corporeal to its original hide.
+~
+E
+fur~
+Thick and wild, the fur becomes a metaphorical spread of grass, sinking 
+when pushed upon, and enveloping by affected strands of hair. Its size 
+appears to be roughly twenty-feet-by-fourteen-feet in its rugged circum-
+ference; throughout its entirety it becomes obvious that it's one large piece,
+not sewn together from multiple creatures. With precise examination, it 
+becomes palapble that the rug is merely corporeal to its original hide.
+~
+E
+rug~
+Thick and wild, the fur becomes a metaphorical spread of grass, sinking 
+when pushed upon, and enveloping by affected strands of hair. Its size 
+appears to be roughly twenty-feet-by-fourteen-feet in its rugged circum-
+ference; throughout its entirety it becomes obvious that it's one large piece,
+not sewn together from multiple creatures. With precise examination, it 
+becomes palapble that the rug is merely corporeal to its original hide.
+~
+#4805
+monolithic blanket bed~
+a massive, comfortable bed that sinks upon being used~
+A monolithic, fur-blanketed bed~
+unknown~
+1
+furniture 0 0
+C 0 EG BD 0
+0 0 0 P
+E
+monolithic~
+Low-set on a mattress that has no give between the bed and the floor itself, 
+the comfortable level zeniths at a nirvana of placidity. Blankets of wool-like 
+material cover the bed in a layered array, leaving the two monolithic pillows 
+open and welcoming.
+~
+E
+blanket~
+Low-set on a mattress that has no give between the bed and the floor itself, 
+the comfortable level zeniths at a nirvana of placidity. Blankets of wool-like 
+material cover the bed in a layered array, leaving the two monolithic pillows 
+open and welcoming.
+~
+E
+bed~
+Low-set on a mattress that has no give between the bed and the floor itself, 
+the comfortable level zeniths at a nirvana of placidity. Blankets of wool-like 
+material cover the bed in a layered array, leaving the two monolithic pillows 
+open and welcoming.
+~
+#4806
+roaring fire erratic meniscus~
+a roaring fire within an erratic meniscus in the rockface~
+A roaring fire within an erratic meniscus in the rockface~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+roaring~
+Unkempt flames roil, tossing and turning within the natural hearth, blazing 
+with an insignia of past remembrance. The rockface holds a rugged appear-
+ance, as it moves out into the room obtrusively before sinking back at a 
+sharp angle, where the fire is held. The meniscus, crescent, in the wall 
+bears a dynamic explosion of depth and superiority, expanding the berth 
+retrogressively as well as across. The further back the eye can see, the 
+more flames and dancing lights can be perceived. Tantalizing and alluring 
+as it may appear, one could possibly get lost for hours in sporadic thought 
+when gazing within these multi-colored flames of uncanny longevity.
+~
+E
+fire~
+Unkempt flames roil, tossing and turning within the natural hearth, blazing 
+with an insignia of past remembrance. The rockface holds a rugged appear-
+ance, as it moves out into the room obtrusively before sinking back at a 
+sharp angle, where the fire is held. The meniscus, crescent, in the wall 
+bears a dynamic explosion of depth and superiority, expanding the berth 
+retrogressively as well as across. The further back the eye can see, the 
+more flames and dancing lights can be perceived. Tantalizing and alluring 
+as it may appear, one could possibly get lost for hours in sporadic thought 
+when gazing within these multi-colored flames of uncanny longevity.
+~
+E
+meniscus~
+Unkempt flames roil, tossing and turning within the natural hearth, blazing 
+with an insignia of past remembrance. The rockface holds a rugged appear-
+ance, as it moves out into the room obtrusively before sinking back at a 
+sharp angle, where the fire is held. The meniscus, crescent, in the wall 
+bears a dynamic explosion of depth and superiority, expanding the berth 
+retrogressively as well as across. The further back the eye can see, the 
+more flames and dancing lights can be perceived. Tantalizing and alluring 
+as it may appear, one could possibly get lost for hours in sporadic thought 
+when gazing within these multi-colored flames of uncanny longevity.
+~
+E
+erratic~
+Unkempt flames roil, tossing and turning within the natural hearth, blazing 
+with an insignia of past remembrance. The rockface holds a rugged appear-
+ance, as it moves out into the room obtrusively before sinking back at a 
+sharp angle, where the fire is held. The meniscus, crescent, in the wall 
+bears a dynamic explosion of depth and superiority, expanding the berth 
+retrogressively as well as across. The further back the eye can see, the 
+more flames and dancing lights can be perceived. Tantalizing and alluring 
+as it may appear, one could possibly get lost for hours in sporadic thought 
+when gazing within these multi-colored flames of uncanny longevity.
+~
+#4807
+rul'modhae coffee panel~
+a panel marked Rul'Modhae~
+An electronical panel titled "Rul'Modhae" in a soft blue glow~
+unknown~
+1
+fountain 0 0
+-1 1 'coffee' 0 0
+0 0 0 P
+E
+rul'modhae~
+Chrome with bluish tones grant the image of metallic crystal, each swirl 
+made from a finely utilized torch. One meniscus ahs its pattern distorted by 
+an opening with a glass screen. The mechanics reveal its ability to retract 
+the transparent cover; the interior is adorned with both a rotary disc with 
+numerous nozzles, and a tray with a circular groove in its center. Across 
+the upper portion of the panel, words of another dialect are written, stating, 
+"Rul'Modhae" in an eloquent manner while glowing a gentle neon blue.
+~
+E
+coffee~
+Chrome with bluish tones grant the image of metallic crystal, each swirl 
+made from a finely utilized torch. One meniscus ahs its pattern distorted by 
+an opening with a glass screen. The mechanics reveal its ability to retract 
+the transparent cover; the interior is adorned with both a rotary disc with 
+numerous nozzles, and a tray with a circular groove in its center. Across 
+the upper portion of the panel, words of another dialect are written, stating, 
+"Rul'Modhae" in an eloquent manner while glowing a gentle neon blue.
+~
+E
+panel~
+Chrome with bluish tones grant the image of metallic crystal, each swirl 
+made from a finely utilized torch. One meniscus ahs its pattern distorted by 
+an opening with a glass screen. The mechanics reveal its ability to retract 
+the transparent cover; the interior is adorned with both a rotary disc with 
+numerous nozzles, and a tray with a circular groove in its center. Across 
+the upper portion of the panel, words of another dialect are written, stating, 
+"Rul'Modhae" in an eloquent manner while glowing a gentle neon blue.
+~
+#4808
+plush fashioned seat 2 indigo~
+the velvety cushion of an eloquently made loveseat~
+A plush, sensationally-fashioned loveseat of indigo velvet~
+unknown~
+1
+furniture 0 0
+A 0 E 0 0
+0 0 0 P
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+fashioned~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+seat~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+2~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+indigo~
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+seat~
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+plush~
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+2~
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+fashioned~
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+#4809
+Chair of Kube~
+{CA {DBlack{C Lazy Boy Recliner{x~
+{CA {DBlack{C Lazy Boy Recliner{x~
+unknown~
+1
+furniture 0 0
+A 0 EFHI DFGHIJ DFGHIJ
+0 0 0 P
+#4895
+Table Board~
+{DA {yLarge {rMeeting {DTable{X~
+{DA {yLarge {rMeeting {DTable sits here before you.{X~
+unknown~
+2147483647
+furniture 0 0
+BD ABCDEFGHIJKLMNOPQRSTUVWXYZabcde D 0 0
+0 0 0 P
+#4896
+desk~
+{DA large {yOak {dDesk{X~
+{DA large {yOak {dDesk {Dwith the name '{rNesoiak{D' scratched on sits here.{X~
+unknown~
+100300230
+furniture 0 0
+A HJKMPTUX DEP 0 0
+0 0 0 P
+#4897
+table coffee~
+a smallish coffee table~
+A smallish coffee table~
+unknown~
+1
+container 0 0
+10000000 E 0 10000000 0
+0 0 0 P
+#4898
+cups~
+a cup with a {Rred dragon{x logo upon it~
+A cup with a {Rred dragon{x logo upon it lays here~
+unknown~
+100000000
+drink 0 A
+10000 0 'coffee' 0 0
+0 0 0 P
+O GET 4898 100~
+#4899
+coffee machine~
+a coffee maker~
+A brand name coffee maker~
+unknown~
+1
+fountain 0 0
+-1 1 'coffee' 0 0
+1 1 1 P
+#0
+
+
+
+#ROOMS
+#4800
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is a
+set of yellow lines going down the center of it.  The Pavement seems to end
+here as the shore has become too soft to sustain something so heavy.  The
+black pavment seems to give off heat as the sun beats down on it in the
+daylight but seems cooler as night rolls on.  There isn't much traffic on
+this road yet it seems to have been used well by the look of the ruts going
+down each side of the faded yellow line.  
+~
+0 0 0
+D0
+~
+~
+0 0 1728
+D2
+~
+~
+0 0 4801
+S
+#4801
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4800
+D2
+~
+~
+0 0 4802
+S
+#4802
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4801
+D2
+~
+~
+0 0 4803
+S
+#4803
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4802
+D2
+~
+~
+0 0 4804
+S
+#4804
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4803
+D2
+~
+~
+0 0 4805
+S
+#4805
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4804
+D1
+~
+~
+0 0 4806
+S
+#4806
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D1
+~
+~
+0 0 4807
+D3
+~
+~
+0 0 4805
+S
+#4807
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D1
+~
+~
+0 0 4808
+D3
+~
+~
+0 0 4806
+S
+#4808
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D1
+~
+~
+0 0 4809
+D3
+~
+~
+0 0 4807
+S
+#4809
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D1
+~
+~
+0 0 4810
+D3
+~
+~
+0 0 4808
+S
+#4810
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D2
+~
+~
+0 0 4811
+D3
+~
+~
+0 0 4809
+S
+#4811
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4810
+D2
+~
+~
+0 0 4812
+S
+#4812
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4811
+D2
+~
+~
+0 0 4813
+S
+#4813
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4812
+D2
+~
+~
+0 0 4814
+S
+#4814
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4813
+D1
+~
+~
+0 0 4815
+S
+#4815
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D1
+~
+~
+0 0 4816
+D3
+~
+~
+0 0 4814
+S
+#4816
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D2
+~
+~
+0 0 4817
+D3
+~
+~
+0 0 4815
+S
+#4817
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4816
+D2
+~
+~
+0 0 4818
+S
+#4818
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4817
+D2
+~
+~
+0 0 4819
+S
+#4819
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4818
+D2
+~
+~
+0 0 4820
+S
+#4820
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4819
+D2
+~
+~
+0 0 4821
+S
+#4821
+Road to South City~
+The road heading south seems to be be well kept up and paved.  There is
+a set of yellow lines going down the center of it.  The black pavment seems
+off heat as the sun beats down on it in the daylight but seems cooler as
+rolls on.  There isn't much traffic on this road yet it seems to have been
+used well by the look of the ruts going down each side of the faded yellow
+line.  
+~
+0 0 0
+D0
+~
+~
+0 0 4820
+D2
+~
+~
+0 0 2500
+S
+#4896
+{WNesoiak's {COff{cice{X~
+{DYou find your self in a large {Wwhite{D room.  You notice that there is
+a unknown {ylight{D source emmiting from the cealing.  It only {ylights {Dan
+area that appears to be the center of the room.  In this area, you notice a
+long board room style table that reaches out into the {ddarkness.  {D On the
+table you see multiple folders resting in the center.  {X 
+~
+0 0 0
+D3
+~
+~
+0 0 4899
+S
+#4897
+RP IMM Meeting Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 4899
+S
+#4898
+Chronological Forgottence~
+Pass Admittance.  A metallic substance stretches away from the electronic
+door.  An unadorned rug, plush and varying in textures of brown before the
+ever-burning fire, which resides in a mishmash hearth of granite.  The
+walls, ridged without any true geometric shape, are a conglomeration of
+cyber-electronics and graphite; a cave-like grotto lost in neanderthalic
+diversity, though bearing a past of technological advancement.  As a whole,
+the area itself cannot be depicted from its natural or deliberate setting.  
+~
+0 0 0
+D1
+~
+~
+0 0 4899
+S
+#4899
+Sayichia's Office~
+{DStanding in the office of {mSayichia{D, a warm feeling engulfs
+the room. The walls are covered in {rDragons{D of all different sizes
+and colors. Some are {YYellow{D with huge razor sharp fangs dripped
+in {rblood{D. Some are {rRed{D with {rFire{D shooting from their mouthes at
+{cinnocent{D victims in their {rclaws{D.  The room gives off a certain
+sort of {CAura{D that drips into your {bsoul{D.  In the center of the
+room is an antique desk covered in the scales of a {rDragon{D.{x
+~
+0 4 0
+D0
+~
+~
+0 0 4897
+D1
+~
+~
+0 0 4896
+D3
+~
+~
+0 0 4898
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 4896 0 4896 {da large {yoak {ddesk{x loaded to {WNesoiak's {COff{cice{X
+O 0 4895 0 4896 {da {ylarge {rmeeting {dtable{x loaded to {WNesoiak's {COff{cice{X
+O 0 4897 0 4899 A smallish coffee table loaded to Sayichia's Office
+O 0 4898 0 4899 A cup with a {rred dragon{x logo upon it loaded to Sayichia's Office
+O 0 4899 0 4899 A coffee maker loaded to Sayichia's Office
+O 0 1920 0 4899 A chocolate milk fountain loaded to Sayichia's Office
+O 0 4613 0 4899 {da {rdragon scale{d designed desk with "{msayichia{d" written on it{x loaded to Sayichia's Office
+O 0 4612 0 4899 {da rather large futon with a {rdragon {ddesign on it{x loaded to Sayichia's Office
+M 0 4898 1 4899 1 Load {MSayichia's {DPet {SSilver {RDragon{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4898
+growl
+~
+#0
+
+#OBJPROGS
+#4898
+obj echo $I glows in a dark red aura.
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

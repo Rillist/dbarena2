@@ -1,0 +1,2679 @@
+#AREADATA
+Name 439 Mountain Area~
+Builders Done-linked~
+VNUMs 1100 1499
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#1100
+Brown Bear~
+A brown bear~
+A large brown bear
+~
+Looking to weight in about 350 pounds or so this brown bear looks strong
+enough to tear most people apart.  
+~
+bear~
+AGP 0 -300 0
+200000 44
+70 70 70 70 70 
+100 100
+punch
+0 0 0 0
+CDER 0 EI 0
+stand stand none 570
+AGV ABCDEFHJKUV medium unknown
+F off O
+#1101
+Young buck deer~
+A young buck with small antlers~
+A young buck with small antlers
+~
+Not as big as some of the older bucks this one could still hurt someone.  
+~
+dog~
+AGP 0 300 0
+150000 38
+69 69 69 69 69 
+100 100
+punch
+0 0 0 0
+CH 0 0 0
+stand stand none 531
+AGV ACDEFHJKUV medium unknown
+#1102
+Eagle~
+A large eagle~
+A soaring eagle
+~
+~
+human~
+AGP 0 0 0
+100000 105
+35 50 50 30 70 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 70
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1103
+black bear~
+A large black bear~
+A large black bear
+~
+A large black bear looking to weight about 400lbs.
+~
+human~
+AGP 0 0 0
+750000 86
+74 74 74 74 74 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 794
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1104
+Black bear~
+A huge black bear~
+A huge black bear
+~
+A huge black bear that looks to weight in at about 650 lbs.
+~
+human~
+AGP 0 0 0
+900000 63
+45 45 45 45 45 
+100 100
+claw
+0 0 0 0
+0 E 0 0
+stand stand none 800
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1105
+baby trex tyranosaurus rex~
+A small baby t-rex~
+A Baby t-rex eating something it killed recently
+~
+A baby dinosaur eating something that was killed recently.
+~
+human~
+AGP 0 0 0
+1500000 122
+77 77 77 77 77 
+100 100
+punch
+0 0 0 0
+0 E 0 0
+stand stand none 944
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1106
+Medium t-rex rex tyranosaurus~
+A medium sized t-rex stalking food~
+A medium sized t-rex stalking food
+~
+Large enough to eat almost anything it wants this t-rex stalks around
+here looking for a meal.  
+~
+human~
+AGP 0 0 0
+3000000 173
+80 80 80 80 80 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 1123
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1107
+adult male t-rex rex~
+A large red adult T-rex~
+A large red adult T-rex
+~
+~
+human~
+AGP 0 0 0
+5000000 223
+83 83 83 83 83 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 1276
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1108
+blue adult t-rex rex large~
+A large blue adult T-rex~
+A large blue adult T-rex
+~
+~
+human~
+AGP 0 0 0
+4000000 200
+82 82 82 82 82 
+100 100
+chomp
+0 0 0 0
+0 0 0 0
+stand stand none 1207
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1109
+android humanoid~
+A large android that looks identical to a human man~
+A large android that looks identical to a human man
+~
+~
+android~
+AGRS 0 0 0
+5000000 223
+83 83 83 83 83 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 1276
+AHMV ABCDEFGHIJK medium unknown
+#1110
+android human female~
+An android looking much like a human female~
+An android looking much like a human female is here
+~
+~
+android~
+AGS 0 0 0
+10000000 316
+88 88 88 88 88 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 1518
+AHMV ABCDEFGHIJK medium unknown
+#1111
+A large rock~
+A large brown Rock~
+A large brown rock covered in dirt
+~
+~
+human~
+AGQ 0 -9000 0
+125 0
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 86
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1111 100~
+#0
+
+
+
+#OBJECTS
+#1100
+sphere rusted~
+a rusted sphere~
+A large rusted sphere covered by grass~
+unknown~
+1
+portal 0 0
+0 0 0 ABDFGHJ 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1100
+Base of a Mountain~
+The southern base of the mountains here boarders a large lake that looks
+to be fed on its northern shore by a large waterfall.  A forest can be seen
+directly south of here with trees towering up into the sky.  To the north
+the mountains begin to go up.  Animals can be seen higher up and even fly
+around the mountains.  
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 1101
+D1
+~
+~
+0 0 1710
+D3
+~
+~
+0 0 1114
+S
+#1101
+Mountains~
+Just above sealevel on the southern side of a mountain a lake can be seen
+to the south east though jumping from here would be suicide.  A waterfall
+can be seen east of here dumping water into the lake from a river that runs
+from the mountains Many animals can be seen around the mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 1102
+D1
+~
+~
+0 0 1711
+D2
+~
+~
+0 0 1100
+D3
+~
+~
+0 0 1113
+S
+#1102
+Base of the Mountain~
+Standing at the base of the southern side of the mountains a lake can be
+seen to the south east.  To the east a cliff leading up and around the
+eastern side of this mountain.  The mountain to the north goes up from here
+into the clouds.  A forest can be seen south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1103
+D2
+~
+~
+0 0 1101
+D3
+~
+~
+0 0 1112
+D4
+~
+~
+0 0 1110
+S
+#1103
+Mountain Path~
+A wide cliff leads east here angling up and appearing to run to a river
+that falls off to the lake below.  Large reptiles can be seen fly around
+above the mountains and some can be seen walking around.  A forest can be
+seen to the south while the base of this mountian is south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1104
+D2
+~
+~
+0 0 1711
+D3
+~
+~
+0 0 1102
+S
+#1104
+Mountain Path~
+The incline of the ground gets alot steeper from here for those traveling
+up the mountain.  The path that outlines the moutains continues south and
+east of here.  Also to the east a river can be seen falling into the lake
+below.  Up in the mountains alot of animals can be seen due to the lack of
+trees growing in the rocky terrain.  More mountains are to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1146
+D1
+~
+~
+0 0 1105
+D2
+~
+~
+0 0 1103
+D3
+~
+~
+0 0 1110
+S
+#1105
+Mountain Path~
+The slight incline of the path has raised this part of the path up about
+70 feet in the air.  There are very few plants growing out of the rocky
+terrain of this mountain and it allows a view up to the point where the
+mountain goes though the clouds.  Many animals can be seen walking and
+flying around.  To the east the path looks to lead to the river at the point
+where it falls into the lake below while west leads to the base of this
+mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1147
+D1
+~
+~
+0 0 1106
+D3
+~
+~
+0 0 1104
+S
+#1106
+Mountain Path~
+The waterfall is just east of here and is extremly loud.  There is a
+ledge to the east as well that offers one the chance to climb down and walk
+around the lake shore.  The mountain path continues north leading to the
+bank of the river that feeds the waterfall.  West the path leads back to the
+base of the mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1105
+S
+#1107
+Mountain Path~
+Standing just west of the rivers bank the ground is very rocky and
+uneven.  The few patches of dirt are covered in grass surviving off the
+water of the river.  The path leads only south from here though a strong man
+could climb the mountains north and west of here.  The river is to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 1108
+D2
+~
+~
+0 0 1106
+D3
+~
+~
+0 0 1147
+D4
+~
+~
+0 0 1149
+S
+#1108
+Rivers Edge~
+The water is fast moving and falls just to the south of here.  The wide
+river plus the powerful current make it impossible to swim across here.  At
+the edge of the falls a narrow cliff can be seen about 10 feet below.  To
+the north the river flows between some mountains.  The mountain to the north
+acts as the river bank north of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1109
+D3
+~
+~
+0 0 1107
+D4
+~
+~
+0 0 1150
+D5
+~
+~
+0 0 1716
+S
+#1109
+Atop the Waterfall~
+Many rocks stick out of the water causing very powerful rapids.  Anyone
+that would try to swim over this would be swept off.  A white mist rises up
+from below where the falls meet the lake.  To the south a large forest can
+be seen standing.  
+~
+0 0 0
+D0
+~
+~
+0 0 1166
+D3
+~
+~
+0 0 1108
+R GRALL 1100 100~
+S
+#1110
+Side of a Mountain~
+The side of this mountain is very steep and hard to climb up.  Sharp
+rocks stick out of the dirt supplying the only footing for those that go up
+on foot.  South and east of here a path runs from the base of the mountains
+to a river in the east.  North a narrow ledge allows one a place to rest
+from climbing.  West will simply allow one to cirle around this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1134
+D1
+~
+~
+0 0 1104
+D3
+~
+~
+0 0 1111
+D5
+~
+~
+0 0 1102
+S
+#1111
+Side of a Mountain~
+The large rocks sticking out of the ground provide the only footing for
+those climbing up the side of this mountain.  On the southern side of this
+mountain a forest and a lake can be seen south east of here.  Large animals
+can be seen flying around farther up the mountain.  West and east circle
+this mountain while up leads to a ledge where one can rest from climbing. 
+Down from here is the base of this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1135
+D1
+~
+~
+0 0 1110
+D3
+~
+~
+0 0 1121
+D5
+~
+~
+0 0 1112
+S
+#1112
+Base of a Mountain~
+Standing at the base of a large mountain a few animals can be seen flying
+around higher up the mountain.  West a high ledge with the sound of water
+coming from the opther side stands waiting to be climb.  East of here a path
+up into the mountains can be seen.  South is a open field that leads to a
+forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 1102
+D2
+~
+~
+0 0 1113
+D3
+~
+~
+0 0 1119
+D4
+~
+~
+0 0 1111
+S
+#1113
+Rocky Field~
+The ground is very rocky due to the mountains in the north.  Small
+woodland animals can be seen running around looking for food and large birds
+fly overhead.  South a large forest can be seen while to the west a lake
+gleams in the light.  West is a cliff with the sound of water coming from
+behind it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1112
+D1
+~
+~
+0 0 1101
+D2
+~
+~
+0 0 1114
+D3
+~
+~
+0 0 1118
+S
+#1114
+Southern Edge of the Mountains~
+A few rocks stick up through the dirt here.  Small animals scamper around
+looking for food and trying to avoid the large birds that fly around
+hunting.  A forest is directly south of here while a ledge can be seen to
+the west with the sound of water coming from behind it.  East is a path that
+appears to lead up into the mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 1113
+D1
+~
+~
+0 0 1100
+D3
+~
+~
+0 0 1115
+S
+#1115
+Southern Edge of the Mountains~
+Standing on a cliff here the tops of the trees south are eye level.  The
+sound and smell of water drift in from the west where seagulls can be seen
+flying around.  North the mountains stand tall and powerful.  East is a
+clearing with soil to rocky for the forest to grow in.  
+~
+0 0 0
+D0
+~
+~
+0 0 1118
+D1
+~
+~
+0 0 1114
+D3
+~
+~
+0 0 1116
+S
+#1116
+Rocky Coastline~
+To the west a large ocean stretches off into the distance.  The is no
+beach as the rocky cliffs seem to grow right up out of the water and hold it
+back from the mountains.  Most of the rocky ground here is covered in a
+thick green mold.  East and north the plateu of this cliff continues.  On
+the southern edge here one could climb down into the forest below.  
+~
+0 0 0
+D0
+~
+~
+0 0 1117
+D1
+~
+~
+0 0 1115
+S
+#1117
+Cliff Overlooking the Ocean~
+To the west the ocean stretches as far as the eye can see.  The rocky
+cliff stands around 100 feet high here and appears to grow right out of the
+ocean itself.  The cliff angle down slightly to the north as it lead to the
+base of a mountain.  Large animals can be seen flying around near the tops
+of the mountains.  A forest can be seen south of here.  The plateu continues
+south and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1120
+D1
+~
+~
+0 0 1118
+D2
+~
+~
+0 0 1116
+S
+#1118
+Rocky Plateu~
+This rocky plateu allow one to see the forest to the south stretching far
+to the south.  A rocky field to the east is about 70 feet below and flat. 
+East the plateu looks to drop off.  The sound of water and a gentle breeze
+aslo come from that way.  North the plateu angles downward as it leads to
+the base of a mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1119
+D1
+~
+~
+0 0 1113
+D2
+~
+~
+0 0 1115
+D3
+~
+~
+0 0 1117
+S
+#1119
+Base of a Mountain~
+A mountain towers above everything to the north with other mountains
+sticking up from behind it.  Going up from here will climb up the mountain. 
+A path can be seen a little ways to the east and appears to lead to a river
+farther east still.  South of here the ground angle upwards as it flattens
+out.  West the sound and smell of salt water are thick.  
+~
+0 0 0
+D1
+~
+~
+0 0 1112
+D2
+~
+~
+0 0 1118
+D3
+~
+~
+0 0 1120
+D4
+~
+~
+0 0 1121
+S
+#1120
+Rocky Coastline~
+There is no beach, instead the waves from the ocean that stretches far to
+the west slap against the side of the cliff and the rocks that stick out of
+the water many feet below.  Some medium sized white birds can be seen flying
+around out over the ocean looking for food.  The ground here is very rocky
+and covered with a thick green mold.  A ways to the east a path can be seen
+leading up to a river way to the east.  South a forest stand very thick with
+many tall trees stetching way off to the distance.  North the coastline
+continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 1122
+D1
+~
+~
+0 0 1119
+D2
+~
+~
+0 0 1117
+S
+#1121
+Southern Side of a Mountain~
+East and north of here one can circle around this mountain.  Farther to
+the east a river can be seen flowing out of the mountains.  Down from here
+leads to the base of this mountain while farther south a forest stands. 
+West a cliff overlooking an ocean that stretches far into the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 1129
+D1
+~
+~
+0 0 1111
+D3
+~
+~
+0 0 1122
+D5
+~
+~
+0 0 1119
+S
+#1122
+Rocky Coastline~
+The ocean to the west stretch as far as the eye can see.  A small dot can
+be seen off in the distance near the point where the sky and water seem to
+melt together.  South of here the cliff over the ocean continues and becomes
+higher while north is steadily angle down.  East of here the southern side
+of a mountain with no footing other then some rocks that stick out of the
+ground providing a little footing for those climbing.  
+~
+0 0 0
+D0
+~
+~
+0 0 1123
+D1
+~
+~
+0 0 1121
+D2
+~
+~
+0 0 1120
+S
+#1123
+Rocky Coastline~
+The cliff is about 50 feet above the ocean here but still ofers a great
+veiw.  This cliff stretches to the north of here though it angles down the
+rest of the way.  Near the base a large building can be seen with a large
+city behind it.  East of here the side of a mountain acts almost as a wall
+that must be gone over.  South the cliff stretches on a ways till it meets
+some trees.  
+~
+0 0 0
+D0
+~
+~
+0 0 1124
+D1
+~
+~
+0 0 1129
+D2
+~
+~
+0 0 1122
+S
+#1124
+Cliff Overlooking the Ocean~
+The cliff is about 35 feet above the oceans surface here and almost
+appears to grow out of the water itself to hold it back.  North is a long
+runway with a large building behind it.  Farther north behind that a large
+city stands.  South the cliff continues til it is met by a forest.  East the
+side of a mountain stands waiting to be climbed.  
+~
+0 0 0
+D0
+~
+~
+0 0 1125
+D1
+~
+~
+0 0 1130
+D2
+~
+~
+0 0 1123
+S
+#1125
+Hill Overlooking the Ocean~
+The ocean to the west fills this area with the sound and smell of salt
+water.  The rocky soil here has patches of grass growing around it.  South
+the ground gets higher and seems to grow out of the waters to hold it back. 
+East is the northern side of a mountain that sits almost perfectly level
+with this hill.  North is a large building with a larger city behind it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1126
+D1
+~
+~
+0 0 1131
+D2
+~
+~
+0 0 1124
+S
+#1126
+Sandy Beach~
+The ocean to the west stretches far into the distance.  The ocean washes
+up on the white sand of this beach and then back out to the ocean.  Directly
+east of here is a landing strip used by those coming to or leaving planet
+earth.  South the land becomes more rocky and begins to angle upwards.  The
+beach continues north.  
+~
+0 0 0
+D0
+~
+~
+0 0 1127
+D1
+~
+~
+0 0 200
+D2
+~
+~
+0 0 1125
+S
+#1127
+Sandy Beach~
+The ocean to the west stretches far into the distance.  The waves crash
+up against the white sand of the beach then retreat back to the ocean.  East
+is a path leading between the welcome center and Satan city.  The beach
+continues running north and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1128
+D1
+~
+~
+0 0 900
+D2
+~
+~
+0 0 1126
+S
+#1128
+Sandy Beach~
+The waves from the ocean to the west slap against the white sand beach
+here then creep away back to the ocean.  The ocean itself seems to stretch
+on til it and the sky meet.  The way north is blocked by Satan city though a
+path leading into the city is east of here.  The beach stretches south of
+here and appears to rise in height as is gets closer to the mountains.  
+~
+0 0 0
+D1
+~
+~
+0 0 901
+D2
+~
+~
+0 0 1127
+S
+#1129
+Side of a Mountain~
+Traveling around the western side of this mountain only the ocean to the
+west can be seen.  The large mass of rock and dirt block most everything
+else here.  Off a ways in the distance west a small mass can be seen in the
+middle of the ocean.  Farther up the mountain one can see many animals and
+even some nests of the one that fly.  North and south of here one can travel
+around the mountain at this height.  Directly up from her eis the top of
+this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1130
+D1
+~
+~
+0 0 1135
+D2
+~
+~
+0 0 1121
+D3
+~
+~
+0 0 1123
+S
+#1130
+Side of a Mountain~
+This is the north western corner of this mountain.  By going east or
+south one can circle this mountain at this altitude.  To the north the path
+goes down to the base of this mountain.  A landing strip can be seen just
+north of the base of this mountain.  West of here is a cliff with the sound
+of the ocean coming from behind it.  
+~
+0 0 0
+D1
+~
+~
+0 0 1132
+D2
+~
+~
+0 0 1129
+D3
+~
+~
+0 0 1124
+D5
+~
+~
+0 0 1131
+S
+#1131
+Base of a Mountain~
+A large mountain towers above everything to the south of here while a
+landing strip is north.  The rocky soil here is uneven and can be hard to
+walk on.  West is a hill that overlooks the ocean and has the sound and
+smell of salt water coming from the other side.  Up from here one can begin
+going up the side of the mountain to the south.  A little farther to the
+east of here is a valley in between two mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 200
+D1
+~
+~
+0 0 1136
+D3
+~
+~
+0 0 1125
+D4
+~
+~
+0 0 1130
+S
+#1132
+Northern Side of a Mountain~
+About 70 feet above the ground on the northern side of this mountain much
+can be seen to the north.  Directly at the base of this mountain a valley
+between this mountain and one just slightly farther north can be seen. 
+Farther north and slightly west a large Satan city can be seen standing tall
+and proud.  East and west one can circle around this mountain while up will
+lead to the top.  
+~
+0 0 0
+D1
+~
+~
+0 0 1133
+D2
+~
+~
+0 0 1135
+D3
+~
+~
+0 0 1130
+D5
+~
+~
+0 0 1136
+S
+#1133
+Side of a Mountain~
+About 70 feet off the ground at the north eastern corner of this mountain
+not much other then other mountains can be seen.  There is a large city to
+the north west of here.  It is possible to circle the mountain here by going
+west or south of here.  South a nest with a large reptile in it can be seen.
+~
+0 0 0
+D1
+~
+~
+0 0 1145
+D2
+~
+~
+0 0 1134
+D3
+~
+~
+0 0 1132
+D5
+~
+~
+0 0 1137
+S
+#1134
+Side of a Mountain~
+The rocks that stick out of the side of this moutain supply the only
+footing here for those that choose to climb.  All that can be seen here,
+other then the mountains all around, is a lake to the south east of here. 
+By going west here one could go to the top of this mountain.  North and
+south lead around the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1133
+D1
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1110
+D3
+~
+~
+0 0 1135
+S
+#1135
+Top of a Mountain~
+On top of this mountain most of the others still tower above.  This is
+easily the smallest of the mountains in this area but still offers a great
+veiw.  North a landing pad and a large city can be seen while to the south a
+thick forest stands.  South east a lake feed by a waterfall from a river
+flowing out of these mountains shines in the light.  All directions lead
+down the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1132
+D1
+~
+~
+0 0 1134
+D2
+~
+~
+0 0 1111
+D3
+~
+~
+0 0 1129
+S
+#1136
+Base of a Mountain~
+The mountain to the south doesnt allow of one to climb up easily as it is
+a flat wall of rock with only a few places to grab on and climb up.  It
+seems to be smaller then the other mountains around it.  To the north a
+valley inbetween this mountain and two others stretches on with animals
+feeding on the grass that grows thick there but can't on the rocky
+mountains.  East of here the flat wall of rock continues to block people
+that wish to climb up from doing so.  
+~
+0 0 0
+D0
+~
+~
+0 0 1138
+D1
+~
+~
+0 0 1137
+D3
+~
+~
+0 0 1131
+D4
+~
+~
+0 0 1132
+S
+#1137
+Base of a Mountain~
+Unlike other parts of this mountain the path upwards is not a steep
+incline but rather a wall of rock with very few places to grip and climb up.
+This mountain looks smaller then the others around it but still towers above
+everything here.  North a valley between this mountain and 2 others is the
+only spot that can be seen where grass grows thick.  Up and slightly south
+on the mountain a large nest can be seen hanging on the side of this
+mountain.  West of here the wall of rock continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 1139
+D1
+~
+~
+0 0 1144
+D3
+~
+~
+0 0 1136
+D4
+~
+~
+0 0 1133
+S
+#1138
+Green Valley~
+With large rocky mountains to the north south and east of here this
+valley is almost remote.  However since Satan city is north west of here
+many people come here taking away from the serinity of it.  It stretchs
+slightly farther north and south and a ways to the east before hitting any
+of the three mountains that surround it.  A landing pad is directly west of
+here and is where people coming in from other planets land when they decide
+to visit earth.  
+~
+0 0 0
+D0
+~
+~
+0 0 1143
+D1
+~
+~
+0 0 1139
+D2
+~
+~
+0 0 1136
+D3
+~
+~
+0 0 200
+S
+#1139
+Green Valley~
+With mountains on three sides and a landing strip to the west it is
+almost peaceful.  Spaceship coming from and leaving to other planets roar
+overhead distupting the serinity of this place though it is still delightful
+to the eyes.  The green grass stratches right up to the mountains and some
+animals have choosen to disreguard the loud sounds and still come here to
+feed.  
+~
+0 0 0
+D0
+~
+~
+0 0 1142
+D1
+~
+~
+0 0 1140
+D2
+~
+~
+0 0 1137
+D3
+~
+~
+0 0 1138
+S
+#1140
+Green Valley~
+The south eastern corner of this valley has a steep hill to the east. 
+Many trees grow at the base of the mountain and up its side.  A few animals
+can be seen east and north feeding on the thick grass.  To the south the
+ground is just slightly higher because it is just a crease in between two
+mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1159
+D2
+~
+~
+0 0 1144
+D3
+~
+~
+0 0 1139
+S
+#1141
+Green Valley~
+The thick green grass of this valley is perfect for the wildlife that
+live in the mountains.  Many of them can be seen south and west of here
+grazing and looking up when a spaceship passes overhead.  Many trees grow
+near and up onto the mountain in the east allowing for a place for the
+animals that feed here to live.  The mountain to the north seems to have
+more rocks then dirt but even still a few trees grow that can be seen from
+here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1158
+D2
+~
+~
+0 0 1140
+D3
+~
+~
+0 0 1142
+D4
+~
+~
+0 0 1169
+S
+#1142
+Green Valley~
+The tall and thick green grass of this valley helps to attract hungry
+animals from the mountains to this valley.  A few trees are spread out over
+it but most of the trees look to be on the mountains to the north and east
+of here.  A landing pad can be seen to the west and sometimes a spaceship
+coming to or leaving from earth roars overhead startling the animals of this
+valley.  TO the north west a large city can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 1141
+D2
+~
+~
+0 0 1139
+D3
+~
+~
+0 0 1143
+D4
+~
+~
+0 0 1168
+S
+#1143
+Green Valley~
+The thick green grass of this valley serves as a food sorce for many of
+the animals that live in the mountains around this valley.  The peacefulness
+of this place is interupted only by the spaceships that fly overhead landing
+on the landing pad to the south west.  A large city can be seen to the north
+west with many sounds coming from it.  
+~
+0 0 0
+D1
+~
+~
+0 0 1142
+D2
+~
+~
+0 0 1138
+D3
+~
+~
+0 0 900
+D4
+~
+~
+0 0 1167
+S
+#1144
+Crease Between Two Mountains~
+Two mountains, one to the east and one to the west, meet here causing
+very steep climbing either of those ways.  To the east the mountain is
+covered in trees and signs of life while to the west the mountain is a large
+rocky mass with few animals on it.  Directly to the north a valley the is
+surrounded on 3 sides by mountains can be seen with animals feeding on it. 
+A well traveled path can be seen south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1140
+D1
+~
+~
+0 0 1160
+D2
+~
+~
+0 0 1145
+D3
+~
+~
+0 0 1137
+S
+#1145
+Crease Between Two Mountain~
+Mountains tower to the east and west though they look completly
+different.  To the west the mountain is very rocky and does not have much
+plant life growing on it.  A few large animals can be seen near the top.  To
+the east however the mountain is covered in trees and plants.  Though no
+animals can be seen through the thick trees the planets rustle around as
+things move through them.  
+~
+0 0 0
+D0
+~
+~
+0 0 1144
+D1
+~
+~
+0 0 1148
+D2
+~
+~
+0 0 1146
+D3
+~
+~
+0 0 1133
+S
+#1146
+Crease Between Two Mountains~
+The ground angles upward to the west and east of here as two mountains
+climb up into the sky.  To the west the mountain is almost bare and very
+rocky.  East the mountain is covered in trees with the sounds of animals
+moving around coming from under the trees.  A ways to the north a valley can
+be seen sitting between a few mountains.  Directly south a path can be seen
+though when it starts or ends can not.  
+~
+0 0 0
+D0
+~
+~
+0 0 1145
+D1
+~
+~
+0 0 1147
+D2
+~
+~
+0 0 1104
+D3
+~
+~
+0 0 1134
+S
+#1147
+Side of a Mountain~
+This mountian is covered in trees and plant life.  Directly south of here
+there is a path that leads a river to the east of here.  West is a crease
+where this mountain and the one to the west have grown out of the earth and
+pushed into each other.  The path up leads up this mountain.  The thick
+plant growth makes it hard to see where the animals on this mountain are but
+the sound of the plants rustling as things move through them insure that
+something does live here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1107
+D2
+~
+~
+0 0 1105
+D3
+~
+~
+0 0 1146
+D4
+~
+~
+0 0 1148
+S
+#1148
+Side of a Mountain~
+On the southern side near the base of this tree covered mountain a clear
+path to the south leading east to the river and west down to a lake.  The
+lake sits below to the south east shining and clear enough to see the fish
+swimming in it.  The way north leads farther up this mountain where the
+plants that grow under the trees become very thick.  West a large crease can
+be seen where this mountain meets a mountain that is bare and rocky.  East
+this side of the mountain continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 1160
+D1
+~
+~
+0 0 1149
+D3
+~
+~
+0 0 1145
+D5
+~
+~
+0 0 1147
+S
+#1149
+Southern Side of a Mountain~
+The trees that grow thick on the side of this mountain make it so those
+traveling here can see little more then the mountain around them.  Sounds
+come from all directions as animals move around under the thick cover of the
+undergrowth.  A few birds can be seen flying overhead though the tree tops
+block out most of the sky.  The thick growth of this mountain continues in
+all directions but down where a well worn path can be seen leading east and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1161
+D1
+~
+~
+0 0 1150
+D3
+~
+~
+0 0 1148
+D5
+~
+~
+0 0 1107
+S
+#1150
+Side of a Mountain~
+The river to the east flows south and falls off to a lake below there. 
+The trees here have moss growing on them due to the ammount of moistier the
+river adds to the air.  West the side of this mountain continues to go
+upwards as it heads towards the top of this mountain.  The bank of this
+river continues north and south while going west will continue around the
+mountain at this height.  
+~
+0 0 0
+D0
+~
+~
+0 0 1151
+D1
+~
+~
+0 0 1166
+D3
+~
+~
+0 0 1149
+D5
+~
+~
+0 0 1108
+S
+#1151
+Side of a Mountain~
+The trees on this mountain are thick and make the sky difficult to see. 
+A few birds can be seen flying overhead though in the patches where leaves
+dont cover.  Many shrubs and bushes grow on the ground here making it
+difficult to see what is moving behind them.  The river to the east flows
+down the side of the mountain just north of here appearing to originate from
+the snow at the top.  The path west leads up this side of the mountain
+though at some point one would have to go north to actualy get to the peak. 
+~
+0 0 0
+D0
+~
+~
+0 0 1152
+D2
+~
+~
+0 0 1150
+D3
+~
+~
+0 0 1161
+D5
+~
+~
+0 0 1165
+S
+#1152
+Mountain River~
+A river flows in from the west where the peak of this mountain sits
+covered in snow.  As it melts it helps to feed this river that appears to
+run a little farther east where it widens and flows south to a waterfall. 
+The swift current would sweep anyone not flying away and probably all the
+way down to the waterfall.  
+~
+0 0 0
+D0
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1151
+D3
+~
+~
+0 0 1162
+D5
+~
+~
+0 0 1164
+S
+#1153
+Side of a Mountain~
+Standing on the side of this tree covered mountain a river can be seen
+directly to the south.  The thick brush that grows under the trees makes it
+hard to see what is moving around here though the sounds of rustling bushes
+insure that there is something, With no river to the east here the mountain
+goes down in that direction and anouther mountain can be seen not to far in
+that direction.  North circles around the mountain at this height.  
+~
+0 0 0
+D0
+~
+~
+0 0 1155
+D2
+~
+~
+0 0 1152
+D3
+~
+~
+0 0 1163
+D5
+~
+~
+0 0 1154
+S
+#1154
+River Bank~
+The ground comes down to meet the edge of the river between these two
+mountains.  The trees that grow to the west are not as thick here.  A thick
+tall green grass covers the ground though all the way to the edge of the
+river.  The water looks to be moving fast enough to sweep away anyone that
+would try to swim across it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1195
+D2
+~
+~
+0 0 1164
+S
+#1155
+Side of a Mountain~
+This is the north east corner of this mountain.  The thick trees give it
+a nice shade from the sun though the thick bushes make it harder on those
+that walk.  North is a smaller mountains that runs very far east and west. 
+West of here this mountain continues while to the east more mountains can be
+seen sticking up in places.  
+~
+0 0 0
+D0
+~
+~
+0 0 1187
+D1
+~
+~
+0 0 1195
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1156
+S
+#1156
+Side of a Mountain~
+On the northern side of this mountain a desert can be seen off to the
+north of here.  A few smaller hills seperate that place and this one. 
+Farther up this mountain the thickness of the trees that grow block much of
+the view though the sounds of animals moving around can be heard as they
+rustle though the vegitation.  The mountain continues south east and west. 
+The path north goes to the hills at the base of this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1186
+D1
+~
+~
+0 0 1155
+D2
+~
+~
+0 0 1163
+D3
+~
+~
+0 0 1157
+S
+#1157
+Side of a Mountain~
+The ground slopes down to the west where it has grown up and pushed into
+a mountain that is more rocky but still has some trees growing in spots.  A
+green valley can be seen to the south west of here.  North of here there are
+smaller hills with a desert behind them.  South of here leads around the
+western side of this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1185
+D1
+~
+~
+0 0 1156
+D2
+~
+~
+0 0 1158
+D3
+~
+~
+0 0 1169
+S
+#1158
+Side of the Mountain~
+Just above the valley on the side of this mountain a landing pad can be
+seen directly west of here.  Animals can be seen wandering around the valley
+while this mountain continues north, south, and east of here.  The sounds of
+movement can be heard though the thick plant life.  
+~
+0 0 0
+D0
+~
+~
+0 0 1157
+D1
+~
+~
+0 0 1163
+D2
+~
+~
+0 0 1159
+D3
+~
+~
+0 0 1141
+S
+#1159
+Side of the Mountain~
+Just above the valley to the west of here the trees grow thick making it
+hard to see where the sounds that can be heard all around are coming from. 
+The tracks of hooved and clawed animals can be seen covering the ground
+heading oth to and from the valley The way east is thick with trees and
+climbs up the side of this mountain.  West is a valley with animals grazing
+on the grass that grows there.  North and south lead around the side of this
+mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1158
+D1
+~
+~
+0 0 1162
+D2
+~
+~
+0 0 1160
+D3
+~
+~
+0 0 1140
+S
+#1160
+Side of the Mountain~
+The trees grow high up into the sky where birds can be heard chirping. 
+The tracks of many animals can be seen on the ground.  The mountain angles
+down to the west were this mountain and another have pushed against each
+other.  To the east it angle up leading to wards the top of the mountain. 
+North and south will lead around the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1159
+D1
+~
+~
+0 0 1161
+D2
+~
+~
+0 0 1148
+D3
+~
+~
+0 0 1144
+S
+#1161
+Side of the Mountain~
+More bird seem to live here then lower on the mountain causing alot of
+noise.  The mountain slope up to the north here where the peak is.  The
+trees are not quite as thick here as lower on the mountain and the peak
+looks almost bare of them.  East, west, and south all lead down the mountain
+is those direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 1162
+D1
+~
+~
+0 0 1151
+D2
+~
+~
+0 0 1149
+D3
+~
+~
+0 0 1160
+S
+#1162
+Side of the Mountain~
+The air up here is much colder then in the valley to the west.  The snow
+melts away slowly causing a river that flows east of here down the mountains
+side.  Only a few trees grow here allowing for a very good veiw of the land
+around here.  Satan city can be seen off in the distance to the west with
+spacecraft landing and taking off directly south of it.  A large desert lies
+to the north east with little signs of life on it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1163
+D1
+~
+~
+0 0 1152
+D2
+~
+~
+0 0 1161
+D3
+~
+~
+0 0 1159
+S
+#1163
+Side of the Mountain~
+Fewer trees grow here then below on this mountain.  The top looks almost
+bare .  The ground slope sharply up the south of here as it approaches the
+peak.  South, east, and west all lead down the mountain on those sides.  A
+river can be seen flowing from a spring to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 1156
+D1
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1162
+D3
+~
+~
+0 0 1158
+S
+#1164
+Mountain River~
+The swift current of this river is strong enough to sweep away enev the
+best swimmer.  It flows a ways south where it falls off into a lake below. 
+Large mountains are east and west of here while only some small rocky hill
+lay to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 1154
+D2
+~
+~
+0 0 1165
+D4
+~
+~
+0 0 1152
+R GRALL 1100 100~
+S
+#1165
+Mountain River~
+The water of this river moves so powerfuly that it could sweep even the
+strongest fighter over the edge of the waterfall to the south.  The only way
+one could cross the river at this point would be if they where flying. 
+Mountains line both sides of this river though it is so wide that the
+mountain to the east is a little ways off.  
+~
+0 0 0
+D0
+~
+~
+0 0 1164
+D2
+~
+~
+0 0 1166
+D4
+~
+~
+0 0 1151
+R GRALL 1100 100~
+S
+#1166
+Mountain River~
+A might river flows in from the north and to the south here.  It is very
+swift moving and looks powerful enough to sweep even the best swimmer off
+the edge of the waterfall south of here.  Only someone that is flying can
+safly cross here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1165
+D2
+~
+~
+0 0 1109
+D3
+~
+~
+0 0 1150
+R GRALL 1100 100~
+S
+#1167
+Side of a Mountain~
+The ground of this mountain is rather rocky though trees have found dirt
+to grow in.  The sounds of satan city to the north west of here disprupts
+the peacefulness of this place.  Going east or north will circle this
+mountain.  Down leads to a valley where animals can be seen grazing.  West
+there is a road leading to the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 1174
+D1
+~
+~
+0 0 1168
+D3
+~
+~
+0 0 901
+D5
+~
+~
+0 0 1143
+S
+#1168
+Side of a Mountain~
+The sounds of a city can be head to the west of here where cars and
+people yelling help to disrupt the peacefulness of this mountain.  The rocky
+ground has a few patches of dirt and grass with trees growing up to the sky
+providing some shade.  East, west, and north of here this mountian
+continues.  Down from here is a valley with some animals feeding on the
+grass that grows thick there.  
+~
+0 0 0
+D0
+~
+~
+0 0 1175
+D1
+~
+~
+0 0 1169
+D3
+~
+~
+0 0 1167
+D5
+~
+~
+0 0 1142
+S
+#1169
+Side of a Mountain~
+Standing on the side of this mountain it is obvious that this is the
+smallest of the mountains around here.  The few trees that grow up out of
+the rocky ground help to provide shade for those that travel on this
+mountain and still are not so thick that they block the veiw of what is
+around here.  West and north lead around this mountain while to the west is
+another mountain that almost seem to grow into this one but is much larger. 
+Down from here is a valley covered in green grass where animals can be seen
+grazing.  
+~
+0 0 0
+D0
+~
+~
+0 0 1170
+D1
+~
+~
+0 0 1157
+D3
+~
+~
+0 0 1168
+D5
+~
+~
+0 0 1141
+S
+#1170
+Side of a Mountain.~
+Standing on the eastern side of this mountain a great desert can be seen
+to the north east.  Some small and rocky hill stand between here and the
+desert though and begin to the east of here.  North and south circle this
+mountain while the way west leads up to the peak.  
+~
+0 0 0
+D0
+~
+~
+0 0 1171
+D1
+~
+~
+0 0 1185
+D2
+~
+~
+0 0 1169
+D3
+~
+~
+0 0 1175
+S
+#1171
+Side of a Mountain~
+The sounds of satan city to the west are hardly loud enough to be heard
+here.  The rocky ground of this mountain can make it difficult to walk on. 
+Smaller hills to the east seem to seperate these mountains from a great
+desert.  The hills also run to the north of here seeming to outline this
+mountain.  West and east one could circle this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1182
+D1
+~
+~
+0 0 1184
+D2
+~
+~
+0 0 1170
+D3
+~
+~
+0 0 1172
+S
+#1172
+Side of a Mountain~
+The sounds of Satan city come in from the west here though they are so
+low they can barly be heard.  The the rocky mountain gives way to smaller
+hills to the north of here though they are no where near the height of this
+mountain.  East and west will circle this mountain while south leads up to
+the peak of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1181
+D1
+~
+~
+0 0 1171
+D2
+~
+~
+0 0 1175
+D3
+~
+~
+0 0 1173
+S
+#1173
+Side of a Mountain~
+A road that seems to lead into the northern side of satan city lies
+directly to the west of here with the sounds of the people and machines that
+call it home.  To the north are a small set up hills that seem to outline
+the northern side of these mountains.  South and east will lead one around
+this mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 1180
+D1
+~
+~
+0 0 1172
+D2
+~
+~
+0 0 1174
+D3
+~
+~
+0 0 922
+S
+#1174
+Side of a Mountain~
+The sounds of the cars that drive on the road to the west to get to satan
+city causes much of the wildlife of these mountains to avoid this place. 
+The the rocky ground keeps the plant life here scarce though some trees have
+found patches of dirt to grow in.  North and south will circle the mountain
+while the way east leads to the peak.  
+~
+0 0 0
+D0
+~
+~
+0 0 1173
+D1
+~
+~
+0 0 1175
+D2
+~
+~
+0 0 1167
+D3
+~
+~
+0 0 921
+S
+#1175
+Top of a Mountain~
+Standing here on the top of the smallest mountain that can be seen around
+here not much other the the other mountains east and south can be seen. 
+Though to the west the sounds and lights of Satan city can be seen.  Behind
+the hill to the north east a lasrge desert can be seen totaly bare of life. 
+~
+0 0 0
+D0
+~
+~
+0 0 1172
+D1
+~
+~
+0 0 1170
+D2
+~
+~
+0 0 1168
+D3
+~
+~
+0 0 1174
+S
+#1176
+Rocky Coastline~
+The small hills that line the northern side of the mountain act as a wall
+against the ocean to the west of here.  East the road leading into the
+northern part of Satan city causes much noise as the cars of those living
+there and those visiting go back and forth along the road.  North this rocky
+coastline continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 1177
+D1
+~
+~
+0 0 921
+S
+#1177
+Rocky Coastline~
+The hills that line the northern side of the mountains is the coast line
+here.  The ocean streteches far to the west where it meets the sky.  The
+hills comntinue slightly farther north while a large road leading into the
+northern part of Satan city is east.  South is a cliff where the coastline
+end.  
+~
+0 0 0
+D0
+~
+~
+0 0 1178
+D1
+~
+~
+0 0 922
+D2
+~
+~
+0 0 1176
+S
+#1178
+Rocky Coastline~
+This is the northern board of the mountain.  The ocean stretches far to
+the west where a small island can be seen just under the horizion.  Back to
+the suth east Satan city can be seen standing like a jewel of human
+creation.  Off in the distance a baren desert can be seen stretching off to
+the distance though no signs of life can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 1179
+D2
+~
+~
+0 0 1177
+S
+#1179
+Rolling Hills~
+The hills here boarder a road to the suoth that leads into the northern
+side of Satan city.  Just to the west an ocean stretches to the distance
+while these hills continue to the east.  The mountains to the south can be
+seen towering over all here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1180
+D3
+~
+~
+0 0 1178
+D5
+~
+~
+0 0 922
+S
+#1180
+Rolling Hills~
+These hills shhot out of the ground and almost look like a boarder for
+these mountains.  The large mountain to the south blocks all veiw that way
+even though these hills are quite high in the air.  A great and lifeless
+desert can be seen to the north east of here.
+~
+0 0 0
+D1
+~
+~
+0 0 1181
+D2
+~
+~
+0 0 1173
+D3
+~
+~
+0 0 1179
+S
+#1181
+Rolling Hills~
+These hills shhot out of the ground and almost look like a boarder for
+these mountains.  The large mountain to the south blocks all veiw that way
+even though these hills are quite high in the air.  A great and lifeless
+desert can be seen to the north east of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1182
+D2
+~
+~
+0 0 1172
+D3
+~
+~
+0 0 1180
+S
+#1182
+Rolling Hills~
+These hills seem to stretch forever to the east and west.  The green
+grass is inturupted only a few times by an occasional rock or patch of dirt.
+The mountain to the south blocks any veiw of that direction though the
+sounds of a large city can be heard to the west.  A large desert can be see
+north of here with little signs of any life.  
+~
+0 0 0
+D1
+~
+~
+0 0 1183
+D2
+~
+~
+0 0 1171
+D3
+~
+~
+0 0 1181
+S
+#1183
+Rolling Hills~
+The hills here are covered in foilage and during the day when the sun
+hits the ground just right the plants seem to sparkle like glass.  To the
+northen horizen the mountains appre to be no bigger then a person is tall. 
+To the south lays the desert, nothing can really been seen to the south.  It
+appers that the landscape is all flat.  
+~
+0 0 0
+D1
+~
+~
+0 0 1193
+D2
+~
+~
+0 0 1184
+D3
+~
+~
+0 0 1182
+S
+#1184
+Rolling Hills~
+The hills here help to allow for a good veiw to the north.  The large
+desert that can be seen there is baren and shows little signs of any kind of
+life.  The mountains to the south however seem to be overflowing with life. 
+Animals and other creations wonder around looking for what thier hearts
+desire, be it food or a fight.  
+~
+0 0 0
+D0
+~
+~
+0 0 1183
+D1
+~
+~
+0 0 1190
+D2
+~
+~
+0 0 1185
+D3
+~
+~
+0 0 1171
+S
+#1185
+Rolling Hills~
+The hills here offer a good veiw of the desert to the north though little
+can be seen on it.  The mountains to the south and west of here however show
+many signs of life, from the footprints of small animals to the roars that
+can be heard of the larger preditors.  The hills continue north and east of
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1184
+D1
+~
+~
+0 0 1186
+D2
+~
+~
+0 0 1157
+D3
+~
+~
+0 0 1170
+S
+#1186
+Rolling Hills~
+The hills here offer a good veiw of the desert to the north though little
+can be seen on it.  The mountains to the south and west of here however show
+many signs of life, from the footprints of small animals to the roars that
+can be heard of the larger preditors.  
+~
+0 0 0
+D0
+~
+~
+0 0 1190
+D1
+~
+~
+0 0 1187
+D2
+~
+~
+0 0 1156
+D3
+~
+~
+0 0 1185
+S
+#1187
+Rolling Hills~
+The hills here offer a good veiw of the desert to the north though little
+can be seen on it.  The mountains to the south and west of here however show
+many signs of life, from the footprints of small animals to the roars that
+can be heard of the larger preditors.  
+~
+0 0 0
+D0
+~
+~
+0 0 1194
+D1
+~
+~
+0 0 1188
+D2
+~
+~
+0 0 1155
+D3
+~
+~
+0 0 1186
+S
+#1188
+Rolling Hills~
+The hills here offer a good veiw of the desert to the north though little
+can be seen on it.  The mountains to the south and west of here however show
+many signs of life, from the footprints of small animals to the roars that
+can be heard of the larger preditors.  
+~
+0 0 0
+D0
+~
+~
+0 0 1189
+D1
+~
+~
+0 0 3923
+D3
+~
+~
+0 0 1187
+D5
+~
+~
+0 0 1195
+S
+#1189
+Rolling Hills~
+Green carpeting of grass is spread through out the hill, with delicate
+flowers blooming here and there.  Standing upon the hills, white capped
+mountains can be seen to the north, while a hot, dry wind comes from the
+south.  The hills keep going north, south and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1191
+D2
+~
+~
+0 0 1188
+D3
+~
+~
+0 0 1194
+S
+#1190
+Rolling Hills~
+The hills here offer a good veiw of the desert to the north though little
+can be seen on it.  The mountains to the south and west of here however show
+many signs of life, from the footprints of small animals to the roars that
+can be heard of the larger preditors.  
+~
+0 0 0
+D0
+~
+~
+0 0 1193
+D1
+~
+~
+0 0 1194
+D2
+~
+~
+0 0 1186
+D3
+~
+~
+0 0 1184
+S
+#1191
+Rolling Hills~
+Green carpeting of grass is spread through out the hill, with delicate
+flowers blooming here and there.  White capped mountains can be seen to the
+north, while a hot, dry wind comes from the south.  The hills keep going
+south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 1189
+D3
+~
+~
+0 0 1192
+S
+#1192
+Rolling Hills~
+Green carpeting of grass is spread through out the hill, with delicate
+flowers blooming here and there.  White capped mountains can be seen to the
+north, while a hot, dry wind comes from the south.  The hills keep going
+south and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 1191
+D2
+~
+~
+0 0 1194
+D3
+~
+~
+0 0 1193
+S
+#1193
+Rolling Hills~
+Just south of the desert here the hot dry wind can be felt.
+The desert itself looks to be void of any life from this veiw.
+The mountains and a river to the south seem much more inviting.
+~
+0 0 0
+D1
+~
+~
+0 0 1192
+D2
+~
+~
+0 0 1190
+D3
+~
+~
+0 0 1183
+S
+#1194
+Rolling Hills~
+The hills here offer a good veiw of the desert to the north though little
+can be seen on it.  The mountains to the south and west of here however show
+many signs of life, from the footprints of small animals to the roars that
+can be heard of the larger preditors.  
+~
+0 0 0
+D0
+~
+~
+0 0 1192
+D1
+~
+~
+0 0 1189
+D2
+~
+~
+0 0 1187
+D3
+~
+~
+0 0 1190
+S
+#1195
+Beside a River Bank~
+The hills to the north and the mountain to the west block all veiw in
+those direction other then the creatures that walk around on them.  To the
+south however the bank of a very powerful river can be seen flowing south
+where it falls off to a lake below.  
+~
+0 0 0
+D2
+~
+~
+0 0 1154
+D3
+~
+~
+0 0 1155
+D4
+~
+~
+0 0 1188
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1100 3 1100 3 Load A brown bear
+M 0 1101 3 1104 3 Load A young buck with small antlers
+M 0 1100 3 1104 3 Load A brown bear
+M 0 1105 3 1110 3 Load A small baby t-rex
+M 0 1108 3 1110 3 Load A large blue adult T-rex
+M 0 1103 3 1122 3 Load A large black bear
+M 0 1102 3 1122 3 Load A large eagle
+M 0 1104 3 1124 3 Load A huge black bear
+M 0 1105 3 1124 3 Load A small baby t-rex
+M 0 1101 3 1125 3 Load A young buck with small antlers
+M 0 1102 3 1126 3 Load A large eagle
+M 0 1103 3 1130 3 Load A large black bear
+M 0 1107 3 1130 3 Load A large red adult T-rex
+M 0 1104 3 1133 3 Load A huge black bear
+M 0 1108 3 1133 3 Load A large blue adult T-rex
+M 0 1102 3 1137 3 Load A large eagle
+M 0 1101 3 1137 3 Load A young buck with small antlers
+M 0 1109 3 1141 3 Load A large android that looks identical to a human man
+M 0 1108 3 1141 3 Load A large blue adult T-rex
+M 0 1110 3 1142 3 Load An android looking much like a human female
+M 0 1106 3 1142 3 Load A medium sized t-rex stalking food
+M 0 1105 3 1142 3 Load A small baby t-rex
+M 0 1107 3 1148 3 Load A large red adult T-rex
+M 0 1106 3 1148 3 Load A medium sized t-rex stalking food
+M 0 1103 3 1148 3 Load A large black bear
+M 0 1101 3 1148 3 Load A young buck with small antlers
+M 0 1100 3 1148 3 Load A brown bear
+M 0 1104 3 1149 3 Load A huge black bear
+M 0 1103 3 1149 3 Load A large black bear
+M 0 1106 3 1159 3 Load A medium sized t-rex stalking food
+M 0 1110 3 1163 3 Load An android looking much like a human female
+M 0 1109 3 1171 3 Load A large android that looks identical to a human man
+O 0 1100 0 1182 A rusted sphere loaded to Rolling Hills
+M 0 1110 3 1190 3 Load An android looking much like a human female
+M 0 1109 3 1190 3 Load A large android that looks identical to a human man
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1100
+say Hello $n
+~
+#1111
+if race $n 'saiya-jin'
+mob echoaround $n $I morphs into human form and attacks $n!
+mob echoat $n $I morphs into human form and attacks you!
+mob kill $n
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#1100
+if affected $n 'flying'
+else
+room echoat $n You are swept off the cliff by the powerful current.
+room transfer $n 1737
+room echo $n is swept off the cliff by the powerful current.
+endif
+~
+#0
+
+#$

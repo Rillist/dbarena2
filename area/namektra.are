@@ -1,0 +1,2634 @@
+#AREADATA
+Name Namek Training Complex~
+Builders Work2done~
+VNUMs 3600 3699
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#3600
+Namek~
+This Namekian~
+A young Namek with a blue uniform on is here.
+~
+This Namek is tall and wears a blue uniform
+~
+namek~
+AB 0 0 0
+2000000000 5000
+20 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 IKZ 0 0
+stand stand none 500
+AHM FG medium unknown
+F for V
+F par ABCDEHIJK
+M GREET 3600 100~
+#3601
+Reception~
+The Receptionist~
+The Receptionist is sitting at the Complex's desk.
+~
+~
+namek~
+AB 0 0 0
+300000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 Z 0 0
+stand stand none 100
+AHM EF medium unknown
+F for V
+F par ABCDGHIJK
+M SPEECH 3602 hello~
+M GREET 3601 100~
+#3602
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3603
+namek~
+A Newbie Namekian Warrior~
+A Newbie Namekian Warrior stands here
+~
+This Namekian Warrior is a newbie. He is a Novice when it comes to fighting.
+~
+namek~
+A 0 0 0
+2360 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#3604
+Namek Shop Keeper~
+A Shop Keeper~
+A Shop Keeper stands here attending to your needs.
+~
+~
+human~
+AB 0 0 0
+100304 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 K 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3605
+Shop Keeper~
+A Shop Keeper~
+The Shop Keeper stands here.
+~
+~
+human~
+AR V 0 0
+65000 250
+15 10 12 16 14 
+200 100
+punch
+0 0 0 0
+I Z 0 0
+stand stand male 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3606
+A Newbie Fighter~
+A Newbie Namek~
+A Newbie Namek stands here.
+~
+~
+namek~
+A 0 1 0
+1300 10
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK large unknown
+#3607
+A young Blonde female~
+A young blonde lady~
+A young blonde lady
+~
+~
+human~
+AB 0 0 0
+20000 9
+35 35 35 35 35 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 309
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3624
+cleaner~
+A Cleaner~
+A Cleaner is cleaning here.
+~
+~
+human~
+AB 0 0 0
+19833 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3625
+A Fitness Instructor~
+A Fitness Instructor~
+A Fitness Instructor is looking around.
+~
+~
+namek~
+AB 0 0 0
+1000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK large unknown
+#3627
+Newbie fighter~
+A Newbie Fighter~
+A Newbie Fighter stands here looking at you scared.
+~
+~
+human~
+AB 0 0 0
+500 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3628
+Fighter~
+A Fighter~
+A Fighter stands here looking around.
+~
+~
+human~
+A 0 0 0
+2500 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 21
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3629
+A Fighter~
+A Fighter~
+A Fighter stands here staring at you.
+~
+~
+human~
+A 0 0 0
+10000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 31
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3630
+Experienced fighter~
+An Experienced Fighter~
+An Experienced fighter stands here ready to fight.
+~
+~
+human~
+AB 0 0 0
+20000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 P 0 0
+stand stand none 32
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3631
+an experienced fighter~
+An Experienced Fighter~
+An Experienced Fighter stands here staring at you.
+~
+~
+namek~
+AB 0 0 0
+40000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK large unknown
+#3632
+Advanced Fighter~
+an Advanced Fighter~
+An Advanced Fighter stands here eyeing you up.
+~
+~
+namek~
+AB 0 0 0
+70000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK large unknown
+#3633
+The Top fighter~
+The Top Fighter~
+The Top Fighter of this training level is here.
+~
+~
+namek~
+A 0 0 0
+1000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK large unknown
+#3635
+Fighter~
+A Fighter~
+A Fighter stands here waiting.
+~
+~
+human~
+AB 0 0 0
+1250000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 20
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3636
+A Fighter~
+A Fighter~
+A Fighter is here before you.
+~
+~
+namek~
+AB 0 0 0
+1900000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJK large unknown
+#3637
+An Advanced Fighter~
+An Advanced Fighter~
+An Advanced Fighter is here looking around.
+~
+~
+namek~
+AB 0 0 0
+2500000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJK large unknown
+#3638
+An Advanced Fighter~
+An Advanced Fighter~
+An Advanced Fighter is staring at you.
+~
+~
+namek~
+AB 0 0 0
+3500000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJK large unknown
+#3639
+An Ascended Fighter~
+An Ascended Fighter~
+An Ascended Fighter is staring at you.
+~
+~
+namek~
+AB 0 0 0
+4500000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJK large unknown
+#3640
+An Ascended Fighter~
+An Ascended Fighter~
+An Ascended Fighter is here smirking.
+~
+~
+namek~
+AB 0 0 0
+8000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK large unknown
+#3641
+An Ascended Fighter~
+The Ultimate Fighter~
+The Ultimate Fighter is grinning evilly at you.
+~
+~
+namek~
+AB 0 0 0
+20000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK large unknown
+#3676
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+3000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3677
+Android~
+A Killer Android~
+A Killer Android trying to take over the world
+~
+~
+android~
+A 0 0 0
+10000000 5
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 O
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#3679
+monk 1~
+{yA small monk{x~
+A small monk is sitting here.
+~
+{yA small monk dressed in {Yyellow{y robes with a {rred{y sash.{x
+~
+human~
+A 0 0 0
+24 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+sit sit male 0
+0 ABCDFGHIJK medium unknown
+F for AHMV
+F par E
+#3681
+shopkeeper woman~
+A shopkeeper~
+A shopkeeper is standing behind a counter
+~
+{yA {mwoman {yis standing behind the counter, she looks asian.{x
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 ABCDFGHIJK large unknown
+F for AHMV
+F par E
+#3682
+waiter~
+{An average sized monk holding a small menu~
+{An average sized monk holding a small menu
+~
+{yA small monk holding a menu bows and smiles.{x
+~
+human~
+AB 0 0 0
+8 0
+0 0 0 0 0 
+100 100
+none
+0 0 0 0
+0 KNZ 0 0
+stand stand male 0
+0 ABCDEFGHIJK large unknown
+F for AHMV
+#3689
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3690
+Saiayaman Great~
+{GThe {gGreat {GSaiyaman{X~
+{GThe {gGreat {GSaiyaman {gis {Ghere {gbefore {Gyou!{X
+~
+~
+half-breed~
+AB 0 0 0
+1300403959900002304 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#3691
+Announcer~
+{YThe Announcer{X~
+{YThe World Tournament Announcer is here.{X
+~
+~
+human~
+AB 0 0 0
+210 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#3699
+Saiyaman man great~
+The Great Saiyaman~
+The Great Saiyaman is here before you!
+~
+Transfer saiyaman
+~
+half-breed~
+A 0 100 0
+2000000000 10
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#3600
+desk~
+the Complex's Reception desk~
+This Desk has the Complex logo on it, it sits in the centre of the room.~
+unknown~
+1
+furniture 0 0
+A DHIJM DO A 0
+0 0 0 P
+#3601
+tank~
+a Healing Tank~
+The Healing Tank sits in the middle of the room.~
+imm~
+1000000
+furniture B 0
+CFG FHJKPQ L ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde
+0 5000 6000 P
+#3602
+Shuttle To the Namek Training Complex~
+a shuttle~
+A shuttle heading to the Namek Training Complex~
+unknown~
+1
+portal 0 0
+0 0 0 EJKL 0
+0 1 10000 P
+#3603
+ring~
+an official Imm ring~
+I'm an official Imm ring~
+gold~
+1
+jewelry AB ABO
+0 0 0 0 0
+5000000 3 10000 P
+#3604
+A giant tree~
+a large tree~
+A large tree blocks the way~
+unknown~
+1
+container 0 0
+1000 AC 0 1000 1000
+0 1 0 P
+#3605
+banish~
+the Banishing Machine~
+The Banishing Machine to death.~
+unknown~
+1
+furniture AB 0
+0 0 C 0 0
+100000000 0 0 P
+#3606
+Void~
+{x~
+{w~
+unknown~
+1
+portal 0 0
+AC 0 0 BDEGJKL 0
+0 1 1 P
+#3607
+Small Puddle~
+a small puddle of water~
+A small puddle water glistens from a bright light~
+unknown~
+1
+container 0 0
+1000 0 0 11 11
+0 1 1 P
+#3608
+portal namek~
+a small portal back to Namek~
+A small portal back to Namek~
+unknown~
+1
+portal 0 0
+AC 0 0 EJKL 0
+0 0 0 P
+#3609
+A small Desk~
+a small desk~
+A small desk with a pad and pencil up on it~
+unknown~
+1
+container 0 0
+1000 AC 0 100 1
+0 1 1 P
+#3610
+Robe~
+super Saiyan Armor~
+Super Saiyan Armor~
+Gold~
+100
+armor ABIX D
+0 0 0 0 0
+10000000000000 10 2147483647 P
+#3666
+badge~
+(no short description)~
+(no description)~
+unknown~
+1
+jewelry 0 0
+0 0 0 0 0
+0 0 0 P
+#3670
+shirt~
+{wA {cFollow {b({c-{CV{c-{b){ce{Cd{ce{Cl{ci{Ct{ce {xshirt or get {RV{Ya{Gp{Do{Mu{yr{Bi{cs{ge{Cd{c! {wfor all {RE{rt{Re{rr{Rn{ri{Rt{ry!{x~
+{wA {cFollow {b({c-{CV{c-{b){ce{Cd{ce{Cl{ci{Ct{ce {xshirt or get {RV{Ya{Gp{Do{Mu{yr{Bi{cs{ge{Cd{c! {wfor all {RE{rt{Re{rr{Rn{ri{Rt{ry!{x~
+unknown~
+1
+armor 0 ADO
+0 0 0 0 0
+0 0 1000 P
+#3679
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#3680
+Menu~
+a pair of white pants~
+A pair of white pants~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+1000000000000 0 0 P
+#3681
+doll cyric~
+a small doll of the last tenkaichai budokai winner, Cyric~
+A small doll of Cyric~
+unknown~
+1
+treasure N AQ
+0 0 0 0 0
+10000000000 1 10000 P
+A
+26 1000000000
+#3682
+table one 1~
+{rTable {Bone{x~
+{rTable {Bone{x~
+furniture chair~
+1
+furniture 0 0
+AC DFGHIJ D BD BD
+0 0 0 P
+#3683
+table two 2~
+{rTable {Gtwo{x~
+{rTable {Gtwo{x~
+furniture chair~
+1
+furniture 0 0
+AC DFGHIJ D BD BD
+0 0 0 P
+#3684
+table three 3~
+{rTable {Mthree{x~
+{rTable {Mthree{x~
+furniture chair~
+1
+furniture 0 0
+AC DFGHIJ D BD BD
+0 0 0 P
+#3685
+table four 4~
+{rTable {Yfour{x~
+{rTable {Yfour{x~
+furniture chair~
+1
+furniture 0 0
+AC DFGHIJ D BD BD
+0 0 0 P
+#3686
+table 5 five~
+{rTable {Rfive{x~
+{rTable {Rfive{x~
+furniture chair~
+1
+furniture 0 0
+AC DFGHIJ D BD BD
+0 0 0 P
+#3688
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#3689
+zed~
+the legendary Zed Sword~
+The legendary Zed sword~
+unknown~
+1000000000
+weapon 0 AN
+sword 99 99 cleave E
+0 0 0 P
+A
+1 150
+A
+4 170
+A
+2 200
+A
+5 140
+A
+3 60
+A
+13 13372258
+A
+12 13372258
+#3690
+cape~
+a red cape, with a symbol of the zed sword~
+A red cap, with a symbol of the zed sword~
+unknown~
+99999
+armor ABGK AC
+GKLMP GKLMP GKLMP GKLMP 0
+1000 0 0 P
+A
+26 2147483647
+#3694
+portal home~
+a Portal~
+A Portal back to the Toilet.~
+unknown~
+1
+portal 0 0
+0 0 A BDJM 0
+0 0 0 P
+#3695
+Portal Vedelite's office~
+{Wa {CP{co{Cr{ct{Ca{cl{X~
+{WA {cP{Co{cr{Ct{ca{Cl {Yto the {B({c-{CV{c-{B){R H{rQ {Wsits here.{X~
+unknown~
+1
+portal 0 0
+0 AHL A ABEFGJKL 0
+0 0 0 P
+#3696
+safe~
+{Wa {YMoney {DSafe~
+A {YMoney {DSafe{W sits here.{X~
+unknown~
+1
+container 0 0
+10293 A 0 1230812 199999999
+0 0 0 P
+#3698
+desk~
+{B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {RDe{rsk{W~
+{B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {RDe{rsk{W sits here.{X~
+unknown~
+1
+furniture 0 0
+A GJOQRST D CFG CFG
+0 0 0 P
+#3699
+couch~
+a {Dblack leather {ycouch{X~
+A {DBlack Leather {yCouch {Wsits here.{X~
+unknown~
+1
+container 0 0
+100000 AC 0 1000000 10
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#3600
+Entry to the Complex~
+The berthing structure, known as the Namekian Training Complex stands
+here, refurbished.  The recent work still palpable on the monolithic white
+walls bordering the structure.  A helix of two stairwells twine around each
+other, reaching heavenbound.  One set is shown obvious to be descended,
+while the other is used for ascending the building itself.  Due north is
+where the receptional area.  
+~
+0 0 0
+E
+gates~
+These gates are tall and silver. The pattern of the gates are like whirlpools.
+~
+D0
+~
+~
+0 0 3601
+S
+#3601
+The Reception~
+Southerly, the entryway bears a large hallway with smaller archways that
+lead off to the north and west; the former leads to a placement of tanks
+used possibly for regeneration of some kind, the latter being a hallway. 
+The hall itself carries an odor of rubber and the taste of iron from the
+metal, the scent of wax weighs heavily in the air, robust and dominant,
+granting the implication that the mettalic surfaces have recently been gone
+over.  
+~
+0 8 0
+D0
+~
+~
+0 0 3610
+D2
+~
+~
+0 0 3600
+D3
+~
+~
+0 0 3621
+S
+#3602
+Dead End~
+The conclusion of the hallway has been reached; the walls and ceiling
+meet a common ground, a large slab of a lime-green paint that bleeds from an
+aquatic blue about ten feet from the end of the corridor.  The tiled floor
+represents a color of rich ocean-blue, a rich blue that's melted with a teal
+to give off an aqua-like color.  The mesh of color-coding create an image of
+synchronization used as forms of hypnotism by humans.  
+~
+0 4 0
+D2
+~
+~
+0 0 3616
+S
+#3603
+A Regerstration Office~
+Desks, file cabinets and paper-pushers is all that can be seen in this
+large expanse of a room.  The office itself holds a magnitude of workers,
+all mill-ing about quickly, though most could be seen to not be that
+ecstatic about being there at work, much less as busy as they appear to be. 
+The metallic file cabinets are placed inside the walls, their faces equal to
+the white-washed surface, made for conserving room; the tactical creation of
+the room seems to have failed miserably, since the amount of workers over-
+whelms the amount of available desks.  In all, the office is overcramped
+with an abundance of workers and noise from the machines, shuffling papers
+and work-related conversation.  
+~
+0 4 0
+D0
+~
+~
+0 0 3621
+D2
+~
+~
+0 0 3689
+S
+#3604
+A Corridor~
+Another hallway splits off from the main body to the east, while to the
+west is the cafe, a room that definitely broadens more so than the hallway
+itself.  The corridor continues both northerly into the weapon's shop, and
+southerly, into a busy room flowing with an over abundance of sound that
+appears further away due to the length of the hallway.  Whitish-blue walls
+and ceiling branch away as breaks occur; the floor itself remains that ever-
+present bluish tone, oceanic.  
+~
+0 0 0
+D0
+~
+~
+0 0 3605
+D1
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3621
+D3
+~
+~
+0 0 3606
+S
+#3605
+Weaponry Shop~
+A shining mahogany floor and oaken walls shine amber in the bright yellow
+light, which gleams off of the varnished surfaces.  The aroma of the room
+depicts a cleanliness of both wood and metallic substances.  Half of the
+room has been intercepted by a counter perpendicular to the entrance of the
+room.  The walls are lined with weapons of varying types, hanging flawlessly
+by pins and racks.  Brought up against the walls are display cases, showing
+weaponry of various styles and cultures; their metal gleams in the strong
+lighting.  The area behind the counter appears to be used for the
+weaponsmith.  
+~
+0 8 0
+D2
+~
+~
+0 0 3604
+S
+#3606
+Cafe~
+White- and cream-colored walls create a mute effect within the
+rectangular room.  Benches jointed to tables run in a systematic array from
+the wall straight across, occupying a large portion of the room itself.  On
+the counter, various foods can be seen, depicting the differing forms of
+food eaten at varying times of the day; off to the side of the counter on
+the northern side of the room, is a machine that reads Coffee and Hot
+Chocolate.  
+~
+0 0 0
+D1
+~
+~
+0 0 3604
+S
+#3607
+A Corridor~
+The machinery at work continues its persistent noise, one further into
+the background than the other.  One of those being the air conditioner,
+which hums softly, releasing a constant breeze of cool air, gentle in its
+caressing sweep.  The other sound comes from the speakers, Muzak only
+slightly louder than the AC itself.  Once rounding the southern point, it's
+a short way to its end, already seen by the time the corridor is walked; to
+the west it ends abruptly with the slightly visible corner of the door. 
+Further north, the sounds of the training field fill the atmosphere.  
+~
+0 8 0
+D0
+~
+~
+0 0 3609
+D3
+~
+~
+0 0 3608
+S
+#3608
+An office~
+Blue walls, a lighter shade than the floor, bear solidified front,
+harsher tones than the hallway that led here.  Engraved inside the wall
+itself, are scratching stating Trunks in the whitish grooves, prominently
+noticeable against the sharp contrast of blue.  A few filing cabinets can be
+seen in the room, cold and metallic, further along the right side of the
+door, at the north end, is a desk of contrasting brass, upon it is a golden
+plaque, viewable to all like a neon light, stating in simplistic writing:
+Ephalion, the noble Namek, helper of Trunks.  
+~
+0 32768 0
+D1
+~
+~
+0 0 3607
+S
+#3609
+A Corridor~
+Walls of a cool white, mended with a touch of blue, appear as soothing as
+the Muzak coming from the speakers throughout the hallway.  Tiles cover the
+floor, fit pefrectly into the floor, to the point that none have been cut to
+fill a remaining gap.  The precision in the size of doors and their
+creations are obvious, showing those that require massive openings, while
+others smaller, less conspicuous entrances.  To the east lies the large span
+of the designated sparring area, built like an arena, from its look in the
+corridor.  On the western front, the large machines within it emanate a hum,
+much louder here than any other point in the hallway; within a glimpse of
+massive containers made of metal and glass can be viewed upon.  
+~
+0 0 0
+D0
+~
+~
+0 0 3616
+D1
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3610
+S
+#3610
+Healing Tanks~
+Nine massive tanks fill the room from wall-to-wall, giving perfect depth
+and space between each, though it's perfect establishment seems obtuse when
+the wires all litter the floor, heading into one direction.  In the center
+of the room, one of the massive tanks is connected to by the cables and
+hoses snaking around other, unplugged tanks.  This one appears to be the
+only functional product within the chamber, though its noise level is almost
+upon a dynamic level, loud and grating in its steady buzzing.  Every now and
+again, a power surge caused by the tank forces the already dim lighting to
+fade into almost sheer darkness, before it brightens again.  
+~
+0 1032 0
+D1
+~
+~
+0 0 3609
+D2
+~
+~
+0 0 3601
+S
+#3611
+Sparring Arena~
+Upon immediate entrance, blinking lights intercept those entering, as if
+preparing for something different.  Unique.  Splattered across the walls are
+mensici of dried brown.  Aged blood stains, some varying in textures, some
+new while others being of a much older date, all of them left within the
+arena itself as if setting a trend.  Clear across the elliptical arena, on
+the north end, is a separate room, much larger and noticeable than the doors
+to the east and south.  Perspiration has penetrated the walls and ceilings,
+dank water dripping down from the walls at a languid, but constant pace.  
+~
+0 1032 0
+D0
+~
+~
+0 0 3613
+D1
+~
+~
+0 0 3612
+D2
+~
+~
+0 0 3614
+D3
+~
+~
+0 0 3609
+S
+#3612
+Sparring room one~
+The only lights are those from the arena beyond the door.  With what
+light's given, black scorch markings are eschewed across the walls like
+kinetic bursts against flesh of an inanimate motion picture.  A deep set of
+grooves at the back corner of the room, adjacent to the door, is marred with
+the remains of such a massive blast that that one corner has molded into
+curvature, no longer square, burnt past the padding that covered the walls,
+even the tiled floor seems curled at the corner, rippled with the force and
+the energy that distorted it.  The few Energykianas machines, are used to
+absorb Ki, had obviously failed to contain the sheer force used; one of the
+devices has malfunctioned, fried and distorted.  The atmosphere is mirrored
+by the still-functional air conditioning that continually billows forth-icy
+cold air.  
+~
+0 2097160 0
+D3
+~
+~
+0 0 3611
+S
+#3613
+Healing Tanks~
+In the small, dimly lit room is a single regeneration chamber, glass and
+metal, adorned with wires, sits in the middle of the room like an ominous
+presence when it's in use or just on standby.  Cables, cords and other
+extensions run from the walls across the floor in limp lifelessness to the
+tank, connecting to its cylindrical surface at varying points of its
+ascension.  
+~
+0 0 0
+D2
+~
+~
+0 0 3611
+S
+#3614
+Sparring room two~
+~
+0 2097160 0
+D0
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3615
+S
+#3615
+Sparring Room Three~
+There are lights hanging from the ceiling here but someone's attack has
+blown them off.  The company can't afford any more lights so they have not
+fixed it.  On the walls here are Energykianas too.  This room is higher so
+Nameks who fly can move around more in the air.  The floor is dryer than
+Sparring room one but it is still muddy.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 3614
+S
+#3616
+Corridor~
+The floor is a clean white tinged blue.  The floor is also blue.  The
+lights a fading and there are no windows to be seen.  There is air
+conditioning here which blows a fresh cool breeze through the corridor. 
+Soft calming music is playing in the background.  
+~
+0 0 0
+D0
+~
+~
+0 0 3602
+D2
+~
+~
+0 0 3609
+D3
+~
+~
+0 0 3617
+S
+#3617
+Armour shop~
+{B
+The smell of brass and vanish floats through this shop.  A counter
+stands at the west side of this shop.  To find out what you can buy in the
+Armory shop type List.  The walls are a jet black and the lighting is a
+bright white.  In the bright white light the Armour that is mounted upon the
+walls shines in the light.  This shop looks very modern for a Namekian shop.
+To buy something type buy <name of object>.   
+{x
+~
+0 0 0
+D1
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3618
+S
+#3618
+Storage Room~
+This room is very small and dull.  There are no lights and no windows.  A
+Musky, damp and wet smell wafts around here.  There are boces stacked on
+Top of each other, each with the Complex logo imprinted upon them.  
+~
+0 0 0
+D1
+~
+~
+0 0 3617
+S
+#3619
+Social Room~
+This room is for people who come here just to socialize with other
+Players.  The fresh smell of leather lingers in this room as well as the
+New look to this room.  A huge leather couch sits in this room so people can
+Sit down and have a nice chat.  
+~
+0 0 0
+D0
+~
+~
+0 0 3620
+S
+#3620
+Gathering Room~
+As you walk into the room you notice several groups of people conversing.
+There are some chairs and couches here to relax on and to get to know one
+another.  The tiles are a bright white and there is an exit to the East.  
+~
+0 0 0
+D1
+~
+~
+0 0 3621
+D2
+~
+~
+0 0 3622
+S
+#3621
+A Corridor~
+The floor is a clean white tinged blue.  The floor is also blue.  The
+lights a fading and there are no windows to be seen.  There is air
+conditioning here which blows a fresh cool breeze through the corridor. 
+Soft calming music is playing in the background.  
+~
+0 0 0
+D0
+~
+~
+0 0 3604
+D1
+~
+~
+0 0 3601
+D2
+~
+~
+0 0 3603
+D3
+~
+~
+0 0 3620
+S
+#3622
+Locker Room~
+This room supplies lockers for people who use this gym and don't want
+some of there Clothes to be destroyed in combat, the problem is that someone
+has vandalized them so the lockers are out of action for the moment.  A real
+Horrible, sweaty smell has enveloped the whole of this room.  
+~
+0 0 0
+D0
+~
+~
+0 0 3620
+D2
+~
+~
+0 0 3623
+S
+#3623
+Locker Room~
+This room supplies lockers for people who use this gym and don't want
+some of there Clothes to be destroyed in combat, the problem is that someone
+has vandalized them so the lockers are out of action for the moment.  A real
+Horrible, sweaty smell has enveloped the whole of this room.  
+~
+0 0 0
+D0
+~
+~
+0 0 3622
+D1
+~
+~
+0 0 3624
+S
+#3624
+Toilets~
+The smoky smell of tobacco lingers in the air, leaving a permanent, hazy
+cloud.  The stone floor is gritty, and a large, lone mirror stands on the
+east wall.  To the west are several wooden stalls, some of their doors
+hanging at an odd angle.  Muttered cursing and loud coughs can be heard from
+some of the stalls.  
+~
+0 0 0
+D3
+~
+~
+0 0 3623
+S
+#3625
+Training Walkway~
+The sound of metal clanging and the blood curdling screams of shear pain
+and agony of trainers dying can be heard.  The smell of sweat and blood
+floats through these passages leading to the Training bases.  Blood trails
+can be seen on the floor where trainers have tried to struggle there
+the healing tanks when they get real beat up.  A sense of excitement
+overcomes people as they walk these walkways to the training bases because
+they get all siked up to the thought that they are about to get stronger.  
+~
+0 0 0
+D0
+~
+~
+0 0 3626
+D3
+~
+~
+0 0 3604
+S
+#3626
+Training Walkway~
+The sound of metal clanging and the blood curdling screams of shear pain
+and agony of trainers dying can be heard.  The smell of sweat and blood
+floats through these passages leading to the Training bases.  Blood trails
+can be seen on the floor where trainers have tried to struggle there way to
+the healing tanks when they get real beat up.  A sense of excitement
+overcomes people as they walk these walkways to the training bases because
+they get all siked up to the thought that they are about to get stronger.  
+~
+0 0 0
+D0
+~
+~
+0 0 3627
+D2
+~
+~
+0 0 3625
+D3
+~
+~
+0 0 3634
+S
+#3627
+Base Training Level~
+To the north of this room is a staircase made out of steel with devices
+placed all over the stairs called Energykianas.  These Energykianas absorb
+the KI attack so they don't destroy the building and also the KI gets used
+as electricity.  The floor is covered in Energykianas.  The lighting is dim
+and colored red.  Remember to keep an eye on your KI and make sure that you
+don't die!  To get healed, go to the Healing Tanks 2 north from the Main
+Gates.  
+~
+0 0 0
+D2
+~
+~
+0 0 3626
+D4
+~
+~
+0 0 3628
+S
+#3628
+Training for PL 1000 -5000~
+The lighting is getting brighter and the floor has more Energykianas on
+it.  To the north of this room is a staircase made out of steel with
+devices placed all over the stairs called Energykianas.  These Energykianas
+absorb the KI attack so they don't destroy the building and also the KI gets
+used as electricity.  Remember to keep an eye on your KI and make sure that
+you don't die!  To get healed, go to the Healing Tanks 2 north from the Main
+Gates.  
+~
+0 0 0
+D4
+~
+~
+0 0 3629
+D5
+~
+~
+0 0 3627
+S
+#3629
+Training for PL 5000 - 15000~
+The lighting is a bright blue.  There are Energykiana Droids floating
+around the room to catch KI energy.  To the north of this room is a stair
+case made out of steel with devices placed all over the stairs called
+Energykianas.  These Energykianas absorb the KI attack so they don't destroy
+the building and also the KI gets used as electricity .  Remember to keep an
+eye on your KI and make sure that you don't die!  To get healed, go to the
+Healing Tanks 2 north from the Main Gates.  
+~
+0 0 0
+D4
+~
+~
+0 0 3630
+D5
+~
+~
+0 0 3628
+S
+#3630
+Training for PL 15000 - 25000~
+The lighting is a soft red.  The Energykiana Droids are now parting with
+each other to become Energykianaian Droids.  The Energykianaian Droids are
+stronger than just plain Energyiana Droids because they can suck in twice as
+much energy as the ones downstairs.  To the north of this room is a stair
+case made out of steel with devices placed all over the stairs called
+Energykianas.  These Energykianas absorb the KI attack so they don't destroy
+the building and also the KI gets used as electricity .  Remember to keep an
+eye on your KI and make sure that you don't die!  To get healed, go to the
+Healing Tanks 2 north from the Main Gates.  
+~
+0 0 0
+D4
+~
+~
+0 0 3631
+D5
+~
+~
+0 0 3629
+S
+#3631
+Training for PL 25000 - 50000~
+The lighting is a bright red.  There are 2 times more Energykianaian
+Droids than the training room downstairs.  To the north of this room is a
+stair case made out of steel with devices placed all over the stairs called
+Energykianas.  These Energykianas absorb the KI attack so they don't destroy
+the building and also the KI gets used as electricity .  Remember to keep an
+eye on your KI and make sure that you don't die!  To get healed, go to the
+Healing Tanks 2 north from the Main Gates.  
+~
+0 0 0
+D4
+~
+~
+0 0 3632
+D5
+~
+~
+0 0 3630
+S
+#3632
+Training for PL 50000 - 75000~
+The Lighting on the west of the room is a bright red and the lighting on
+the East Side of the room is a bright yellow.  The floor is colored green
+and black and the Energykianaian Droids are moving fast around the room to
+try and keep up with the speed of the fighters that fight in this room. 
+There is 3 times as much Energykianaian Droids as there are downstairs.  To
+the north of this room is a staircase made out of steel with devices placed
+all over the stairs called Energykianas.  These Energykianas absorb the KI
+attack so they don't destroy the building and also the KI gets used as
+electricity.  Remember to keep an eye on your KI and make sure that you
+don't die!  To get healed, go to the Healing Tanks 2 north from the Main
+Gates.  
+~
+0 0 0
+D4
+~
+~
+0 0 3633
+D5
+~
+~
+0 0 3631
+S
+#3633
+Training for PL 75000 - 1,000,000~
+{GThis rooms gravity is 3 times more than Namek's normal gravity.  The
+lighting flashes different colours which is very disoriantating.  The room
+is covored in Energykianas and Energykianaian Droids.  The Droids are
+circling the room at high speeds which the average Namekian could not see. 
+These Energykianas absorb the KI attack so they don't destroy the building
+and also the KI gets used as electricity .  Remember to keep an eye on your
+KI and make sure that you don't die!  To get healed, go to the Healing Tanks
+2 north from the Main Gates.  {BThis is as far as the Namekian Training
+Centre can take you in your training, {RIf you wish to train from PL
+1,000,000 - 20,000,000 go to the {Ywest side {Rof the Training Complex.  {X 
+~
+0 0 0
+D5
+~
+~
+0 0 3632
+S
+#3634
+Training Walkway~
+The sound of Metal clanging and the blood curdling screams of shear pain
+and aggony of trainers dying can be heard.  The smell of sweat and blood
+floats through these passages leading to the Training bases.  Blood trails
+can be seen on the floor where trainers have tried to struggle there way to
+the healing tanks when they get real beat up.  A sense of excitment
+overcomes people as they walk these walkways to the training bases because
+they get all siked up to the thought that they are about to get stronger.  
+~
+0 0 0
+D0
+~
+~
+0 0 3635
+D1
+~
+~
+0 0 3626
+S
+#3635
+Training for PL 1,000,000 - 1,500,000~
+The lighting is flashing from yellow to black and a sign is mounted on
+the east side of this room.  The sign reads 'If you are under the Power
+Level of one million get out of this room now - by the authority of Trunks
+(builder of the Namekian Training Complex) and Potuu (The Namekian owner)'. 
+Elite KI Energykaisen Droids are flying around the room 6 times the speed of
+the speed of light.  The Droids are courtesy of Planet Vegeta's Droid shop. 
+The Elite KI Energykaisen Droids take in the KI attacks produced by fighters
+training in this room and turn the KI energy into electricity to keep the
+Training Complex going on free resources.  There is a stair case to the
+north of this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 3634
+D4
+~
+~
+0 0 3636
+S
+#3636
+Training for PL 1,500,00 - 2,000,000~
+There is a staircase to the North of this room.  The lighting is flashing
+from yellow to black and a sign is mounted on the east side of this room. 
+The sign reads 'If you are under the Power Level of one million five hundred
+thousand get out of this room now - by the authority of Trunks (builder of
+the Namekian Training Complex) and Potuu (The Namekian owner)'.  Elite KI
+Energykaisen Droids are flying around the room 6 times the speed of the
+speed of light.  The Droids are courtesy of Planet Vegeta's Droid shop.  The
+Elite KI Energykaisen Droids take in the KI attacks produced by fighters
+training in this room and turn the KI energy into electricity to keep the
+Training Complex going on free resources.  
+~
+0 0 0
+D4
+~
+~
+0 0 3637
+D5
+~
+~
+0 0 3635
+S
+#3637
+Training for PL 2,000,000 - 3,000,000~
+The lighting is flashing from yellow to black and a sign is mounted on
+the east side of this room.  The sign reads 'If you are under the Power
+Level of two million get out of this room now - by the authority of Trunks
+(builder of the Namekian Training Complex) and Potuu (The Namekian owner)'. 
+Elite KI Energykaisen Droids are flying around the room 6 times the speed of
+the speed of light.  The Droids are courtesy of Planet Vegeta's Droid shop. 
+The Elite KI Energykaisen Droids take in the KI attacks produced by fighters
+training in this room and turn the KI energy into electricity to keep he
+Training Complex going on free resources.  There is a stair case to the
+north of this room.  
+~
+0 0 0
+D4
+~
+~
+0 0 3638
+D5
+~
+~
+0 0 3636
+S
+#3638
+Training for PL 3,000,000 - 4,000,000~
+There is a stair case to the North of this room.  The lighting is
+flashing from yellow to black and a sign is mounted on the east side of this
+room.  The sign reads 'If you are under the Power Level of three million get
+out of this room now - by the authority of Trunks (builder of the Namekian
+Training Complex) and Potuu (The Namekian owner)'.  Elite KI Energykaisen
+Droids are flying around the room 6 times the speed of the speed of light. 
+The Droids are courtesy of Planet Vegeta's Droid shop.  The Elite KI
+Energykaisen Droids take in the KI attacks produced by fighters training in
+this room and turn the KI energy into electricity to keep the Training
+Complex going on free resources.  
+~
+0 0 0
+D4
+~
+~
+0 0 3639
+D5
+~
+~
+0 0 3637
+S
+#3639
+Training for PL 4,000,000 - 5,000,000~
+The lighting is flashing from yellow to black and a sign is mounted on
+the east side of this room.  The sign reads 'If you are under the Power
+Level of four million get out of this room now - by the authority of Trunks
+(builder of the Namekian Training Complex) and Potuu (The Namekian owner)'. 
+Elite KI Energykaisen Droids are flying around the room 6 times the speed of
+the speed of light.  The Droids are courtesy of Planet Vegeta's Droid shop. 
+The Elite KI Energykaisen Droids take in the KI attacks produced by fighters
+training in this room and turn the KI energy into electricity to keep the
+Training Complex going on free resources.  There is a stair case to the
+north of this room.  
+~
+0 0 0
+D4
+~
+~
+0 0 3640
+D5
+~
+~
+0 0 3638
+S
+#3640
+Training for PL 5,000,000 - 10,000,000~
+The lights that flash from Yellow to black now flash from red to yellow
+to black to green to orange.  A sign is mounted on the east side of this
+room.  The sign reads 'If you are under the Power Level of five million get
+out of this room now - by the authority of Trunks (builder of the Namekian
+Training Complex) and Potuu (The Namekian owner)'.  Elite KI Energykaisen
+Droids are flying around the room 6 times the speed of the speed of light. 
+The Droids are courtesy of Planet Vegeta's Droid shop.  The Elite KI
+Energykaisen Droids take in the KI attacks produced by fighters training in
+this room and turn the KI energy into electricity to keep the Training
+Complex going on free resources.  There is a stair case to the north of this
+room.  
+~
+0 0 0
+D4
+~
+~
+0 0 3671
+D5
+~
+~
+0 0 3639
+S
+#3641
+Power Generator~
+~
+0 0 0
+D1
+~
+~
+0 0 3642
+S
+#3642
+Main Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 3643
+D3
+~
+~
+0 0 3641
+S
+#3643
+Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 3642
+D1
+~
+~
+0 0 3659
+D2
+~
+~
+0 0 3644
+D3
+~
+~
+0 0 3663
+S
+#3644
+Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 3643
+D1
+~
+~
+0 0 3655
+D2
+~
+~
+0 0 3645
+D3
+~
+~
+0 0 3664
+S
+#3645
+Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 3644
+D1
+~
+~
+0 0 3651
+D2
+~
+~
+0 0 3646
+D3
+~
+~
+0 0 3670
+S
+#3646
+Main Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 3645
+D1
+~
+~
+0 0 3647
+S
+#3647
+Complex D~
+~
+0 0 0
+D3
+~
+~
+0 0 3646
+D4
+~
+~
+0 0 3648
+S
+#3648
+Complex D-1~
+~
+0 0 0
+D4
+~
+~
+0 0 3649
+D5
+~
+~
+0 0 3647
+S
+#3649
+Complex D-2~
+~
+0 0 0
+D4
+~
+~
+0 0 3650
+D5
+~
+~
+0 0 3648
+S
+#3650
+Complex D-3~
+~
+0 0 0
+D5
+~
+~
+0 0 3649
+S
+#3651
+Complex C~
+~
+0 0 0
+D3
+~
+~
+0 0 3645
+D4
+~
+~
+0 0 3652
+S
+#3652
+Complex C-1~
+~
+0 0 0
+D4
+~
+~
+0 0 3653
+D5
+~
+~
+0 0 3651
+S
+#3653
+Complex C-2~
+~
+0 0 0
+D4
+~
+~
+0 0 3654
+D5
+~
+~
+0 0 3652
+S
+#3654
+Complex C-3~
+~
+0 0 0
+D5
+~
+~
+0 0 3653
+S
+#3655
+Complex B~
+~
+0 0 0
+D3
+~
+~
+0 0 3644
+D4
+~
+~
+0 0 3656
+S
+#3656
+Complex B-1~
+~
+0 0 0
+D4
+~
+~
+0 0 3657
+D5
+~
+~
+0 0 3655
+S
+#3657
+Complex B-2~
+~
+0 0 0
+D4
+~
+~
+0 0 3658
+D5
+~
+~
+0 0 3656
+S
+#3658
+Complex B-3~
+~
+0 0 0
+D5
+~
+~
+0 0 3657
+S
+#3659
+Complex A~
+~
+0 0 0
+D3
+~
+~
+0 0 3643
+D4
+~
+~
+0 0 3660
+S
+#3660
+Complex A-1~
+~
+0 0 0
+D4
+~
+~
+0 0 3661
+D5
+~
+~
+0 0 3659
+S
+#3661
+Complex A-2~
+~
+0 0 0
+D4
+~
+~
+0 0 3662
+D5
+~
+~
+0 0 3660
+S
+#3662
+Complex A-3~
+~
+0 0 0
+D5
+~
+~
+0 0 3661
+S
+#3663
+Training Center~
+~
+0 0 0
+D1
+~
+~
+0 0 3643
+S
+#3664
+Hall to Shuttle Bays~
+~
+0 0 0
+D1
+~
+~
+0 0 3644
+D3
+~
+~
+0 0 3665
+S
+#3665
+Central Sphere~
+~
+0 0 0
+D0
+~
+~
+0 0 3667
+D1
+~
+~
+0 0 3664
+D2
+~
+~
+0 0 3669
+D3
+~
+~
+0 0 3668
+S
+#3667
+Shuttle To Vegeta~
+~
+0 0 0
+D2
+~
+~
+0 0 3665
+S
+#3668
+Shuttle To Earth~
+~
+0 0 0
+D1
+~
+~
+0 0 3665
+S
+#3669
+Shuttle To Namek~
+~
+0 0 0
+D0
+~
+~
+0 0 3665
+S
+#3670
+Healing Center~
+~
+0 0 0
+D1
+~
+~
+0 0 3645
+S
+#3671
+Training for PL 10,000,000 - 20,000,000~
+The lights that flash from Yellow to black now flash from red to yellow
+to black to green to orange.  A sign is mounted on the east side of this
+room.  The sign reads 'If you are under the Power Level of ten million get
+out of this room now - by the authority of Goten (builder of the Namekian
+Training Complex) and Potuu (The Namekian owner)'.  Elite KI Energykaisen
+Droids are flying around the room 6 times the speed of the speed of light. 
+The Droids are courtesy of Planet Vegeta's Droid shop.  The Elite KI
+Energykaisen Droids take in the KI attacks produced by fighters training in
+this room and turn the KI energy into electricity to keep the Training
+Complex going on free resources.  This is as far as the Namekian Training
+Complex is allowed to take you.  Another Sign mounted on the ceiling of this
+room reads 'You have accomplished training here and you can go on to take on
+bigger steps in your life.  Thank you for using our Complex.  -from Trunks
+and Potuu'.  
+~
+0 0 0
+D4
+~
+~
+0 0 3672
+D5
+~
+~
+0 0 3640
+S
+#3672
+Primary Training Room~
+This room is filled with energy absorbing plates around the whole room,
+absorbing stray energy blast that may have missed its targets.  The gravity
+here isn't normal.  The forces of the gravity start to take affest.  The
+floor is nice and firm and just right for a nice training session.  The
+plates getting louder and louder as more beams come incontact with the
+plates.  Its time to train!!!  
+~
+0 0 0
+D5
+~
+~
+0 0 3671
+S
+#3673
+Secondary Training Room~
+This room is also surrounded with energy abosorbing plates covering the
+walls.  There are fighters and others training, stray beams fly pass and get
+sucked up by the plates.  Fighters, beams and various noisesfill the entire
+area.  
+~
+0 1048576 0
+D2
+~
+~
+0 0 3672
+S
+#3674
+~
+The glistening of water on the cave wall sparkles like that of a stained
+glass window.  The color bursts in all different directions.  On the far
+wall, if looked at clearly, five small dots can be seen reflecting from the
+water.  Looking around, no entrance can be seen.  The light glistening off
+the water seems to be illuminating from the water itself.  
+~
+0 4 0
+S
+#3675
+~
+~
+0 4 0
+S
+#3676
+~
+~
+0 4 0
+S
+#3677
+{RT{rr{Ru{rn{Rk{r'{Rs {CO{cf{Cf{ci{Cc{ce{X~
+No one touch this mortal untill further notice, they have been helled to
+Trunks Hell!  
+~
+0 1048580 0
+S
+#3678
+~
+~
+0 4 0
+S
+#3679
+Entrance to the Tenkaichai Budokai~
+{yA large archway with a small dirt path going through it, is towering before a small sign.  The walls are {Yyellow{y with {xwhite{y trim. There is no {Rroofing{y on the structure at all, but a large {Bsign{y is hanging on it.{x
+~
+0 1024 2
+E
+sign~
+{yThe Tenkaichi Budokai this year, has a natural setting of a field.  There will be a marked area for the arena. No fighting allowed unless you are competing at the time.
+{x
+~
+D0
+~
+~
+0 0 3680
+S
+#3680
+A small dirt path~
+{yA small dirt path is here, with a few {gtrees{y and {gbushes{y. To the {Beast{y is a small {Bchinese restaurant{y and to the {Mwest{y is a cool {Mgift shop{y.{x
+~
+0 1024 2
+E
+west~
+A gift shop... I wonder whats in there
+~
+E
+east~
+A Chinese restaurant... mmmm smells yummy.
+~
+E
+trees~
+{gThere a some small trees here.{x
+~
+E
+bushes~
+{gThere a some small bushes here.{x
+~
+D0
+~
+~
+0 0 3683
+D1
+~
+~
+0 0 3682
+D2
+~
+~
+0 0 3679
+D3
+~
+~
+0 0 3681
+S
+#3681
+A gift shop~
+{yAs you walk in there is a {bcounter{y with a {gwoman{y behind it. Along the walls are many little knick-knacks and trinkets.{x
+~
+0 0 0
+D1
+~
+~
+0 0 3680
+S
+#3682
+A traditional Chinese restaurant~
+{yA few {rtables{y with numbered cards on them are randomly placed in the room. There is an good odor coming from the kitchen.{x
+~
+0 1024 0
+E
+tables~
+{yThe {rtables{y all have numbers on them, you can see tables with cards on them saying, {B1{y, {G2{y, {M3{y, {Y4{y, {yand {R5{y.{x
+~
+D3
+~
+~
+0 0 3680
+S
+#3683
+A small dirt path~
+{yA small dirt path is here, with a few {gtrees{y and{g bushes{y. To the {Beast {yis another {Bgift shop{y, and to your {Mwest{y is the {Msign-up office{y for the Tenkaichi Budokai.
+~
+0 0 2
+E
+bushes~
+{gThere are some small bushes here.{x
+~
+E
+trees~
+{gThere are some small trees here.{x
+~
+D0
+~
+~
+0 0 3686
+D1
+~
+~
+0 0 3685
+D2
+~
+~
+0 0 3680
+D3
+~
+~
+0 0 3684
+S
+#3684
+A sign-up Office~
+{yA humongous {rbanner{y is above a large, empty {mdesk{y.  All the walls are {xwhite{y with {xwhite tile{y for the flooring.  This is where you sign up to enter the {MTENKAICHI BUDOKAI{y.
+~
+0 0 0
+E
+desk~
+There is nothing special about it.
+~
+E
+banner~
+{yA large white banner, hanging from the wall, has {MTenkaichi Budokai{y written on it in Japanese Kanji.
+~
+D1
+~
+~
+0 0 3683
+S
+#3685
+A gift shop~
+{yNothing seems to be here except a large {Rsign{y hanging over an old dusty counter.
+~
+0 0 0
+E
+sign~
+For Sale!!
+~
+D3
+~
+~
+0 0 3683
+S
+#3686
+A concrete path~
+{yThe path is starting to turn into concrete slabs. But the {Bpath {yseems to go {Bnorth{y, {BSouth{y, {Beast{y, and {Bwest{y.  To the {Bnorth{y you can see the {Mstairs{y to the {MArena{y.
+~
+0 1024 2
+D0
+~
+~
+0 0 3689
+D1
+~
+~
+0 0 3688
+D2
+~
+~
+0 0 3683
+D3
+~
+~
+0 0 3687
+S
+#3687
+A concrete path~
+{yThe path goes further to the west, with a few {gtrees {yand {gbushes{y. To the {Ynorth{y and {Msouth{y are empty dojo's for clans who are participating in the Tenkaichai Budokai.{x
+~
+0 1024 2
+E
+bushes~
+{gThere are some small bushes here.{x
+~
+E
+trees~
+{gThere are some small trees here.{x
+~
+E
+bushes~
+{gThere are some small bushes here.{x
+~
+D0
+~
+~
+0 0 3690
+D1
+~
+~
+0 0 3686
+D2
+~
+~
+0 0 3691
+D3
+~
+~
+0 0 3692
+S
+#3688
+A concrete path~
+{yThe path ends here, at a {Bwall {ywith a few {gtrees{y and{g bushes{y. To the {Ynorth{y is a small {Yhospital{y, and to the {Msouth{y is a {Mgym{y.
+~
+0 1024 2
+D0
+~
+~
+0 0 3698
+D2
+~
+~
+0 0 3695
+D3
+~
+~
+0 0 3686
+S
+#3689
+Entrance to the arena~
+{yLarge {Bsteps{y are before you, rising {Bup{y. They look like they go on forever.{x
+~
+0 1024 2
+D0
+~
+~
+0 0 3603
+D2
+~
+~
+0 0 3686
+S
+#3690
+An empty Dojo~
+{yNothing special in here...{x
+~
+0 1024 0
+D2
+~
+~
+0 0 3687
+S
+#3691
+An empty Dojo~
+{yNothing special in here...{x
+~
+0 1024 0
+D0
+~
+~
+0 0 3687
+S
+#3692
+A dead end~
+The path ends here at a giant tree blocking any way out to the west.  To
+the north is a small dojo up for rent.  To the south is another dojo up for
+rent.  The concrete path ends and is met by a brick walkway running between
+the two dojos.  From the worn damage done to the buildings, and the
+indentations in not only the bricks but the tree itself, it would seem that
+some very brutal battles took place in this very spot.  
+~
+0 1024 2
+E
+bushes~
+{gThere are some small bushes here.{x
+~
+E
+trees~
+{gThere are some small trees here.{x
+~
+D0
+~
+~
+0 0 3693
+D1
+~
+~
+0 0 3687
+D2
+~
+~
+0 0 3694
+S
+#3693
+An empty Dojo~
+{yNothing special in here...{x
+~
+0 1024 0
+D2
+~
+~
+0 0 3692
+S
+#3694
+An empty Dojo~
+{yNothing special in here...{x
+~
+0 1024 0
+D0
+~
+~
+0 0 3692
+S
+#3695
+A gym~
+{yAlot of weight equipment is here. In the corner is a {Mpunching bag {yand near the middle is {Bspeedbag{y. There is a small {Ydesk{y with a {Gnote{y on it.{x
+~
+0 1024 0
+E
+note~
+{yA small note with the words written on it: "{MI have become very sick, excuse my absence -{mGym Trainer"{y... odd.{x
+~
+E
+desk~
+{yNothing special here, there is a {Gnote {yin the center though.{x
+~
+E
+speedbag~
+{yA small bag filled with air, that you keep hitting, and see how long you can keep it bouncing.{x
+~
+E
+punching~
+{yA bag of sand hanging from the ceiling... that you punch.{x
+~
+D0
+~
+~
+0 0 3688
+S
+#3696
+Money Room~
+Welcome to the money room.  The money earned by Restring is kept here. 
+Please take a set Vedelite will be with you shortly.  
+~
+0 4 0
+S
+#3697
+{rThe {RStore {rRoom{X~
+If you are in this room without Vedelite you will be destroyed.
+~
+0 33284 0
+S
+#3698
+A hospital~
+{yThere are {Bcots{y lined up against the walls here with a few unconcious competetors in them.  A {xdoctor{y is looking at his {Mnotepad{y and checking on his patients.{x
+~
+0 1024 0
+E
+notepad~
+{yThe doctor is keeping it close to his chest, so you can't see anything written on it.{x
+~
+E
+doctor~
+{yA young man who looks in his early twenties.  He is wearing a clean, white lab coat.{x
+~
+E
+icee-pak~
+{yA small pak of ice for injuries.{x
+~
+E
+cots~
+{yA cot for a large sized person with an {Bicee-pak{y next to it.{x
+~
+D2
+~
+~
+0 0 3688
+S
+#3699
+{B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X~
+This room is very cousy and warm.  The light softly light the rim with a
+dim glow.  There is a desk, sofa and the carpet is blue.  This is where the
+re-string business is run from.  If you need Goten shout him.  
+ 
+~
+0 12 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3110 0 3600 The portal to earth loaded to Entry to the Complex
+M 0 3601 100 3601 1 Load The Receptionist
+O 0 3606 0 3602 {x loaded to Dead End
+M 0 3605 1 3605 1 Load A Shop Keeper
+E 0 3605 0 9 The banishing machine is loaded on the hands of A Shop Keeper
+E 0 699 0 9 Food is loaded on the hands of A Shop Keeper
+M 0 3606 100 3606 1 Load A Newbie Namek
+O 0 3609 0 3608 A small desk loaded to An office
+O 0 3601 0 3610 A healing tank loaded to Healing Tanks
+O 0 3601 0 3613 A healing tank loaded to Healing Tanks
+M 0 3605 100 3617 1 Load A Shop Keeper
+O 0 3699 0 3619 A {dblack leather {ycouch{x loaded to Social Room
+O 0 1989 0 3620 A couch loaded to Gathering Room
+O 0 1989 0 3620 A couch loaded to Gathering Room
+O 0 927 0 3620 A comfortable chair loaded to Gathering Room
+O 0 927 0 3620 A comfortable chair loaded to Gathering Room
+O 0 927 0 3620 A comfortable chair loaded to Gathering Room
+O 0 927 0 3620 A comfortable chair loaded to Gathering Room
+M 0 3624 100 3624 1 Load A Cleaner
+M 0 3625 100 3625 1 Load A Fitness Instructor
+M 0 3627 100 3627 1 Load A Newbie Fighter
+M 0 3628 100 3628 1 Load A Fighter
+M 0 3629 100 3629 1 Load A Fighter
+M 0 3630 100 3630 1 Load An Experienced Fighter
+M 0 3631 100 3631 1 Load An Experienced Fighter
+M 0 3632 100 3632 1 Load an Advanced Fighter
+M 0 3633 100 3633 1 Load The Top Fighter
+M 0 3635 100 3635 1 Load A Fighter
+M 0 3636 100 3636 1 Load A Fighter
+M 0 3637 100 3637 1 Load An Advanced Fighter
+M 0 3638 100 3638 1 Load An Advanced Fighter
+M 0 3639 100 3639 1 Load An Ascended Fighter
+M 0 3640 100 3640 1 Load An Ascended Fighter
+M 0 3641 100 3671 1 Load The Ultimate Fighter
+O 0 3607 0 3674 A small puddle of water loaded to 
+O 0 3608 0 3674 A small portal back to namek loaded to 
+M 0 3681 1 3681 1 Load A shopkeeper
+G 0 3681 0 A small doll of the last tenkaichai budokai winner, cyric is given to A shopkeeper
+O 0 3682 0 3682 {rtable {bone{x loaded to A traditional Chinese restaurant
+O 0 3683 0 3682 {rtable {gtwo{x loaded to A traditional Chinese restaurant
+O 0 3684 0 3682 {rtable {mthree{x loaded to A traditional Chinese restaurant
+O 0 3685 0 3682 {rtable {yfour{x loaded to A traditional Chinese restaurant
+O 0 3686 0 3682 {rtable {rfive{x loaded to A traditional Chinese restaurant
+M 0 3682 1 3682 1 Load {An average sized monk holding a small menu
+O 0 3604 0 3692 A large tree loaded to A dead end
+O 0 3699 0 3696 A {dblack leather {ycouch{x loaded to Money Room
+O 0 3696 0 3696 {wa {ymoney {dsafe loaded to Money Room
+O 0 1920 0 3699 A chocolate milk fountain loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3699 0 3699 A {dblack leather {ycouch{x loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3699 0 3699 A {dblack leather {ycouch{x loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3699 0 3699 A {dblack leather {ycouch{x loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 4702 0 3699 A fireplace loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3694 0 3699 A portal loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3699 0 3699 A {dblack leather {ycouch{x loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3698 0 3699 {b({c-{cg{c-{b){co{ct{ce{cn{c'{cs {rde{rsk{w loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+O 0 3696 0 3699 {wa {ymoney {dsafe loaded to {B({c-{CG{c-{B){co{Ct{ce{Cn{c'{Cs {ROffice{X
+S
+
+
+
+#SHOPS
+3604 0 0 0 0 19 5 1 6 22
+3605 5 19 9 0 0 100 100 0 23
+3681 9 5 8 13 0 110 60 1 11
+3682 19 0 0 0 0 110 60 1 11
+0
+
+
+
+#MOBPROGS
+#3600
+emot smiles at you when you walk up
+say Welcome $n to the Namekian Training Complex! Enjoy your stay.
+~
+#3601
+emot Smiles at you.
+Say Enjoy your stay at the Namekian Training Centre.
+~
+#3602
+speech hello
+emot smiles at you.
+say Hi $n lovely day isn't it? Do enjoy your stay and do visit our shops as well as train.
+~
+#3679
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

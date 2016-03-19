@@ -1,0 +1,527 @@
+#HELPS
+-1 earthwish~
+These are the rules for making a wish with the earth dragon balls.
+ 
+1)  You CAN NOT become an immortal so dont ask.
+ 
+2)  You get only one wish.
+ 
+3)  You may wish someone back from the dead but only if its the first time they have 
+been wished back.  If they have been wished back before then you will be wasting
+your wish by asking.
+
+4)  You CAN NOT get a transformation through a wish.  This means you can't wish for
+ssj, icer forms, upgrades, ect.
+
+5) All wishes need to be rp oriented since this is an rp mud.
+
+6)  Anything not covered here is subject to approval by Vegeta or the imm that is
+granting the wish.
+~
+
+0 'SKILLS PHYSICAL'~
+This file lists the skills and what is needed to gain them
+
+bash          hand-to-hand=3     dex=15          pl 10000
+sweep                            dex=15          pl 10000
+throat shot   hand-to-hand=5                     pl 50000  (chance of stun)
+knee          kick=3  sweep=3    str=15 dex=20   pl 20000
+elbow         hand-to-hand=4     str=20 dex=20   pl 20000  (disrupts ki, attacks charging)
+heart shot    hand-to-hand=5     str=20          pl 50000  (chance of x2 damage)
+eye gouge     hand-to-hand=4     con=20          pl 50000  (chance of blind)
+
+See KISKILLS
+~
+
+0 'KISKILLS'~
+This file lists the skills for ki based stuff and what is needed to gain them
+
+fusion                             1000000 
+kaioken                             500000 
+droidrage                          5000000 
+    Races: android bio-android
+fly                                 500000 
+kamehameha                         2000000  wis=15
+    Races: human saiya-jin bio-android half-breed
+    Skills: energy beam=3
+scattershot                         500000  wis=15 con=20
+    Races: namek bio-android android human saiya-jin half-breed
+    Skills: energy ball=3
+energy ball                           5000 
+energy beam                           5000 
+final flash                       50000000  wis=25 con=30
+    Races: android saiya-jin half-breed
+    Skills: energy beam=7
+special beam cannon                2000000  wis=15
+    Races: namek bio-android
+    Skills: energy beam=4
+solar flare                         250000  wis=15 con=15
+    Races: human namek saiya-jin half-breed bio-android
+    Skills: energy ball=3 energy beam=3
+destructo disk                     4000000  wis=15 con=20
+    Races: human bio-android icer
+    Skills: energy ball=5
+masenko                           25000000  wis=25
+    Races: namek half-breed
+    Skills: energy beam=7
+eye beam                            100000 
+    Races: namek icer android
+    Skills: energy beam=2
+mouth beam                          500000 
+    Races: majin namek
+    Skills: energy beam=3
+finger beam                        1000000  wis=20
+    Races: icer bio-android
+    Skills: energy beam=4
+spirit bomb                       20000000  con=100
+    Races: saiya-jin human half-breed
+    Skills: energy ball=6 kamehameha=3
+power bomb                       500000000 
+    Races: majin
+death ball                       500000000 
+    Races: icer
+    Skills: finger beam=5
+heal                              25000000  str=25 wis=25 int=25 con=25 dex=25
+    Races: namek
+revive                           500000000  str=25 wis=50 int=50 con=50 dex=25
+    Races: namek
+cure vision                       50000000  str=25 wis=50 int=50 con=50 dex=25
+    Races: namek
+~
+
+0 background~
+This is the timeline for this mud.  Much like future trunks world small changes have  created drastic changes.
+ 
+~
+
+0 powerstruggle~
+When an opponent is charging a ki attack you can type struggle to fire
+one at his attack to try and push it back.  When the two collide you will
+enter a power struggle.  Addki 1-10 will push more of your ki into the
+attack and try to slam them both back into your opponent.  Release will end
+the struggle with whoever is winning at the moment.  
+~
+
+0 CHANGES~
+* There is a list of the top players! See the <toplist> command
+* Removed the autoattack command
+* Learning skills has been altered
+~
+
+0 CLAN CLANS~
+{x          {Y*{R_   _   _   _   _   _   _   _   _   _  {Y*
+  {C^       {Y|{R `_' `-' `_' `-' `_' `-' `_' `-' `_'`- {Y|{C       ^
+  {C|{Y       |      {MClans in {YDragon{RBall Z {CARENA      {Y|{C       |
+  {C|{x  (*)  {Y|{R_   _   _   _   _   _   _   _   _   _  {Y|{x  )^(  {C|
+  {C|{x _<%>_ {Y|{R `_' `-' `_' `-' `_' `-' `_' `-' `_' `-{Y|{x _(#)_ {C|
+{x o+o [ ]  0                                       0] [ ] [=]
+  0'| ^ |()                                       ()| ^ |`0
+    || || {Y|                                       |{x || ||
+____d|_|b_{RT{x_______________________________________{RT{x_d|_|b_ 
+          {MTis honor that leads to the valors of war, 
+           as the {Wangels{M sing their hymns of {Ypeace{M
+            another {Rsoul{M has entered a clan of
+                     {YDragon{RBall Z {CARENA{x! 
+ 
+{B   Talk to Majinfred and/or Yoshi about creating a clan of your own.{x
+~
+
+0 CLANJOIN~
+Clans are a group of players following a common theme or goal. Clans have many
+features not commonly found among other worlds including a clan tax rate to help
+clans finance their development, clan transporters, clan healing rooms and sparring
+sphere, clan guards and clan exits to some of the harder places in the mud to reach.
+ 
+Joining a clan is not something to be undertaken lightly, once in a clan the only
+way to leave is to become an outcast(help outcast). Players that decide they will
+never want to be part of a clan can choose to become a loner(help loner) and wander
+the realm as such.
+ 
+1.You must be an active RP player.  By that I don't mean you talk about who wants
+to spar every so often. I mean you must actually RP.
+2.Do not harass people to join a clan. 
+3.It is best to find the (or one of the) leader(s) in the game and speak to him
+about joining or leaving them a note.  DO NOT contact the clan god for the clan.
+It is up to the leader(s) who gets in. The god is only there to ensure that they
+are RP players that are being inducted and to act as voice for the clan when they
+need something from the imms.
+4.Do not join a clan if you don't want to be involved in wars, territory battles,
+and things of that nature. 
+ 
+See {cHelp clanpetition{x for information about creating a clan. The above restrictions
+apply if creating a clan as well.
+ 
+{cHelp clanlist{x to see clans that have been accepted.
+~
+
+0 CLANLIST~
+{x
+{W---------------------------------------------------------------------------
+{x  {CN{co{Dn{W-{xPl{Wa{Dy{ce{Cr {CK{ci{Wl{Dl{Wi{cn{Cg{x
+Description: {WCapsule {RCorps.{x    Short Description: [ {W-C{RC{W-{x ]
+Deity: {GYoshi{x  Clan Help File: {GHelp CAPSULECORP{x
+
+Leader(s): {RFiresbane
+{W---------------------------------------------------------------------------{x
+   {RP{rl{Wa{xy{We{rr {RK{ri{Wl{xl{Wi{rn{Rg{x
+{xDescription: {YAndroid {DElite{x    Short Description: [ {Y<{D*{YA{DE{Y*{D>{x ] 
+Deity: {GKube{x  Clan Help File: {GHelp ANDROIDELITE{x
+
+{xLeader(s):{R Koa{x
+{W---------------------------------------------------------------------------
+   {RP{rl{Wa{xy{We{rr {RK{ri{Wl{xl{Wi{rn{Rg{x
+{xDescription: {B>{D*{B[{DShadoW{BSyndicatE{D[{B*{D<{x    Short Description: [{GN/A{x] 
+Deity: {GIshbuu   {xClan Help File:
+ 
+{xLeader(s): {RThaur
+{W---------------------------------------------------------------------------{x
+~
+
+0 CLANHALL~
+Clans may purchase clan halls for their group to give them somewhere to meet
+and train together separately.
+ 
+Prices for things are not a flat rate and will be dealt with according to the specifics of the hall.
+ 
+Clans may build add-ons to their halls and several other things that will be discussed with the clan leader when it is created.
+ 
+Clan halls can be moved but at a high cost (think a few zeros behind 1 million).
+ 
+Most likely, you will have to leave a note with your clan god and he will build your clan hall, or ask someone to build it.
+~
+
+0 house~
+HOUSE
+Players may buy houses to live in.  It is best you make sure that you want your
+house to be where you say permently because the imms will not move them.  People
+that want houses on other planets should wait till those planets are open to
+players.  Note the imms if interested and we will get in touch with you.
+~
+
+0 tourny~
+TOURNY
+This file is the rules, requirerment, and prizes for the next tournament to be
+held.  Location is also included in case you can't find anyone that likes you 
+enough to tell you where it is.
+ 
+ 
+UPCOMING TOURNAMENTS
+ 
+Place: Cliff behind the waterfall
+
+Time/Date: 5pm est/sunday febuary 24th
+
+Requirerments:  Invitation from the imms that will be given out near the end of
+the week.  If you get one and can not make it please let the imms know so
+that the matches for the tournament will not be messed up.  To try to get an
+invitation write a note to the imms (not the whole mud) with an IC background
+for your player and why he/she feels they have earned the right to compete. Reasons
+like "because my pl is high", "because i rp well" are not what they should be
+Make it a ligitimate IC reason.  If you cant think of one then just say because
+you would like to compete with the best or something to that affect.  Past rp
+will influence this though people looking to try and start an rp for their
+player may attempt to get invited as well.  Please only note the imms once 
+about this and if you do not get choosen do not take it personaly it is
+at matter of space.  As will be the case with all tourny if the defending champion
+of the last tourny meats the requirements they will automaticly get a spot.
+ 
+Prizes: 1st place will recieve a orange ball with seven pretty little stars.
+2nd place will recieve a VERY nice home custom made for them in the spot the choose.
+3rd place will recieve a bag of 20 senzu beans to aid in training
+4th and final prize will be a one hour (imms will be clocking it) in the time
+chamber to push themselves to new limits.
+(Winners recieve all prizes they earn,ie 1st place will get the prize of 1-4th place
+2nd 2-4th,ect)
+ 
+This tourny will also be when the imms pick the first two clan leaders.  Winners
+do not automaticly get clans as the imms will be looking more for solid rp (if you
+dont have a rp history here dont worry you can use this to start one).
+ 
+Special Rules/Conditions:
+The fight rounds will be to a knockout but those that make it to the final
+fight will be to death.
+~
+
+0 dragonballs~
+On both earth and namek players that wish to risk it may try and collect the
+dragon balls.  When all are collected the dragon of whichever planet the balls
+come from will appear and grant the wish if the one that called him.  For specific
+information on the differences read help earthwish and help namekwish.
+ 
+RULES FOR BALL CARRIERS
+~
+
+-1 IC~
+~
+
+2 OOC~
+OOC stands for Out Of Character.  This is used for general chatting that isn't
+related to role playing.  IE ooc hey did you watch the baseball game?
+~
+
+-1 Roleplay RP~
+{c ROLEPLAY, RP {x
+
+Roleplaying (RP for short) here on DBA is highly encouraged. The concept
+of RP is simple. Basically, you create a charatcer, and then *become* that
+character. This character has its own thoughts and feelings, and behaves 
+differently than how you, the player, would normally behave. The following
+are a few things to keep in mind should you consider to give roleplaying a try:
+ 
+*Know the difference between In Character(IC) and Out of Character(ooc)
+actions/channels.
+
+*Don't "Powerplay" (i.e. my character is the biggest, baddest, ect. and
+cant be beaten) others get bored and sometimes even angry with characters
+who act that way.
+
+*React/Respond to those around you. 
+ 
+*Be creative! (for example if your character wants to destroy the world,
+find an interesting way to go about trying to do it. Don't just say 'I 
+shot a beam at the planet and it blew up')
+
+*Develop your character. (if people can grow and change over time, why
+should your character be any different?)
+ 
+As with most things, the best way to learn about RP is hands on 
+experience. It's also good to ask fellow players and even IMMs (RP
+IMMs in particular) for advice and feedback on your RP. 
+
+ 
+See also: 'Help In character' 'Help Out of Character'
+~
+
+-1 In Character IC~
+{c IN CHARACTER, IC{x
+
+These are actions that your character would do in the world of DBA, such as
+fighting, training, sparring, ect.  IC channels are: say, emote, smote, yell
+and in some cases gossip.  Ou Being 'In Character' (IC for short) is the act
+of *being* your character.  These are actions that your character would do
+in the world of DBA, such as fighting, training, sparring, ect.  
+ 
+IC channels are:{G say, emote, smote, yell and in some cases gossip.{x
+Out of Character info should not be discussed on these channels.
+ 
+ 
+See Also: 'Help Out of Character' 'Help Roleplay'
+~
+
+-1 Out of Character OOC~
+{cOut of Character, OOC{x
+ 
+Being 'Out of Character' (OOC for short) is basically being YOU the 
+player. OOC issues are normally just chitchat, like how much you like 
+steak, your favorite sports team and other such things. 
+
+OOC channels are:{G OOC, shout, music, question, answer, grats, auction,{x
+{Gtell, and quote.{x
+
+In Character info (such as training, sparring, ect.) should not be
+discussed on these channels.
+
+ 
+See Also: 'Help In Character' 'Help Roleplay'
+~
+
+0 BUILDING~
+Here are a few guidelines for building:
+ 
+1. Use 'asave changed' often - everytime you create something and right
+before you quit.
+2. If you are easily distracted by the ooc chatting, turn the channel off.
+3. Builders of level 3 or less will preferably stay invisible to the
+playing public while building. Will keep you from answering 50 questions
+a minute instead of getting an area done.
+ 
+A few sites that can help you with a few details:
+http://www.pernet.net/-dmthom1/mobprogs.html
+                      ^- the little squigly thing called the tilde
+http://www.geocities.com/TimesSquare/Dome/4876
+http://aww.kyndig.com/mprog/mobprog.html
+http://dark.x.dtu.dk/-ambiorix/shadow/building_manual.html <-- a really good idea to read this
+ 
+Also see:
+ 
+HELP STRING, HELP RESET, HELP MEDIT, HELP OEDIT, HELP REDIT
+HELP MPEDIT, HELP OPEDIT, HELP RPEDIT, HELP RLIST, HELP MLIST
+HELP OLIST, HELP RPLIST, HELP OPLIST, HELP MPLIST
+~
+
+0 MULTIPLAYING~
+By playing as two Pfiles interacting with each other at the same time, or
+by giving out passwords to other players on the MUD, you are multiplaying.  
+Everyone is not immune to punishment upon being caught multiplaying.
+~
+
+0 RULES@~
+~
+
+0 RULES2~
+This is a extenstion of Vegetas rules (help rules) and will be seen as part
+of any rules on this game. They will be enforced along with the others
+(help rules) swiflty and justly. If by some chance you dont agree with
+these rules look at the bottem of the list.
+ 
+1. {RANYONE{x (imm or player) cought breaking any rules from this day on,
+will {BIMMEDIATELY{x be reprimanded.
+ 
+2. Any arguing about said reprimand will result in a longer punishment period.
+ 
+3. Unless asked, builders must stay away from RPs.
+ 
+4. Any imm caught multiplaying or helping mortals in anyway will
+be {RINCINERATED{x on the spot
+ 
+5. All active players are encouraged to join a RP in progress.
+ 
+6. Bot training will result in a week in the blood pit (no channels).
+ 
+7. If any imm comes to me with a problem from a player or imm,
+I will handle the problem swiftly and justly.
+ 
+8. I will {RNOT{x tolerate {RPK{x without a vaild {RRP{x reason.
+ 
+ 9. Rewards are only given when they are deserved. (Such as TC time ect.)
+ 
+ 10. I will {RNOT{x, nor will I {REVER{x allow any one player or IMM
+to run a RP alone, {RAll{x RPs are a team effort and should be ran 
+ 
+{RANYONE{x who does not comply with these small rules or has problem with them
+let me know now, and we can discuss it right on the spot.
+~
+
+0 CAPSULECORP~
+{W{c{xHi!  Welcome to the Capsule Corps.  You may all be wondering just what
+we are.  Well, we're a group of people who enjoy creating, rather than
+debillitating things.  That does not mean we are against killing, in fact,
+we have an army.  We do not though, practice it on a wide scale.  Whenever
+we find an opportunity to advance our purposes, we do so.  
+ 
+
+()()()()+_+_+_+_*****Junior Members*****_+_+_+_+()()()()
+ 
+ 
+Junior members are required to take on the following titles.
+(Between 500,000 PL and 1,000,000 PL) TITLE , {WCapsule {RCorps {WW{wo{Wr{wk{We{wr{x
+(1,000,000 PL and 2,000,000) TITLE , {WCapsule {RCorps {WO{wv{We{wr{Ws{we{We{wr{x
+(5,000,000 PL and 10,000,000) TITLE , {WCapsule {RCorps {WS{wo{Wl{wd{Wi{we{Wr{x
+ 
+After that ranking, is the elite. Elite to General are considered senior
+members.
+ 
+Senior members are required to hold a training session once per REAL LIFE 
+week. These trainings do not have to be public, and you can charge NON 
+{WCapsule {RCorps {xmembers for attendance.
+ 
+~
+
+4 Quest~
+Syntax: quest <player>
+
+The 'Quest' command allows an imm to trigger the quest flag on another
+player.  This is often used by RP (Role-Playing) imms when running a large
+rp.  It allows the immortal to see the players they need to transfer more
+easily by having this flag activated.  Also, it says that the player is
+performing in an immortal quest and might be rewarded for good rp.  An
+immortal may also use the command 'transfer quest' and all player with quest
+status will be transfered to the desired location.  
+~
+
+0 ANDROIDELITE~
+A long time ago in a world full of good and kind two powerful warriors
+banded together to form a massive army of hate and destruction.  These
+two warriors known as Koa and Malenstro formed the Android Elite.  The
+purpose of this newly found power was to decimate and destroy all who 
+opposed the rise of Androids and Bio-Androids, which the earth seem to
+forget.  Thus, the Android Elite or AE as they are called roam each
+corner of the universe, destroying all who oppose there rule and all who
+are good and kind.
+ 
+To Join the Android Elite you must pass a few rules and regulations. You
+MUST be a Android or Bio-Android to join. There are a few exceptions and
+other races may join ONLY after the "Androidized" RP as commenced. The 
+applier almost must have atleast 100,000,000 base PL. The AE do not
+accept weaklings. Also the applier must pass a feat of strength as a final 
+test inorder to join the Elite. Once you join the AE you join for life. If
+you do anything to hurt your fellow elite or anything to get yourself kicked
+out, you will be hunted to the far corners of the universe for the rest of
+eternity. So if you think you have what it takes to become one of the best,
+contact Koa, Ruler of the AE and become one of the Elite!
+~
+
+0 CLANPETITION~
+Petitions for a clan can only be made by a group of 3 players or more, with one(or up to 3) leader(s).
+ 
+Your petition must include:
+ 
+-Clan Name
+-Clan Colors(include color code for MUD purpose)
+-Clan Insignia(If any)
+-Clan Motto
+-Leader(s)
+ 
+Help File, including the following:
+ 
+-RP story:[must fit on page when viewed on the MUD]
+-7 Titles:[max 20 characters each](1 to 7, 7 being leader(s))
+-Requirements to join:[cannot be purely money based]
+ (include race/pl/align/language restrictions here)
+-How to get promoted?[cannot be purely money based]
+-Demoted?[cannot be purely money based]
+-Kicked out?[cannot be purely money based](no personal reasons)
+-Decisions made by Leader(s) or Member Voting?
+-Any other general clan rule(s) that may apply:
+
+Please also be aware that you submit your petition on the basis that if it is successful it will be posted publicly when the clan is created so that players may decide whether or not they want to join your clan.
+~
+
+0 CLANROSTER~
+{MClanned Societies on {YDragon{RBall Z {CARENA{x
+{W---------------------------------------------------------------------------
+{x   {CN{co{Dn{W-{xPl{Wa{Dy{ce{Cr {CK{ci{Wl{Dl{Wi{cn{Cg{x
+{xDescription: {WCapsule {RCorp.{x
+
+Members:  {RFiresbane  Ikana  Mizzouse  Jojubi  Rasid  Jazek{x
+ 
+{W---------------------------------------------------------------------------
+{x  {RP{rl{Wa{Dy{We{rr {RK{ri{Wl{Dl{Wi{rn{Rg
+{xDescription: {YAndroid {DElite{x
+ 
+{xMembers: {RKoa  Archon  Angelina  Sermeis  Kahlan{x
+ 
+{W---------------------------------------------------------------------------
+  {RP{rl{Wa{Dy{We{rr {RK{ri{Wl{Dl{Wi{rn{Rg
+{xDescription: {B>{D*{B[{DShadoW{BSyndicatE{D[{B*{D<{x
+ 
+{xMembers:  {RThaur  Kaath  Deisle  Danthalas  Bvanen
+ 
+{W---------------------------------------------------------------------------{x
+~
+
+0 houseprices~
+These are the current prices for building a house/clan hall/area..
+ 
+A Single Room = 100,000 zenni
+A Room flag, (Heal/Spar) = 100,000 zenni
+A NEW Item = 10,000 zenni
+An OLD Item = No Charge
+A TRAINER Mob (Clan Halls ONLY) = 75,000 
+A Shop Keeper Mob (Clan Hall ONLY) = 50,000
+Any Type of PROG (Rprog/Mprog/Oprog) = 10,000
+ 
+A high gravity room will NOT Be added to any room bought by a mortal.
+Mobs to train on are currently not in...
+No mob will be placed in a Spar Room...
+The area will not be linked and no keys will be given out until the area is 
+complete, (I.e. All Room Descs/Resets, ect.)
+~
+
+0 OUTCAST LONER~
+{RYet to be written{x
+~
+
+-1 $~
+
+#$

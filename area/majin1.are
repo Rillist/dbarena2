@@ -1,0 +1,1288 @@
+#AREADATA
+Name Under Construction~
+Builders Work-2-done~
+VNUMs 600 699
+Credits {{ OLC } Buu     Majin Newbie Area~
+Security 9
+End
+
+
+
+#MOBILES
+#600
+Majin Trainee~
+A Majin Trainee~
+A small Majin trainee stands here.
+~
+It wears loose-fitting pants, held up by a black belt.  Worn black boots
+soften his steps.  It clenches and unclenches its hand nervously.  
+~
+majin~
+AST 0 0 0
+1000 6
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+H 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ small unknown
+#601
+Majin Fighter~
+A Majin fighter~
+A Majin fighter stands here.
+~
+It wears loose fitting pants.  They are held up by a leather black belt
+with a large M burned into the front.  Soft leather boots muffle its
+movements.  It sways back and forth impatiently, waiting for a fight.  
+~
+majin~
+AT 0 0 0
+2000 8
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium unknown
+#602
+Large Majin Black Belt~
+Majin Black Belt~
+A large Majin black belt stands here.
+~
+It stands with it's feet firmly planeted in the sand.  It's eyes slowly
+glance around the room, ready for anything.  It wears a loose-fitting gold
+robe with a black belt holding it on.  
+~
+majin~
+AST 0 0 0
+8000 17
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJK large unknown
+#603
+Majin Ninja~
+A Majin ninja~
+A Majin ninja stands here.
+~
+It is very small but its glare is fearsome.  It wears a black gi with a
+gold M inscribed on the back.  It practices it's punches and kicks too
+quickly for the naked eye to see.  
+~
+majin~
+A 0 0 0
+4000 12
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK tiny unknown
+#604
+Mutant Majin~
+A Mutant Majin~
+A huge mutant stands here. 
+~
+Mutant Majins are accidents of nature.  No one is sure how they are
+created but one thing is for sure, they aren't to be taken lightly.  This
+one has a long tongue and four arms.  It is practicing it's punches at
+almost blinding speed, preparing for a battle.  
+~
+majin~
+AS 0 0 0
+10000 20
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+D 0 0 0
+stand stand none 30
+AHMV ABCDEFGHIJKL huge unknown
+#605
+Aab~
+Majin Healer~
+Aab the Majin healer stands here.
+~
+Aab stands calmly with a peaceful smile on his face.  He wears a long
+white robe with gold trim.  He gestures for you to sit down and rest a
+while.  
+~
+majin~
+ABQa W 750 0
+30000 57
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 60
+AGHM ABCDEFGHIJK medium unknown
+F for V
+#606
+Ato~
+Ato the Shopkeeper~
+Ato the Shopkeeper stands here.
+~
+Ato is a large Majin.  He wears loose white pants and a white shirt
+buttoned half way up.  A vain pumps on his temple as he glares around the
+room.  
+~
+majin~
+AB 0 0 0
+30000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#607
+Kran~
+Kran the Trainer~
+Kran the Personal Trainer stands here.
+~
+Kran is wearing a grey gi with a black M on the back.  She is medium
+sized and seems to have a aura of clamness around her.  She smiles happily
+as her students learn new skills.  
+~
+majin~
+ABJK 0 0 0
+50000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#608
+Black Belt~
+A black belt~
+A black belt with a gold M inscribed in the center.
+~
+~
+human~
+A 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#600
+A Ball of Light~
+a ball of light~
+A glowing ball of light lays here.~
+unknown~
+1
+light A AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 1 10 P
+#601
+Loose-fitting pants~
+loose-fitting pants~
+Badly made white pants lay folded here.~
+unknown~
+1
+armor 0 AF
+0 BCEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 200 P
+#602
+Black boots~
+a pair of black boots~
+A pair of soft black boots~
+unknown~
+1
+armor 0 AG
+0 ABDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 50 P
+#603
+Black belt~
+a black belt~
+A badly made black belt~
+unknown~
+1
+armor 0 AL
+0 ABDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 100 P
+#604
+Yellow Gloves~
+a pair of yellow gloves~
+A pair of yellow gloves lay here.~
+unknown~
+1
+armor 0 AH
+0 ABDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 100 P
+#605
+Purple Cloak~
+a purple cloak~
+A purple cloak lays folded here.~
+unknown~
+1
+armor 0 AK
+0 BCEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 500 P
+#606
+Senzu Bean~
+senzu bean~
+Ato~
+unknown~
+1
+pill 0 A
+0 '' '' '' ''
+0 0 40 P
+#607
+White pants~
+white loose-fitting pants.~
+Well made pants lay folded here~
+unknown~
+1
+armor 0 AF
+0 AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 500 P
+#608
+Black belt~
+black belt~
+A very well made black belt.~
+unknown~
+1
+armor 0 AL
+0 BCEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 0 250 P
+#698
+Bribe~
+a bribe~
+A bribe~
+unknown~
+0
+light 0 A
+0 0 0 0 0
+0 0 0 P
+#699
+food~
+food~
+Food~
+unknown~
+1
+food 0 A
+CFG CFG 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#600
+Majin Tower : Ground Level~
+This is the infamous Majin Tower.  Young Majins are sent here to learn
+the ways of the warrior.  Only the strong will survive the brutal fighting
+that goes on here.  Groans and screams echo agains the grey stone walls. 
+The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 131076 0
+D0
+~
+~
+0 0 601
+D1
+~
+~
+0 0 603
+D3
+~
+~
+0 0 602
+D4
+~
+~
+0 0 607
+D5
+~
+~
+0 0 604
+S
+#601
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.  
+~
+0 0 0
+D2
+~
+~
+0 0 600
+S
+#602
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 600
+S
+#603
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 600
+S
+#604
+Majin Tower : Basement~
+This is the infamous Majin Tower.  Young Majins are sent here to learn
+the ways of the warrior.  Only the strong will survive the brutal fighting
+that goes on here.  Groans and screams echo agains the grey stone walls. 
+The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  To the
+north you will find the Healer's Quarters.  To the south you will find the
+Equipment Vendor.  
+~
+0 0 0
+D0
+~
+~
+0 0 605
+D2
+~
+~
+0 0 606
+D3
+~
+~
+0 0 632
+D4
+~
+~
+0 0 600
+S
+#605
+Healer's Quarters~
+This room is well furnished.  Pale red carpet covers the floor.  All
+sounds of the outside world are inaudible in this room.  The grey stone
+walls have been covered up by white plaster.  Resting here will heal your
+wounds and replenish your ki.  
+~
+0 0 0
+D2
+~
+~
+0 0 604
+S
+#606
+Equipment Vendor~
+This is the Equipment Vendor.  Here you can buy items to help you with
+every aspect of adventuring.  The grey stone wall is covered by white
+plaster.  The stone floor is polished by the many feet that walk and stand
+here.  Behind a large counter a large Majin despenses items.  
+~
+0 0 0
+D0
+~
+~
+0 0 604
+S
+#607
+Majin Tower : Second Level~
+This is the second level of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 608
+D1
+~
+~
+0 0 610
+D2
+~
+~
+0 0 609
+D3
+~
+~
+0 0 611
+D4
+~
+~
+0 0 612
+D5
+~
+~
+0 0 600
+S
+#608
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 607
+S
+#609
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 607
+S
+#610
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 607
+S
+#611
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 607
+S
+#612
+Majin Tower : Third Level~
+This is the third level of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 613
+D1
+~
+~
+0 0 614
+D2
+~
+~
+0 0 616
+D3
+~
+~
+0 0 615
+D4
+~
+~
+0 0 617
+D5
+~
+~
+0 0 607
+S
+#613
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 612
+S
+#614
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 612
+S
+#615
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 612
+S
+#616
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 612
+S
+#617
+Majin Tower : Fourth Level~
+This is the fourth level of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 618
+D1
+~
+~
+0 0 619
+D2
+~
+~
+0 0 621
+D3
+~
+~
+0 0 620
+D4
+~
+~
+0 0 622
+D5
+~
+~
+0 0 612
+S
+#618
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 617
+S
+#619
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 617
+S
+#620
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 617
+S
+#621
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 617
+S
+#622
+Majin Tower : Fifth Level~
+This is the fifth level of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 623
+D1
+~
+~
+0 0 624
+D2
+~
+~
+0 0 626
+D3
+~
+~
+0 0 625
+D4
+~
+~
+0 0 627
+D5
+~
+~
+0 0 617
+S
+#623
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 622
+S
+#624
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 622
+S
+#625
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 622
+S
+#626
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 622
+S
+#627
+Majin Tower : Sixth Level~
+This is the sixth level of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 628
+D1
+~
+~
+0 0 629
+D2
+~
+~
+0 0 631
+D3
+~
+~
+0 0 630
+D4
+~
+~
+0 0 633
+D5
+~
+~
+0 0 622
+S
+#628
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 627
+S
+#629
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 627
+S
+#630
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 627
+S
+#631
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 627
+S
+#632
+Training Center~
+The sand here is a little deeper and a little softer.  The walls are
+mirrored for easier learning.  The stench of sweat blocks out anything else.
+A medium sized Majin in a grey gi stands in the corner throwing punches at
+the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 604
+S
+#633
+Majin Tower : Seventh Floor~
+This is the seventh level of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 634
+D1
+~
+~
+0 0 636
+D2
+~
+~
+0 0 635
+D3
+~
+~
+0 0 637
+D4
+~
+~
+0 0 638
+D5
+~
+~
+0 0 627
+S
+#634
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 633
+S
+#635
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 633
+S
+#636
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 633
+S
+#637
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 633
+S
+#638
+Majin Tower : Eighth Floor~
+This is the eighth floor of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 639
+D1
+~
+~
+0 0 642
+D2
+~
+~
+0 0 640
+D3
+~
+~
+0 0 641
+D4
+~
+~
+0 0 643
+D5
+~
+~
+0 0 633
+S
+#639
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 638
+S
+#640
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 638
+S
+#641
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 638
+S
+#642
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 638
+S
+#643
+Majin Tower : Ninth Level~
+This is the ninth floor of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 644
+D1
+~
+~
+0 0 646
+D2
+~
+~
+0 0 645
+D3
+~
+~
+0 0 647
+D4
+~
+~
+0 0 648
+D5
+~
+~
+0 0 638
+S
+#644
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 643
+S
+#645
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 643
+S
+#646
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 643
+S
+#647
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 643
+S
+#648
+Majin Tower : Tenth Floor~
+This is the last floor of Majin Tower.  Young Majins are sent here to
+learn the ways of the warrior.  Only the strong will survive the brutal
+fighting that goes on here.  Groans and screams echo agains the grey stone
+walls.  The ground shakes with the power of angry warriors in battle.  Bad
+ventilation makes the air stale and heavy with the stench of blood.  In the
+basement you will find the a Healer and an Equipment Vendor.  
+~
+0 4 0
+D0
+~
+~
+0 0 649
+D1
+~
+~
+0 0 651
+D2
+~
+~
+0 0 650
+D3
+~
+~
+0 0 652
+D5
+~
+~
+0 0 643
+S
+#649
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D2
+~
+~
+0 0 648
+S
+#650
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D0
+~
+~
+0 0 648
+S
+#651
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D3
+~
+~
+0 0 648
+S
+#652
+A Battle Room~
+The ground in this room is made of sand and soil to absorb the blood of
+warriors.  The walls are scared by stray ki blasts.  Bad ventilation makes
+the air stale and heavy.  The screams can still be heard in this room but
+not as well.
+~
+0 0 0
+D1
+~
+~
+0 0 648
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 600 1 601 1 Load A Majin Trainee
+M 0 600 5 601 1 Load A Majin Trainee
+M 0 600 1 602 1 Load A Majin Trainee
+M 0 600 1 603 1 Load A Majin Trainee
+M 0 600 1 603 1 Load A Majin Trainee
+M 0 605 1 605 1 Load Majin Healer
+M 0 606 1 606 1 Load Ato the Shopkeeper
+G 0 608 0 Black belt is given to Ato the Shopkeeper
+G 0 607 0 White loose-fitting pants. is given to Ato the Shopkeeper
+G 0 606 0 Senzu bean is given to Ato the Shopkeeper
+G 0 605 0 A purple cloak is given to Ato the Shopkeeper
+G 0 604 0 A pair of yellow gloves is given to Ato the Shopkeeper
+M 0 600 1 608 1 Load A Majin Trainee
+M 0 601 1 608 1 Load A Majin fighter
+M 0 600 1 609 1 Load A Majin Trainee
+M 0 601 1 609 1 Load A Majin fighter
+M 0 600 1 610 1 Load A Majin Trainee
+M 0 601 1 610 1 Load A Majin fighter
+M 0 600 5 610 1 Load A Majin Trainee
+M 0 600 1 611 1 Load A Majin Trainee
+M 0 601 1 611 1 Load A Majin fighter
+M 0 601 5 611 1 Load A Majin fighter
+M 0 601 1 613 1 Load A Majin fighter
+M 0 601 1 614 1 Load A Majin fighter
+M 0 601 1 615 1 Load A Majin fighter
+M 0 601 1 616 1 Load A Majin fighter
+M 0 601 1 618 1 Load A Majin fighter
+M 0 601 1 619 1 Load A Majin fighter
+M 0 601 1 620 1 Load A Majin fighter
+M 0 601 1 621 1 Load A Majin fighter
+M 0 603 1 628 1 Load A Majin ninja
+M 0 603 1 629 1 Load A Majin ninja
+M 0 603 1 630 1 Load A Majin ninja
+M 0 603 1 631 1 Load A Majin ninja
+M 0 607 1 632 1 Load Kran the Trainer
+M 0 602 1 634 1 Load Majin Black Belt
+M 0 602 1 635 1 Load Majin Black Belt
+M 0 602 1 636 1 Load Majin Black Belt
+M 0 602 1 637 1 Load Majin Black Belt
+M 0 602 1 639 1 Load Majin Black Belt
+M 0 602 1 640 1 Load Majin Black Belt
+M 0 602 1 641 1 Load Majin Black Belt
+M 0 602 1 642 1 Load Majin Black Belt
+M 0 604 1 644 1 Load A Mutant Majin
+M 0 604 1 645 1 Load A Mutant Majin
+M 0 604 1 646 1 Load A Mutant Majin
+M 0 604 1 647 1 Load A Mutant Majin
+M 0 604 1 649 1 Load A Mutant Majin
+M 0 604 1 650 1 Load A Mutant Majin
+M 0 604 1 651 1 Load A Mutant Majin
+M 0 604 1 652 1 Load A Mutant Majin
+S
+
+
+
+#SHOPS
+606 0 0 0 0 9 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

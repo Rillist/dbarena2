@@ -1,0 +1,1956 @@
+#AREADATA
+Name Under Construstion~
+Builders Daishi~
+VNUMs 4200 4299
+Credits [{ OLC ] Goku Runic  Forgotten Desert]~
+Security 9
+End
+
+
+
+#MOBILES
+#4200
+Trainee~
+trainee~
+Trainee
+~
+~
+android~
+AB 0 0 0
+200 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 K 0 0
+stand stand none 0
+AHMV DF medium unknown
+F par ABCEGHIJK
+#4201
+lift manager~
+Lift manager~
+The lift manager waits here for someone to ask for 'HELP'.
+~
+A large man stands here waiting for something to happen.  If you ask him
+for help he would be glad to do so.  
+~
+android~
+ABY 0 0 0
+500000 16
+60 15 10 50 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK large unknown
+M SPEECH 4200 help~
+M SPEECH 4201 please~
+#4202
+lift manager~
+Lift manager~
+The lift manager waits here for someone to ask for 'HELP'.
+~
+~
+human~
+AB 0 0 0
+0 16
+50 10 10 55 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK large unknown
+M GREET 4206 100~
+M DELAY 4207 100~
+#4203
+charon~
+Charon~
+Charon, runic's ferryman
+~
+A huge skeleton with long, sun-bleached bony fingers outstretched towards
+you.  It stands upon a ferryboat wearing a long hooded robe and holds onto
+the steering paddle 
+ 
+~
+android~
+ABS D 0 0
+1000000000 500
+500 500 500 500 500 
+9999 9999
+none
+0 0 0 0
+CDEGHIK BFILMQR CGJPXYZ EN
+stand stand none 0
+HM ABCEGHIJK huge unknown
+F for AV
+F par DF
+#4204
+Guard~
+A human guard~
+A human guard wearing military fatigues
+~
+A human looking person wearing military fatigues stands here guarding
+something.  S/he looks rather powerfully built and has short cropped hair in
+old military fashion 
+~
+android~
+ABG Vac 0 0
+5000000 10
+100 20 20 60 70 
+500 500
+none
+0 0 0 0
+CEFHIKU BPQR DE FO
+stand stand either 2000
+HM ABCEGHIJK medium unknown
+F for AV
+F par DF
+#4205
+Soldier~
+An android soldier~
+An android soldier wearing military fatigues
+~
+A powerfully built android wearing military fatigues.  Does not look to
+happy to see an intruder.  
+~
+android~
+AFGR Jac 0 0
+25000000 20
+100 30 25 90 70 
+700 600
+none
+0 0 0 0
+CDEFIKOU BLPQR DEGTXYZ JO
+stand stand either 0
+HM ABCEGHIJK medium unknown
+F for AV
+F par DF
+#4206
+android~
+An android soldier~
+An android soldier wearing a white anti-static suit
+~
+A very powerfully built android soldier wearing an anti-static suit.  It
+is busy defending the power core.  
+~
+android~
+ABFS JVac 0 0
+30000000 30
+150 50 30 110 100 
+1000 900
+none
+0 0 0 0
+CDEFHIKOU BLPQR DEGTXYZ FJO
+stand stand either 0
+HM ABCEGHIJK medium unknown
+F for AV
+F par DF
+#4207
+Kalvos~
+Kalvos, core guardian~
+Kalvos, android guardian of the power core
+~
+A huge android that is built similar to the skeletal frame of a raptor. 
+It's movements are surprisingly quicky and accurate for such a large
+android, and it does not look happy to see intruders.  
+~
+android~
+ABFS JVac 0 0
+50000000 40
+20 20 20 20 20 
+2000 2000
+none
+0 0 0 0
+ACDEFGHIKMO BILPQRTX DEFGTYZ JO
+stand stand none 0
+HM ABCEGHIJKQ huge unknown
+F for AV
+F par DF
+#4208
+Krenin~
+Krenin~
+Krenin, Lord of Androidia
+~
+An android that looks to be a mixture of a dragon and an icer.  Has
+large wings and a long, spiked tail.  His eyes glow a deep red and just in
+general looks very angry.  
+~
+android~
+ABS JVac 0 0
+40000000000 50
+250 100 100 200 200 
+3000 2500
+none
+0 0 0 0
+ACDEFGHIKMO BILQRTX DEFGPYZ J
+stand stand male 0
+HM ABCEGHIJKPQ medium unknown
+F for AV
+F par DF
+#4209
+Scorpion~
+A small desert scorpion~
+A desert scorpion hides in the sand, ready to strike with his tail.
+~
+This scorpion seems not interested in you, nevertheless fast movements of
+you could be considered attacks.  
+~
+human~
+ABC P 0 0
+10000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+GM 0 0 0
+stand stand none 0
+O AQV medium unknown
+F for AHMV
+F par BCDEFGHIJK
+#4210
+nomad~
+A lost nomad~
+A lost nomad stands here.
+~
+A lost nomad cowering in the sand looks at you.
+~
+human~
+AB 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+M ABCDEFGK large unknown
+F for AHV
+F par HIJ
+M SPEECH 4205 sandworm~
+M GREET 4204 100~
+#4211
+sandworm worm~
+a gigantic sandworm~
+A gigantic sandworm shoots through the sand, right in front of you.
+~
+~
+human~
+AFGR V 0 0
+500000000 0
+100 100 100 100 100 
+100 100
+bite
+0 0 0 0
+FGHKM KZ E 0
+stand stand none 1000
+O F giant unknown
+F for AHMV
+F par ABCDEGHIJK
+#0
+
+
+
+#OBJECTS
+#4200
+Fatigues~
+military fatigues~
+Military fatigues with desert camo~
+unknown~
+1000
+armor 0 D
+AC AC AC AC 0
+0 0 0 P
+#4201
+beret~
+tan beret~
+Tan beret with military markings~
+Alien cloth~
+1500
+armor 0 E
+AC AC AC AC 0
+0 0 0 P
+#4202
+Suit~
+an anti-static suit~
+A white anti-static suit that covers the body~
+Alien cloth~
+2000
+armor 0 DEFGHI
+CE CE CE CE 0
+0 0 0 P
+#4203
+Japanese katana~
+a japanese style katana~
+A japanese styled katana with tassels on the end of the handle and a thousand head blade~
+unknown~
+2000
+weapon 0 N
+sword 250 20 slash D
+0 40 50000 P
+#4204
+mail splint~
+japanese splint mail~
+Japanese splint mail that was built using modern materials and techniques.~
+metal & leather~
+2500
+armor 0 D
+BD DF ADE ABCD 0
+0 150 150000 P
+#4205
+Exo frame armor~
+exo-frame armor~
+Futuristic looking exo-frame armor, WITH POWER PACK!~
+Plenty~
+5000
+armor Y D
+CE CDEF CDEF CDEF 0
+0 300 20000000 P
+#4206
+Vulcan Cannon~
+a vulcan cannon~
+A vulcan cannon with the cutest little grenade launcher, actually it doesn't have one, however it does have a regenerating ammo clip, and looks exceedingly expensive~
+unknown~
+1
+weapon 0 N
+exotic 400 50 blast F
+0 70 5000000 P
+#4207
+blue gem~
+a blue Gem~
+A shiny blue gem~
+unknown~
+1
+gem 0 A
+0 0 0 0 0
+0 0 0 P
+#4208
+green gem~
+a green gem~
+A shiny green gem~
+unknown~
+1
+gem 0 A
+0 0 0 0 0
+0 0 0 P
+#4209
+red gem~
+a red gem~
+A shiny red gem~
+unknown~
+1
+gem 0 A
+0 0 0 0 0
+0 0 0 P
+#4222
+whirl pool~
+a spining whirl pool.~
+A spining whirl pool slowly sucks water in.~
+unknown~
+1
+portal M 0
+0 0 0 ABCDEFGM 0
+0 0 0 P
+#4236
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4295
+garbage~
+pile of garbage~
+A pile of garbage that you swear just moved~
+too many to count~
+1
+furniture 0 0
+A HJKMPTUX P 0 0
+1 0 0 P
+#4296
+wrath~
+the {WW{Cr{Wa{Ct{Wh{x of the {DA{wu{Wt{ro{Rm{ra{Wt{wo{Dn{x~
+The {WW{Cr{Wa{Ct{Wh{x of the {DA{wu{Wt{ro{Rm{ra{Wt{wo{Dn{x~
+Ancient guacamole & salsa~
+1
+weapon IXY AN
+exotic 50000000 50 shock ABCDEGH
+0 -31072 0 P
+O RANDOM 4201 60~
+O SPEECH 4200 wrath~
+#4297
+boots~
+leather boots~
+Black size 12, steel-toed leather boots~
+leather~
+1
+armor X G
+CFG CFG CFG CFG 0
+0 0 0 P
+#4298
+jeans~
+jeans~
+Denim blue jeans~
+Denim~
+1
+armor X AF
+CFG CFG CFG CFG 0
+0 0 0 P
+#4299
+jacket~
+a jacket~
+Runic's leather bomber jacket~
+Leather~
+3000
+armor X D
+CFG CFG CFG CFG 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#4200
+Before a large desert~
+A large desert sweeps the lands dry of life.  From this higher ground
+nothing but desert can be seen.  Large sand dunes cover the land covering
+all traces of life.  Not many have found there way through this desert.  A
+large steel plaque lists the names of those who have never come back from
+this wasteland.  
+~
+0 4 0
+D0
+~
+~
+0 0 4203
+D1
+~
+~
+0 0 4201
+S
+#4201
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and the flying sand stings
+terribly.  
+~
+0 0 10
+D0
+~
+~
+0 0 4202
+D3
+~
+~
+0 0 4200
+S
+#4202
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and the flying sand stings
+terribly.  
+~
+0 0 10
+D0
+~
+~
+0 0 4204
+D2
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4203
+S
+#4203
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and the flying sand stings
+terribly.  
+~
+0 0 0
+D1
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4200
+S
+#4204
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flys
+through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4206
+D1
+~
+~
+0 0 4205
+D2
+~
+~
+0 0 4202
+S
+#4205
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is hot and it stings terribly as it flys through
+the air.  
+~
+0 0 0
+D3
+~
+~
+0 0 4204
+S
+#4206
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is hot and it stings terribly as it flies through
+the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4207
+D1
+~
+~
+0 0 4209
+D2
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4208
+S
+#4207
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D2
+~
+~
+0 0 4206
+S
+#4208
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is hot and it stings terribly as it flys through
+the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 4206
+S
+#4209
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4210
+D3
+~
+~
+0 0 4206
+S
+#4210
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4209
+D3
+~
+~
+0 0 4211
+S
+#4211
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 4210
+S
+#4212
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4213
+D3
+~
+~
+0 0 4210
+S
+#4213
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 4214
+D2
+~
+~
+0 0 4212
+S
+#4214
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D2
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4213
+S
+#4215
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4214
+D2
+~
+~
+0 0 4216
+S
+#4216
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4215
+D1
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4217
+S
+#4217
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 4216
+D2
+~
+~
+0 0 4218
+S
+#4218
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 4217
+S
+#4219
+Forgotten desert~
+A large desert surrounds everything.  Nothing but sand can be seen for
+miles.  Impossibly large sandstorms sweep through the desert covering up any
+traces of life.  The sand is blazing hot and it stings terribly as it flies
+through the air.  The wind causes something to thunk below.  
+~
+0 0 0
+D3
+~
+~
+0 0 4216
+S
+#4220
+A cold tube~
+The air in here is damp and cold.  Green mold covers the walls of the
+tube giving it a greenish glow.  Only a ladder is here to hold on to below
+is darkness and possibly oblivion.  A smell of rain and mildew floats
+through the thick air.  Above is a trap door below is the unkown.  
+~
+0 0 0
+D5
+~
+~
+0 0 4221
+S
+#4221
+Dark tube~
+Deep within a black tube not much can be seen except for a ladder to
+climb on.  The tube is small but large enough for a human sized creature to
+fit through.  A soft light glows below at the bottom of the tunnel.  
+~
+0 8 0
+D4
+~
+~
+0 0 4220
+D5
+~
+~
+0 0 4222
+S
+#4222
+Watery room~
+This room is filled with water waist deep.
+The source of all this water is a hole in the cieling which pours water down into the area.
+It is hard to move around here for the water churns in a circle making a whirl pool type action.
+In fact there seems to be no exits in this room but up.
+~
+0 0 0
+D4
+~
+~
+0 0 4221
+R DROP 4222 hey~
+S
+#4223
+A large drainage system~
+A huge room filled with water ankle deep covers at least 1000 square
+feet.  Large balls of light give this place a bright glow.  The water that
+falls from above dissapears just as quickly as it came down a large drain. 
+A large steel door leads north.  
+~
+0 4 0
+D0
+~
+steel~
+1 0 4224
+S
+#4224
+Stone hallway~
+The walls here are made of pure rock.  Torches line the walls giving the
+hall a dim light.  It is very dry and cold in here.  A gust of wind blows
+from somewhere north.  A large steel door lead somewhere south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4225
+D2
+~
+~
+1 0 4223
+S
+#4225
+Stone hallway~
+The halls here are dusty rock.  Yet they are solid enough to keep from
+caving in.  On the ground fresh footprints are formed in the dust.  Meaning
+someone or something must be down here.  A low moaning can be heard from an
+openign north.  
+~
+0 0 0
+D0
+~
+~
+0 0 4226
+D2
+~
+~
+0 0 4224
+S
+#4226
+A long wooden bridge~
+Here is the start of a very long wooden bridge.  It seems this place is
+located below the top of a canyon yet a few hundred feet above the ground. 
+Falling from here would result in instant death when landing upon the jagged
+rocks below.  The birdge links to two seperate parts of the canyon walls and
+extends all the way to the other side.  Far north there seems to be another
+tunnel.  But one must cross this dangerous bridge first.  
+~
+0 0 10
+D0
+~
+~
+0 0 4227
+D2
+~
+~
+0 0 4225
+S
+#4227
+Wooden bridge~
+Nearing the middle of the bridge the winds are very violent.  Sand blows
+everywhere sweeping through the canyon.  It seems almost to cleanse the
+walls.  The winds moan like ghosts floating towards purgatory.  Yet it is
+very peacefull.  
+~
+0 0 10
+D0
+~
+~
+0 0 4228
+D2
+~
+~
+0 0 4226
+S
+#4228
+Wooden bridge~
+Finally the middle of this dangerous bridge.  This means the end is near.
+The fresh footsteps still lead north to a tunnel in the canyon walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 4229
+D2
+~
+~
+0 0 4227
+S
+#4229
+Wooden bridge~
+Here the wind does not blow as hard.  The bridge does not sway very much
+and it is easy to walk.  A small ledge makes it safer if one was to fall. 
+North is a tunnel that leads into the canyon walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 4230
+D2
+~
+~
+0 0 4228
+S
+#4230
+Rocky tunnel~
+The walls here are very clean shiny rocks.  They are a mixture of green,
+blue, and red rocks.  The floor is a little wet like something was spilling
+water all over the place.  There seem to be little plants littering the
+floor growing in no apparent pattern.  
+~
+0 0 0
+D1
+~
+~
+0 0 4231
+D2
+~
+~
+0 0 4229
+S
+#4231
+Rocky tunnel~
+The walls here are very clean shiny rocks.  They are a mixture of green,
+blue, and red rocks.  The floor is a little wet like something was spilling
+water all over the place.  There seem to be little plants littering the
+floor growing in no apparent pattern.  
+~
+0 0 0
+D1
+~
+~
+0 0 4232
+D3
+~
+~
+0 0 4230
+S
+#4232
+Rocky tunnel~
+The walls here are very clean shiny rocks.  They are a mixture of green,
+blue, and red rocks.  The floor is a little wet like something was spilling
+water all over the place.  There seem to be little plants littering the
+floor growing in no apparent pattern.  
+~
+0 0 0
+D0
+~
+~
+0 0 4233
+D3
+~
+~
+0 0 4231
+S
+#4233
+Before an opening~
+Here it seems the tunnel ends and a regular concrete hallway begins.  It
+seems this place may be inhabitid, but by what?  The concrete is clean and
+it sparkles with what seems to be glitter.  Directly north is an opening. 
+To the west is more of a hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 4234
+D2
+~
+~
+0 0 4232
+D3
+~
+~
+0 0 4235
+S
+#4234
+A large ledge~
+Here a ledge that must be 500 feet off the ground gives an amazing view. 
+The site is very astonishing for it gives a view of a large underground
+city.  It seems very populated for there are people everywhere.  Even on
+this ledge there are people tediously working.  They seem to be dumping
+water down to a large churning pool.  There is something strange about these
+people though.  They all seem very muscular and powerfull for normal people.
+~
+0 0 0
+D2
+~
+~
+0 0 4233
+S
+#4235
+Concrete hallway~
+The glittering walls give the hallway plenty of light.  There seem to be
+people in these halls heading in different directions.  It is amazing that
+life could possibly exist here.  Some of these people are carrying buckets
+filled with water, and some carry buckets of what seems to be food.  Some of
+the people enter a type of elevator lift to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 4236
+D1
+~
+~
+0 0 4233
+S
+#4236
+A lift~
+Here a lift takes people down to the floor of this place.  It is a basic
+steel lift with only a rail to hang onto.  To the north a large underground
+city can be seen.  The city is filled with people and building of all
+hiegths.  A man stands here giving directions on how to use the lift.  Maybe
+if someone asked him to 'HELP' he would be nice enough too.  
+~
+0 0 0
+D2
+~
+~
+0 0 4235
+S
+#4237
+The lift~
+A simple concrete street extends north from the lift, going towards what
+looks to be a rather short building.  Flanking both sides of the street are
+rows of buildings that stretch all the way to the edges of the cavern. 
+Above the buildings, giant artificial lights allow the people in this
+somewhat active city to see as if it was daytime.  
+~
+0 4 0
+D0
+~
+~
+0 0 4238
+S
+#4238
+Regalia road~
+The seemingly plain concrete buildings upon closer inspection are
+covered with intricate carvings.  The sidewalks are have planted trees at
+various points along them which help to break up the almost constant
+greyness of the city.  For the most part the city seems peaceful, the
+occaisional vehicle zooms by, leaving a slight burst of air in it's wake. 
+The street continues on north towards an intersection.  
+~
+0 4 0
+D0
+~
+~
+0 0 4239
+D2
+~
+~
+0 0 4237
+S
+#4239
+Intersection~
+Regalia road meets with Granite road here.  Trees line both streets, and
+there are a couple people walking along the sidewalk of them.  Occaisionally
+a vehicle zooms by the intersection, leaving a gust of wind in it's wake. 
+The strange thing about the intersection is the fact that there are no
+traffic lights.  Regalia continues on to the north and south, while Granite
+stretches to the east and west.  A little ways to the north you can see a
+short concrete building, surrounded by a metal fence.  
+~
+0 0 0
+D0
+~
+~
+0 0 4240
+D1
+~
+~
+0 0 4242
+D2
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4241
+S
+#4240
+Before a short building~
+Regalia road ends at the metal gate surrounding a short building.  There
+are large multi-story tall buildings on either side of the road.  Within the
+fence, there seems to be a large lawn of green grass, with a small pond
+surrounded by a couple tress on one side of the yard.  A smooth, stone
+walkway extends from the gate to the building's front porch.  
+~
+0 4 0
+D0
+~
+~
+3 0 4243
+D2
+~
+~
+0 0 4239
+S
+#4241
+West granite road~
+Granite road extends west all the way to the wall of the cavern. 
+Nothing but houses, dull grey road as well the occaisional tree.  Every so
+often a person can be seen walking down either side of the street on the
+sidewalk or a vehicle can be seen speeding by leaving a burst of wind in
+it's wake.  
+~
+0 0 0
+D1
+~
+~
+0 0 4239
+S
+#4242
+Granite road~
+Granite road stretches to the east, all the way to the cavern wall.  It
+looks to be completely residential buildings here.  To the east looks to be
+a business district.  To the north looks to be a surprisingly clean and
+uncluttered alleyway 
+~
+0 262144 0
+D0
+~
+~
+0 0 4276
+D1
+~
+~
+0 0 4277
+D3
+~
+~
+0 0 4239
+S
+#4243
+The foyer~
+A rather plain room, consisting of four solid, uncarved concrete walls,
+a concrete floor and amazingly enough a concrete ceiling.  There are three
+doors, one to the north, one to the south, and a slightly ajar door to the
+east, from which, the buzzing of flies can be heard.  The room is lit by a
+halogen lantern sitting atop the one table in the room.  The door leading to
+the south, and the door leading to the north are flanked by a pair of
+unarmed, muscular men wearing what looks to be military fatigues.  
+~
+0 4 0
+D0
+~
+~
+3 0 4245
+D1
+~
+~
+3 0 4244
+D2
+~
+~
+3 0 4240
+S
+#4244
+A bathroom~
+A rather disgusting bathroom.  It looks like it has never once been
+cleaned.  A horrid stench permeates the room, the source of the stench is
+the toilet, which someone forgot to flush.  The mirror over the sink is
+cracked, and missing pieces, the sink is clogged with a huge lump of what
+looks to be hair and surprisingly enough, wires.  The room is dimly lit by a
+slowly swinging lamp hanging from the ceiling.  
+~
+0 0 0
+D3
+~
+~
+3 0 4243
+S
+#4245
+The backroom~
+A plain, unadorned room, lit by a simple hanging lamp.  A few scattered
+boxes are placed about and in the few back of the room is a manhole cover on
+the floor.  Beneath the manhole cover is a manhole, with a ladder leading
+down 
+~
+0 4 0
+D2
+~
+~
+3 0 4243
+D5
+~
+~
+0 0 4246
+S
+#4246
+Sewer Access~
+The area around the base of the ladder is relatively clean, however
+farther out there is plenty of garbage and sewage, and the smell of raw
+sewage permeates the area with it's stench.  Across the river of sewage is a
+door.  
+~
+0 4 0
+D1
+~
+~
+3 0 4247
+D4
+~
+~
+0 0 4245
+S
+#4247
+Hallway~
+A simple hallway that extends farther to the east, the walls, ceiling
+and floor are all concrete.  There are doors to the north and south.  
+~
+0 0 0
+D0
+~
+~
+3 0 4248
+D1
+~
+~
+0 0 4250
+D2
+~
+~
+3 0 4249
+D3
+~
+~
+3 0 4246
+S
+#4248
+A storeroom~
+Shelves stacked high with metal crates line the east and west walls of
+this concrete room.  The north wall has several large piles of stacked
+wooden crates.  And the center of the room has several rows of shelves,
+filled with cardboard boxes.  
+~
+0 0 0
+D2
+~
+~
+3 0 4247
+S
+#4249
+A repair bay~
+This room has several worktables, a couple of which have partially
+dismantled androids laying upon them.  The shelves on the walls are lined
+with various parts for androids, as well as tools for thier maintenence and
+repair.  Several mechanical arms work busily replacing wiring and parts on
+the two androids.  
+~
+0 0 0
+D0
+~
+~
+3 0 4247
+S
+#4250
+Hallway~
+The concrete hallway ends here.  There is a large blast door to the east
+however 
+~
+0 0 0
+D1
+~
+~
+3 0 4251
+D3
+~
+~
+0 0 4247
+S
+#4251
+A hallway~
+Just within the blast doors there is a hallway that stretches to the
+north and south.  The concrete floor is replaced by a metal grating walkway
+that covers large cables.  From the ceiling many more cables are suspended. 
+The sounds of footsteps can be heard to both the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4252
+D2
+~
+~
+0 0 4253
+D3
+~
+~
+3 0 4250
+S
+#4252
+A hallway~
+The hallway continues on to the north from the south, the metal grating
+giving way to solid steel floors and walls, the ceiling however is still
+covered with cables.  
+~
+0 0 0
+D0
+~
+~
+0 0 4257
+D2
+~
+~
+0 0 4251
+S
+#4253
+South hallway~
+The metal grating and cables continue to the south.  The slight hum of
+electricity can be heard through the wall to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4254
+S
+#4254
+Bend in the hallway~
+The metal grating walkway turns to the east now.  The hum of electricity
+becomes louder.  
+~
+0 0 0
+D0
+~
+~
+0 0 4253
+D1
+~
+~
+0 0 4255
+S
+#4255
+End of the hallway~
+The hallway ends here, the only places to go is through the door to the
+south or back the way you came.  The constant hum of electricity has gotten
+to be very loud, and the source of the sound seems to be to the north.  
+~
+0 0 0
+D2
+~
+~
+3 0 4256
+D3
+~
+~
+0 0 4254
+S
+#4256
+Android capsule storage~
+This room is filled with row, upon row of storage capsules, most of them
+have occupants within them.  Upon closer inspection it is discovered that
+each capsule has a name, rank and serial number.  All of the occupants are
+wearing military fatigues and are unarmed, it seems.  
+~
+0 0 0
+D0
+~
+~
+3 0 4255
+S
+#4257
+Bend in the hallway~
+Here the hallway turns to the east.  However to the north there is a
+door.  
+~
+0 0 0
+D0
+~
+~
+3 0 4258
+D1
+~
+~
+0 0 4259
+D2
+~
+~
+0 0 4252
+S
+#4258
+An armoury~
+This room is practically wall to wall weaponry, all of it heavy military
+grade stuff.  The weapons range from grenade launches and flamethrowers to
+Rocket launchers and experimental plasma cannons.  There are also many
+ancient weapons that are in superb condition and even some new styles are
+there that use electical fields.  
+~
+0 0 0
+D2
+~
+~
+3 0 4257
+S
+#4259
+Hallway~
+This hallway is rather short, leading to a T-junction to the east.  The
+faint hum of electricity can be heard.  
+~
+0 0 0
+D1
+~
+~
+0 0 4260
+D3
+~
+~
+0 0 4257
+S
+#4260
+T-junction~
+To the north is a hallway with several doors and turns off to the east. 
+To the south is a single, heavy-duty blast door.  The hum of electicity has
+gotten louder and seems to be coming from the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4262
+D2
+~
+~
+3 0 4261
+D3
+~
+~
+0 0 4259
+S
+#4261
+Intermediary room~
+This room has special static suits hanging on the east and west walls. 
+Another blast door is to the south and the hum of electricity has
+definanetly gotten stronger.  
+~
+0 0 0
+D0
+~
+~
+3 0 4260
+D2
+~
+blast~
+3 0 4263
+S
+#4262
+A hallway~
+Yet another metal hallway with cables suspended from the ceiling.  To
+the east and west are doors and to the north is a bend in the corridor.  
+~
+0 0 0
+D0
+~
+~
+0 0 4267
+D1
+~
+~
+3 0 4266
+D2
+~
+~
+0 0 4260
+D3
+~
+~
+3 0 4265
+S
+#4263
+Core room~
+At the center of this room is a gargantuan power generator and computer
+core.  The hum of electricity is so loud that it is very hard to hear
+anything at all.  There are several guards, wearing anti-static suits, and a
+huge android that is standing near the core.  
+~
+0 0 0
+D0
+~
+blast~
+3 0 4261
+S
+#4264
+~
+~
+0 4 0
+S
+#4265
+A storage room~
+This room is filled with boxes and crates, which are in turn filled with
+various computer components and other spare pieces of machinery.  
+~
+0 0 0
+D1
+~
+~
+3 0 4262
+S
+#4266
+Machinery room~
+This gigantic room is filled with conveyer belts and various kinds of
+machinery that seem to be constantly building androids.  The new androids
+are given uniforms which are nothing more then military fatigues and are
+then taken out of the room using a conveyer belt.  
+~
+0 0 0
+D3
+~
+~
+3 0 4262
+S
+#4267
+Bend in the corridor~
+The metal corridor turns to the east here.  Farther along the corridor
+you see what looks like a door with the words emergancy exit above it.  
+~
+0 0 0
+D1
+~
+~
+0 0 4268
+D2
+~
+~
+0 0 4262
+S
+#4268
+End of the corridor~
+The corridor ends here.  The only exits are the way you came and the
+door to the emergancy exit.  
+~
+0 0 0
+D1
+~
+~
+3 0 4269
+D3
+~
+~
+0 0 4267
+S
+#4269
+Emergancy exit~
+To the east is yet another door, however this one is a very heavily
+armored blast door capable of withstanding a lot of force.  A warning is
+printed on the door that says, "WARNING: Use in case of emergancies only! 
+Entry can not be regained through this blast door!"  
+~
+0 0 0
+D1
+~
+~
+3 0 4270
+D3
+~
+~
+3 0 4268
+S
+#4270
+Escape tunnel~
+Just beyond the blast door is a large underground tunnel that extends to
+the south towards an opening in the canyon wall.  The blast door swings
+firmly shut and locks itself.  
+~
+0 0 0
+D2
+~
+~
+0 0 4271
+S
+#4271
+Ledge~
+The escape tunnel exits out to a ledge overlooking the forgotten desert.
+The only way down is by falling.  This escape plan was obviously made with
+the androids in mind.  Far above the ledge is a small cave opening, and
+below the ledge is the wooden bridge.  
+~
+0 0 0
+D0
+~
+~
+0 0 4270
+D4
+~
+~
+0 0 4272
+D5
+~
+~
+0 0 4229
+S
+#4272
+Canyon wall~
+The cave opening is still a ways above and the drop below to the canyon
+floor is rather staggering in it's distance.  
+~
+0 0 0
+D4
+~
+~
+0 0 4273
+D5
+~
+~
+0 0 4271
+S
+#4273
+Cave opening~
+Just within the opening of the cave is what looks to be a large blast
+door with odd writing upon it.  The door is not locked and looks to be
+rather easily opened.  
+~
+0 0 0
+D0
+~
+~
+0 0 4274
+D5
+~
+~
+0 0 4272
+S
+#4274
+Strange corridor~
+The corridor just within the door is made out of a strange metal that
+does not seem native to earth.  The corridor is furnished with strange
+paintings that are obviously from some alien civilazation and all of them
+depect what looks to be androids.  Further on to the north is a large room. 
+~
+0 0 0
+D0
+~
+~
+0 0 4275
+D2
+~
+~
+0 0 4273
+S
+#4275
+Krenin's chambers~
+This large room is lit by a large ball of light that seems to be
+floating in the middle of the air above the one chair in the room.  The
+walls are covered with more of the strange paintings from the corridor. 
+Sitting in the chair is an android that looks like a cross between a dragon
+and an icer.  The android looks less then pleased at having a visitor.  
+~
+0 0 0
+D2
+~
+~
+0 0 4274
+S
+#4276
+Alleyway~
+The alleyway leads from Granite road to a brick wall and slightly ajar
+manhole cover.  The alleyway is impeccably clean and uncluttered, but looks
+as if it is well used.  
+~
+0 0 0
+D2
+~
+~
+0 0 4242
+D5
+~
+~
+0 0 4280
+S
+#4277
+Business district~
+A rather crowded and busy area.  People walk all around on both sides of
+the street shopping while storeowners advertise thier products.  To the
+north appears to be an armory and to the south seems to be a new age
+mechanical store of some kind.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4278
+D2
+~
+~
+0 0 4279
+D3
+~
+~
+0 0 4242
+S
+#4278
+Armory store~
+This room is basically wall to wall ancient weapons, ranging from bows
+to spears and swords, and in different styles.  Best of all they are all
+combat ready and sturdy as well.  In the center are different forms of
+ancient armor, ranging from breastplates to full suits of plate armor.  
+~
+0 262144 0
+D2
+~
+~
+0 0 4277
+S
+#4279
+Mechanical Botique~
+This store carries multiple varieties of new age, technilogical devices,
+things like guns, vibro-weaponry and even exo-frame armor, and all of it
+looks rather expensive.  
+~
+0 0 0
+D0
+~
+~
+0 0 4277
+S
+#4280
+Airducts~
+The manhole from above surprisingly enough leads to an airduct that
+extends far to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 4281
+D4
+~
+~
+0 0 4276
+S
+#4281
+Airducts~
+The airducts continue on in several directions, however they are too
+small for you to crawl through, however below is a grating that gives access
+to a room filled with what looks to be cryo-chambers.  
+~
+0 0 0
+D2
+~
+~
+0 0 4280
+D5
+~
+~
+0 0 4256
+S
+#4291
+~
+~
+0 4 0
+S
+#4299
+Runic's room~
+In the center of the gigantic room is a small 'island' surrounded by a
+sea of garbage.  The boatman, Charon holds a bony hand towards you sayin,
+"That'll be your sanity, and sense of smell to cross over the sea of garbage
+to the Island of Runic."  Upon the island sits a computer desk, with
+computer stuff, a dresser stuffed full with clothing, and a king sized bed
+covered with a green & white plaid comforter.  The room is lit by an unknown
+source of light somewhere far above the island.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4223 0 1
+D 0 4224 2 1
+D 0 4240 0 1
+D 0 4243 0 1
+D 0 4243 1 1
+D 0 4243 2 1
+D 0 4244 3 1
+D 0 4245 2 1
+D 0 4246 1 1
+D 0 4247 0 1
+D 0 4247 2 1
+D 0 4247 3 1
+D 0 4248 2 1
+D 0 4249 0 1
+D 0 4250 1 1
+D 0 4251 3 1
+D 0 4255 2 1
+D 0 4256 0 1
+D 0 4257 0 1
+D 0 4258 2 1
+D 0 4260 2 1
+D 0 4261 0 1
+D 0 4261 2 1
+D 0 4262 1 1
+D 0 4262 3 1
+D 0 4263 0 1
+D 0 4265 1 1
+D 0 4266 3 1
+D 0 4268 1 1
+D 0 4269 1 1
+D 0 4269 3 1
+M 0 4211 1 4203 1 Load a gigantic sandworm
+M 0 4211 1 4205 1 Load a gigantic sandworm
+M 0 4211 1 4206 1 Load a gigantic sandworm
+M 0 4209 1 4209 1 Load A small desert scorpion
+M 0 4209 1 4216 1 Load A small desert scorpion
+M 0 4211 1 4218 1 Load a gigantic sandworm
+M 0 4210 1 4219 1 Load A lost nomad
+O 0 4222 0 4222 A spining whirl pool. loaded to Watery room
+M 0 4201 1 4236 1 Load Lift manager
+M 0 4202 1 4237 1 Load Lift manager
+M 0 4204 4 4243 4 Load A human guard
+E 0 4200 0 5 Military fatigues is loaded on the body of A human guard
+M 0 4205 20 4247 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+M 0 4205 20 4251 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4205 20 4255 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4205 20 4256 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4205 20 4257 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4205 20 4258 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4205 20 4260 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4206 6 4261 2 Load An android soldier
+E 0 4202 0 5 An anti-static suit is loaded on the body of An android soldier
+M 0 4206 6 4263 4 Load An android soldier
+E 0 4202 0 5 An anti-static suit is loaded on the body of An android soldier
+M 0 4207 1 4263 1 Load Kalvos, core guardian
+M 0 4205 20 4265 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4205 20 4266 5 Load An android soldier
+E 0 4200 0 5 Military fatigues is loaded on the body of An android soldier
+E 0 4201 0 6 Tan beret is loaded over the head of An android soldier
+M 0 4208 1 4275 1 Load Krenin
+M 0 4203 1 4299 1 Load Charon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4200
+speech $n says 'help'
+say Well to go down just say please take me down.
+~
+#4201
+speech $n says 'please take me down'
+mob transfer $n 4237
+~
+#4202
+speech $n says 'please take me up'
+mob transfer $n 4236
+~
+#4203
+speech $n says 'please'
+mob transfer $n 4236
+~
+#4204
+if ispc $n
+force $n rest
+say Sit stranger, or you might draw the attention of the sandworms!
+say Have you seen this terrible creatures?
+mob echo {RThe screaming of the sandworms can be heard throughout the dessert.{x
+emote hides cowerly in one corner.
+endif
+~
+#4205
+say Yes, sandworms!
+say You must have seen them they are all over the desert.
+say I can't leave because of them, and i'm not strong enough to kill them.
+emote lowers his head while tears start running down his face.
+smote Then suddenly the nomad raises his head, smiling at you.
+say But you are here. This means you saw them, and possibly killed them.
+say Let me see, do you carry the gems they are wearing?
+if carries $n blue
+and carries $n red
+and carries $n green
+say My hero! Finally i will be able to go home!
+say Now it is my turn to help you.There is a hidden cave under us with many secrets! Here i will show you the way,but be carefull...very carefull!
+mob transfer $n 4220
+else 
+say Go and kill them, and i will share my secret with you!
+endif
+~
+#4206
+if ispc $n
+say You are not allowed in this region! Leave or suffer the consequences!
+mob remember $n
+mob delay 10
+break
+endif
+~
+#4207
+if hastarget $i
+growl
+mob echo $I screams and attacks $Q.
+mob kill $q
+else
+mob forget
+endif
+~
+#0
+
+#OBJPROGS
+#4200
+if wears $n wrath
+obj echo A {WC{Ro{Wl{Rl{Wi{Rs{Wi{Ro{Wn {xof {RP{Wo{Rw{We{Rr{Ws {Xcan be felt as the weapon glows following his masters command!
+endif
+~
+#4201
+obj echo {CA small voice can be heard saying:{Y"{RStep aside for here {WWE{R come!{Y"
+~
+#0
+
+#ROOMPROGS
+#4222
+drop $n down
+~
+#0
+
+#$

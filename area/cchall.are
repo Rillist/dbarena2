@@ -1,0 +1,442 @@
+#AREADATA
+Name CC Hall~
+Builders Yoshi~
+VNUMs 5300 5399
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#5300
+5300~
+guard ~
+Guard
+~
+~
+human~
+AB B 0 0
+500 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 118
+AHMV ABCDEFGHIJK large unknown
+M ACT 5300 holds a capsule corps. keycard~
+M ACT 5301 closes.~
+#5301
+5301~
+guard~
+Guard
+~
+~
+human~
+AB B 0 0
+500 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 118
+AHMV ABCDEFGHIJK large unknown
+M ACT 5303 closes.~
+M ACT 5302 holds~
+#5302
+capsule shop~
+A {WCapsule {RCorp. {xShopkeeper~
+A {WCapsule {RCorp. {xShopkeeper is here.
+~
+~
+human~
+AB 0 0 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 140
+AHMV ABCDEFGHIJK large unknown
+M GRALL 5305 100~
+#5304
+Summara~
+Summara~
+Summara, the {WCapsule {RCorp. {xTrainer is here.
+~
+~
+human~
+ABJ 0 0 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 140
+AHMV ABCDEFGHIJK large unknown
+M GRALL 5306 100~
+#5305
+scientist~
+Scientist~
+A Scientist is here.
+~
+~
+human~
+AB 0 0 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 140
+AHMV ABCDEFGHIJK large unknown
+#5306
+The Receptionist~
+The Receptionist~
+The Receptionist is sitting behind her desk.
+~
+~
+human~
+AB 0 0 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 140
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#5300
+jacket~
+{BJacket with the {W-C{RC{W- {Blogo{x~
+{BJacket with the {W-C{RC{W- {Blogo{x is here~
+unknown~
+1
+armor X AD
+CDEFHJ CDEFHJ CDEFHJ CDEFHJ 0
+0 0 1000 P
+#5301
+seaweed~
+a patch of seaweed~
+A patch of seaweed is here.~
+unknown~
+1
+portal 0 P
+0 0 0 CEFHKM 0
+0 0 0 P
+#5302
+key card~
+{GA {WCapsule {RCorps. {GKeycard{x~
+{GA {WCapsule {RCorps. {GKeycard{x is here.~
+unknown~
+222333
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#5303
+key 5300~
+key 5300~
+Key 5300~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#5304
+counter~
+{yA counter{x~
+{yA counter is here.{x~
+unknown~
+1
+furniture 0 P
+0 0 0 0 0
+0 0 0 P
+#5306
+capsule corp desk~
+a desk with the {WCapsule {RCorps. {xlogo~
+A desk with the {WCapsule {RCorps. {xlogo is here.~
+unknown~
+1
+furniture 0 P
+0 0 0 0 0
+0 0 0 P
+#5307
+seaweed~
+a patch of seaweed~
+A patch of seaweed is here.~
+unknown~
+1
+portal 0 P
+0 0 0 ACIJK 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#5300
+Airlock~
+This is the chamber between the lake, and the base within.  To the north
+there are sounds of activity.  Lights run along the walls, and there is a
+path clearly outlined going to the entrance of the building.  A frond of
+seaweed was closed in the door above, when it shut, and hangs limply.  The
+walls are a dull metallic color, and attendents rush everywhere,
+pressurizing the room.  
+~
+0 8 0
+D0
+~
+~
+1 5302 5301
+S
+#5301
+Welcome Area~
+The walls of this room are sparkling clean.  The scent of disinfectant
+lingers.  Bright lights run along the corners of this room, giving it a
+surreal look.  In the corner, a small couch sits.  From here, you can 
+access the main area of the base.
+~
+0 8 0
+E
+sigh~
+~
+D0
+~
+~
+0 0 5302
+D2
+~
+~
+1 5302 5300
+S
+#5302
+Approaching the Nexus~
+The walls of this hallway bear a lackluster quality.  Dim blue lights
+glow down the wall, and through the slight curvature into the next room.  A
+ventilation shaft in the ceiling blows a comfortable air, and the smell of
+incense wafts by.  
+~
+0 0 0
+D0
+~
+~
+0 0 5303
+D2
+~
+~
+0 0 5301
+S
+#5303
+{WThe {xN{We{BX{Wu{xs{x~
+This is the Nexus of the {WCapsule {RCorps{x headquarters.  From here, access
+to almost anywhere on the compound is possible.  The mix of sounds here is
+amazing.  There are sounds of fighting, and of telephones ringing.  The
+sounds of many people talking drifts by for a minute, then is gone.  
+~
+0 8 0
+D0
+~
+~
+0 0 5307
+D1
+~
+~
+0 0 5304
+D2
+~
+~
+0 0 5302
+D3
+~
+~
+0 0 5310
+S
+#5304
+{WThe {DLo{Wbb{xy~
+This is a comfortable room, with couches along two walls.  There is
+carpeting here, unlike all the other rooms.  The lights here hang from the
+ceiling, and a calm atmosphere pervades the room.  A water cooler sits
+against a wall, and a man sits behind a counter here.  
+~
+0 8 0
+D3
+~
+~
+0 0 5303
+S
+#5305
+Summara's Office~
+This simple office belongs to Summara, the head scientist of t he Corps. 
+His desk sits In the center, with a small computer resting in its center.  A
+desk lamp sits on the corner of his desk, and the entire thing is littered
+with papers.  A table off to the side holds research notes, and several
+beakers full of liquids.  
+~
+0 1032 0
+D1
+~
+~
+0 0 5310
+S
+#5306
+Firesbane's Office~
+~
+0 0 0
+D2
+~
+~
+0 0 5310
+S
+#5307
+{WHallway before The {xN{We{BX{Wu{xs~
+This is a nondescript hallway, with lights running down the center, and a
+handrail on the side.  Several windows along the sides of the hallway look
+out into the water, where fish swim dolefully by.  Sounds of a heater echo
+through the ventilation shaft, where a comfortable warm breeze is
+origionating.  
+~
+0 0 0
+D0
+~
+~
+0 0 5308
+D2
+~
+~
+0 0 5303
+S
+#5308
+Training Center~
+This is a large room, with a circle made of bright red lights in the
+center.  The ceiling is very high in this part, to allow for flying combat. 
+Lights extend to the very top, so those watching can see the action all the
+way up.  
+~
+0 2097152 0
+D2
+~
+~
+0 0 5307
+D3
+~
+~
+0 0 5309
+S
+#5309
+Healing Tanks~
+The tank is full of a warm, healing liquid, making it hard to see
+anything.  The walls are a mere blur, with several lights running along the
+side.  Through the glass, the scientists face peers at you.  The water in
+the tank is a purplish color, and bubbles hang in stasis.  
+~
+0 0 0
+D1
+~
+~
+0 0 5308
+M 5000 H 5000
+S
+#5310
+Reception Area~
+This room is a plain, uncomfortable room.  There are several paintings on
+the walls, obviously belonging to the receptionist.  Overall, the place
+simply looks tacky.  The furniture is plainly uncomfortable, and the only
+comforting thing is the shag rug on the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 5306
+D1
+~
+~
+0 0 5303
+D3
+~
+~
+0 0 5305
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5300 0 2
+D 0 5301 2 2
+O 0 5307 0 5300 A patch of seaweed loaded to Airlock
+O 0 3556 0 5301 A snake fountain loaded to Welcome Area
+M 0 5302 1 5304 1 Load A {WCapsule {RCorp. {xShopkeeper
+G 0 5300 0 {bjacket with the {w-c{rc{w- {blogo{x is given to A {WCapsule {RCorp. {xShopkeeper
+O 0 5304 0 5304 {ya counter{x loaded to {WThe {DLo{Wbb{xy
+M 0 5304 1 5305 1 Load Summara
+M 0 5305 1 5309 1 Load Scientist
+O 0 940 0 5310 A sturdy chair loaded to Reception Area
+O 0 940 0 5310 A sturdy chair loaded to Reception Area
+O 0 940 0 5310 A sturdy chair loaded to Reception Area
+O 0 5306 0 5310 A desk with the {wcapsule {rcorps. {xlogo loaded to Reception Area
+M 0 5306 1 5310 1 Load The Receptionist
+S
+
+
+
+#SHOPS
+5302 0 0 0 0 0 60 110 1 24
+0
+
+
+
+#MOBPROGS
+#5300
+mob at 5301 unlock south
+mob at 5301 open south
+mob echo A preasurized door opens infront of you.
+~
+#5301
+close north
+lock north
+~
+#5302
+mob at 5300 unlock north
+mob at 5300 open north
+mob echo A preasurized door opens infront of you.
+~
+#5303
+close south
+lock south
+~
+#5305
+say What can I do for ya?
+~
+#5306
+say Hello, do you need to train anything?
+say I can train you in 'str' 'int' 'wis' 'dex' or 'con'
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#5300
+~
+#0
+
+#$

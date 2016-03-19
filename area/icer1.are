@@ -1,0 +1,2580 @@
+#AREADATA
+Name Middle Mountain Vegeta~
+Builders Terraco-d~
+VNUMs 700 799
+Credits {{ OLC } Buu     Icer Newbie Area~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+Icer Trainee~
+A Icer Trainee~
+A small Icer Trainee.
+~
+He wears cracked saiyan armor.  His tail flicks back and forth as he trys
+to look intimidating.  
+~
+icer~
+AQ 0 0 0
+1500 12
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJKQ small unknown
+#701
+Icer Henchman~
+An Icer henchman~
+An Icer henchman
+~
+The Icer henchman wears standard issue equipment.  Her scouter beeps as
+it scans the room.  She clenches her fist as the scouter scans you.  
+~
+icer~
+AHRT 0 0 0
+2500 16
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 30
+AHMV ABCDEFGHIJK medium unknown
+#702
+Icer Rogue~
+A rogue~
+A rogue stands here trying to go unnoticed.
+~
+His eyes shift around the room, making sure no one can jump him from
+behind.  He wears a brown shaggy cloak with a very large hood.  
+~
+human~
+ARS 0 0 0
+3500 19
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 30
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#703
+Icer Warrior~
+An Icerian warrior~
+An Icerian warrior stands here.
+~
+~
+human~
+AST 0 0 0
+7000 27
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 50
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#704
+Icer Weightlifter~
+A weightlifter~
+A weightlifter stands here, flexing his muscles.
+~
+~
+human~
+AR 0 0 0
+1000 10
+5 5 5 5 5 
+100 70
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 10
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#705
+Mutant Icer~
+A mutant Icer~
+A tail-less Icer mutant stands here on 3 legs
+~
+This purple and white creature looks some what like an Icer
+but it has no tail and three legs. But aside from that it looks
+some what normal. About five to six feet tall and has broad
+shoulders and a small head.
+~
+icer~
+AR 0 0 0
+7000 27
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+#706
+Frigidare~
+Frigidare, the good vendor~
+Frigidare stands here proudly
+~
+~
+icer~
+ABS 0 0 0
+1000000 333
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 90
+AHMV ABCDEFGHIJK giant unknown
+#707
+Kalt~
+Kalt the Trainer~
+The small but wise Kalt stands here
+~
+~
+icer~
+ABJKS 0 0 0
+100000 105
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 70
+AHMV ABCDEFGHIJK tiny unknown
+#708
+icer guard~
+a icer guard~
+Icer guard
+~
+~
+icer~
+ABS 0 0 0
+39000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 708 100~
+M SPEECH 707 yes~
+M SPEECH 706 33476~
+M SPEECH 709 no~
+#709
+janitor robot~
+the robo-janitor~
+A robot janitor mopping the floor and leaving a yellow sign
+~
+~
+icer~
+ACG 0 0 0
+1000000 333
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 90
+AHMV ABCDEFGHIJK medium unknown
+#710
+young icer~
+the young icer~
+A young icer looking for the training areas
+~
+~
+icer~
+AGR 0 0 0
+10000 20
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 I 0
+stand stand none 30
+AHMV ABCDEFGHIJK medium unknown
+#711
+trainee icer~
+the icer trainee~
+An icer trainee concentrating on making a energy ball
+~
+~
+icer~
+AGS 0 0 0
+30000000 1095
+22 22 22 22 22 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 95
+AHMV ABCDEFGHIJK medium unknown
+#712
+trainee icer~
+the icer trainee~
+An icer trainee holding it's palms outright and concentrating hard
+~
+~
+icer~
+AGS 0 0 0
+1000000 333
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 I 0
+stand stand none 90
+AHMV ABCDEFGHIJK medium unknown
+#713
+icer commander~
+the icer commander~
+An commander showing the trainees where to go
+~
+~
+icer~
+AGS 0 0 0
+5000000000 7071
+192 192 192 192 192 
+100 100
+punch
+0 0 0 0
+0 0 I 0
+stand stand none 7179
+AHMV ABCDEFGHIJK medium unknown
+#714
+icer king~
+the icer king~
+Cold, icer king
+~
+~
+icer~
+ABS 0 0 0
+2000000000 4472
+165 165 165 165 165 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 5709
+AHMV ABCDEFGHIJK large unknown
+#715
+icer warrior~
+the icer warrior~
+An Icerian warrior stands here
+~
+~
+icer~
+AGS 0 0 0
+1500000000 3872
+158 158 158 158 158 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 5313
+AHMV ABCDEFGHIJK large unknown
+#790
+gang member tall~
+the tall gang member~
+A tall gang member cracking some knuckles
+~
+~
+human~
+ABR 0 0 0
+4000000 666
+8 8 8 8 8 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#791
+gang member leader~
+the gang leader~
+The leader of the gang looking around for trouble
+~
+~
+saiya-jin~
+ABS 0 0 0
+20000000 1490
+22 22 22 22 22 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+#792
+short man crony~
+the leader's crony~
+A short man that looks to be the leader's crony
+~
+~
+human~
+ABR 0 0 0
+10000000 1054
+15 15 15 15 15 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#793
+buff bodyguard~
+the buff bodyguard~
+A buff looking bodyguard standing near the leader
+~
+~
+half-breed~
+ABR 0 0 0
+5000000 745
+11 11 11 11 11 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+#794
+tall bodyguard~
+the tall bodyguard~
+A tall bodyguard watching out for trouble
+~
+~
+half-breed~
+ABS 0 0 0
+2500000 527
+7 7 7 7 7 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+#795
+trainee icer~
+the icer trainee~
+A icer trainee kicking air to practice
+~
+~
+icer~
+ABR 0 0 0
+1000000 333
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 90
+AHMV ABCDEFGHIJK medium unknown
+#796
+slave namekian~
+the namek-jin slave~
+A namek-jin pulling on a ball and chain
+~
+~
+namek~
+ABS 0 -600 0
+1000000000 10540
+155 155 155 155 155 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJK medium unknown
+#797
+sroliyan slave~
+the sroli-jin slave~
+A sroli-jin placidly staring at the walls
+~
+A warrior from Planet Sroli, he has the ability to see the infrared
+spectrum due to it's planet's lack of light.  With its dark blue skin,
+piercing eyes, and fangs, it would seem intimidating weren't it for its
+rather placid look, as if it was drugged.  
+~
+hobgoblin~
+ABR J -600 0
+100000000 3333
+48 48 48 48 48 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+AHMV ABCDEFGHIJKY medium unknown
+F res LQ
+#798
+slave saiyan~
+the saiya-jin slave~
+A saiya-jin, limping around
+~
+This once proud warrior has been beaten ruthelessly.  He now depends on
+his smarts rather than his agility to defeat his foes.  
+~
+saiya-jin~
+ABS 0 0 0
+900000 316
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 90
+AHMV ABCDEFGHIJK medium unknown
+#799
+slave saiyan~
+the saiya-jin slave~
+A hurt saiya-jin, dragging a ball and chain
+~
+This once proud warrior was beaten and chained to a metallic ball. 
+Heavily scared, he has trouble seeing out of one eye.  Behind his sharp
+eyes, is an even sharper mind.  
+~
+saiya-jin~
+ABS 0 0 0
+60000 81
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 70
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#700
+Standard Issue Armor~
+a suit of Icerian armor~
+Standard Issue Icerian Armor~
+unknown~
+20
+armor 0 AD
+0 CDFGHIJKLMNOPQRSTUVWXYZabcdef 0 0 0
+0 1 200 P
+#701
+Standard Issue Bracers~
+a pair of bracers~
+A pair of standard issue bracers~
+unknown~
+1
+armor 0 AI
+0 0 0 0 0
+0 0 100 P
+#702
+Standard Issue Gloves~
+a pair of white gloves~
+A pair of standard issue gloves~
+unknown~
+1
+armor 0 AH
+0 0 0 0 0
+0 0 200 P
+#703
+Standard Issue Boots~
+a pair of boots lie here~
+A pair of standard issue boots~
+unknown~
+1
+armor 0 AG
+0 0 0 0 0
+0 0 200 P
+#704
+Electric Lantern~
+an electric lantern sits here~
+A futuristic-looking lantern~
+unknown~
+1
+light U AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 1 500 P
+#705
+no name~
+.~
+(no description)~
+unknown~
+1
+armor 0 AI
+0 0 0 0 0
+0 0 0 P
+#706
+no name~
+a broom~
+A broom with an long brown handle and black brissels~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+1 0 0 P
+#707
+no name~
+a~
+Dustpan~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#708
+no name~
+a~
+Mop~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#709
+no name~
+a red bucket~
+A red bucket~
+unknown~
+1
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#762
+key card~
+a key card~
+A key card~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#764
+swipe card~
+a swipe card~
+A swipe card~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#787
+lever~
+a small lever~
+A small lever on the wall~
+steel~
+2147483647
+key 0 0
+0 0 0 0 0
+0 16960 0 P
+#799
+Buu's Scouter~
+scouter~
+Scouter~
+unknown~
+1000
+armor a AS
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#700
+Icerian Training Ship~
+You are at the entrance of the Icerian Training Ship.  The walls are made
+of a white steel.  Battle cries and fighting can be heard throughout the
+room.  Scratches in the walls and floor tell of the fierce battles that rage
+here.  
+~
+0 4 0
+D0
+~
+~
+0 0 701
+D5
+~
+~
+0 0 741
+M 150 H 150
+S
+#701
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 752
+D1
+~
+~
+0 0 702
+D2
+~
+~
+0 0 700
+D3
+~
+~
+0 0 717
+D5
+~
+~
+0 0 719
+M 150 H 150
+S
+#702
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 703
+D3
+~
+~
+0 0 701
+M 150 H 150
+S
+#703
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here. 
+To the south is the Equipment Vendor.  
+~
+0 0 0
+D0
+~
+~
+0 0 704
+D2
+~
+~
+0 0 718
+D3
+~
+~
+0 0 702
+M 150 H 150
+S
+#704
+Icerian Training ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 705
+D2
+~
+~
+0 0 703
+M 150 H 150
+S
+#705
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 706
+D2
+~
+~
+0 0 704
+M 150 H 150
+S
+#706
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 707
+D2
+~
+~
+0 0 705
+M 150 H 150
+S
+#707
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 708
+D2
+~
+~
+0 0 706
+M 150 H 150
+S
+#708
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D2
+~
+~
+0 0 707
+D3
+~
+~
+0 0 709
+M 150 H 150
+S
+#709
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 710
+M 150 H 150
+S
+#710
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 709
+D3
+~
+~
+0 0 711
+M 150 H 150
+S
+#711
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 710
+D3
+~
+~
+0 0 712
+D4
+~
+~
+0 0 721
+M 150 H 150
+S
+#712
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 711
+D2
+~
+~
+0 0 713
+M 150 H 150
+S
+#713
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 712
+D2
+~
+~
+0 0 714
+M 150 H 150
+S
+#714
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 713
+D2
+~
+~
+0 0 715
+M 150 H 150
+S
+#715
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 714
+D2
+~
+~
+0 0 716
+M 150 H 150
+S
+#716
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here. 
+To the south is the Skill Area.  
+~
+0 0 0
+D0
+~
+~
+0 0 715
+D1
+~
+~
+0 0 717
+D2
+~
+~
+0 0 720
+M 150 H 150
+S
+#717
+Icerian Training Ship~
+You are in the vast hallway of the ship.  The walls are made of a white
+steel.  Battle cries and fighting can be heard throughout the room. 
+Scratches in the walls and floor tell of the fierce battles that rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 701
+D3
+~
+~
+0 0 716
+M 150 H 150
+S
+#718
+Equipment Vendor~
+This room is small and craped.  Behind a large Icer, shelves that line
+the wall are filled with classic Icerian armor.  The floor is white ceramic
+tile.  The large Icer sways back and forth with his arms crossed and eyes
+fiercely squinted.  
+~
+0 4 0
+D0
+~
+~
+0 0 703
+M 150 H 150
+S
+#719
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 1029 0
+D1
+~
+~
+0 0 742
+D2
+~
+~
+0 0 743
+D3
+~
+~
+0 0 744
+D4
+~
+~
+0 0 701
+M 250 H 250
+S
+#720
+Skill Area~
+This is the Training Area.  You can learn new skills and techniques here.
+Large mats lay here to break your fall.  Burn marks scar the wall where ki
+blasts have missed their target.  A large mirror helps trainers show you the
+correct form for each technique you might learn.  
+~
+0 0 0
+D0
+~
+~
+0 0 716
+S
+#721
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.  
+~
+0 4 0
+D1
+~
+~
+0 0 722
+D3
+~
+~
+0 0 740
+D5
+~
+~
+0 0 711
+S
+#722
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 723
+D3
+~
+~
+0 0 721
+S
+#723
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D2
+~
+~
+0 0 724
+D3
+~
+~
+0 0 722
+S
+#724
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 723
+D2
+~
+~
+0 0 725
+S
+#725
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 724
+D2
+~
+~
+0 0 726
+S
+#726
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 725
+D2
+~
+~
+0 0 727
+S
+#727
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 726
+D2
+~
+~
+0 0 728
+S
+#728
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 727
+D3
+~
+~
+0 0 729
+S
+#729
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 728
+D3
+~
+~
+0 0 730
+S
+#730
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 729
+D3
+~
+~
+0 0 731
+S
+#731
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 730
+D3
+~
+~
+0 0 732
+S
+#732
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 731
+D3
+~
+~
+0 0 733
+S
+#733
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 732
+S
+#734
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 735
+D2
+~
+~
+0 0 733
+S
+#735
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 736
+D2
+~
+~
+0 0 734
+S
+#736
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 737
+D2
+~
+~
+0 0 735
+S
+#737
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D0
+~
+~
+0 0 738
+D2
+~
+~
+0 0 736
+S
+#738
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 739
+D2
+~
+~
+0 0 737
+S
+#739
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 740
+D3
+~
+~
+0 0 738
+S
+#740
+Second Level~
+You are on the second floor of the Icerian Training Ship.  The walls are
+made of a white steel.  Battle cries and fighting can be heard throughout
+the room.  Scratches in the walls and floor tell of the fierce battles that
+rage here.
+~
+0 0 0
+D1
+~
+~
+0 0 721
+D3
+~
+~
+0 0 739
+S
+#741
+Porting Dock~
+The porting dock is busy with ships and people.  The cavernous room echos
+with talking and engines humming.  The room is very bright because of the
+giant lights hanging from the ceiling.  From here you can travel across the
+universe in mere moments.  
+~
+0 4 0
+D1
+~
+~
+0 0 747
+D3
+~
+~
+0 0 748
+D4
+~
+~
+0 0 700
+S
+#742
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 1029 0
+D2
+~
+~
+0 0 746
+D3
+~
+~
+0 0 719
+S
+#743
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 1029 0
+D0
+~
+~
+0 0 719
+D1
+~
+~
+0 0 746
+D2
+~
+~
+0 0 750
+D3
+~
+~
+0 0 745
+S
+#744
+Rejuvination Tanks~
+This is the rejuvination area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 1029 0
+D1
+~
+~
+0 0 719
+D2
+~
+~
+0 0 745
+S
+#745
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 1029 0
+D0
+~
+~
+0 0 744
+D1
+~
+~
+0 0 743
+D2
+~
+~
+0 0 751
+S
+#746
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 0 0
+D0
+~
+~
+0 0 742
+D2
+~
+~
+0 0 749
+D3
+~
+~
+0 0 743
+S
+#747
+Incoming Flight Dock~
+The floor is made of a metal aloy.  It has lights lining the sides and
+down the middle.  The back wall, that has a lighted target like design on
+it, seems to be where the control room is.  A small door is located at the
+top of some stairs made of the same aloy as the floor.  The runners upon the
+stairs have a few scuff marks.  
+~
+0 0 0
+D3
+~
+~
+0 0 741
+D4
+~
+~
+0 0 755
+S
+#748
+Outgoing Flight Dock~
+The floor is made of a metal aloy.  It has lights lining the sides and
+down the middle, the door has the same lighted target like design on it
+showing that it is the way out.  This areas controll room is the same as the
+incomeings and only linked by a window.  
+~
+0 0 0
+D1
+~
+~
+0 0 741
+S
+#749
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 0 0
+D0
+~
+~
+0 0 746
+D3
+~
+~
+0 0 750
+S
+#750
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 0 0
+D0
+~
+~
+0 0 743
+D1
+~
+~
+0 0 749
+D3
+~
+~
+0 0 751
+S
+#751
+Rejuvenation Tanks~
+This is the rejuvenation area.  Each room contains one tank.  The room is
+dark as night to help it's occupants relax.  The small green light pulses as
+it monitors one's heartbeat.  Look around to find a empty tank if you have
+been wounded in battle.
+~
+0 0 0
+D0
+~
+~
+0 0 745
+D1
+~
+~
+0 0 750
+S
+#752
+Hallway to the BioCore~
+The walls here are made of white steel too.  But they are stained with
+the green glow of the BioCore.  The very ground seems to perpetually throb
+with the great power source of the ship.  The smell of chemical reactions
+and atoms splitting can burn the average human's brain, but Icers seem to be
+immune.  
+~
+0 12 0
+D0
+~
+~
+0 0 753
+D2
+~
+~
+0 0 701
+S
+#753
+Closer to the BioCore~
+As the end of the hallway comes near the white walls seem to have been
+completely stained with green.  The air is throbing so violently that even
+the sturdy walls seem to be caving in.  The smell of chemical reactions and
+atoms splitting canburn the average human's brain, but Icers seem to be
+immune.  
+~
+0 8 0
+D0
+~
+~
+0 0 754
+D2
+~
+~
+0 0 752
+S
+#754
+Below The BioCore~
+The hallway has opened up into a huge cylindrical room.  Above you the
+giant green BioCore throbs uncontrollably, causing stronger gravity in the
+immediate area.  All colors in the room are tinged with a sickly green.  A
+metal staircase travels around the room up to the controls of the ship,
+above the BioCore.  
+~
+0 1048584 0
+D2
+~
+~
+0 0 753
+D4
+~
+~
+0 0 756
+S
+#755
+Control Room~
+On both the bigest walls in the room are one way windows faceing the
+landing There are control panels and radio link-up stations everywhere.  The
+other two walls are covered in what looks to be like radar equipment and
+papers hanging showing the work schedule for the next shift of people 
+~
+0 0 0
+D5
+~
+~
+0 0 747
+S
+#756
+The BioCore~
+The BioCore thumps harder, powering the ship with each beat.  The surface
+is a metalic silver with a strange green glow about it.  The rest of the
+room is barely visible around the huge mass of the BioCore.  The metal
+staircase continues up and down from here.  
+~
+0 1048576 0
+D4
+~
+~
+0 0 757
+D5
+~
+~
+0 0 754
+S
+#757
+The BioCore~
+The BioCore thumps harder, powering the ship with each beat.  The surface
+is a metalic silver with a strange green glow about it.  The rest of the
+room is barely visible around the huge mass of the BioCore.  The metal
+staircase continues up and down from here.
+~
+0 1048576 0
+D4
+~
+~
+0 0 758
+D5
+~
+~
+0 0 756
+S
+#758
+Above the BioCore~
+Standing above the BioCore, the silvery metal of the room below
+continues.  A massive beat, similar to a heart beat, can be heard.  Looking
+up, the stairs within the cylinder like passage keeps going.  
+~
+0 0 0
+D4
+~
+~
+0 0 759
+D5
+~
+~
+0 0 757
+S
+#759
+Above the BioCore~
+Standing in a cylindric room, the metallic walls still reverberate from
+the BioCore's beat.  The rather large passage keeps going up and down from
+here.  The reverberations make it hard for anyone to get a good grip upon
+the walls.  
+~
+0 0 0
+D4
+~
+~
+0 0 760
+D5
+~
+~
+0 0 758
+S
+#760
+Above the Biocore~
+There are doorways to the north and south of the stairway that spirals
+down from here.  The metallic walls are of the same type as every other wall
+elsewhere in the ship.  A slight vibration can be felt coming from the
+BioCore as it pulses with power.  
+~
+0 0 0
+D0
+~
+~
+0 0 762
+D2
+~
+~
+0 0 761
+D5
+~
+~
+0 0 759
+S
+#761
+A short hallway~
+The curved metallic walls give the impression a huge sphere was passed
+through here during the ship's construction.  Upon the wall, something seems
+to have been scratched in.  To the south, lights blink on and off, making
+any details hard to see.  To the north, the top of a stairway can be seen.  
+~
+0 0 0
+E
+scratches~
+33476
+ 
+~
+D0
+~
+~
+0 0 760
+D2
+~
+~
+0 0 763
+S
+#762
+A long hallway~
+The metallic wall continue to a door.  The door is made of the same aloy,
+but the doorknob is made of brass, so that it stands out.  There is a small
+box on the door, just under the doorknob.  It has a number key pad and a
+card swiping mechanism.  A man stands by the door, holding the card, the
+only key for the door.  
+~
+0 0 0
+D0
+~
+~
+1 762 764
+D2
+~
+~
+0 0 760
+S
+#763
+A dead end~
+The aloy walls and ceiling are curved, especially the southern wall which
+looks like it was formed with the help of a spherical object.  The lights
+blink on and off, in time with the pulses of the BioCore, showing that this
+part of the ship is not maintained as well as the rest.  
+~
+0 0 0
+D0
+~
+~
+0 0 761
+S
+#764
+A long hallway~
+The metallic wall continue to a door.  The door is made of the same
+aloy, but the doorknob is made of brass, so that it stands out.  There is a
+small box on the door, just under the doorknob.  It has a number key pad and
+a card swiping mechanism.  A man stands by the door, holding the card, the
+only key for the door.  
+~
+0 0 0
+D0
+~
+~
+1 764 765
+D2
+~
+~
+1 0 762
+S
+#765
+A long hallway~
+The hallway ends on a wall seemingly formed by a huge spherical object. 
+Everything here is made of a tough metal alloy, able to withstand a huge
+amount of power, yet flexible enough to cushion certain falls.  A door
+presents itself to the east, and one to the west.
+~
+0 0 0
+D0
+~
+~
+1 0 774
+D1
+~
+~
+0 0 766
+D2
+~
+~
+1 0 764
+D3
+~
+~
+0 0 767
+S
+#766
+Eastern Hallway~
+The hallway continues on as the thick, shiny, metal walls reflect a
+pleasant red light from the ceiling.  To the north wall a view of the pitch
+blackness of space is introduced by a shatter proof glass dome window.  The
+floor is verry wet and slippery because it has just been mopped.  
+~
+0 0 0
+D1
+~
+~
+0 0 768
+D3
+~
+~
+0 0 765
+S
+#767
+Western Hallway~
+The hallway continues on as the thick, shiny, metal walls reflect a
+pleasant red light from the ceiling.  To the north wall a view of the pitch
+blackness of space is introduced by a shatter proof glass dome window.  The
+floor is verry wet and slippery because it has just been mopped.  
+~
+0 0 0
+D1
+~
+~
+0 0 765
+D3
+~
+~
+0 0 769
+S
+#768
+Eastern Hallway~
+The hallway continues on as the smooth metal walls reflect the pleasant
+red light from above.  To the north, the same shatter proof glass window
+let's you gaze out into nothingness.  A yellow sign warns of the wet floor
+and the small black figure looks strangely like a human with a tail.  To the
+south is a door to one of the four training areas.
+~
+0 0 0
+D1
+~
+~
+0 0 771
+D2
+~
+~
+1 0 775
+D3
+~
+~
+0 0 766
+S
+#769
+Western Hallway~
+The hallway continues on as the smooth metal walls reflect the pleasant
+red light from above.  To the south the same shatter proof glass window
+let's you gaze out into nothingness.  A yellow sign warns of the wet floor
+and the small black figure looks strangely like a human with a tail.  To the
+north is a door to one of the four training areas.  
+~
+0 0 0
+D0
+~
+~
+1 0 787
+D1
+~
+~
+0 0 767
+D3
+~
+~
+0 0 770
+S
+#770
+Western Hallway~
+The hallway continues on as the thick, shiny, metal walls reflect a
+pleasant red light from the ceiling.  To the north wall a view of the pitch
+blackness of space is introduced by a shatter proof glass dome window.  The
+floor is verry wet and slippery because it has just been mopped.  
+~
+0 0 0
+D1
+~
+~
+0 0 769
+D3
+~
+~
+0 0 773
+S
+#771
+Eastern Hallway~
+The hallway continues on as the thick, shiny, metal walls reflect a
+pleasant red light from the ceiling.  To the north wall a view of the pitch
+blackness of space is introduced by a shatter proof glass dome window.  The
+floor is verry wet and slippery because it has just been mopped.  
+~
+0 0 0
+D1
+~
+~
+0 0 772
+D3
+~
+~
+0 0 768
+S
+#772
+Eastern Hallway~
+The hallway ends here, as the smooth metal walls reflect the pleasant red
+light from above.  To the south, the same shatter proof glass window let's
+you gaze out into nothingness.  A yellow sign warns of the wet floor and the
+small black figure looks strangely like a human with a tail.  To the north
+is a door to one of the four training areas.  
+~
+0 0 0
+D0
+~
+~
+1 0 781
+D3
+~
+~
+0 0 771
+S
+#773
+Western Hallway~
+The hallway ends here, as the smooth metal walls reflect the pleasant red
+light from above.  To the north, the same shatter proof glass window let's
+you gaze out into nothingness.  A yellow sign warns of the wet floor and the
+small black figure looks strangely like a human with a tail.  To the south
+is a door to one of the four training areas.  
+~
+0 0 0
+D1
+~
+~
+0 0 770
+D2
+~
+~
+1 0 793
+S
+#774
+Throne Room~
+Stepping into a long room, half of it covered in red carpetting, a throne
+is seen at the far end.  A normal sized creature sits in the throne, but
+seems to be ready to attack anyone who might anger him.  The room seems a
+bit too chilly to be comfortable to anything but an icer.  
+~
+0 0 0
+D2
+~
+~
+1 0 765
+S
+#775
+South-Eastern Training Room~
+This room is where a fight prepares for battle.  Fans hang from the
+ceiling to cool down warriors and a barrel of cold liquid sits in the
+corner.  White lockers line the walls but a sign hangs from one saying 'Wet
+Paint' A speaker is bolted into the corner blaring some sort of music and a
+gang sits in the corner cracking their knuckles menacingly.  
+~
+0 2097152 0
+D0
+~
+~
+1 0 768
+D5
+~
+~
+0 0 776
+S
+#776
+South-Eastern Training Room~
+This is the central room for this area.  In each direction is a room
+which holds various slaves and warriors.  There are no doors, seemingly
+because they were blasted out.  A few scratches on the floor are proof that
+some of the fighting has come out of the rooms.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 777
+D1
+~
+~
+0 0 778
+D2
+~
+~
+0 0 779
+D3
+~
+~
+0 0 780
+D4
+~
+~
+0 0 775
+S
+#777
+South-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D2
+~
+~
+0 0 776
+S
+#778
+South-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D3
+~
+~
+0 0 776
+S
+#779
+South-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 776
+S
+#780
+South-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D1
+~
+~
+0 0 776
+S
+#781
+North-Eastern Training Room~
+This room is where a fight prepares for battle.  Fans hang from the
+ceiling to cool down warriors and a barrel of cold liquid sits in the
+corner.  White lockers line the walls but a sign hangs from one saying 'Wet
+Paint' A speaker is bolted into the corner blaring some sort of music and a
+gang sits in the corner cracking their knuckles menacingly.  
+~
+0 2097152 0
+D2
+~
+~
+1 0 772
+D5
+~
+~
+0 0 782
+S
+#782
+North-Eastern Training Room~
+This is the central room for this area.  In each direction is a room
+which holds various slaves and warriors.  There are no doors, seemingly
+because they were blasted out.  A few scratches on the floor are proof that
+some of the fighting has come out of the rooms.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 783
+D1
+~
+~
+0 0 784
+D2
+~
+~
+0 0 786
+D3
+~
+~
+0 0 785
+D4
+~
+~
+0 0 781
+S
+#783
+North-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D2
+~
+~
+0 0 782
+S
+#784
+North-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D3
+~
+~
+0 0 782
+S
+#785
+North-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D1
+~
+~
+0 0 782
+S
+#786
+North-Eastern Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 782
+S
+#787
+North-West training area~
+This room is where a fight prepares for battle.  Fans hang from the
+ceiling to cool down warriors and a barrel of cold liquid sits in the
+corner.  White lockers line the walls but a sign hangs from one saying 'Wet
+Paint' A speaker is bolted into the corner blaring some sort of music and a
+gang sits in the corner cracking their knuckles menacingly.  
+~
+0 2097152 0
+D2
+~
+~
+1 0 769
+D5
+~
+~
+0 787 788
+S
+#788
+North-West training area~
+This is the central room for this area.  In each direction is a room
+which holds various slaves and warriors.  There are no doors, seemingly
+because they were blasted out.  A few scratches on the floor are proof that
+some of the fighting has come out of the rooms.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 789
+D1
+~
+~
+0 0 792
+D2
+~
+~
+0 0 791
+D3
+~
+~
+0 0 790
+D4
+~
+~
+0 0 787
+S
+#789
+North-West training area~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D2
+~
+~
+0 0 788
+S
+#790
+North-West training area~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D1
+~
+~
+0 0 788
+S
+#791
+North-West training area~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 788
+S
+#792
+North-West training area~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D3
+~
+~
+0 0 788
+S
+#793
+South-Western Training Room~
+This room is where a fight prepares for battle.  Fans hang from the
+ceiling to cool down warriors and a barrel of cold liquid sits in the
+corner.  White lockers line the walls but a sign hangs from one saying 'Wet
+Paint' A speaker is bolted into the corner blaring some sort of music and a
+gang sits in the corner cracking their knuckles menacingly.  
+~
+0 2097152 0
+D0
+~
+~
+1 0 773
+D5
+~
+~
+0 0 794
+S
+#794
+South-Western Training Room~
+This is the central room for this area.  In each direction is a room
+which holds various slaves and warriors.  There are no doors, seemingly
+because they were blasted out.  A few scratches on the floor are proof that
+some of the fighting has come out of the rooms.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 795
+D1
+~
+~
+0 0 796
+D2
+~
+~
+0 0 797
+D3
+~
+~
+0 0 798
+D4
+~
+~
+0 0 793
+S
+#795
+South-Western Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D2
+~
+~
+0 0 794
+S
+#796
+South-Western Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D3
+~
+~
+0 0 794
+S
+#797
+South-Western Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D0
+~
+~
+0 0 794
+S
+#798
+South-Western Training Room~
+The metallic walls gleem when hit with light.  They return the echo of
+the foot steps of people when they walk.  There is a small square drawn upon
+the floor, apparently delimiting an area for battling.  Benches are placed
+along the other walls, for spectators or just to take a breather after a
+fight.  
+~
+0 2097152 0
+D1
+~
+~
+0 0 794
+S
+#799
+Buu's room(if she doesnt have one already that is)~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 762 0 1
+D 0 764 0 1
+D 0 764 2 1
+D 0 765 0 1
+D 0 765 2 1
+D 0 768 2 1
+D 0 769 0 1
+D 0 772 0 1
+D 0 773 2 1
+D 0 774 2 1
+D 0 775 0 1
+D 0 781 2 1
+D 0 787 2 1
+D 0 793 0 1
+M 0 712 10 700 1 Load the icer trainee
+M 0 711 10 700 1 Load the icer trainee
+M 0 710 20 700 1 Load the young icer
+M 0 700 1 701 1 Load A Icer Trainee
+M 0 700 1 702 1 Load A Icer Trainee
+M 0 701 5 703 1 Load An Icer henchman
+M 0 700 1 703 1 Load A Icer Trainee
+M 0 700 7 704 1 Load A Icer Trainee
+M 0 700 7 704 1 Load A Icer Trainee
+M 0 700 7 705 1 Load A Icer Trainee
+M 0 701 7 706 1 Load An Icer henchman
+M 0 700 7 706 1 Load A Icer Trainee
+M 0 701 7 707 1 Load An Icer henchman
+M 0 700 7 708 1 Load A Icer Trainee
+M 0 700 7 710 1 Load A Icer Trainee
+M 0 701 7 711 1 Load An Icer henchman
+M 0 712 10 712 1 Load the icer trainee
+M 0 700 7 712 1 Load A Icer Trainee
+M 0 700 7 713 1 Load A Icer Trainee
+M 0 712 10 714 1 Load the icer trainee
+M 0 700 7 715 1 Load A Icer Trainee
+M 0 712 10 716 1 Load the icer trainee
+M 0 701 5 716 1 Load An Icer henchman
+M 0 700 7 716 1 Load A Icer Trainee
+M 0 701 5 717 1 Load An Icer henchman
+M 0 706 1 718 1 Load Frigidare, the good vendor
+G 0 700 0 A suit of icerian armor is given to Frigidare, the good vendor
+G 0 701 0 A pair of bracers is given to Frigidare, the good vendor
+G 0 702 0 A pair of white gloves is given to Frigidare, the good vendor
+G 0 704 0 An electric lantern sits here is given to Frigidare, the good vendor
+G 0 703 0 A pair of boots lie here is given to Frigidare, the good vendor
+M 0 707 1 720 1 Load Kalt the Trainer
+M 0 701 7 721 1 Load An Icer henchman
+M 0 701 7 723 1 Load An Icer henchman
+M 0 703 1 724 1 Load An Icerian warrior
+M 0 703 1 725 1 Load An Icerian warrior
+M 0 701 7 725 1 Load An Icer henchman
+M 0 701 7 726 1 Load An Icer henchman
+M 0 704 1 727 1 Load A weightlifter
+M 0 704 1 729 1 Load A weightlifter
+M 0 703 1 730 1 Load An Icerian warrior
+M 0 702 1 732 1 Load A rogue
+M 0 703 1 732 1 Load An Icerian warrior
+M 0 715 10 741 3 Load the icer warrior
+M 0 710 20 747 1 Load the young icer
+O 0 4602 0 748 A transport loaded to Outgoing Flight Dock
+M 0 715 10 752 3 Load the icer warrior
+M 0 712 10 752 1 Load the icer trainee
+M 0 711 10 752 1 Load the icer trainee
+M 0 710 20 753 1 Load the young icer
+M 0 711 10 753 1 Load the icer trainee
+M 0 705 1 753 1 Load A mutant Icer
+M 0 705 2 754 1 Load A mutant Icer
+M 0 715 10 756 3 Load the icer warrior
+M 0 705 2 757 1 Load A mutant Icer
+M 0 715 10 759 3 Load the icer warrior
+M 0 709 4 760 1 Load the robo-janitor
+M 0 708 2 762 1 Load a icer guard
+G 0 762 0 A key card is given to a icer guard
+M 0 715 10 763 3 Load the icer warrior
+M 0 709 4 763 1 Load the robo-janitor
+M 0 708 2 764 1 Load a icer guard
+G 0 762 0 A key card is given to a icer guard
+G 0 764 0 A swipe card is given to a icer guard
+M 0 709 4 766 1 Load the robo-janitor
+M 0 713 4 768 1 Load the icer commander
+M 0 713 4 769 1 Load the icer commander
+M 0 709 4 770 1 Load the robo-janitor
+M 0 713 4 772 1 Load the icer commander
+M 0 709 4 772 1 Load the robo-janitor
+M 0 713 4 773 1 Load the icer commander
+M 0 714 1 774 1 Load the icer king
+O 0 3150 0 774 A large throne loaded to Throne Room
+M 0 794 4 775 1 Load the tall bodyguard
+M 0 793 4 775 1 Load the buff bodyguard
+M 0 792 4 775 1 Load the leader's crony
+M 0 791 4 775 1 Load the gang leader
+M 0 790 4 775 1 Load the tall gang member
+M 0 795 16 777 1 Load the icer trainee
+M 0 799 8 777 1 Load the saiya-jin slave
+M 0 798 8 777 1 Load the saiya-jin slave
+M 0 795 16 778 1 Load the icer trainee
+M 0 796 8 778 1 Load the namek-jin slave
+M 0 797 8 778 1 Load the sroli-jin slave
+M 0 795 16 779 1 Load the icer trainee
+M 0 799 8 779 1 Load the saiya-jin slave
+M 0 798 8 779 1 Load the saiya-jin slave
+M 0 795 16 780 1 Load the icer trainee
+M 0 796 8 780 1 Load the namek-jin slave
+M 0 797 8 780 1 Load the sroli-jin slave
+M 0 794 4 781 1 Load the tall bodyguard
+M 0 793 4 781 1 Load the buff bodyguard
+M 0 792 4 781 1 Load the leader's crony
+M 0 791 4 781 1 Load the gang leader
+M 0 790 4 781 1 Load the tall gang member
+M 0 795 16 783 1 Load the icer trainee
+M 0 796 8 783 1 Load the namek-jin slave
+M 0 797 8 783 1 Load the sroli-jin slave
+M 0 795 16 784 1 Load the icer trainee
+M 0 799 8 784 1 Load the saiya-jin slave
+M 0 798 8 784 1 Load the saiya-jin slave
+M 0 795 16 785 1 Load the icer trainee
+M 0 799 8 785 1 Load the saiya-jin slave
+M 0 798 8 785 1 Load the saiya-jin slave
+M 0 795 16 786 1 Load the icer trainee
+M 0 796 8 786 1 Load the namek-jin slave
+M 0 797 8 786 1 Load the sroli-jin slave
+M 0 794 4 787 1 Load the tall bodyguard
+M 0 793 4 787 1 Load the buff bodyguard
+M 0 792 4 787 1 Load the leader's crony
+M 0 791 4 787 1 Load the gang leader
+M 0 790 4 787 1 Load the tall gang member
+M 0 795 16 789 1 Load the icer trainee
+M 0 796 8 789 1 Load the namek-jin slave
+M 0 797 8 789 1 Load the sroli-jin slave
+M 0 795 16 790 1 Load the icer trainee
+M 0 799 8 790 1 Load the saiya-jin slave
+M 0 798 8 790 1 Load the saiya-jin slave
+M 0 795 16 791 1 Load the icer trainee
+M 0 796 8 791 1 Load the namek-jin slave
+M 0 797 8 791 1 Load the sroli-jin slave
+M 0 795 16 792 1 Load the icer trainee
+M 0 799 8 792 1 Load the saiya-jin slave
+M 0 798 8 792 1 Load the saiya-jin slave
+M 0 794 4 793 1 Load the tall bodyguard
+M 0 793 4 793 1 Load the buff bodyguard
+M 0 792 4 793 1 Load the leader's crony
+M 0 791 4 793 1 Load the gang leader
+M 0 790 4 793 1 Load the tall gang member
+M 0 795 16 795 1 Load the icer trainee
+M 0 799 8 795 1 Load the saiya-jin slave
+M 0 798 8 795 1 Load the saiya-jin slave
+M 0 795 16 796 1 Load the icer trainee
+M 0 796 8 796 1 Load the namek-jin slave
+M 0 797 8 796 1 Load the sroli-jin slave
+M 0 795 16 797 1 Load the icer trainee
+M 0 799 8 797 1 Load the saiya-jin slave
+M 0 798 8 797 1 Load the saiya-jin slave
+M 0 795 16 798 1 Load the icer trainee
+M 0 796 8 798 1 Load the namek-jin slave
+M 0 797 8 798 1 Load the sroli-jin slave
+S
+
+
+
+#SHOPS
+706 1 9 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#706
+mob echo $I turns around and swipes the card.
+unlock north
+open north
+bow $n
+say $n, you may pass!
+~
+#707
+smile
+say Good! Tell me the code...
+~
+#708
+close south
+close north
+mob echoat $n $I looks at you
+mob echoaround $n $I looks at $n
+say $n have you the code?
+~
+#709
+frown $n
+say Get out of here!
+mob echoaround $n $I pushes $n out of the room
+mob echoat $n $I pushes you out of the room
+mob force $n south
+~
+#710
+frown
+say What in hell do you think you are doing??
+close north
+lock north
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

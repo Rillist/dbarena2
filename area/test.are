@@ -1,0 +1,1217 @@
+#AREADATA
+Name test area under construction~
+Builders Terraco-d~
+VNUMs 4300 4399
+Credits (null)~
+Security 9
+End
+
+
+
+#MOBILES
+#4300
+saiyaman flunkie~
+A saiyaman flunkie~
+A saiyaman flunkie practicing his goofy poses
+~
+~
+human~
+AGRS 0 0 0
+1000000 333
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 90
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 4300 save me~
+#4301
+Saiyaman funk~
+This funky saiyan has lots of style.~
+This saiyan has a lot of style and substance, wearing funky clothing and cool suede shoes.
+~
+~
+human~
+ABRS 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 E 0 0
+stand stand none 125
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 4301 100~
+#4302
+Frev~
+Frev the slacker~
+Frev the slacker
+~
+~
+human~
+A 0 0 0
+0 2
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 1000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4303
+stout human~
+A stout human~
+A tall, stout human stands here ready for a worthy challenge
+~
+Stands here in front of you is a tall and stout human being wearing black
+gi.  You can sense his energy from where you stand.  His hair reaches his
+shoulders and sways in the wind.  He always stands with an evil grin on his
+face ready for a opponent.
+~
+human~
+AB 0 -500 0
+5000000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 5000
+I AFJ huge unknown
+F for AHMV
+F par BCDEGHIK
+#4304
+battledrone~
+Battledrone~
+A battledrone is here searching for possible intruders.
+~
+A giant battledrone stands in front of you, starring at you with its cold laser eyes.
+~
+human~
+AF 0 0 0
+100000000 666
+150 80 80 80 80 
+100 100
+punch
+0 0 0 0
+0 0 G 0
+stand stand none 2600
+0 BCGHJK large unknown
+F for AHMV
+F par ADEFI
+#4305
+Kasumi~
+Kasumi~
+Kasumi Tendou stands here, smiling as she works.
+~
+Kasumi is the eldest of Soun Tendou's three daughters, being 19 years
+old.  She largely runs the Tendou household, cooking and cleaning and taking
+care of damage control, a very important job in this family especially.  She
+has black hair tied back in a ponytail, and is smiling almost all the time. 
+She fails to notice all the bizarre occurrences around her, for some reason,
+and generally accepts the battles between martial artists which happen in
+her home on a very frequent basis, as being a normal thing.  
+~
+human~
+AGQYa 0 1000 0
+5000000000 2147483647
+12 15 100 500 50 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 900
+HMV ABCGHIJK large unknown
+F for A
+F par DEF
+#4306
+Pug 6~
+Pug Six~
+Pug Six the Pug of the Future
+~
+A bipedal pug-dog with a familiar bowl-cut hair style.  Wears a blue
+jacket, black pants, and gray boots.  An enormous sheath is on his back,
+holding a pointed stick.  
+~
+android~
+A 0 750 0
+600000000000 6000000
+80 56 100 90 200 
+100 100
+pound
+0 0 0 0
+0 0 0 0
+stand stand male 6000000
+HJMV ABCDEFGHIJK large unknown
+F for A
+#4307
+Nabiki~
+Nabiki Tendou~
+Nabiki Tendou is here, smiling mischieviously
+~
+~
+human~
+A 0 -200 0
+4000000000000 5000000
+10 75 100 50 25 
+100 100
+none
+0 0 0 0
+FHKU 0 0 0
+stand stand female 0
+HMV 0 large unknown
+F for A
+F par ABCDEFGHIJK
+#4308
+Ryouga~
+Ryouga Hibiki~
+Ryouga is wandering here, looking lost
+~
+~
+human~
+ARSW Kac 150 0
+1000000000 50000000
+150 9 20 25 150 
+15000 20000
+pound
+0 0 0 0
+ACDFI 0 CELMQ P
+stand stand male 0
+HMV ABCDEFGHIJK huge unknown
+F for A
+#4309
+Entropy~
+Entropic Beast~
+A shadow is hovering
+~
+A pitch-black shadow with a vaguely humanoid form, and a pair of
+glistening red orbs hovering in it's upper body, to serve as eyes.  It is
+composed of pure destructive energy!  
+~
+majin~
+AFGS JTc -1000 0
+10000000000 600000
+12 8 8 100 80 
+6000 6000
+drain
+0 0 0 0
+AFG EFGIKLQ DMP CJNOT
+stand stand none 0
+HK N large unknown
+F for AMV
+F par ABCDEFGHIJK
+#4310
+Piccolo~
+Piccolo the {GNamek{x~
+Piccolo the {GNamek{x stands here, cape flapping in the wind
+~
+A tall namek, wearing a whie turban and a long cape with large shoulder
+pads.  
+~
+namek~
+AGS HTc 450 0
+30000000000 4200000
+200 240 300 200 280 
+12500 20000
+smash
+0 0 0 0
+FIK 0 DP 0
+stand stand none 0
+AHMV ABCDEFGHIJK huge unknown
+#4311
+bio cheap~
+a cheap bio-android~
+A bio-android in great need of repair
+~
+~
+bio-android~
+AP 0 0 0
+10000000000 10000
+218 218 218 218 218 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 8538
+AHMV ABCDEFGHIJK large unknown
+#4312
+fat man~
+George Lucas~
+Look Kids its George Lucas
+~
+~
+human~
+AB T 0 0
+1500 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 25000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4313
+Weaker Android Snack~
+A weaker android snack for Bios to absorb~
+An android for Bio-Androids to absorb, stands here.
+~
+~
+android~
+ABGR 0 0 0
+20000 5
+10 10 10 10 10 
+1 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 300000
+AHMV ABCDEFGHIJK large unknown
+#4314
+Dr. Q~
+Doctor Quackenbush~
+Dr. Q stands here, ready to heal people.
+~
+The cool Dr. Q!
+-
+~
+human~
+ABGa CEHJTc 1000 0
+500000000000 100
+10 100 180 9 12 
+500 2000
+thwack
+0 0 0 0
+0 CDO 0 0
+stand stand male 900000000
+HMV ABCDEFGHIJK large unknown
+F for A
+#4315
+Lt. Shale~
+Lt. Brittany Shale~
+Lieutenant Shale stands here in a tight army uniform, as she reviews the reports of casualties.
+~
+This sexy brunette is named Brittany Shale.
+She is a lieutenant of Exile Base and
+was only recently appointed here to deal
+with the high casualty rate of base personnel.
+She has her hair in a pony tail, disregarding
+regulations about hair style.
+ 
+Despite her lower military rank she is the superior
+of General Lucas in every other way.
+~
+human~
+A CDEFGHJNOTVc 350 0
+1000000000000 420000
+180 95 100 150 135 
+30000 30000
+beating
+0 0 0 0
+AEFGHIK E CDLOPQ T
+stand stand female 0
+BHMV ABCDEFGHIJK large unknown
+F for A
+#4316
+Old Women~
+An old human women~
+An old human women, with her hair up in a bun, a whits pocked appron
+~
+~
+human~
+AG 0 0 0
+100000 21
+38 38 38 38 38 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand female 462
+AHMV ABCDEFGHIJK large unknown
+#4317
+Ryoko~
+{RRyoko{x~
+{RRyoko{G the space pirate hovers here in the air, smirking at you.{x
+~
+An attractive humanoid woman with spikey
+cyan hair, and golden eyes.
+She also has a monkey tail, almost like a
+saiyan... But she isn't related to them
+in any way.
+~
+half-breed~
+AGSc JTc 200 0
+600000000 750
+50 38 10 80 80 
+300 500
+pound
+0 0 0 0
+EFHIK J EILMQ C
+stand stand female 0
+CHMV ABCGHIJK large unknown
+F for A
+F par DEF
+#4320
+Android Snack~
+An android for high-powered Bio-Androids to snack on~
+An android for bios to snack on, stands here.
+~
+~
+android~
+A 0 0 0
+300000000000 30
+10 10 10 10 10 
+100 1000
+punch
+0 0 0 0
+FK BLPQ CDEHIOX JT
+stand stand none 0
+HJM ABCGHIJK huge unknown
+F for AV
+F par DEF
+#4350
+guard~
+guard~
+Guard
+~
+~
+human~
+AB B 0 0
+1000 1
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 140
+AHMV ABCDEFGHIJK large unknown
+#4395
+doore~
+{gDoore{x~
+{gDoore{x is here.
+~
+~
+icer~
+A 0 -1000 0
+500000 35
+13 13 13 13 13 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 664
+AHMV ABCDEFGHIJK large unknown
+#4396
+neiz~
+{rNeiz{x~
+{rNeiz{x is here.
+~
+~
+icer~
+ABRS 0 -1000 0
+500000 35
+13 13 13 13 13 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 664
+AHMV ABCDEFGHIJK large unknown
+#4397
+salza~
+{CSalza{x~
+{CSalza{x is here.
+~
+~
+icer~
+ABRS 0 -1000 0
+900000 47
+15 15 15 15 15 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 770
+AHMV ABCDEFGHIJK large unknown
+#4398
+syruss~
+{DSyruss{x~
+{DSyrus{x is here.
+~
+~
+saiya-jin~
+ABRS 0 0 0
+3000000000 5477
+177 177 177 177 177 
+1000 1000
+punch
+0 0 0 0
+CFK 0 0 0
+stand stand male 6318
+AHMV ABCDEFGHIJK large unknown
+#4399
+cooler~
+{mCooler{x~
+({MForm 5{x) {mCooler{x is here.
+~
+~
+icer~
+A 0 0 0
+100000000 1000
+110 110 110 110 110 
+300 300
+punch
+0 0 0 0
+FHIKM 0 0 0
+stand stand none 2700
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#4300
+Black Body Suit~
+{DBlack Body Suit{x~
+{DA skin-tight black body suit, made of some super-durable fabric.{x~
+Super Saiya-Spandex~
+10000
+armor NX ADP
+AC B BD CFG 0
+100000 0 200000 P
+#4301
+key silver dragon~
+a silver key~
+A silver key in the shape of a Dragon~
+unknown~
+1
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#4302
+Armor~
+{Clight Saiyan Battlearmor{x~
+A very cozy battlearmor.~
+cloth~
+10
+armor AX AD
+BD AC BD BEF 0
+10000 5 10000 P
+#4303
+Daishi's stick~
+daishi's walking stick~
+A stick made of the wood.~
+wood~
+1
+weapon JKX AN
+exotic 0 0 none 0
+10 5 0 P
+O SPEECH 4301 stick~
+#4304
+tattoo~
+a tattoo with the words {RA{Wn{Rg{Wr{Ry {WA{Rn{Wg{Re{Wl{Rs{X~
+A tattoo with the words {RA{Wn{Rg{Wr{Ry {WA{Rn{Wg{Re{Wl{Rs{X~
+organic~
+10000
+jewelry 0 AI
+0 0 0 0 0
+0 0 0 P
+#4305
+cybertail~
+a cybernetic tail~
+A cybernetic appendage in the shape of a monkey's tail~
+Sub-Space Alloy~
+50000
+armor MNPX AR
+ACDF CDEF BCDE AG 0
+10000000 5 200000 P
+#4306
+Mega-Mallet~
+{y({YElectrified{y) {W(Deific) {bAkane's Mega-Mallet{x~
+A massive mallet, glowing with divine power.~
+Hammer-Space Steel~
+1000000
+weapon AX AN
+mace 300000000 1000 divine FG
+50000000000000 10100 2147483647 P
+#4307
+nabiki's key~
+the key to Nabiki's bedroom~
+A bronze key with a heart shaped loop on one end.~
+bronze~
+50
+key N AO
+0 0 0 0 0
+10 1 0 P
+#4308
+house key~
+the Key to the Tendou family's Front Door~
+A piece of metal~
+Hammer-Space Steel~
+900000
+key 0 AO
+0 0 0 0 0
+3333333333 1 2147483647 P
+#4309
+pchan~
+akane's pet P-Chan~
+A small black piglet wearing an orange bandanna around it's neck~
+pig~
+25000000
+protect INS AO
+0 0 0 0 0
+25000000000 5 250000 P
+#4310
+Mystic Sword~
+{W({wH{Wo{wl{Wy{w) {MMystic Sword{x~
+An elegant blade used by Mystics.~
+Kaioshin Mystic Steel~
+10000
+weapon A AN
+sword 35 10 slice DE
+250000000 25 500000000 P
+#4311
+gloves~
+white gloves~
+White gloves~
+soft leather~
+1
+armor X AH
+0 0 0 0 0
+0 0 0 P
+#4312
+Iron fist~
+{wIronFist~
+Ironfist~
+unknown~
+1
+weapon X AN
+mace 0 0 beating E
+0 0 0 P
+#4313
+white lace~
+{WWhite lace bra{x~
+A white bra made of lace.~
+lace~
+33333
+armor FIN ADK
+DF BEF BD CFG 0
+33333333333 1 50000000 P
+#4314
+white sweater~
+{WA tight-fitting white sweater{x~
+A white, cashmere, sleeveless, turtleneck sweater. It hugs the body of the wearer, very tightly.~
+cashmere~
+15000
+armor NS AC
+CE BD BD CDEF 0
+33333333333 2 5000000 P
+#4315
+white panties~
+{WWhite lace panties{x~
+A pair of white lace panties.~
+lace~
+33333
+armor FN AK
+ABCD CE AC CDEF 0
+30000000000 1 50000000 P
+#4316
+Boxer Shorts~
+a Pair Of Boxer Shorts~
+A Pair of Boxers with a flame patter on them~
+cotton~
+1000
+armor 0 AELO
+0 0 0 0 0
+0 2 15 P
+#4317
+Boxer Shorts~
+a Pair Of Boxer Shorts~
+A Pair of {GGreen {wBoxers with {MPurple {wPolk-Dots~
+unknown~
+9999
+armor 0 ALO
+A A A A 0
+0 1 0 P
+#4318
+Guide Book~
+a Book~
+{RA guide to building for {Gidiots~
+unknown~
+9999
+key 0 AO
+0 0 0 0 0
+0 2 0 P
+#4319
+Nosiey Cricket~
+a Standard issue MIB Nosiey Cricket~
+A small yet powerfull gun~
+unknown~
+10000
+weapon 0 AHO
+exotic 9000 20 blast E
+0 1 1500 P
+#4320
+MIB~
+{DMIB {wNosiey Cricket~
+A Small yet Powerful gun lies here~
+unknown~
+1001
+weapon 0 AO
+exotic 9000 20 blast E
+50000000000000 1 1 P
+#4321
+shirt~
+a {R"Become A {DRyudo {RFollower or Hate Yourself Forever" {wT-shirt~
+A {R"Become A {DRyudo {RFollower or Hate Yourself Forever" {wT-shirt~
+unknown~
+99999
+armor AE ADO
+BDEG BDEG BDEG BDEG 0
+0 1 0 P
+#4322
+{DBlack Body Suit Pants{x~
+{DBlack Body Suit Pants{x~
+{DA pair of black pants made of a very durable material, lies here.{x~
+Super Saiyan Spandex~
+10000
+armor NRSXY AF
+ABCD AC BCDE DGH 0
+100000 0 2000000 P
+#4323
+Super Redhead Scouter~
+{YSuper {RRed-Head {WScouter{x~
+{RA crimson scouter with a {Wsh{wim{Wme{wri{Wng {Yg{yo{Yl{yd {Rscreen.{x~
+Tech Components~
+10000
+jewelry BNXYa APS
+0 0 0 0 0
+50000000000000 0 6000000 P
+#4324
+Saiyajin Tail~
+{NA Saiya-jin Tail{x~
+{NA monkey-like tail lies here on the ground.{x~
+Flesh~
+10000
+armor IMNSXY APR
+BD BCDE BCDEFGHIJKLMNOPQRSTUVWXYZabcdef AC 0
+600000000 0 500000 P
+#4325
+Instant Trans Bracer~
+{CInstant Transmission Bracer{x~
+{cA bracelet flickers in and out of existence as it lies here.{x~
+Dai Kaioshin Cloth~
+10000
+staff ABGNXY AM
+1 -1 -1 'recall' 0
+10000000000 0 1000000000 P
+#0
+
+
+
+#ROOMS
+#4300
+Inside a Crashed Ship~
+Here you stance in what looks like would be the center of the ship. Scrap
+metal is strung out all over the floor. A computer lies on it's side smashed
+to bits. In the middle there is a solid round table with a few chairs still
+standing around it embeded into the floor. The others are broken from the
+floor and scattered. To the north there is a door, thats dented a little,
+with a small round glass piece in the center that you can see through. To the
+west there is another door that leads down and out of the ship.
+~
+0 4 0
+D0
+~
+~
+1 4301 4302
+D3
+~
+~
+1 0 4322
+S
+#4301
+Room For The Mentally Unstable~
+A large Room with padded white walls, empty strait jackets lying on the
+floor and a door with a busted lock A guard lies on the floor, beaten up
+badly...  The crazy people must have escaped.  
+ 
+~
+0 4 0
+S
+#4302
+.~
+~
+0 0 0
+D2
+~
+~
+1 4301 4300
+S
+#4303
+Living room~
+A huge red carpet covers the floor in this room, extending from the
+southern wall almost to the northern.  At the west side, just underneath a
+small window, you see a desk with papers neatly sorted upon it.  The light
+in this room originates from a strong fire crackling in the fireplace to the
+north.  A cozy armchair invites you to sit in it, relax and enjoy the calm
+atmosphere.  
+~
+0 0 0
+D2
+~
+~
+0 0 4304
+S
+#4304
+~
+~
+0 4 0
+S
+#4305
+Akane's bedroom.~
+This is Akane's bedroom.  To the south, a door leads to the hallway.  An
+open window is to the north, looking out over the city.  For the moment it
+is very bare.  
+~
+0 262144 0
+D2
+~
+~
+0 0 4306
+M 16000 H 16000
+S
+#4306
+Outside Akane's Bedroom~
+You stand in the hallway, on the second floor, just outside of Akane's
+bedroom to the north.  To the east and west the hallway continues to other
+rooms.  
+~
+0 8 0
+D0
+~
+~
+0 0 4305
+D1
+~
+~
+0 0 4307
+D3
+~
+~
+0 0 4308
+S
+#4307
+Outside Nabiki's bedroom~
+~
+0 0 0
+D0
+~
+~
+1 0 4321
+D3
+~
+~
+0 0 4306
+S
+#4308
+~
+~
+0 0 0
+D1
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4309
+S
+#4309
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4310
+D1
+~
+~
+0 0 4308
+D5
+~
+~
+0 0 4314
+S
+#4310
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4311
+D2
+~
+~
+0 0 4309
+S
+#4311
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4310
+S
+#4312
+Outside the Training Dojo~
+To the east are traditional japanese sliding doors, made of paper.  They
+lead into the Tendou Dojo, while this hallway continues north and south. 
+Above is a small alchove where a skilled climber might be able to hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 4314
+D1
+~
+~
+1 0 4313
+D2
+~
+~
+0 0 4317
+D4
+~
+~
+0 0 4315
+S
+#4313
+The Tendou Dojo~
+~
+0 3145736 0
+D2
+~
+~
+0 0 4316
+D3
+~
+~
+1 0 4312
+S
+#4314
+At the bottom of the stairs~
+~
+0 0 0
+D2
+~
+~
+0 0 4312
+D4
+~
+~
+0 0 4309
+S
+#4315
+A hiding place~
+~
+0 0 0
+D5
+~
+~
+0 0 4312
+S
+#4316
+Tendou Dojo~
+~
+0 3145736 0
+D0
+~
+~
+0 0 4313
+S
+#4317
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4312
+D2
+~
+~
+0 0 4318
+S
+#4318
+~
+~
+0 0 0
+D0
+~
+~
+0 0 4317
+D1
+~
+~
+0 0 4319
+D3
+~
+~
+2 4308 4320
+S
+#4319
+The Kitchen~
+~
+0 263176 0
+D3
+~
+~
+0 0 4318
+M 100 H 300
+S
+#4320
+The Tendou Family's Front Porch~
+~
+0 0 0
+D1
+~
+~
+2 4308 4318
+S
+#4321
+Nabiki's Bedroom~
+~
+0 0 0
+D2
+~
+~
+1 4307 4307
+S
+#4322
+Ryudo's Office~
+A Nice Neat Office, one of Ryudo's Friends is here, sitting on his couch,
+his desk is located on the other side of the small room, a chair behind it. 
+~
+0 0 0
+D0
+~
+~
+0 0 4323
+D1
+~
+~
+1 0 4300
+D3
+~
+~
+0 0 4301
+S
+#4323
+~
+~
+0 0 0
+D2
+~
+~
+0 0 4322
+S
+#4325
+Entropic Force Containment Sphere~
+This sphere is the terminus for the various forms of destructive energies
+which are absorbed and directed by hidden syphoning devices which are
+scattered throughout the many different areas which compose this plain of
+existence.  Powerful forces constantly tear at anything unfortunate enough
+to find itself here, and yet the most extreme individuals spend short
+periods of time training in this room, using the violent environment to
+accelerate the improvement of their fighting skills.  However, extended use
+of this sphere can be {Rfatal{x.  
+~
+0 3145737 0
+D2
+~
+~
+1 0 4326
+M -14464 H 5536
+S
+#4326
+Outside the Containment Sphere~
+A massive black colored sphere takes up most of the space in this room. 
+Tangles of tubes, wires, pipes and support structures all wind away from the
+junction points where they connect with the sphere, littering the floor and
+giving this ebony globe the appearance of a gigantic, alien arachnid,
+crouched amidst the electronic chaos that composes it's lair.  A series of
+black platforms, each one higher than the one before leads up from the
+floor, to a hatch in the exact center of the containment sphere's outer
+casing.  A metal railing hovers in the air alongside the platforms, to help
+those not used to climbing levitating stairs.  The sphere, and the stairs,
+are directly north of you.  Green lights flicker on the walls, in lines and
+other regular patterns.  A small opening reveals that there is a vast
+network of black cables and pipeworks, suspended over an abyss of
+interminable depth.  This technological web surrounds your comparatively
+tiny room, on all sides.  
+~
+0 263176 0
+D0
+~
+platforms~
+1 0 4325
+D2
+~
+~
+0 0 4316
+S
+#4327
+Blue Room~
+As you enter the room you notice the walls are Blue, there is a futon to
+the west wall though out the room there are sevarl small tables a\with
+chairs, a frie brunes in a fireplace 
+~
+0 4 0
+S
+#4397
+Do not Mod Room !~
+~
+0 4 0
+R SPEECH 4396 prog1~
+R DELAY 4397 100~
+S
+#4398
+Transport Shuttle~
+~
+0 4 0
+R DELAY 4398 100~
+R ACT 4399 sits~
+S
+#4399
+Gohan's Room~
+In reality, this room is actually quite large.  Yet from the myriad of
+objects that are scattered about, the room has a small, claustrophobic feel
+to it.  A towering bookshelf stands along the east wall.  It is completely
+stuffed with books on every subject possible, and a pile of even more books
+lies in a heap at the bottom of it.  Along the west wall is a large desk, A
+state of the art computer rests atop it, yet it would be hard to notice
+underneath the massive stacks of paper and writing utensils that are nearly
+spilling onto the floor.  A picture of Videl sits on the edge of the desk,
+in a small frame.  The only window is along the north side of the room.  Its
+open, and a breeze floats into the room, keeping the Temperature cool. 
+Several pictures line up along that same wall, everything from Young Gohan
+on his father's shoulder riding on the Flying Nimbus, to a golden haired
+youth dressed as his mentor Piccolo, and even a poster of Saiyaman in one of
+his infamous poses.  The south side of the room has a bed in the corner,
+several gi's, shirts, sweatpants, and wristbands are stockpiled both on the
+bed and on the floor. This room is in need of a serious cleaning, however
+this place seems comfortable, despite the messiness.  
+~
+0 1028 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4300 0 2
+D 0 4300 3 1
+D 0 4302 2 2
+D 0 4307 0 2
+D 0 4312 1 1
+D 0 4313 3 1
+D 0 4321 2 2
+D 0 4322 1 1
+D 0 4325 2 1
+D 0 4326 0 1
+O 0 941 0 4322 A dark chair loaded to Ryudo's Office
+O 0 3698 0 4322 {b({c-{cg{c-{b){co{ct{ce{cn{c'{cs {rde{rsk{w loaded to Ryudo's Office
+M 0 4312 1 4322 1 Load George Lucas
+O 0 941 0 4322 A dark chair loaded to Ryudo's Office
+O 0 3698 0 4322 {b({c-{cg{c-{b){co{ct{ce{cn{c'{cs {rde{rsk{w loaded to Ryudo's Office
+O 0 1989 0 4322 A couch loaded to Ryudo's Office
+M 0 4350 10 4397 1 Load guard
+M 0 4350 10 4398 1 Load guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4300
+emote strikes a doofy pose and says, "{GHave no fear citizen, The Great Saiyaman is here!{x' 
+~
+#4301
+emote waves to $n
+say phrase Hello there stranger
+~
+#4304
+~
+#4398
+Mob Cancel
+Mob Delay 1
+~
+#4399
+Mob echo {YThe Shuttle lands on the ground....{x
+say Welcome to Planet Namek and enjoy your stay.
+Mob echo {rThe shuttle door opens.{x
+~
+#0
+
+#OBJPROGS
+#4300
+obj if carries $n tattoo
+obj echo The {RA{Wn{Rg{Wr{Ry {WA{Rn{Wg{Re{Wl{Rs{x tattoo starts to {Yglow{x!
+endif
+~
+#4301
+if isimmort $n
+and wears $n stick
+obj echo The stick in Daishi's hand seems to move and suddenly it speaks:"{YYes master, what shall i do?"{x
+endif
+~
+#4302
+if wears $n wrath
+obj echo The weapon in Data's hand hums:{Y"Wield me master and we shall conquer the universe!"{x
+endif
+~
+#0
+
+#ROOMPROGS
+#4396
+Room delay 1
+~
+#4397
+Room Force guard at 4398 Mob Echo {YThe ship comes of hyperspace..{x
+~
+#4398
+Room echo {YThe Shuttle jolts as it enters hyperspace...{x
+Room Cancel
+Room force guard at 4397 ponder
+~
+#4399
+Room Echo {rThe shuttle door closes.{x
+Room purge shuttle
+Room delay 1
+Room Echo {YThe shuttle begins to lift off...{x
+~
+#0
+
+#$

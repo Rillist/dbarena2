@@ -1,0 +1,2970 @@
+#AREADATA
+Name Artic~
+Builders Terraco-d~
+VNUMs 1900 1999
+Credits Terraco,Majinfred --- Artic~
+Security 9
+End
+
+
+
+#MOBILES
+#1901
+Lola~
+Lola~
+Lola is a short brown eyed with long red hair
+~
+~
+human~
+ABGR 0 0 0
+1000000000 0
+150 150 150 150 150 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1901 100~
+#1902
+man~
+a ice man~
+A man smiling because of the cold weather
+~
+The man is about average height, and warmly dressed.  A few icicles are
+formed upon his coat's hood.  He seems quite happy to be living in such a
+harsh enviroment.  
+~
+human~
+ABGRb 0 0 0
+1000000000 7905
+141 141 141 141 141 
+100 100
+punch
+0 0 0 0
+0 KZ 0 0
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1905 100~
+M BRIBE 1997 100~
+M BRIBE 1999 4000~
+#1903
+servant bathroom~
+a bathroom servant~
+A servant selling stuff
+~
+~
+human~
+ABGQ 0 0 0
+1 0
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 1904 done~
+M GREET 1903 100~
+#1904
+guard~
+a guard~
+A black-haired guard, standing six foot three
+~
+The guard looks confident in his skill.  He shoots penetrating glares to
+whomever dares approch the box.  
+~
+icer~
+ABGR 0 0 0
+500000000 14
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+M GREET 1900 100~
+#1905
+soldier~
+a patrol soldier~
+A soldier is patroling the area
+~
+~
+human~
+AGR 0 0 0
+10000000 316
+88 88 88 88 88 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 1518
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1906
+soldier~
+a patrol soldier~
+A soldier is patroling the area
+~
+~
+android~
+A 0 0 0
+10000000000 10000
+218 218 218 218 218 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 8538
+AHMV ABCDEFGHIJK medium unknown
+#1907
+librarian~
+the librarian~
+A librarian willing to help to find a book
+~
+~
+human~
+ABGb 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1923
+sgt. Buzz~
+Sgt. Buzz~
+A man with a strong staute and wears army clothes
+~
+~
+human~
+ABGR 0 0 0
+250000000 1581
+122 122 122 122 122 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand male 3395
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1910 100~
+#1948
+dog sled~
+a sled dog~
+A wandering dog looking for his master
+~
+The dog, a huskey, is sniffing the cold ground to find the trail to his master.
+~
+dog~
+AGP 0 0 0
+250000000 0
+10 10 10 10 10 
+100 0
+none
+0 0 0 0
+H 0 I 0
+stand stand male 0
+AGV ACDEFHJKUV medium unknown
+#1949
+boy~
+A small boy~
+A small boy looking for his sled dog
+~
+The small boy is wearing a wooly coat, keeping him warm from the blowing wind.
+~
+human~
+AGQ 0 0 0
+12000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1953
+innkeeper~
+the innkeeper~
+The innkeeper smiles at the sight of more clients.
+~
+The woman seems friendly enough. She treats all her clients with great care so they come back.
+~
+human~
+ABGQ 0 0 0
+100 0
+10 10 10 10 10 
+100 0
+none
+0 0 0 0
+0 0 0 0
+sit sit female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1953 100~
+#1954
+vendor~
+a vendor of drinks and snacks~
+A vendor looking to sell his wares
+~
+A friendly man selling some drinks and snacks
+~
+human~
+ABG 0 0 0
+250000000 1
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 CD 0 0
+stand stand male 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1954 100~
+#1961
+doctor military~
+a military doctor~
+A military doctor making his rounds.
+~
+The young man is wearing a pale green outfit, symbolizing him a healer. 
+He seems to be a very competant one at that, all his patients are healthier
+going out than coming in.  
+~
+namek~
+ABGa 0 0 0
+2000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 1961 100~
+#1966
+lookout soldier~
+a soldier doing lookout duty~
+A lookout soldier being very watchful
+~
+~
+human~
+ABGR 0 0 0
+300000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 AB medium unknown
+F for AHMV
+F par CDEFGHIJK
+#1967
+old man~
+an old man telling a story~
+An old man telling a story
+~
+~
+human~
+ABGQY 0 0 0
+1000000 0
+10 15 20 10 10 
+100 100
+none
+0 0 0 0
+0 0 0 0
+sit sit male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1966 100~
+M ACT 1967 hair turns golden, and a burning golden aura surrounds~
+#1970
+drill sargeant~
+the drill sargeant~
+The Drill Sargeant giving tips to recruits
+~
+~
+human~
+ABGJ 0 0 0
+3000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 CD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 1970 100~
+#1973
+Special officer~
+the special ops officer~
+The special ops officer showing a new technique to a recruit
+~
+You look at a tall woman, wearing army fatigues.  She patiently shows a
+recruit a new technique.  She praises him when he correctly demonstrates it
+to her.  
+~
+human~
+ABG 0 0 0
+2000000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 CD 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M ACT 1920 sits~
+M GREET 1921 100~
+M SPEECH 1922 yes~
+#1974
+nicolo octopus~
+Nicolo~
+A long tenticled octopus with bright blue colored rings
+~
+This samll cretuer is soft to the touch. It has blue
+colored rings all over its body, and as a mouth looks
+like that of a brids beak, shar and strong able to crush
+bone.
+~
+human~
+AGP 0 0 0
+100000000 0
+100 100 100 100 100 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1976
+secretary Lucy~
+the secretary, Lucy~
+Lucy, the secretary, is here answering the phone
+~
+Lucy seems very competant in her job.  She is able to talk on the phone,
+type up a letter and send requests to the general all at the same time.  
+~
+human~
+ABGU 0 0 0
+300000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 A 0 0
+sit sit none 200
+0 ABCI medium unknown
+F for AHMV
+F par DEFGHJK
+#1977
+toilet~
+the toilet~
+A voice activated toilet
+~
+~
+human~
+ABG 0 0 0
+12 0
+10 10 10 10 10 
+100 0
+none
+0 0 0 0
+0 0 0 0
+sit sit none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 1977 done~
+#1985
+shopkeepe~
+general store shopkeepe~
+The shopkeepe is here selling supplies
+~
+~
+human~
+ABG 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 CD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1986
+soldier patrol~
+a patrol soldier~
+A soldier is patroling the area
+~
+~
+human~
+AGR 0 0 0
+30000000 547
+97 97 97 97 97 
+100 100
+punch
+0 0 0 0
+I 0 0 0
+stand stand male 1998
+0 AB medium unknown
+F for AHMV
+F par CDEFGHIJK
+#1987
+shopkeepe armors~
+armor shopkeepe~
+The armor shopkeepe is making something special
+~
+~
+human~
+ABG 0 0 0
+0 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 CD 0 0
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1988
+shopkeepe weapons~
+a weapons vendor~
+The weapons shopkeepe is checking his inventory.
+~
+~
+human~
+ABG 0 0 0
+3000 0
+10 10 10 10 10 
+100 100
+none
+0 0 0 0
+0 CD 0 0
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1990
+Kama~
+A Green dragon~
+Kama the green scaly dragon
+~
+Standing on small ledge that has just enough room to walk on.  Looking
+down the side, stalagmites can be seen below, making a fall deadly.  Looking
+north, there seems to have a square-shaped crack on the wall.  
+~
+human~
+ABGR 0 0 0
+1000000000 0
+200 200 200 200 200 
+100 100
+none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1991
+Waylander~
+Waylander~
+Waylander {D>{r*{D[ShadoW SyndicatE]{r*{D<{x
+~
+This one's for you, Thaur
+-Waylander
+~
+namek~
+ACRS 0 0 0
+5000000000 7071
+192 192 192 192 192 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 7179
+AHMV ABCDEFGHIJK large unknown
+#1996
+general Lucas~
+general Lucas~
+General Lucas, head of the Exile Army Base
+~
+~
+human~
+ABGR 0 0 0
+9000000000 6324
+184 184 184 184 184 
+100 100
+punch
+0 0 0 0
+CFHI 0 E 0
+stand stand male 8008
+0 AB medium unknown
+F for AHMV
+F par CDEFGHIJK
+M GRALL 1906 100~
+#1998
+corporal~
+a corporal writing orders~
+A corporal writing up some orders
+~
+~
+human~
+ABGR 0 0 0
+30000 57
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+sit stand female 60
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1999
+recruit~
+the recruit~
+A recruit listening carefully to get the technique down flat
+~
+~
+human~
+ABR 0 0 0
+1500000 408
+5 5 5 5 5 
+100 100
+punch
+0 0 0 0
+0 0 0 0
+stand stand none 105
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1900
+a box~
+a box~
+A box lies here~
+unknown~
+1
+container 0 0
+10 AC 0 10 10
+0 0 0 P
+O ACT 1900 open~
+#1901
+a column of ice~
+a column of ice~
+A column of ice is here~
+unknown~
+1
+drink 0 0
+10000 10000 'water' 0 0
+0 0 0 P
+#1902
+Beanbag~
+a blue beanbag~
+A blue beanbag~
+unknown~
+1
+furniture 0 0
+C 0 EHK 0 0
+0 0 0 P
+#1903
+flashlight light~
+a flashlight~
+A military standard flashlight~
+none~
+5
+light 0 AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 25 P
+#1904
+pool table~
+a pool table~
+A table covered in green felt, with 6 holes in the sides~
+unknown~
+1
+furniture 0 0
+0 CEFGHI 0 0 0
+0 0 0 P
+#1905
+Brown desk~
+a brown desk~
+A brown desk about four feet high~
+unknown~
+1
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#1906
+whip black~
+a black leather whip~
+A standard black army whip~
+leather~
+1
+weapon A ANO
+whip 2 4 whip 0
+0 0 0 P
+#1907
+mace spike~
+a spiked mace~
+A mace with nasty looking spikes~
+steel~
+20
+weapon 0 ANO
+mace 6 3 crush F
+0 15 200 P
+#1908
+nunchaku~
+a pair of nunchaku~
+Nunchaku~
+wood~
+20
+weapon 0 ANO
+flail 4 4 thwack 0
+0 5 100 P
+#1909
+green soap~
+a bar of soap~
+A green bar of soap~
+soap~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 5 P
+#1910
+mouthwash~
+a bottle of mouthwash~
+A bottle of red mouthwash~
+unknown~
+1
+drink 0 AO
+1 1 'firebreather' 0 0
+0 5 10 P
+#1911
+glasses~
+a small pair of glasses~
+A pair of glasses~
+unknown~
+1
+jewelry 0 AOS
+0 0 0 0 0
+0 0 0 P
+#1912
+books~
+a pile of books~
+A small pile of books~
+unknown~
+1
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+books~
+You see the following titles amongst the books...
+
+World Mythologies: HFIL
+The Wonderful World of Ki
+Dummies Guide To Training
+~
+#1913
+Large leather Backpack~
+large leather Backpack~
+Large backpack made of leather~
+unknown~
+10
+container 0 AQ
+1 0 0 0 0
+0 2 250 P
+#1914
+ring immortal~
+the ring of immortals~
+The ring of immortals~
+gold~
+10000
+armor Aa ABO
+CE CE CE CE 0
+100000000 0 1000000 P
+#1915
+aura avatar~
+the aura of the avatars~
+The aura of the avatars~
+unknown~
+23456
+armor 0 AKO
+DF BCDE DF BCDE 0
+0 0 0 P
+#1920
+fountain~
+a chocolate milk fountain~
+A fountain spitting chocolate milk out~
+unknown~
+1
+drink 0 0
+-1 1 'milk' 0 0
+0 0 0 P
+#1921
+mist~
+a {Ddark{x billowing mist~
+A {Ddark{x billowing mist floats in the air here.~
+unknown~
+2147483647
+container 0 AQ
+100000000 0 0 100000000 10000000
+0 0 0 P
+#1950
+beer can~
+a can of beer~
+A can of beer~
+unknown~
+1
+drink 0 AO
+1 1 'beer' 0 0
+0 1 5 P
+#1951
+can cola~
+a can of cola~
+A can of cola~
+unknown~
+1
+drink 0 AO
+1 1 'coke' 0 0
+0 1 5 P
+#1952
+sensu extract packet~
+a packet of sensu bean extract~
+A packet marked '{cSensu{w Extract'~
+unknown~
+1
+food 0 AO
+DE DE 0 0 ADE
+0 1 10 P
+#1953
+bottle milk~
+a bottle of milk~
+A large bottle of milk~
+unknown~
+1
+drink 0 AO
+5 5 'milk' 0 0
+0 2 5 P
+#1954
+bed four-post~
+a four-post bed with silky sheets~
+A four-post bed with silky sheets~
+unknown~
+1
+furniture 0 0
+B 0 EHK 0 0
+0 0 0 P
+#1955
+feather bed~
+a feather bed is laying here~
+A feather bed, with a massive headboard, stands here~
+unknown~
+1
+furniture 0 0
+B 0 EK 0 0
+0 0 0 P
+#1961
+bed hospital~
+a hospital bed~
+A large hospital bed standing here~
+unknown~
+1
+furniture 0 0
+AC 0 EHK BEF BEF
+0 0 0 P
+#1966
+binoculars~
+a pair of binoculars~
+Military standard pair of binoculars~
+unknown~
+10
+treasure 0 AO
+0 0 0 0 0
+200 5 10 P
+#1969
+table~
+a long table~
+A long picnic table reaches to the other side of the room~
+oak~
+1
+furniture 0 0
+CE 0 D 0 0
+0 0 0 P
+#1970
+A sheath~
+a black sheath~
+A black sheath made of dark leather~
+unknown~
+1
+container 0 ALO
+15 0 0 1 80
+0 0 0 P
+#1976
+boots steel~
+a pair of boots~
+A pair of steel toed boots~
+unknown~
+10
+armor 0 AGO
+ABDEFGHIJKLMNOPQRSTUVWXYZabcdef ABDEFGHIJKLMNOPQRSTUVWXYZabcdef ABDEFGHIJKLMNOPQRSTUVWXYZabcdef ABDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+0 5 15 P
+#1977
+ring army~
+a army ring~
+A ring with the army's symbol~
+unknown~
+15
+armor A ABO
+ABDEFGHIJKLMNOPQRSTUVWXYZabcdef ABDEFGHIJKLMNOPQRSTUVWXYZabcdef ABDEFGHIJKLMNOPQRSTUVWXYZabcdef ABDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+0 3 100 P
+#1978
+shield electrostatic~
+a shield~
+An electrostatic shield~
+energy~
+20
+armor 0 AJO
+BCEFGHIJKLMNOPQRSTUVWXYZabcdef BCEFGHIJKLMNOPQRSTUVWXYZabcdef BCEFGHIJKLMNOPQRSTUVWXYZabcdef BCEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+0 3 200 P
+#1979
+Dartboard~
+a dartboard~
+A dratboard that looks like every other dartboard~
+unknown~
+1
+furniture 0 0
+0 DGH 0 0 0
+0 0 0 P
+#1984
+A sivler and gold ring~
+a silver and gold ring~
+A silver and gold ring with a large diamond attached to it~
+silver and glod~
+4
+jewelry 0 AB
+0 0 0 0 0
+1 1 120000000 P
+#1988
+no name~
+(no short description)~
+(no description)~
+unknown~
+1
+potion 0 0
+0 'axe' 'axe' 'axe' 'axe'
+0 0 0 P
+#1989
+Couch~
+a couch~
+A couch~
+unknown~
+1
+furniture 0 0
+AB CEFGHI EHK 0 0
+1 0 0 P
+#1990
+bracelet~
+a charm bracelet~
+A 24K gold charm bracelet~
+unknown~
+1
+jewelry 0 AMO
+0 0 0 0 0
+0 0 0 P
+#1993
+Jim beam~
+jim Beam~
+A shot of Jim beam~
+unknown~
+1
+drink 0 AO
+-1 5 'whisky' 0 0
+0 0 0 P
+#1995
+holy statue~
+the holy statue of {C({Y-M-{C){xajinFred~
+The holy statue of {C({Y-M-{C){xajinFred~
+unknown~
+1
+treasure 0 AO
+0 0 0 0 0
+0 0 0 P
+#1996
+general desk~
+the general's desk~
+The general's oak desk~
+oak~
+1
+container 0 0
+12 AC 0 15 0
+0 0 0 P
+#1997
+poem scroll~
+a long scroll~
+A scroll with a poem scribed upon it~
+unknown~
+1
+map 0 AO
+0 0 0 0 0
+0 0 0 P
+E
+poem~
+* GOSSAMER *
+A Native American Song
+*
+*
+*
+In a ceremony of beauty and simplicity
+that far surpasses the superficial
+two hearts arrive home
+after many journeys
+to dress the meaning of love
+into a new alphabet with form
+*
+*
+in a world
+where words don't eat words
+but nourish on the openness
+of the outdoors
+two hearts beat in sync
+with balance and equality
+*
+*
+their gossamer wings caress
+light, delicate, and strong
+absorbing without echoes, 
+the passion that breathes
+within their Spirit's Lodge
+*
+*
+from this union
+without blame or judgment
+a new message is born:
+* One heart *
+ungraspable and sonorous
+-- a luminous grace --
+greeting in excitement
+*
+the voices of the wind
+the strength hidden in the rocks
+and the secret symbols of dreamtime
+*
+Legend tells
+that from the center of the Wheel
+their heart, takes flight
+*
+to BEcome
+individually and together
+far and beyond
+a partnership
+with 
+the
+Great
+Spirit
+of 
+Joy
+~
+#1998
+audio video equipment~
+a/v equipment~
+Some audio and video equipment~
+unknown~
+1
+trash 0 P
+0 0 0 0 0
+0 0 200 P
+#1999
+rocking chair~
+parns rocking chair~
+A rocking chair ~
+unknown~
+1
+furniture 0 0
+A ADE E A A
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1900
+On the frozen water~
+The waters surrounding the small floating trail of ice are deep and as
+dark as the sky on a moonless night.  Winds howl pass, making the area cold
+and bone chilling.  As the trail moves northward, the cracking and creeking
+of the ice echoes off the northern mountains, and fast currents of the dark
+waters move under the ice.  
+~
+0 4 0
+D0
+~
+~
+0 0 1901
+D2
+~
+~
+0 0 3399
+S
+#1901
+Further along the trail~
+Moving north along the trail, the winds begin to pick up.  Looking
+further down the trail of cracking ice, there seems to be some sort of
+cavern, a shelter from the winds.  Waves crash upon the trail leaving it
+weak and easily broken 
+~
+0 0 0
+D0
+~
+~
+0 0 1902
+D2
+~
+~
+0 0 1900
+S
+#1902
+Before an Icy Cavern~
+Standing before this giant icy cavern, the wind whips across whats left
+of the trail.  The cavern looks as if it can offer protection from the wind
+and the waves.  There seems to be a small trail to the east of the mouth of
+the cavern.  But the cavern seems more inviting, as the waves pound the
+trail to the east.  
+~
+0 4 0
+D0
+~
+~
+0 0 1905
+D1
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1901
+S
+#1903
+East of the cavern~
+Standing just east of the cavern there seems to be heat coming from where
+the cave entrance is further east.  The heat looks like it is coming from
+the small orange glow.  There seems to be a smaller cave off in the
+distance.  
+~
+0 4 0
+D1
+~
+~
+1 0 1904
+D3
+~
+~
+0 0 1902
+S
+#1904
+Inside a small cave~
+This small cave seem to have a small fire in the middle.  Looking around,
+there seems to be something sitting over by the northern wall.  Every once
+in a while, the little box flashes.  The fire is getting stired up by small
+gusts of wind that blow in.  
+~
+0 4 0
+D3
+~
+~
+1 0 1903
+S
+#1905
+Standing in the cavern of ice~
+Towers of ice stand guard at the entrance of this large cavern.  The ice
+reflects like a mirror, showing the reflections of whatever or whomever
+passes by, and it is so cold to the touch, it freezes whatever, or whomever,
+touches it.  
+~
+0 4 0
+D0
+~
+~
+0 0 1906
+D2
+~
+~
+1 0 1902
+S
+#1906
+Inside the cavern~
+It seems to warmer in here, as the winds don't blow as hard through the
+tunnels.  Looking northward, there seems to be a large and open space.  Off
+to the west, there is a small room.  Eastward, another small room, which
+might be worthy of exploration.  
+~
+0 4 0
+D0
+~
+~
+0 0 1909
+D1
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1905
+D3
+~
+~
+0 0 1908
+S
+#1907
+A tiny room~
+This tiny room has nothing in it.  Seems to be a place to get out of the
+cold and winds, seeing it is warmer than out in the cavern.  This could be a
+good place to rest.  
+~
+0 8 0
+D3
+~
+~
+0 0 1906
+S
+#1908
+A small room~
+This small room's walls look like they were covered with melted zenni. 
+The icy walls shine and give off odd shaped reflections.  There is a small
+amount of light coming from a hole in the ceiling, as do a few snowflakes.  
+~
+0 0 0
+D1
+~
+~
+0 0 1906
+D3
+~
+~
+0 0 1917
+S
+#1909
+A large space~
+This large room has a few ice towers, which one of them has a hole at the
+base.  The mysterious blackness beckons all who enter this room.  At the
+center of the room, a waist-high column of ice stands there catching water,
+like a fountain.  
+~
+0 0 0
+E
+tower~
+A huge tower of ice stands here.  A large black hole etched into it's
+side, beckons to all those who walk near it.  
+~
+D0
+~
+~
+0 0 1910
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1906
+D3
+~
+~
+1 0 1912
+S
+#1910
+In an ice tower~
+In the center of this ice tower, a narrow winding stairway goes up.  It
+seems quite loose and unstable, threatening to break under anyone's weight,
+almost looks unaccessable.  The edges of the floor are more stable and
+solid, safer to walk on.  
+~
+0 0 0
+D2
+~
+~
+0 0 1909
+D4
+~
+~
+0 0 1913
+S
+#1911
+A small area~
+This small area has nothing but a hole in the ice with water in it.  The
+water seems to be about four feet down from the rim of the hole.  Looking in
+it, small chunks of ice can be seen floating around.  
+~
+0 0 0
+D3
+~
+~
+0 0 1909
+S
+#1912
+A Small Cavern~
+Standing in a small cavern that seems to have been carved out of the
+wall.  There doesnt seem to be any reason this room would be here.  Over in
+the far wall, there appears to be a fireplace, and a table with a tea set is
+standing next to it.  A few chairs are scattered around the small table
+placed at the center of the room.  There is a pile of kettles and pans in
+one corner, and a pile of plates in another.  A small refrigerator was
+placed here, but it does not run because there isnt any electricity and it's
+cold enough it wouldnt be needed.  
+~
+0 0 0
+D1
+~
+~
+1 0 1909
+S
+#1913
+On the center of the stairway~
+This long winding stair way looks as if it gose on for ever.  The walls
+around the stair way are slick and glassy like and small chunks of ice fall
+from above and land on the floor below and making a huge noise as they hit. 
+The steps sway slightly under the weight of whom ever is walking up there. 
+Looking towrds the under side of the steps some smaler chuncks fall from
+benith it.  
+~
+0 0 0
+D4
+~
+~
+0 0 1914
+D5
+~
+~
+0 0 1910
+S
+#1914
+Nearing the top~
+Coming to the top of the stairwell, chunks of ice can be seen coming from
+the side of the stairway.  Heading up, getting close to the top, the
+stairway seems more stable but still feels as if it will fall crashing to
+the floor below.  
+~
+0 0 0
+D4
+~
+~
+0 0 1915
+D5
+~
+~
+0 0 1913
+S
+#1915
+The top of the stairway~
+Getting to the top, the room is nearly filled with waist deep drifts of
+snow, pushed in by winds from the south.  Winds pickup and the temperature
+is dropping fast.  Laying around the ground are a few ruined statues.  Near
+the exit, the winds are blowing so hard that snowflakes feel like a thousand
+tiny knives.  
+~
+0 0 0
+D2
+~
+~
+0 0 1916
+D5
+~
+~
+0 0 1914
+S
+#1916
+Outside the cave~
+Standing outside the cave, the wind is howling, the snow blowing and
+waves are crashing into the walls below.  The high elevation gives whom ever
+stand on the side of the giant hill of ice a sick feeling and dizzyness.  
+~
+0 0 0
+D0
+~
+~
+0 0 1915
+D4
+~
+~
+0 0 1918
+S
+#1917
+On the surfuce~
+Standing on a large sheet of ice, floating on the surface of the water. 
+It is so cold it feels like standing in a giant ice cube that is still in
+the freezer.  There seem to be some fish looking things below the surface.  
+~
+0 4 0
+D1
+~
+~
+0 0 1908
+S
+#1918
+Sliping and sliding on the ice~
+Standing on a thin trail going up the side of the hill of ice.  The wind
+is howling and is blowing strong, at unbelievable speeds making it hard to
+stay on the trail.  The blowing snow is blinding, making it harder to see
+the trail's edges.  
+~
+0 0 0
+D4
+~
+~
+0 0 1919
+D5
+~
+~
+0 0 1916
+S
+#1919
+Up higher on the ledge~
+This part of the ledge is so high up, the wind is freezing and the snow
+is being blown so hard, it feels like blades of ice piercing the skin.  It
+is so cold that only creatures with fur are capable of life up here. 
+Looking up to the sky, the sun seem to be trying to pierce the thick clouds,
+but the rays cannot get through.  
+~
+0 0 0
+D4
+~
+~
+0 0 1920
+D5
+~
+~
+0 0 1918
+S
+#1920
+A plateau~
+The whole area is covered in glass like ice the refelcts any light shown
+on it.  The wind is blowing across the area but the snow seems to have
+stoped in the area.  But the clouds look very grey and mean, the weather
+feels like it could pick up and blow everthing away and bring large chunks
+of ice with it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1923
+D3
+~
+~
+1 0 4000
+D5
+~
+~
+0 0 1919
+S
+#1921
+Radar Tower's Base~
+The stairs are steep and long.  There is a door at the top, right by a
+platform.  The walls have been painted white, and the stairs have been
+treated in such a way that they are not slippery when wet.  
+~
+0 0 0
+D0
+~
+~
+0 0 1993
+D4
+~
+~
+1 0 1922
+S
+#1922
+Radar Tower~
+Standing in the radar tower's operations room, surrounded by large
+windows and tracking consoles.  Each console has a big screen to facilitate
+tracking any airborne vehicles.  From time to time, a ping can be heard
+coming from the equipment.  There are 3 small steps going down, leading to a
+trap door, made of planked wood that looks like hardwood.  
+~
+0 0 0
+D5
+~
+~
+1 0 1921
+S
+#1923
+Standing on the ice sheet~
+This sheet of ice is smoth and glossy like glass.  The size of this feild
+is astonishing few thins can be seen the sky is clear and the is a mountin
+that streches all around the whole area.  
+~
+0 0 0
+D0
+~
+~
+0 0 1926
+D1
+~
+~
+0 0 1924
+D2
+~
+~
+0 0 1920
+D3
+~
+~
+0 0 1925
+S
+#1924
+Stand near an ice cliff~
+Standing by an astounding cliff of ice, leading to a long and perilous
+drop into the icy waters below.  Sharp ice wedges would slice up anyone
+falling before they would even hit the waters.  
+~
+0 0 0
+D0
+~
+~
+0 0 1927
+D3
+~
+~
+0 0 1923
+S
+#1925
+Nearing a tinny tunnle~
+This part of the sheet seems to have a bit of a tunnle to the north.  But
+from a distance it dosnt seem to be there.  Cold northernly winds whip up
+the snow and drives it with force, causing risks of frost bite.  
+~
+0 0 0
+D0
+~
+~
+0 0 1928
+D1
+~
+~
+0 0 1923
+S
+#1926
+Away from the ledge~
+Comeing a stop aweay from the cliff the sheet of ice seems to be a bit
+more glossy and slick.  There a few spots where someone has left groves in
+the ice for grip as they walked accross the ice.  
+~
+0 0 0
+D1
+~
+~
+0 0 1927
+D2
+~
+~
+0 0 1923
+S
+#1927
+Right beside the ledge~
+Standing by the ledge the wind picks up a bit and blows a few snowflakes
+around here and there Looking down the side the water below crash on to
+chunks of ice and rock.  
+~
+0 0 0
+D2
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1926
+S
+#1928
+Tunnel Entrance~
+The walls of the ice filters most of the light making the tunnel seem
+dark, and possibly treacherous.  The odd frozen body part testifies to the
+extents of the dangers of the frozen artic.  
+~
+0 0 0
+D0
+~
+~
+0 0 1929
+D2
+~
+~
+0 0 1925
+S
+#1929
+Ice tunnel~
+The ice seems thicker here, letting in less light, making travel feel
+more and more treacherous.  The slickness of the floor makes walking
+hazardous.  
+~
+0 0 0
+D1
+~
+~
+0 0 1930
+D2
+~
+~
+0 0 1928
+S
+#1930
+Right on a ledge~
+Standing on small ledge that has just enough room to walk on.  Looking
+down the side, stalagmites can be seen below, making a fall deadly.  Looking
+north, there seems to have a square-shaped crack on the wall.  
+~
+0 0 0
+D0
+~
+~
+1 0 1931
+D3
+~
+~
+0 0 1929
+S
+#1931
+Kama's Lair~
+The cavern is deep and dark.  By the looks of the scratches in the ice
+floor, it looks like it is inhabited.  On the other side, an entrance is
+barely perceptible.  There is a weak glimmer coming from a corner of the
+cave.  
+~
+0 0 0
+D0
+~
+~
+0 0 1932
+D2
+~
+~
+1 0 1930
+S
+#1932
+Outside Kama's lair~
+Standing outside the back of Kama's lair.  The cold has grown and there
+is a current of wind comming from outside.  The only way out seems to be in
+the direction of the wind.  
+~
+0 0 0
+D1
+~
+~
+0 0 1935
+D2
+~
+~
+0 0 1931
+S
+#1933
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1934
+D1
+~
+~
+0 0 1936
+D2
+~
+~
+0 0 1935
+D3
+~
+~
+0 0 1937
+S
+#1934
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1940
+D1
+~
+~
+0 0 1938
+D2
+~
+~
+0 0 1933
+S
+#1935
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1933
+D3
+~
+~
+0 0 1932
+S
+#1936
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D3
+~
+~
+0 0 1933
+S
+#1937
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1939
+D1
+~
+~
+0 0 1933
+S
+#1938
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D3
+~
+~
+0 0 1934
+S
+#1939
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D1
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1937
+S
+#1940
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D2
+~
+~
+0 0 1934
+S
+#1941
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1942
+D3
+~
+~
+0 0 1939
+S
+#1942
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D2
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1943
+S
+#1943
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1944
+D1
+~
+~
+0 0 1942
+S
+#1944
+Standing in the stalagmites~
+Standing in a room filled with stalagmites, each about ten feet tall and
+a base three feet wide.  Each are bluish in color, with tints of green,
+teals and whites.  
+~
+0 0 0
+D0
+~
+~
+0 0 1945
+D2
+~
+~
+0 0 1943
+S
+#1945
+Emmerging from the stalagmites~
+Stepping from the darkness and into the light, a large gate of metal and
+ice can be seen.  And frozen upon it, a sign that reads 'Welcome to Exile
+City'.  
+~
+0 0 0
+D0
+~
+~
+0 0 1946
+D2
+~
+~
+0 0 1944
+S
+#1946
+Starting down main street~
+Beginning of the main street of Exile City.  There are mounds of snow and
+ice on each side of the road.  The road itself seems to have been cleaned
+recently.  There are lamps shining down on the road.  A sign ccan be seen
+standing on the side of the road that reads "Exil City owned by the Shadow
+Syndicate.  " 
+~
+0 0 0
+D0
+~
+~
+0 0 1947
+D2
+~
+~
+0 0 1945
+S
+#1947
+Further down the street~
+The road moves on through the ice.  There are lamps shining brightly on
+both sides.  To the East, what looks like to be a giant dome has a sign
+indicating it as the Exile Bar.  To the West, a tall building with a sign
+marking it as the Exile City Inn.  
+~
+0 0 0
+D0
+~
+~
+0 0 1948
+D1
+~
+~
+1 0 1951
+D2
+~
+~
+0 0 1946
+D3
+~
+~
+0 0 1953
+S
+#1948
+On the road~
+Standing on the road, the snow is piled up high on each side.  There is a
+section cut out of the piles for the doorway.  Near the top of the pile of
+snow, there is a sign for the Exile City Poolhall.  
+~
+0 0 0
+D0
+~
+~
+0 0 1949
+D1
+~
+~
+0 0 1956
+D2
+~
+~
+0 0 1947
+S
+#1949
+Nearing the end of the street~
+The snow is piled high as the end of the street gets closer.  The
+buildings are becoming few and the cold wind is blowing in from the fields. 
+There are patches of ice here and there, but they dont seem to be of much
+concern.  
+~
+0 0 0
+D0
+~
+~
+0 0 1950
+D2
+~
+~
+0 0 1948
+S
+#1950
+A dead end~
+This is the end of the line.  There is nothing here to look at other than
+fields of ice.  There seems to be a path to east, but looks like another
+dead end.  
+~
+0 0 0
+D1
+~
+~
+0 0 1957
+D2
+~
+~
+0 0 1949
+S
+#1951
+Exile Bar~
+The smell of liquor permiayes the air.  Unshaven men are here, gulping at
+cheap beer and vodka, barely staying put on their benches.  Near the stairs,
+shapely woman invits some men upstairs to a party.  
+~
+0 8 0
+D3
+~
+~
+1 0 1947
+D4
+~
+~
+0 0 1952
+S
+#1952
+Exile's party room~
+Other young women and men are here dancing, talking and eating.  There
+are large beanbags and feather pillows near the corners of the room.  Some
+of the pillows seem occupied at the moment.  
+~
+0 8 0
+D5
+~
+~
+0 0 1951
+S
+#1953
+Exile inn~
+At first look, it seems like a runned down inn.  But the room is filled
+to capacity, indicating it being the place to be.  There are also rooms for
+more private celebrating or for resting.  
+~
+0 8 0
+D1
+~
+~
+0 0 1947
+D3
+~
+~
+0 0 1954
+D4
+~
+~
+0 0 1955
+S
+#1954
+Fancy furnished room~
+This room seems to have been prepared for a nobleman.  A four-post bed,
+with silk sheets stands in the corner.  Fine wool carpetting are laid over
+the wooden floor and the window dressings are made of velvet.  
+~
+0 8 0
+D1
+~
+~
+0 0 1953
+S
+#1955
+A furnished room~
+There is a feather bed at the far side of the room.  Near the door, there
+seems to be a desk, covered with bits and pieces of paper.  
+~
+0 8 0
+D5
+~
+~
+0 0 1953
+S
+#1956
+Exile city pool hall~
+The inside of the little building is well kept and clean.  Many pool
+tables are arranged in lines along the walls so to have plenty of space
+between them.  Some are currently occupied with games.  Some pool cues are
+in a rack, hanging on the wall, and a stack of balls on the counter, by the
+clerk.  
+~
+0 8 0
+D3
+~
+~
+0 0 1948
+S
+#1957
+On road of snow~
+The road is slick and does not look as if it was ever plowed.  There are
+tire tracks that seem to be running into the city from the plains.  
+~
+0 0 0
+D1
+~
+~
+0 0 1958
+D3
+~
+~
+0 0 1950
+S
+#1958
+Entrace to Exile Air Base~
+The gate is made of some sort of metal, grayish in color.  It stands
+about six feet tall and has very sharp wire on the top, the man in front of
+the gate is wearing a green uniform.  
+~
+0 0 0
+D1
+~
+~
+0 0 1959
+D3
+~
+~
+0 0 1957
+S
+#1959
+Base Road~
+Past the gates, the icy road is covered in dirt to keep people and
+vehicles from sliding and bumping into walls.  A large, two-storied building
+can be seen in the distance.  
+~
+0 0 0
+D1
+~
+~
+0 0 1960
+D3
+~
+~
+0 0 1958
+S
+#1960
+Near the Military Hospital~
+Further down the dirt-covered road, a sign point to the north.  By the
+symbol used, it seems that it is pointing to the base's hospital.  
+~
+0 0 0
+D0
+~
+~
+0 0 1961
+D1
+~
+~
+0 0 1962
+D3
+~
+~
+0 0 1959
+S
+#1961
+Military Hospital~
+The huge bed is the first visible thing when entering the hospital. 
+Doctors and nurses are walking around, making sure every patient is
+comfortable and healing those who need it.  
+~
+0 8 0
+D2
+~
+~
+0 0 1960
+M 300 H 300
+S
+#1962
+In front of a Barrack~
+Standing on the dirt road infront of a building, there is a small sign
+pointing to the the building the sign read Enterance to the barrack, and
+another pointing to the east that reads To the lookout tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 1963
+D1
+~
+~
+0 0 1964
+D2
+~
+~
+0 0 1969
+D3
+~
+~
+0 0 1960
+S
+#1963
+Barracks~
+This is the place the soldiers sleep.  There are bunkbeds lined up
+against the wall, with a small chest for their belongings in front of them. 
+The floors are spotless and the beds are made, showing the effectivness of
+army discipline.  
+~
+0 8 0
+D2
+~
+~
+0 0 1962
+S
+#1964
+Road to the Lookout Tower and Bar~
+The road is starting to smooth out, having fewer and fewer rocks in it. 
+As it is ending, the lookout tower comes into view.  
+~
+0 0 0
+D0
+~
+~
+0 0 1965
+D1
+~
+~
+0 0 1967
+D3
+~
+~
+0 0 1962
+S
+#1965
+Lookout Tower~
+Coming to the base of the lookout tower, stairs can be seen.  The
+decorative woodwork of the handrail is comfortable to grasp.  Made of oak,
+the stairs have a sandpaper texture on them to keep people from slipping on
+them.  
+~
+0 8 0
+D2
+~
+~
+0 0 1964
+D4
+~
+~
+0 0 1966
+S
+#1966
+Lookout Tower~
+Standing on the platform, there is a roof overhead and a waist retaining
+wall all around, with a space for the doorway.  The icy fields can be seen
+all around, also Exile City is visible to the south and some mountains to
+the north.  
+~
+0 8 0
+D5
+~
+~
+0 0 1965
+S
+#1967
+Bar~
+This small bar has many soldiers in it, and a few employees.  The tables
+are always cleaned after each use, the rags are always clean.  The drinks
+are never watered down, and in the corner, a drunken man is telling stories
+of guys who can make their hair blond and eyes blue within a blink of an
+eye.  
+~
+0 8 0
+D3
+~
+~
+0 0 1964
+D4
+~
+~
+0 0 1968
+S
+#1968
+Bar's second level~
+The second story of the bar is filled with barrels, which were recently
+replaced by new ones, holding liquor, mostly wine and beer.  A most pleasant
+smell permiates the air, seemingly coming from the room itself.  
+~
+0 8 0
+D5
+~
+~
+0 0 1967
+S
+#1969
+Base Road~
+Heading north and south, the gravel covered road passes in front of the
+training grounds and the cafeteria.  Dirt was also spread here to keep the
+slipping to a minimum.  
+~
+0 0 0
+D0
+~
+~
+0 0 1962
+D1
+~
+~
+0 0 1970
+D2
+~
+~
+0 0 1972
+D3
+~
+~
+0 0 1971
+S
+#1970
+Training Grounds~
+This is the area soldiers train themselves to become wiser, stronger and
+quicker.  There are a whole bunch of soldiers here training, getting hints
+and tips from the Drill Sargeant when needed.  
+~
+0 0 0
+D2
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1969
+S
+#1971
+Cafeteria~
+This is where the soldiers get to eat.  There are tables put end to end
+here, filling the room.  Chairs are placed at evenly spaced intervals so
+every soldier gets enough room to sit comfortably.  
+~
+0 8 0
+D1
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1974
+S
+#1972
+Base Road~
+Continuing north and south, the road comes infront of the cafeteria and
+the training grounds.  Scratches on the ice show that the road was plowed
+open, before having gravel spread on it to reduce slipping.  
+~
+0 0 0
+D0
+~
+~
+0 0 1969
+D1
+~
+~
+0 0 1973
+D2
+~
+~
+0 0 1975
+D3
+~
+~
+0 0 1974
+S
+#1973
+Training Grounds~
+This section of the grounds is used to practice anyother skills a soldier
+would need during battle.  The special ops officer is here showing the next
+set of skills.  
+~
+0 0 0
+D0
+~
+~
+0 0 1970
+D3
+~
+~
+0 0 1972
+S
+#1974
+Cafeteria~
+This is where the soldiers get to eat.  There are tables put end to end
+here, filling the room.  Chairs are placed at evenly spaced intervals so
+every soldier gets enough room to sit comfortably.  
+~
+0 8 0
+D0
+~
+~
+0 0 1971
+D1
+~
+~
+0 0 1972
+S
+#1975
+Base Road~
+The road continues on going north and south.  There is nothing but the
+sides of buildings here, with no signs anywhere.  The gravel has a gritty
+feeling and the road has a bunch of ruts from old type cars and trucks.  
+~
+0 0 0
+D0
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1978
+S
+#1976
+HQ Reception~
+A secretary is here, processing calls and sending the paperwork to the
+appropriate department, behind a huge desk.  Many soldiers are coming and
+going to drop off requests and a courier comes in once in a while when an
+order is sent out to the troops.  
+~
+0 8 0
+D2
+~
+~
+0 0 1979
+D4
+~
+~
+0 0 1994
+S
+#1977
+Bathroom~
+This bathroom has the latest of amenities.  There is a {rsign{x on the
+wall that seem to be important to read.  Placed beside the sign are a hand
+dryer and a paper towel dispensor.  A mirror over the sink helps when a
+soldier is shaving himself.  Ceramic tiles cover the floor, making it cold
+to anyone foolish enough to be barefooted.  
+~
+0 8 0
+E
+sign~
+--- VOICE AUTOMATED FLUSHING TOILET ---
+ --     To make the toilet flush      --
+ --        Type the following         --
+ --                                   --
+ --         tell toilet done          --
+ ---------------------------------------
+~
+D2
+~
+~
+1 1977 1982
+S
+#1978
+Split in the road~
+Going west, the road is headed towards the hanger.  Going east, towards
+the landing strip.  The weapons shop is located to the south, and the road
+also goes back north.  
+~
+0 0 0
+D0
+~
+~
+0 0 1975
+D1
+~
+~
+0 0 1979
+D2
+~
+~
+0 0 1988
+D3
+~
+~
+0 0 1982
+S
+#1979
+Near the end of the road~
+There are two signs located here.  One pointing north, with "GHQ" written
+on it, and the other pointing south with the symbol for a library.  Further
+down the road, the barricade ends the road.  
+~
+0 0 0
+D0
+~
+~
+0 0 1976
+D1
+~
+~
+0 0 1980
+D2
+~
+~
+0 0 1989
+D3
+~
+~
+0 0 1978
+S
+#1980
+End of the road~
+The very end of the road is fenced off.  There are barracks to the north.
+To the south, a large gate hides what is behind.  The road to the west was
+recently plowed and gravel dropped for traction.  
+~
+0 0 0
+D0
+~
+~
+0 0 1981
+D2
+~
+~
+0 0 1991
+D3
+~
+~
+0 0 1979
+S
+#1981
+Barracks~
+This room has many bunkbeds in it with foot lockers behind them.  The
+beds have just been made becuse they are still warm and a pillow has fallen
+to the floor.  The floor is spotless and so are the windows.  There is no
+one around since it is time for roll call.  
+~
+0 0 0
+D2
+~
+~
+0 0 1980
+S
+#1982
+Hanger Road~
+This dirt-covered road ends at the hanger's entrance, the huge building
+to the west.  There is a bathroom north of here and to the south are the
+general store and armor shop.  
+~
+0 0 0
+D0
+~
+~
+1 0 1977
+D1
+~
+~
+0 0 1978
+D2
+~
+~
+0 0 1985
+D3
+~
+~
+0 0 1983
+S
+#1983
+Hanger~
+Entering the hanger, it seems bigger from the inside than out. 
+Continuing south, it seems to be where the vehicles are stored when not in
+use.  
+~
+0 8 0
+D1
+~
+~
+0 0 1982
+D2
+~
+~
+0 0 1986
+S
+#1984
+Hall of Power~
+The room is only furnished with a small couch and a beanbag at one end,
+and a small fountain at the other end.  A few posters of wrestlers cover
+most of the walls.
+~
+0 12 0
+M 750 H 750
+S
+#1985
+General Store~
+Foodstuffs and various items can be bought here.  All the items are split
+along the walls, to let people go through to the armor shop, located at the
+back of the store.  
+~
+0 8 0
+D0
+~
+~
+0 0 1982
+D2
+~
+~
+0 0 1987
+S
+#1986
+Hanger~
+More vehicles are parked here, all lined up and spaced out evenly so they
+can be taken out without a problem.  Soldiers come and go patroling the area
+for trouble.  
+~
+0 8 0
+D0
+~
+~
+0 0 1983
+S
+#1987
+Armor Shop~
+Hanging along the walls here are various forms of shields.  Other pieces
+of armor are seperated in many piles, for each area that can be protected.  
+~
+0 8 0
+D0
+~
+~
+0 0 1985
+S
+#1988
+Weapon shop~
+All along the walls, swords and other kind of blades are hanging.  Other
+smaller weapons are split with boxes by their type of damage.  
+~
+0 8 0
+D0
+~
+~
+0 0 1978
+S
+#1989
+Library~
+Entering the building, the first thing that is noticeable is the silence
+that permiates here.  The space is filled up with book-filled shelves,
+except where the stairs go up into the second level.  
+~
+0 8 0
+D0
+~
+~
+0 0 1979
+D4
+~
+~
+0 0 1990
+S
+#1990
+Second level of the Library~
+More book shelves are here, most are filled up.  There are a few tables
+also, for copying notes and passages out of books.  On one table, a roughly
+drawn map of the area has been left there.  
+~
+0 8 0
+D5
+~
+~
+0 0 1989
+S
+#1991
+By a gate~
+Another soldier is standing here, verifying people for the proper
+permission slip to enter the gate.  The sign above it confirms this as the
+entrance to the Exile Landing Strip.  
+~
+0 0 0
+D0
+~
+~
+0 0 1980
+D2
+~
+~
+0 0 1992
+S
+#1992
+Walking on the strip~
+Moving along the strip, following the painted lines upon the concrete.  A
+few planes and hovercars are moving about.  In the distance, a few people
+can be seen moving.  
+~
+0 0 0
+D0
+~
+~
+0 0 1991
+D2
+~
+~
+0 0 1993
+S
+#1993
+Ending of the strip~
+The end of the airstrip has several light by it, and has a fence no more
+than fifteen yards away.  There is a plane at the very end, with a few cars
+by it.  There is also a few people there, surrounding a fuel truck.  
+~
+0 0 0
+D0
+~
+~
+0 0 1992
+D2
+~
+~
+0 0 1921
+S
+#1994
+HQ hallway~
+The hallway has stairs going back down to the reception area.  At the end
+of the hallway, a door can be seen.  Soldiers are seen coming from two side
+rooms and are on their way out.  
+~
+0 8 0
+D0
+~
+~
+0 0 1995
+D5
+~
+~
+0 0 1976
+S
+#1995
+End of the hallway~
+At the end of the hallway, three wooden doors present themselves.  There
+are {rinscriptions{x upon each door to help people go into the right room. 
+The hallway continues to the south where it meats with some stairs.  
+~
+0 8 0
+E
+inscriptions~
+On the northern door:
+  General's Office
+ 
+On both the eastern and western doors:
+  Briefing Room
+~
+E
+inscriptions~
+On the northern door:
+    General's Office
+ On both the eastern and western doors:
+    Briefing Room
+~
+E
+inscriptions~
+On the northern door:
+    General's Office
+ 
+ On both the eastern and western doors:
+    Briefing Room
+~
+D0
+~
+~
+0 0 1996
+D1
+~
+~
+0 0 1998
+D2
+~
+~
+0 0 1994
+D3
+~
+~
+0 0 1997
+S
+#1996
+General's Office~
+The general's office is quite large.  Against a wall there is a row of
+file cabinets.  On the opposite wall, a myriad of strategic maps for various
+hot spots on the planet.  The general's desk, placed right into the center
+of the room, is covered in paperwork requesting leavetime for the troops and
+for better equipment.  
+~
+0 8 0
+D2
+~
+~
+0 0 1995
+S
+#1997
+Briefing Room A~
+Located here is a table, some audio-video equipment, some sophisticated
+maps and some chairs. Someone is here writing notes and orders for the men.
+~
+0 8 0
+D1
+~
+~
+0 0 1995
+S
+#1998
+Briefing Room B~
+Located here is a table, some audio-video equipment, some sophisticated
+maps and some chairs. Someone is here writing notes and orders for the men.
+~
+0 8 0
+D3
+~
+~
+0 0 1995
+S
+#1999
+{CDiode's Digital Node{x~
+{WThis is Diode's digital node.  This square space is filled with a lot
+of electronic equipment and monitors displaying vital statistics on the
+running of Arena.  {x {WOne monitor simply shows a line of text, in big,
+{Wred, letters: {Rwww.angelfire.com/anime4/telstarin/index.html{W and
+what this text means is anyones guess.  {x {WAnother monitor shows the
+Role-Play And Building status of Arena, starting in the year 2002 and
+leading to 2003 and displayed as a line graph.  {x {WThe start of the
+building and role-play lines starts off at a medium but drop drastically
+over the course of several months.  However, at a point in both lines marked
+only as '{RTerraco's Demise{W' both lines shoot up to an unbelievably high
+level.  {x {WThe room glows with a cyan hue from the constant light put out
+from the monitors.  {x 
+~
+0 1028 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1903 1 1
+D 0 1904 3 1
+D 0 1905 2 1
+D 0 1909 3 1
+D 0 1912 1 1
+D 0 1920 3 1
+D 0 1921 4 1
+D 0 1922 5 1
+D 0 1930 0 1
+D 0 1931 2 1
+D 0 1947 1 1
+D 0 1951 3 1
+D 0 1977 2 1
+D 0 1982 0 1
+M 0 1673 3 1900 1 Load Zutaut
+M 0 1673 1 1901 1 Load Zutaut
+M 0 1673 1 1902 1 Load Zutaut
+O 0 1900 0 1904 A box loaded to Inside a small cave
+M 0 1904 1 1904 1 Load a guard
+M 0 1902 1 1908 1 Load a ice man
+E 0 1913 0 18 Large leather backpack is loaded floating nearby of a ice man
+O 0 1901 0 1909 A column of ice loaded to A large space
+O 0 1989 0 1912 A couch loaded to A Small Cavern
+O 0 924 0 1912 A refrigerator loaded to A Small Cavern
+O 0 941 0 1912 A dark chair loaded to A Small Cavern
+O 0 926 0 1912 A table loaded to A Small Cavern
+O 0 927 0 1912 A comfortable chair loaded to A Small Cavern
+O 0 940 0 1912 A sturdy chair loaded to A Small Cavern
+M 0 1974 1 1921 1 Load Nicolo
+M 0 1990 1 1931 1 Load A Green dragon
+M 0 1948 1 1948 1 Load a sled dog
+M 0 1949 1 1949 1 Load A small boy
+M 0 1901 1 1951 1 Load Lola
+O 0 924 0 1951 A refrigerator loaded to Exile Bar
+O 0 942 0 1951 A set of bar stool loaded to Exile Bar
+O 0 942 0 1951 A set of bar stool loaded to Exile Bar
+O 0 942 0 1951 A set of bar stool loaded to Exile Bar
+O 0 943 0 1951 A bar loaded to Exile Bar
+M 0 917 1 1951 1 Load a bartender
+O 0 942 0 1951 A set of bar stool loaded to Exile Bar
+O 0 1902 0 1952 A blue beanbag loaded to Exile's party room
+M 0 1953 1 1953 1 Load the innkeeper
+O 0 1954 0 1954 A four-post bed with silky sheets loaded to Fancy furnished room
+O 0 1955 0 1955 A feather bed is laying here loaded to A furnished room
+O 0 1905 0 1955 A brown desk loaded to A furnished room
+O 0 963 0 1956 Counter loaded to Exile city pool hall
+O 0 1904 0 1956 A pool table loaded to Exile city pool hall
+M 0 1954 1 1956 1 Load a vendor of drinks and snacks
+G 0 1952 0 A packet of sensu bean extract is given to a vendor of drinks and snacks
+G 0 1953 0 A bottle of milk is given to a vendor of drinks and snacks
+G 0 1951 0 A can of cola is given to a vendor of drinks and snacks
+G 0 1950 0 A can of beer is given to a vendor of drinks and snacks
+M 0 1923 1 1958 1 Load Sgt. Buzz
+O 0 1961 0 1961 A hospital bed loaded to Military Hospital
+M 0 1961 1 1961 1 Load a military doctor
+M 0 1986 1 1963 1 Load a patrol soldier
+M 0 1986 1 1964 1 Load a patrol soldier
+M 0 1673 1 1964 1 Load Zutaut
+O 0 1966 0 1966 A pair of binoculars loaded to Lookout Tower
+O 0 1966 0 1966 A pair of binoculars loaded to Lookout Tower
+M 0 1966 1 1966 1 Load a soldier doing lookout duty
+E 0 1966 0 17 A pair of binoculars is loaded held in the hands of a soldier doing lookout duty
+M 0 1967 1 1967 1 Load an old man telling a story
+M 0 1673 1 1969 1 Load Zutaut
+M 0 1673 1 1970 1 Load Zutaut
+M 0 1970 1 1970 1 Load the drill sargeant
+O 0 1969 0 1971 A long table loaded to Cafeteria
+M 0 1986 5 1972 1 Load a patrol soldier
+M 0 1999 1 1973 1 Load the recruit
+M 0 1973 1 1973 1 Load the special ops officer
+O 0 1969 0 1974 A long table loaded to Cafeteria
+M 0 1976 1 1976 1 Load the secretary, Lucy
+E 0 1976 0 8 A pair of boots is loaded on the feet of the secretary, Lucy
+M 0 1977 1 1977 1 Load the toilet
+M 0 1903 1 1977 1 Load a bathroom servant
+G 0 1910 0 A bottle of mouthwash is given to a bathroom servant
+G 0 1909 0 A bar of soap is given to a bathroom servant
+M 0 1906 10 1979 1 Load a patrol soldier
+M 0 1905 10 1979 1 Load a patrol soldier
+M 0 1673 1 1979 1 Load Zutaut
+M 0 1986 10 1979 1 Load a patrol soldier
+M 0 1906 10 1980 1 Load a patrol soldier
+M 0 1905 20 1982 1 Load a patrol soldier
+M 0 1906 10 1982 1 Load a patrol soldier
+M 0 1673 5 1982 1 Load Zutaut
+O 0 3392 0 1984 A computer loaded to Hall of Power
+O 0 1920 0 1984 A chocolate milk fountain loaded to Hall of Power
+O 0 1989 0 1984 A couch loaded to Hall of Power
+O 0 1902 0 1984 A blue beanbag loaded to Hall of Power
+M 0 1985 1 1985 1 Load general store shopkeepe
+G 0 1903 0 A flashlight is given to general store shopkeepe
+G 0 1952 0 A packet of sensu bean extract is given to general store shopkeepe
+G 0 1953 0 A bottle of milk is given to general store shopkeepe
+M 0 1986 10 1986 1 Load a patrol soldier
+M 0 1987 1 1987 1 Load armor shopkeepe
+G 0 1977 0 A army ring is given to armor shopkeepe
+G 0 1976 0 A pair of boots is given to armor shopkeepe
+G 0 1978 0 A shield is given to armor shopkeepe
+M 0 1988 1 1988 1 Load a weapons vendor
+G 0 1908 0 A pair of nunchaku is given to a weapons vendor
+G 0 1907 0 A spiked mace is given to a weapons vendor
+G 0 1906 0 A black leather whip is given to a weapons vendor
+O 0 1912 0 1989 A pile of books loaded to Library
+M 0 1907 1 1989 1 Load the librarian
+E 0 1911 0 20 A small pair of glasses is loaded over the eye of the librarian
+O 0 1912 0 1990 A pile of books loaded to Second level of the Library
+M 0 1906 10 1992 1 Load a patrol soldier
+M 0 1996 1 1996 1 Load general Lucas
+O 0 1998 0 1997 A/v equipment loaded to Briefing Room A
+M 0 1998 2 1997 1 Load a corporal writing orders
+O 0 1998 0 1998 A/v equipment loaded to Briefing Room B
+M 0 1998 2 1998 1 Load a corporal writing orders
+S
+
+
+
+#SHOPS
+1903 13 0 0 0 0 100 100 0 23
+1954 17 19 0 0 0 50 25 0 23
+1985 19 17 1 0 0 100 50 0 23
+1987 9 0 0 0 0 150 75 0 23
+1988 5 0 0 0 0 150 75 0 23
+0
+
+
+
+#MOBPROGS
+#1900
+mob echoat $n A guard looks at you.
+mob echoaround $n A guard looks at $n.
+say You are free to wander about these caverns, but do not touch this box for it is sacred.
+~
+#1901
+say Hello, would you like to come up and join the party?
+~
+#1902
+say Welcom to Exile city inn
+~
+#1903
+say Welcome! Can I interest you in some bath items?
+mob echoat $n $I whispers to you 'Psst! I'll give you a great deal!'
+~
+#1904
+mob echoat $n A bathroom servant whispers 'Psst! I'll give you something special later.'
+~
+#1905
+say So you have come to learn fly? Think you have the time, and energy to learn how to do such a skill?
+emot walks over to the opposite side of the room then spins around and faces you.
+emote points to a board.
+say Standard flying lesson is 300 zenni, and the VIP package: flying lesson, 10 senzu beans and a large backpack for 4,000 zenni.
+~
+#1906
+say $n!!!! STAY AWAY FROM ME!!!
+emot looks at $n and cowers before $n
+Say $n please dont fight me cuse youll end up dead and I dont want to kill you....
+emot looks at the small party of people "I will kill you all"
+~
+#1910
+mob echo Sgt. Buzz salutes smartly.
+say Welcome to Exile city airforce base.
+~
+#1920
+say Alright lad! Now swiftly raise your knee and imagine your hitting someone's midsection.
+mob echo The recuit raises his knee in one swift movement.
+say That's good, but it needs to be faster still.
+mob echoat $n $I looks directly at you.
+mob echoaround $n $I looks directly at $n.
+say You want to learn now?
+~
+#1921
+say Sit and watch if you want to learn!!
+~
+#1922
+mob gainskill knee $n
+say Very well done, you have learned quickly!
+~
+#1953
+say Welcome to the Exile City Inn!!
+~
+#1954
+say Well hello! Want to buy something?
+~
+#1961
+say Hi $n!
+if affected $n 'solar flare'
+say Rest on the bed for a while and I will heal your blindness...
+endif
+if isimmort $n
+bow
+endif
+~
+#1966
+say .. well... this one guy... he tensed up all over and started screaming, and then his hair went all golden-like...and his eyes turned blue
+~
+#1967
+emote jumps up and points at $n
+say See!! I told you!! I told you they were real!! I'm not crazy!!
+~
+#1970
+say $n! YOU WILL TRAIN CON,WIS,INT,DEX OR STR, OR YOU WILL DROP AND GIVE ME 20 !!!
+mob force $n shudder
+~
+#1977
+emote flushes itself!
+~
+#1997
+say Very well. Be prepared.
+mob gainskill fly $n
+~
+#1998
+say HAHAHAHA sucker do you think I really have senzu beans here? Its to cold for them here.
+emote rolls on the floor laughing. {g'{GDon't go away! You still have your flying lesson!{g'{x
+mob gainskill fly $n
+~
+#1999
+mob oload 1913 0 wear
+say Here is your backpack. I will teach you to fly now.
+drop backpack
+mob gainskill fly $n
+say HAHAHAHA sucker do you think I really have senzu beans here? Its to cold for them here.
+~
+#0
+
+#OBJPROGS
+#1900
+obj echoat $n A guard screams, '{G You dare violate the sacred box, die $n{x!'
+obj echoaround $n A guard screams, '{G You dare violate the sacred box, die $n{x!'
+obj vforce 1904 attack $n
+ 
+ 
+ 
+~
+#1903
+obj echo The toilet flushes itself!
+~
+#0
+
+#ROOMPROGS
+#1977
+~
+#0
+
+#$
