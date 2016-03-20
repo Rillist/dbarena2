@@ -142,7 +142,7 @@ void SendStatData (DESCRIPTOR_DATA *d) {
     char buf[MAX_STRING_LENGTH];
 
     send_to_desc ("Customize Stats:\n\r", d);
-    if (ch->pcdata->nGenStatPoints > 0) {
+    //if (ch->pcdata->nGenStatPoints > 0) {
         for (i = 0; i < MAX_STATS; ++i) {
             if (i == MAX_STATS-1) {
                 continue;//hiding charisma
@@ -151,7 +151,7 @@ void SendStatData (DESCRIPTOR_DATA *d) {
                 i+1, stat_table[i], ch->perm_stat[i]);
             send_to_desc (buf, d);
         }
-    }
+    //}
     sprintf (buf, "    {b[{B%d.reset        {b]{x\n\r", MAX_STATS+1);
     send_to_desc (buf, d);
     if (ch->pcdata->nGenStatPoints > 0) {
