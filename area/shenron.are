@@ -17,7 +17,7 @@ Trainee
 ~
 android~
 AB 0 0 0
-200 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -36,7 +36,7 @@ for help he would be glad to do so.
 ~
 android~
 ABY 0 0 0
-500000 16
+16
 60 15 10 50 10 
 100 100
 none
@@ -54,7 +54,7 @@ The lift manager waits here for someone to ask for 'HELP'.
 ~
 human~
 AB 0 0 0
-0 16
+16
 50 10 10 55 10 
 100 100
 none
@@ -76,7 +76,7 @@ the steering paddle
 ~
 android~
 ABS D 0 0
-1000000000 500
+500
 500 500 500 500 500 
 9999 9999
 none
@@ -97,7 +97,7 @@ old military fashion
 ~
 android~
 ABG Vac 0 0
-5000000 10
+10
 100 20 20 60 70 
 500 500
 none
@@ -117,7 +117,7 @@ happy to see an intruder.
 ~
 android~
 AFGR Jac 0 0
-25000000 20
+20
 100 30 25 90 70 
 700 600
 none
@@ -137,7 +137,7 @@ is busy defending the power core.
 ~
 android~
 ABFS JVac 0 0
-30000000 30
+30
 150 50 30 110 100 
 1000 900
 none
@@ -158,7 +158,7 @@ android, and it does not look happy to see intruders.
 ~
 android~
 ABFS JVac 0 0
-50000000 40
+40
 20 20 20 20 20 
 2000 2000
 none
@@ -179,7 +179,7 @@ general looks very angry.
 ~
 android~
 ABS JVac 0 0
-40000000000 50
+50
 250 100 100 200 200 
 3000 2500
 none
@@ -199,7 +199,7 @@ you could be considered attacks.
 ~
 human~
 ABC P 0 0
-10000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -218,7 +218,7 @@ A lost nomad cowering in the sand looks at you.
 ~
 human~
 AB 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -238,7 +238,7 @@ A gigantic sandworm shoots through the sand, right in front of you.
 ~
 human~
 AFGR V 0 0
-500000000 0
+0
 100 100 100 100 100 
 100 100
 bite

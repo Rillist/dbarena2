@@ -17,7 +17,7 @@ A little blue guy in a black gi with sunglasses
 ~
 human~
 AJb 0 0 0
-600000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -37,7 +37,7 @@ A tall pinkish guy with a black gi and sunglasses
 ~
 human~
 AJ 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -56,7 +56,7 @@ A white plump gal with a black dress and sunglasses
 ~
 human~
 AJ 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -75,7 +75,7 @@ A short purpleish guy with a black gi and a monocle
 ~
 human~
 AJ 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -96,7 +96,7 @@ as it's camera can.
 ~
 human~
 AGQR 0 0 0
-1300000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -114,7 +114,7 @@ A tournament fighter stretching before a match
 ~
 human~
 ABR 0 0 0
-23000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -135,7 +135,7 @@ stranger to fighting and training.
 ~
 human~
 ABQR 0 0 0
-10000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -158,7 +158,7 @@ stranger to fighting and training.
 ~
 human~
 ABQR 0 0 0
-10000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -181,7 +181,7 @@ stranger to fighting and training.
 ~
 human~
 ABQR 0 0 0
-10000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -204,7 +204,7 @@ stranger to fighting and training.
 ~
 human~
 ABQR 0 0 0
-10000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -227,7 +227,7 @@ stranger to fighting and training.
 ~
 human~
 ABQR 0 0 0
-10000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -249,7 +249,7 @@ he keeps in shape by executing various kicks on a punching bag
 ~
 human~
 ABR 0 0 0
-1000000000 10540
+10540
 155 155 155 155 155 
 100 100
 punch
@@ -270,7 +270,7 @@ arms again.
 ~
 human~
 ABR 0 0 0
-10000000000 33333
+33333
 220 220 220 220 220 
 100 100
 punch
@@ -290,7 +290,7 @@ nearly seem to break the bag's covering upon impact.
 ~
 human~
 ABR 0 0 0
-1000000000 10540
+10540
 155 155 155 155 155 
 100 100
 punch
@@ -311,7 +311,7 @@ odd glow surrounding him.
 ~
 human~
 ABS 0 0 0
-1000000000000 333333
+333333
 220 220 220 220 220 
 100 100
 punch
@@ -329,7 +329,7 @@ A spectator standing to cheer on his fighter
 ~
 human~
 ABQR 0 0 0
-2500000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -347,7 +347,7 @@ A spectator calmly cheering his fighter
 ~
 human~
 ABQR 0 0 0
-350000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -365,7 +365,7 @@ A female spectator enjoying the show
 ~
 human~
 ABQR 0 0 0
-350000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -386,7 +386,7 @@ earings.
 ~
 human~
 ABRS 0 0 0
-25000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -404,7 +404,7 @@ A very short guy with small horn like things on his head.
 ~
 human~
 ABS 0 0 0
-1000000000 10540
+10540
 155 155 155 155 155 
 100 100
 punch
@@ -423,7 +423,7 @@ Pikkon, fighter from another world
 ~
 human~
 ABS 0 0 0
-3500000 408
+408
 5 5 5 5 5 
 100 100
 punch
@@ -443,7 +443,7 @@ The Grand Kai, with his long beard and pointy ears
 ~
 human~
 ABS HW 0 0
-1000000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -463,7 +463,7 @@ A large white slug
 ~
 namek~
 AB 0 -1000 0
-8000000 200
+200
 12 12 12 12 12 
 100 100
 none
@@ -479,7 +479,7 @@ Testor, battle dummy of the imms
 ~
 human~
 ABRU 0 0 0
-50000000000000 11180
+11180
 236 236 236 236 236 
 100 100
 punch

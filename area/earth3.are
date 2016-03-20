@@ -19,7 +19,7 @@ serving the Kami and taking care of his flowers.
 ~
 human~
 AB 0 0 0
-1000 10
+10
 10 10 10 10 10 
 100 100
 none
@@ -41,7 +41,7 @@ the center creating one of natures most breath taking sights.
 ~
 human~
 A 0 0 0
-5 5
+5
 10 10 10 10 10 
 100 100
 none
@@ -61,7 +61,7 @@ imaginable.  It seems to be almost too perfect.
 ~
 human~
 A 0 1000 0
-5 10
+10
 10 10 10 10 10 
 100 100
 none
@@ -81,7 +81,7 @@ selling his senzu beans to those that need them.
 ~
 human~
 AB 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none

@@ -19,7 +19,7 @@ face.  Is he looking at you ?
 ~
 human~
 AFS 0 0 0
-100000000 3333
+3333
 48 48 48 48 48 
 100 100
 punch
@@ -37,7 +37,7 @@ Umeadric stands here flipping his long curly hair to the wind.
 ~
 human~
 ABFS 0 0 0
-700000000 8819
+8819
 129 129 129 129 129 
 100 100
 punch
@@ -55,7 +55,7 @@ Gwedrihar is here, practicing forms.
 ~
 human~
 ABFS 0 0 0
-500000000 7453
+7453
 110 110 110 110 110 
 100 100
 punch
@@ -73,7 +73,7 @@ Gwarelath is here doing pushups.
 ~
 human~
 ABFS 0 0 0
-900000000 10000
+10000
 147 147 147 147 147 
 100 100
 punch
@@ -91,7 +91,7 @@ Geired stands here doing squats.
 ~
 human~
 ABFS 0 0 0
-1100000000 11055
+11055
 162 162 162 162 162 
 100 100
 punch
@@ -109,7 +109,7 @@ Guldar the templar stands here waiting for you to arrive.
 ~
 human~
 ABFS 0 0 0
-1500000000 3872
+3872
 158 158 158 158 158 
 100 100
 punch
@@ -127,7 +127,7 @@ Standing tall and proud is a warrior of great strength.
 ~
 human~
 ABS 0 0 0
-1000000000000 100000
+100000
 560 560 560 560 560 
 100 100
 punch
@@ -144,7 +144,7 @@ A weak looking Saiyan is standing here
 ~
 human~
 ABRb 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none

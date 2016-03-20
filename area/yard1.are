@@ -17,7 +17,7 @@ Pl Dummy stands here for your enjoyment.
 ~
 human~
 ABGP 0 0 0
-200000000000 0
+0
 5 5 5 5 1000 
 100 100
 none
@@ -35,7 +35,7 @@ A Yardrat Citizen, going about his business.
 ~
 human~
 AP 0 250 0
-10000000 158
+158
 28 28 28 28 28 
 100 100
 punch
@@ -53,7 +53,7 @@ A Yardrat Guard, protecting the people.
 ~
 human~
 AR 0 500 0
-15000000 258
+258
 61 61 61 61 61 
 100 100
 punch
@@ -71,7 +71,7 @@ A Yardrat Priest, in a yoga position.
 ~
 human~
 AP 0 750 0
-20000000 666
+666
 80 80 80 80 80 
 100 100
 punch
@@ -89,7 +89,7 @@ A Yardrat Civilian is meditating here.
 ~
 human~
 AP 0 350 0
-30000000 365
+365
 67 67 67 67 67 
 100 100
 punch
@@ -107,7 +107,7 @@ A Yardrat Civilian is training here.
 ~
 human~
 AP 0 350 0
-40000000 421
+421
 69 69 69 69 69 
 100 100
 punch
@@ -125,7 +125,7 @@ A Yardrat Receptionist, registering new fighters.
 ~
 human~
 AP 0 750 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -144,7 +144,7 @@ A Yardrat Combatant awaits his next challenger.
 ~
 human~
 AP 0 100 0
-60000000 516
+516
 74 74 74 74 74 
 100 100
 punch
@@ -162,7 +162,7 @@ A Yardrat Fighter wants to prove himself.
 ~
 human~
 AP 0 100 0
-100000000 666
+666
 80 80 80 80 80 
 100 100
 punch
@@ -180,7 +180,7 @@ Yardrat Elite smiles all-knowingly.
 ~
 human~
 AP 0 100 0
-200000000 942
+942
 89 89 89 89 89 
 100 100
 punch
@@ -198,7 +198,7 @@ Lxcia, A Super Yardrat, is smirking.
 ~
 human~
 AP 0 -100 0
-300000000 1154
+1154
 95 95 95 95 95 
 100 100
 punch
@@ -216,7 +216,7 @@ A Yardrat Healer, curing the sick and wounded.
 ~
 namek~
 A 0 500 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -233,7 +233,7 @@ A Yardrat Trainer improving people's stats.
 ~
 human~
 AJ 0 500 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -250,7 +250,7 @@ A Yardrat wise man sits here, aware of you.
 ~
 human~
 AP 0 1000 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -269,7 +269,7 @@ A Yardrat Teacher, teaching 'heal'
 ~
 human~
 A 0 1000 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -289,7 +289,7 @@ A vicious sandworm slithers here!
 ~
 human~
 ABFP 0 -1000 0
-400000000 2000
+2000
 130 130 130 130 130 
 100 100
 charge
@@ -308,7 +308,7 @@ A Yardrat Teacher, teaching 'cure vision'
 ~
 human~
 A 0 1000 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -328,7 +328,7 @@ A Yardrat Teacher, teaching 'revive'
 ~
 human~
 A 0 1000 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -348,7 +348,7 @@ A baby sandworm gnashes its teeth.
 ~
 human~
 ABFP 0 -750 0
-20000000 223
+223
 33 33 33 33 33 
 100 100
 charge
@@ -367,7 +367,7 @@ Living sandworm larvae crawl slowly.
 ~
 human~
 ABFP 0 -500 0
-2000000 70
+70
 18 18 18 18 18 
 100 100
 suction
@@ -386,7 +386,7 @@ Telstarin~
 ~
 half-breed~
 AR 0 -800 0
-30259001644 17320
+17320
 268 268 268 268 268 
 100 100
 punch
@@ -402,7 +402,7 @@ Trouse, a Super Saiya-jin from the future.
 ~
 saiya-jin~
 A 0 1000 0
-15000000000 14142
+14142
 248 248 248 248 248 
 100 100
 punch
@@ -418,7 +418,7 @@ Evil Personified stands here, and wants to hurt you.
 ~
 human~
 AS 0 -1000 0
-50000000000000 707106
+707106
 1000 1000 1000 1000 1000 
 100 100
 punch
@@ -436,7 +436,7 @@ Death Bringer 2 brings you death.
 ~
 android~
 A 0 0 0
-3000000000 5477
+5477
 177 177 177 177 177 
 100 100
 punch

@@ -7,6 +7,12 @@ Security 9
 End
 
 
+
+#MOBILES
+#0
+
+
+
 #OBJECTS
 #1
 coin zenni gcash~
@@ -176,6 +182,32 @@ D4
 ~
 0 -1 2
 S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
 #0
 
 #$

@@ -17,7 +17,7 @@ A guard wearing saiyan armor guarding the door
 ~
 saiya-jin~
 A 0 0 0
-2000000000 4472
+4472
 165 165 165 165 165 
 100 100
 punch
@@ -34,7 +34,7 @@ A guard waeing saiyan armor and portoling the streets
 ~
 saiya-jin~
 A 0 0 0
-700000000000 83666
+83666
 517 517 517 517 517 
 100 100
 punch
@@ -50,7 +50,7 @@ A little old lady sits here, waiting to take your order
 ~
 human~
 ABRSY d 0 0
-75000000000 27386
+27386
 321 321 321 321 321 
 100 100
 punch
@@ -67,7 +67,7 @@ Landing pad opretive wearing protective gear and ear plugs
 ~
 saiya-jin~
 A 0 -300 0
-10000000000 10000
+10000
 218 218 218 218 218 
 100 100
 punch
@@ -87,7 +87,7 @@ completely expected.
 ~
 saiya-jin~
 ABQRS T 100 0
-100000000000 10000
+10000
 218 218 218 218 218 
 100 100
 thwack
@@ -104,7 +104,7 @@ A running saiya-jin child
 ~
 saiya-jin~
 AGQ 0 0 0
-10000 5
+5
 5 5 5 5 5 
 100 100
 punch
@@ -123,7 +123,7 @@ a lorge muscel base and a nice figure.
 ~
 saiya-jin~
 A 0 300 0
-20000000000 14142
+14142
 248 248 248 248 248 
 100 100
 punch
@@ -140,7 +140,7 @@ A porter stands here greeting people and opening the door
 ~
 saiya-jin~
 AB T 0 0
-40000000000 20000
+20000
 283 283 283 283 283 
 100 100
 punch
@@ -157,7 +157,7 @@ A running saiya-jin child
 ~
 saiya-jin~
 AGQ 0 0 0
-10000 5
+5
 5 5 5 5 5 
 100 100
 punch
@@ -173,7 +173,7 @@ A rebellious teenager stands here looking tough
 ~
 saiya-jin~
 AGQR 0 0 0
-100000 21
+21
 38 38 38 38 38 
 100 100
 punch
@@ -189,7 +189,7 @@ A rebellious teenager stands here trying to impress others
 ~
 saiya-jin~
 AGQR 0 0 0
-100000 21
+21
 38 38 38 38 38 
 100 100
 punch
@@ -205,7 +205,7 @@ A {GBio-android{x with a nasty {Rtemper{x
 ~
 bio-android~
 ABRS T -1000 0
-150000000000 38729
+38729
 371 371 371 371 371 
 100 100
 punch
@@ -221,7 +221,7 @@ A {GNamek{x seemingly mistried
 ~
 namek~
 ABRS T -1000 0
-95000000000 30822
+30822
 337 337 337 337 337 
 100 100
 punch
@@ -237,7 +237,7 @@ Commander of the Royal Vegeta Guard
 ~
 saiya-jin~
 ABRS T -1 0
-400000000000 44721
+44721
 394 394 394 394 394 
 100 100
 punch
@@ -253,7 +253,7 @@ Lieutenant Luza of Royal Vegeta Guard
 ~
 saiya-jin~
 ABRS T -2 0
-300000000000 54772
+54772
 430 430 430 430 430 
 100 100
 punch
@@ -269,7 +269,7 @@ Royal Vegeta Guard~
 ~
 saiya-jin~
 ABRS T -3 0
-250000000000 50000
+50000
 413 413 413 413 413 
 100 100
 punch
@@ -285,7 +285,7 @@ The {YSaiya-jin{x Master
 ~
 saiya-jin~
 ABJ 0 1 0
-15 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -304,7 +304,7 @@ A member of the Saiya-Elite Twins
 ~
 saiya-jin~
 ABRS T 0 0
-200000000000 44721
+44721
 394 394 394 394 394 
 100 100
 punch
@@ -315,14 +315,14 @@ AHMV ABCDEFGHIJK huge unknown
 M GREET 4430 100~
 #4418
 Coby Bludsken~
-{BCoby {RBludsken{x~
+Coby Bludsken~
 A member of the Saiya-Elite Twins
 ~
-{BCoby {RBludsken{x
+Coby Bludsken
 ~
 saiya-jin~
 ABRS T 0 0
-200000000000 44721
+44721
 394 394 394 394 394 
 100 100
 punch
@@ -339,7 +339,7 @@ A disgruntled mail boy
 ~
 saiya-jin~
 ABR T 0 0
-100000000000 21081
+21081
 311 311 311 311 311 
 100 100
 punch
@@ -355,7 +355,7 @@ A worker looking much more like a slave
 ~
 saiya-jin~
 AGQR T 0 0
-60000000000 12247
+12247
 247 247 247 247 247 
 100 100
 punch
@@ -371,7 +371,7 @@ A very tempermental Manager
 ~
 saiya-jin~
 ABRS T 0 0
-250000000000 50000
+50000
 413 413 413 413 413 
 100 100
 punch
@@ -388,7 +388,7 @@ A lobby clerk
 ~
 saiya-jin~
 ABRS T 0 0
-125000000000 23570
+23570
 327 327 327 327 327 
 100 100
 punch
@@ -404,7 +404,7 @@ A pedestrian wandering the streets
 ~
 saiya-jin~
 AGR 0 0 0
-75000000000 13693
+13693
 261 261 261 261 261 
 100 100
 punch
@@ -420,7 +420,7 @@ A woman trying to get somewhere
 ~
 saiya-jin~
 A T 0 0
-75000000000 13693
+13693
 261 261 261 261 261 
 100 100
 punch
@@ -436,7 +436,7 @@ A hobo is almost passed out
 ~
 saiya-jin~
 ABQRS T 0 0
-100000000000 21081
+21081
 311 311 311 311 311 
 100 100
 punch
@@ -452,7 +452,7 @@ A rather dubious looking cat
 ~
 cat~
 ABPQR Z 0 0
-50000000000 11180
+11180
 236 236 236 236 236 
 100 100
 punch
@@ -468,7 +468,7 @@ A Store Clerk
 ~
 saiya-jin~
 ABQ 0 0 0
-25 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -484,7 +484,7 @@ A rather naughty looking saleswoman
 ~
 saiya-jin~
 AB 0 0 0
-50 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -500,7 +500,7 @@ A small beady eyed man sells armor
 ~
 saiya-jin~
 AB 0 0 0
-25 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -516,7 +516,7 @@ A jewelry salesman is here, trying to talk you into buying something
 ~
 saiya-jin~
 AB 0 0 0
-50 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -532,7 +532,7 @@ The head exec for the Galleria
 ~
 saiya-jin~
 ABRS T 0 0
-700000000000 83666
+83666
 517 517 517 517 517 
 100 100
 punch
@@ -548,7 +548,7 @@ A person taking calls
 ~
 saiya-jin~
 ABRS T 0 0
-250000000000 50000
+50000
 413 413 413 413 413 
 100 100
 punch
@@ -565,7 +565,7 @@ A clerical assistant to the Exec
 ~
 saiya-jin~
 ABRS T 0 0
-300000000000 54772
+54772
 430 430 430 430 430 
 100 100
 punch
@@ -576,13 +576,13 @@ AHMV ABCDEFGHIJK huge unknown
 M GREET 4433 100~
 #4434
 General Bludsken~
-{YGeneral {RBludsken{x~
+General Bludsken~
 A ferocious man is here, waiting to strike out at a moments notice
 ~
 ~
 saiya-jin~
 ABRS T 0 0
-800000000000 89442
+89442
 532 532 532 532 532 
 100 100
 punch
@@ -598,7 +598,7 @@ Security Guard
 ~
 saiya-jin~
 AGRS T 0 0
-400000000000 63245
+63245
 457 457 457 457 457 
 100 100
 punch
@@ -614,7 +614,7 @@ A mother watching her child
 ~
 saiya-jin~
 AGR T 0 0
-65000000000 16996
+16996
 282 282 282 282 282 
 100 100
 punch
@@ -630,7 +630,7 @@ An eight-year old kid
 ~
 saiya-jin~
 AGR T 0 0
-30000000000 8660
+8660
 208 208 208 208 208 
 100 100
 punch
@@ -646,7 +646,7 @@ A large, rather strange looking bear
 ~
 bear~
 AGRS T 0 0
-15000000000 6123
+6123
 174 174 174 174 174 
 100 100
 punch
@@ -662,7 +662,7 @@ A customer at Grannies
 ~
 saiya-jin~
 ABRS T 0 0
-30000000000 8660
+8660
 208 208 208 208 208 
 100 100
 punch
@@ -683,7 +683,7 @@ scars from haneous battles gone by.
 ~
 icer~
 ABRS T -1000 0
-100000000000 55
+55
 200 200 200 200 200 
 100 100
 chill
@@ -699,10 +699,10 @@ A very wealthy man stands here with a nice suit on.
 A rather large yet athletic looking man is here.
 ~
 saiya-jin~
-ABGRS AT -1000 0
-600000000000 77459
+ABGRS A -1000 0
+77459
 500 500 500 500 500 
--13824 25
+100 25
 punch
 0 0 0 0
 AEFIKO ELPTYZ AEKPQYZ DFGHIO
@@ -3135,7 +3135,7 @@ M 0 4423 1 4444 10 Load A pedestrian
 M 0 4424 1 4445 10 Load A woman pedestrian
 M 0 4423 1 4446 10 Load A pedestrian
 M 0 4417 1 4447 1 Load {DBo {RBludsken{x
-M 0 4418 1 4447 1 Load {BCoby {RBludsken{x
+M 0 4418 1 4447 1 Load Coby Bludsken
 M 0 4423 1 4448 10 Load A pedestrian
 M 0 4424 1 4448 10 Load A woman pedestrian
 M 0 4416 1 4449 1 Load The {YSaiya-jin{x Master
@@ -3191,7 +3191,7 @@ G 0 4416 0 {dblack boots{x is given to A Saleswoman
 G 0 4417 0 {dblack gloves{x is given to A Saleswoman
 G 0 4418 0 A pair of ray-bands is given to A Saleswoman
 M 0 4435 1 4477 10 Load Security Guard
-M 0 4434 1 4478 1 Load {YGeneral {RBludsken{x
+M 0 4434 1 4478 1 Load General Bludsken
 O 0 4427 0 4479 A {dblack {bsectional {ccouch{x loaded to Kube's Chillin Spot
 O 0 4492 0 4479 The {rdesk{x of {c-{y={s>{dk{s<{y={c-{dube{x loaded to Kube's Chillin Spot
 O 0 4428 0 4479 A {rbeer{c tap {bfountain{x loaded to Kube's Chillin Spot

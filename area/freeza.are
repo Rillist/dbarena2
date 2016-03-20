@@ -17,7 +17,7 @@ A Giant Creature with flaming fists and breath of cold
 ~
 icer~
 ABRS 0 0 0
-2500000000000 158113
+158113
 688 688 688 688 688 
 100 100
 chill
@@ -33,7 +33,7 @@ An armor salesman
 ~
 icer~
 AB 0 0 0
-10 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -49,7 +49,7 @@ A mess hall server
 ~
 icer~
 ABRS 0 0 0
-75000000000 18257
+18257
 291 291 291 291 291 
 100 100
 punch
@@ -65,7 +65,7 @@ A Mess Hall Chef
 ~
 icer~
 ABRS 0 0 0
-100000000000 21081
+21081
 311 311 311 311 311 
 100 100
 punch
@@ -81,7 +81,7 @@ A very evil looking scientist
 ~
 icer~
 AB 0 -1000 0
-500000000000 70710
+70710
 480 480 480 480 480 
 100 100
 chill

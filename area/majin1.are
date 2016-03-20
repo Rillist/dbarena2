@@ -17,9 +17,9 @@ A small Majin trainee stands here.
 It wears loose-fitting pants, held up by a black belt.  Worn black boots
 soften his steps.  It clenches and unclenches its hand nervously.  
 ~
-majin~
+human~
 AST 0 0 0
-1000 6
+6
 5 5 5 5 5 
 100 100
 punch
@@ -36,9 +36,9 @@ It wears loose fitting pants.  They are held up by a leather black belt
 with a large M burned into the front.  Soft leather boots muffle its
 movements.  It sways back and forth impatiently, waiting for a fight.  
 ~
-majin~
+human~
 AT 0 0 0
-2000 8
+8
 5 5 5 5 5 
 100 100
 punch
@@ -55,9 +55,9 @@ It stands with it's feet firmly planeted in the sand.  It's eyes slowly
 glance around the room, ready for anything.  It wears a loose-fitting gold
 robe with a black belt holding it on.  
 ~
-majin~
+human~
 AST 0 0 0
-8000 17
+17
 5 5 5 5 5 
 100 100
 punch
@@ -74,9 +74,9 @@ It is very small but its glare is fearsome.  It wears a black gi with a
 gold M inscribed on the back.  It practices it's punches and kicks too
 quickly for the naked eye to see.  
 ~
-majin~
+human~
 A 0 0 0
-4000 12
+12
 5 5 5 5 5 
 100 100
 punch
@@ -94,9 +94,9 @@ created but one thing is for sure, they aren't to be taken lightly.  This
 one has a long tongue and four arms.  It is practicing it's punches at
 almost blinding speed, preparing for a battle.  
 ~
-majin~
+human~
 AS 0 0 0
-10000 20
+20
 5 5 5 5 5 
 100 100
 punch
@@ -113,9 +113,9 @@ Aab stands calmly with a peaceful smile on his face.  He wears a long
 white robe with gold trim.  He gestures for you to sit down and rest a
 while.  
 ~
-majin~
+human~
 ABQa W 750 0
-30000 57
+57
 5 5 5 5 5 
 100 100
 punch
@@ -133,9 +133,9 @@ Ato is a large Majin.  He wears loose white pants and a white shirt
 buttoned half way up.  A vain pumps on his temple as he glares around the
 room.  
 ~
-majin~
+human~
 AB 0 0 0
-30000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -152,9 +152,9 @@ Kran is wearing a grey gi with a black M on the back.  She is medium
 sized and seems to have a aura of clamness around her.  She smiles happily
 as her students learn new skills.  
 ~
-majin~
+human~
 ABJK 0 0 0
-50000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -170,7 +170,7 @@ A black belt with a gold M inscribed in the center.
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none

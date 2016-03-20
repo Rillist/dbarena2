@@ -17,7 +17,7 @@ A short humanoid with a tail and horns
 ~
 human~
 ABRS 0 -1000 0
-750000 86
+86
 74 74 74 74 74 
 100 100
 punch
@@ -34,7 +34,7 @@ A giant sand-colored scorpion from the desert
 ~
 human~
 AGPR 0 0 0
-75000 18
+18
 38 38 38 38 38 
 100 100
 punch
@@ -50,7 +50,7 @@ A red snake-like creature flying above the desert
 ~
 human~
 AGRS T 0 0
-4000000 200
+200
 82 82 82 82 82 
 100 100
 punch
@@ -68,7 +68,7 @@ A sand colored, horse shoe shaped insect
 ~
 human~
 AGPR 0 0 0
-150000 25
+25
 39 39 39 39 39 
 100 100
 punch
@@ -89,7 +89,7 @@ belong to Ikana."
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -111,7 +111,7 @@ collar around his neck that says, "I belong to Auriana."
 ~
 human~
 ABIa 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -133,7 +133,7 @@ colored.  Around her neck is a collar that says, "I belong to Kahlan."
 ~
 human~
 ABIa T 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -155,7 +155,7 @@ This wolf has a scar above and below his right eye.
 ~
 human~
 ABIa 0 0 0
-0 0
+0
 35 35 35 35 35 
 100 100
 punch
@@ -174,7 +174,7 @@ A yellow nimbus cloud, just like the one Goku had
 ~
 human~
 ABIa 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -190,7 +190,7 @@ A royal hawk, trained to follow Jojubi into battle.
 ~
 namek~
 ABIa T 0 0
-0 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -210,7 +210,7 @@ neck.
 ~
 human~
 ABIa T 0 0
-100 1
+1
 65 65 65 65 65 
 100 100
 punch
@@ -230,7 +230,7 @@ wearing.
 ~
 half-breed~
 ABRSa 0 0 0
-1000000000000 100000
+100000
 560 560 560 560 560 
 100 100
 punch
@@ -250,7 +250,7 @@ are nothing more then the skeletal frame.
 ~
 half-breed~
 ABRSa 0 0 0
-2500000000 5000
+5000
 171 171 171 171 171 
 100 100
 punch

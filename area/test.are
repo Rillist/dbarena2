@@ -17,7 +17,7 @@ A saiyaman flunkie practicing his goofy poses
 ~
 human~
 AGRS 0 0 0
-1000000 333
+333
 5 5 5 5 5 
 100 100
 punch
@@ -36,7 +36,7 @@ This saiyan has a lot of style and substance, wearing funky clothing and cool su
 ~
 human~
 ABRS 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -55,7 +55,7 @@ Frev the slacker
 ~
 human~
 A 0 0 0
-0 2
+2
 10 10 10 10 10 
 100 100
 none
@@ -77,7 +77,7 @@ face ready for a opponent.
 ~
 human~
 AB 0 -500 0
-5000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -96,7 +96,7 @@ A giant battledrone stands in front of you, starring at you with its cold laser 
 ~
 human~
 AF 0 0 0
-100000000 666
+666
 150 80 80 80 80 
 100 100
 punch
@@ -121,7 +121,7 @@ her home on a very frequent basis, as being a normal thing.
 ~
 human~
 AGQYa 0 1000 0
-5000000000 2147483647
+2147483647
 12 15 100 500 50 
 100 100
 none
@@ -142,7 +142,7 @@ holding a pointed stick.
 ~
 android~
 A 0 750 0
-600000000000 6000000
+6000000
 80 56 100 90 200 
 100 100
 pound
@@ -159,7 +159,7 @@ Nabiki Tendou is here, smiling mischieviously
 ~
 human~
 A 0 -200 0
-4000000000000 5000000
+5000000
 10 75 100 50 25 
 100 100
 none
@@ -177,7 +177,7 @@ Ryouga is wandering here, looking lost
 ~
 human~
 ARSW Kac 150 0
-1000000000 50000000
+50000000
 150 9 20 25 150 
 15000 20000
 pound
@@ -195,9 +195,9 @@ A pitch-black shadow with a vaguely humanoid form, and a pair of
 glistening red orbs hovering in it's upper body, to serve as eyes.  It is
 composed of pure destructive energy!  
 ~
-majin~
+human~
 AFGS JTc -1000 0
-10000000000 600000
+600000
 12 8 8 100 80 
 6000 6000
 drain
@@ -217,7 +217,7 @@ pads.
 ~
 namek~
 AGS HTc 450 0
-30000000000 4200000
+4200000
 200 240 300 200 280 
 12500 20000
 smash
@@ -233,7 +233,7 @@ A bio-android in great need of repair
 ~
 bio-android~
 AP 0 0 0
-10000000000 10000
+10000
 218 218 218 218 218 
 100 100
 punch
@@ -249,7 +249,7 @@ Look Kids its George Lucas
 ~
 human~
 AB T 0 0
-1500 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -267,7 +267,7 @@ An android for Bio-Androids to absorb, stands here.
 ~
 android~
 ABGR 0 0 0
-20000 5
+5
 10 10 10 10 10 
 1 100
 punch
@@ -285,7 +285,7 @@ The cool Dr. Q!
 ~
 human~
 ABGa CEHJTc 1000 0
-500000000000 100
+100
 10 100 180 9 12 
 500 2000
 thwack
@@ -311,7 +311,7 @@ of General Lucas in every other way.
 ~
 human~
 A CDEFGHJNOTVc 350 0
-1000000000000 420000
+420000
 180 95 100 150 135 
 30000 30000
 beating
@@ -328,7 +328,7 @@ An old human women, with her hair up in a bun, a whits pocked appron
 ~
 human~
 AG 0 0 0
-100000 21
+21
 38 38 38 38 38 
 100 100
 punch
@@ -349,7 +349,7 @@ in any way.
 ~
 half-breed~
 AGSc JTc 200 0
-600000000 750
+750
 50 38 10 80 80 
 300 500
 pound
@@ -367,7 +367,7 @@ An android for bios to snack on, stands here.
 ~
 android~
 A 0 0 0
-300000000000 30
+30
 10 10 10 10 10 
 100 1000
 punch
@@ -385,7 +385,7 @@ Guard
 ~
 human~
 AB B 0 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -401,7 +401,7 @@ doore~
 ~
 icer~
 A 0 -1000 0
-500000 35
+35
 13 13 13 13 13 
 100 100
 punch
@@ -417,7 +417,7 @@ neiz~
 ~
 icer~
 ABRS 0 -1000 0
-500000 35
+35
 13 13 13 13 13 
 100 100
 punch
@@ -433,7 +433,7 @@ salza~
 ~
 icer~
 ABRS 0 -1000 0
-900000 47
+47
 15 15 15 15 15 
 100 100
 punch
@@ -449,7 +449,7 @@ syruss~
 ~
 saiya-jin~
 ABRS 0 0 0
-3000000000 5477
+5477
 177 177 177 177 177 
 1000 1000
 punch
@@ -465,7 +465,7 @@ cooler~
 ~
 icer~
 A 0 0 0
-100000000 1000
+1000
 110 110 110 110 110 
 300 300
 punch

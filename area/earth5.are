@@ -17,7 +17,7 @@ A powerful Saiba-man stands here looking you right in the eye.
 ~
 human~
 ABF 0 1000 0
-1000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -38,7 +38,7 @@ they can deal with his shinanigans.
 ~
 human~
 Ab 0 0 0
-100 0
+0
 35 35 35 35 35 
 100 100
 punch
@@ -58,11 +58,11 @@ to Android 18, and has a daughter named Marin.
 ~
 human~
 ABRS 0 1000 0
-2000000000 4472
+4472
 165 165 165 165 165 
 100 100
 punch
-44 44 44 44
+0 0 0 0
 0 0 0 0
 stand stand male 5709
 0 CDEFGHIJKM medium unknown
@@ -76,7 +76,7 @@ Oolong the shape changing pig is here.
 ~
 human~
 Ab 0 500 0
-100 0
+0
 35 35 35 35 35 
 100 100
 punch
@@ -94,7 +94,7 @@ Puar the shape shifting cat is here.
 ~
 human~
 Ab 0 0 0
-100 0
+0
 35 35 35 35 35 
 100 100
 punch
@@ -112,11 +112,11 @@ Yamcha is here.
 ~
 human~
 Ab 0 0 0
-1000000000 3162
+3162
 148 148 148 148 148 
 100 100
 punch
-316 316 316 316
+0 0 0 0
 0 0 0 0
 stand stand male 4801
 0 ABCDEJK large unknown
@@ -130,7 +130,7 @@ Baba is here.
 ~
 human~
 Ab 0 0 0
-100 0
+0
 5 5 5 5 5 
 100 100
 punch

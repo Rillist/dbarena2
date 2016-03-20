@@ -18,7 +18,7 @@ This Namek is tall and wears a blue uniform
 ~
 namek~
 AB 0 0 0
-2000000000 5000
+5000
 20 10 10 10 10 
 100 100
 none
@@ -37,7 +37,7 @@ The Receptionist is sitting at the Complex's desk.
 ~
 namek~
 AB 0 0 0
-300000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -57,7 +57,7 @@ no name~
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -76,7 +76,7 @@ This Namekian Warrior is a newbie. He is a Novice when it comes to fighting.
 ~
 namek~
 A 0 0 0
-2360 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -92,7 +92,7 @@ A Shop Keeper stands here attending to your needs.
 ~
 human~
 AB 0 0 0
-100304 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -110,7 +110,7 @@ The Shop Keeper stands here.
 ~
 human~
 AR V 0 0
-65000 250
+250
 15 10 12 16 14 
 200 100
 punch
@@ -128,7 +128,7 @@ A Newbie Namek stands here.
 ~
 namek~
 A 0 1 0
-1300 10
+10
 10 10 10 10 10 
 100 100
 none
@@ -144,7 +144,7 @@ A young blonde lady
 ~
 human~
 AB 0 0 0
-20000 9
+9
 35 35 35 35 35 
 100 100
 punch
@@ -162,7 +162,7 @@ A Cleaner is cleaning here.
 ~
 human~
 AB 0 0 0
-19833 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -180,7 +180,7 @@ A Fitness Instructor is looking around.
 ~
 namek~
 AB 0 0 0
-1000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -196,7 +196,7 @@ A Newbie Fighter stands here looking at you scared.
 ~
 human~
 AB 0 0 0
-500 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -214,7 +214,7 @@ A Fighter stands here looking around.
 ~
 human~
 A 0 0 0
-2500 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -232,7 +232,7 @@ A Fighter stands here staring at you.
 ~
 human~
 A 0 0 0
-10000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -250,7 +250,7 @@ An Experienced fighter stands here ready to fight.
 ~
 human~
 AB 0 0 0
-20000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -268,7 +268,7 @@ An Experienced Fighter stands here staring at you.
 ~
 namek~
 AB 0 0 0
-40000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -284,7 +284,7 @@ An Advanced Fighter stands here eyeing you up.
 ~
 namek~
 AB 0 0 0
-70000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -300,7 +300,7 @@ The Top Fighter of this training level is here.
 ~
 namek~
 A 0 0 0
-1000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -316,7 +316,7 @@ A Fighter stands here waiting.
 ~
 human~
 AB 0 0 0
-1250000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -334,7 +334,7 @@ A Fighter is here before you.
 ~
 namek~
 AB 0 0 0
-1900000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -350,7 +350,7 @@ An Advanced Fighter is here looking around.
 ~
 namek~
 AB 0 0 0
-2500000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -366,7 +366,7 @@ An Advanced Fighter is staring at you.
 ~
 namek~
 AB 0 0 0
-3500000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -382,7 +382,7 @@ An Ascended Fighter is staring at you.
 ~
 namek~
 AB 0 0 0
-4500000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -398,7 +398,7 @@ An Ascended Fighter is here smirking.
 ~
 namek~
 AB 0 0 0
-8000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -414,7 +414,7 @@ The Ultimate Fighter is grinning evilly at you.
 ~
 namek~
 AB 0 0 0
-20000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -430,7 +430,7 @@ no name~
 ~
 human~
 A 0 0 0
-3000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -448,7 +448,7 @@ A Killer Android trying to take over the world
 ~
 android~
 A 0 0 0
-10000000 5
+5
 10 10 10 10 10 
 100 100
 none
@@ -465,7 +465,7 @@ A small monk is sitting here.
 ~
 human~
 A 0 0 0
-24 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -484,7 +484,7 @@ A shopkeeper is standing behind a counter
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -503,7 +503,7 @@ waiter~
 ~
 human~
 AB 0 0 0
-8 0
+0
 0 0 0 0 0 
 100 100
 none
@@ -520,7 +520,7 @@ no name~
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -538,7 +538,7 @@ Saiayaman Great~
 ~
 half-breed~
 AB 0 0 0
-1300403959900002304 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -554,7 +554,7 @@ Announcer~
 ~
 human~
 AB 0 0 0
-210 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -573,7 +573,7 @@ Transfer saiyaman
 ~
 half-breed~
 A 0 100 0
-2000000000 10
+10
 10 10 10 10 10 
 100 100
 none

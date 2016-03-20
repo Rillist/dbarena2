@@ -24,7 +24,7 @@ to sick this ferocious monster on you.{x
 ~
 dragon~
 ABIRS JT -1000 0
-1000000000000 1000
+1000
 250 250 250 250 250 
 100 100
 flame
@@ -41,7 +41,7 @@ A Red dragon that stands about 100 Ft high, WEaring a spiked collar with Sayichi
 ~
 human~
 AI 0 -1 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none

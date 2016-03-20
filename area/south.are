@@ -19,7 +19,7 @@ blsck top hat.
 ~
 human~
 ABG 0 350 0
-500 4
+4
 5 5 5 5 5 
 100 100
 punch
@@ -38,7 +38,7 @@ A large android is here taking zenni and letting folks into the rave.
 ~
 human~
 ABG 0 0 0
-1000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -55,7 +55,7 @@ The bartender serves up drinks to customers.
 ~
 human~
 ABG 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -73,7 +73,7 @@ The DJ is here mixin a sweet track.
 ~
 human~
 ABGS 0 0 0
-200000 111
+111
 5 5 5 5 5 
 100 100
 punch
@@ -89,7 +89,7 @@ A dancer gets down and jiggy
 ~
 human~
 AG 0 0 0
-150000 96
+96
 5 5 5 5 5 
 100 100
 punch
@@ -107,7 +107,7 @@ A personal trainer stands here waiting to train someone.
 ~
 human~
 ABJ 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -125,7 +125,7 @@ A lovely young lady stands here waiting for business.
 ~
 human~
 A 0 0 0
-2000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -143,7 +143,7 @@ The Great Saiya-man is here fighting crime.
 ~
 half-breed~
 AS 0 1000 0
-25000000000 0
+0
 100 100 100 100 100 
 100 100
 none
@@ -161,7 +161,7 @@ The Hotel greeter stands here, welcoming people into the hotel with a smile.
 ~
 human~
 ABS 0 0 0
-150000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -180,7 +180,7 @@ The receptionist is waiting to hand out room keys.
 ~
 human~
 AB 0 0 0
-750 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -199,7 +199,7 @@ A stout male stands here watching over his store.
 ~
 human~
 AB 0 0 0
-50000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -217,7 +217,7 @@ A hostess is here.
 ~
 human~
 AB 0 0 0
-150000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -236,7 +236,7 @@ A business woman is here rushing down the street.
 ~
 human~
 A 0 0 0
-2000 0
+0
 8 12 15 9 11 
 100 100
 none
@@ -252,7 +252,7 @@ A muscular looking woman stands here waiting for you to make a decision.
 ~
 human~
 AB 0 0 0
-1000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -270,7 +270,7 @@ A speed bag is hanging here.
 ~
 human~
 A 0 0 0
-500000000000 0
+0
 0 0 0 0 0 
 5000 5000
 none
@@ -288,7 +288,7 @@ A Scientist running back and foward.
 ~
 human~
 ABa 0 0 0
-3000000 173
+173
 80 80 80 80 80 
 100 100
 punch
@@ -306,7 +306,7 @@ An Old man Sits here quietly.
 ~
 human~
 ABa 0 0 0
-200000 44
+44
 70 70 70 70 70 
 100 100
 punch

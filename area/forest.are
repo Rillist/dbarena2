@@ -21,7 +21,7 @@ a hazzle color and seem to change withthe light movments.
 ~
 human~
 ABG 0 0 0
-40000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -38,7 +38,7 @@ A black rat with a long pinkish tail
 ~
 human~
 AFG 0 -500 0
-500000 11
+11
 5 5 5 5 5 
 100 100
 punch
@@ -56,7 +56,7 @@ Bosnia is standing here looking at you
 ~
 human~
 ABGc 0 -500 0
-300000000 5773
+5773
 84 84 84 84 84 
 100 100
 punch
@@ -77,7 +77,7 @@ Droshnia is standing here with Bosnia
 ~
 human~
 ABGc 0 -500 0
-300000000 5773
+5773
 84 84 84 84 84 
 100 100
 punch
@@ -96,7 +96,7 @@ Charsha Watches you come through, but he looks jelous
 ~
 human~
 ABGc 0 -500 0
-300000000 5773
+5773
 84 84 84 84 84 
 100 100
 punch
@@ -115,7 +115,7 @@ Geaea is stanging here enshoured in a bright light
 ~
 human~
 ABGR 0 -500 0
-2000000000 14907
+14907
 220 220 220 220 220 
 100 100
 punch
@@ -136,7 +136,7 @@ A herd of deer quietly grazing
 ~
 android~
 AP 0 0 0
-2000000000 4472
+4472
 165 165 165 165 165 
 100 100
 smash
@@ -153,7 +153,7 @@ A guard stands here, ready for battle
 ~
 human~
 ABGS 0 0 0
-4000000000 5000
+5000
 185 185 185 185 185 
 100 100
 punch
@@ -169,7 +169,7 @@ A brown squirrel looking for a nut
 ~
 human~
 ABGP 0 0 0
-200000000 3535
+3535
 63 63 63 63 63 
 100 100
 punch
@@ -191,7 +191,7 @@ empty room.
 ~
 human~
 ABGO T 0 0
-700000000 0
+0
 200 200 200 200 200 
 100 100
 none
@@ -211,7 +211,7 @@ armor for which to protect him.  He is no amature beware.
 ~
 human~
 ABG DFJ -50 0
-700000000 6614
+6614
 118 118 118 118 118 
 100 100
 punch
@@ -232,7 +232,7 @@ they do. They are outfitted in crimson armor to go with their namesake.
 ~
 human~
 ABGR 0 -50 0
-650000000 6373
+6373
 114 114 114 114 114 
 100 100
 punch
@@ -253,7 +253,7 @@ core with the latest in protective gear.
 ~
 human~
 ABGR 0 0 0
-700000000 6614
+6614
 118 118 118 118 118 
 100 100
 punch
@@ -273,7 +273,7 @@ wings.  It screams a piercing cry as it sees its prey.
 ~
 human~
 AGP T -200 0
-300000000 4330
+4330
 77 77 77 77 77 
 100 100
 punch
@@ -292,7 +292,7 @@ A large {Dbat{x like creature is waiting on the ledge.
 ~
 human~
 ABG 0 -50 0
-500000000 5590
+5590
 100 100 100 100 100 
 100 100
 punch
@@ -310,7 +310,7 @@ Small green bush that has lots of leaves
 ~
 human~
 ABQ 0 0 0
-125 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -329,7 +329,7 @@ A small child about the age of 7
 ~
 saiya-jin~
 A 0 0 0
-300000000000 1500
+1500
 86 86 86 86 86 
 100 100
 punch
@@ -347,7 +347,7 @@ spikes on the tail look very sharp though, and slightly bloodstained.
 ~
 android~
 AGP 0 0 0
-500000000 2236
+2236
 134 134 134 134 134 
 100 100
 crush
@@ -367,7 +367,7 @@ A soldier part of the icer's "Saiyan Extermination Squad"
 ~
 icer~
 AG 0 0 0
-5000000 0
+0
 10 10 10 10 10 
 100 100
 none

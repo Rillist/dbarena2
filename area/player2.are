@@ -17,7 +17,7 @@ A fighter
 ~
 icer~
 AB 0 0 0
-50000000000 -11000
+-11000
 236 236 236 236 236 
 100 100
 slash
@@ -33,7 +33,7 @@ Mezmeri~
 ~
 human~
 ABSa 0 0 0
-1000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -53,7 +53,7 @@ A Mezmeri is here waiting to train you.
 ~
 human~
 ABJ 0 0 0
-1000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -72,7 +72,7 @@ A person
 ~
 human~
 AB B 0 0
-2000000 141
+141
 78 78 78 78 78 
 100 100
 punch
@@ -90,7 +90,7 @@ A machine that reads attack power
 ~
 human~
 AB 0 0 0
-400000 63
+63
 72 72 72 72 72 
 16960 100
 punch
@@ -611,7 +611,7 @@ S
 #4757
 Living Quarters~
 ~
-0 8 0
+0 12 0
 S
 #4758
 Commanding Quarters~
@@ -712,12 +712,12 @@ A large, blank room covered in white, the only decoration the room has is
 a grand black fighting mat.  The mat has little sploches of red decorating
 it, but aside from that is a plain padded fighting mat.  
 ~
-0 8 0
+0 12 0
 S
 #4766
 Alik's Quarters~
 ~
-0 8 0
+0 12 0
 S
 #4767
 War Room~
@@ -734,12 +734,12 @@ S
 #4768
 Zierk's Bedroom~
 ~
-0 0 0
+0 4 0
 S
 #4769
 Redemption's Quarters~
 ~
-0 0 0
+0 4 0
 S
 #4799
 {GY{go{Gs{gh{Gi{g'{Gs {RI{Ms{Rl{Ma{Rn{Md{x~

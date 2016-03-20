@@ -17,7 +17,7 @@ A Viper that has been stepped on and made mad
 ~
 snake~
 AF M -1000 0
-2000 3
+3
 10 10 10 10 10 
 100 100
 none
@@ -35,7 +35,7 @@ A Solid Black Pregnant Female Jaguar
 ~
 cat~
 AF Z 1000 0
-2000 200
+200
 10 10 10 10 10 
 100 100
 claw
@@ -51,7 +51,7 @@ A small but deadly bumble bee
 ~
 centipede~
 ABF JZ 556 0
-2000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -67,7 +67,7 @@ A Giant Tyranosaurus Rex
 ~
 lizard~
 AF 0 -1000 0
-20000 20000
+20000
 40 10 10 10 10 
 100 100
 chomp
@@ -83,7 +83,7 @@ no name~
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -108,7 +108,7 @@ has horn like things comeing from the top of his head.
 ~
 human~
 AP J 0 0
-4999500 100
+100
 50 2 0 0 1 
 100 100
 none
@@ -124,7 +124,7 @@ A dorky looking person
 ~
 human~
 A 0 0 0
-10000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -142,7 +142,7 @@ A Giant Golden Dragon, With razor sharp claws and teeth is here.
 ~
 dragon~
 A HJT 1000 0
-2000000000 50
+50
 10 10 10 10 1698 
 100 1
 flame

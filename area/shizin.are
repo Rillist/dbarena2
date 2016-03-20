@@ -17,7 +17,7 @@ A huge and raging dragon is ready to fight
 ~
 dragon~
 AS JTV 1000 0
-6000000000 7745
+7745
 199 199 199 199 199 
 100 100
 punch
@@ -34,7 +34,7 @@ Krillin is here.
 ~
 human~
 AR 0 0 0
-1000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -52,7 +52,7 @@ Krillin is here
 ~
 human~
 A 0 0 0
-1000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -70,7 +70,7 @@ The Supream Kai stands here.
 ~
 human~
 ABRS T 1000 0
-2000000000000 94280
+94280
 624 624 624 624 624 
 100 100
 punch
@@ -88,7 +88,7 @@ Kibito stands here guarding his master.
 ~
 human~
 ABRS T 1000 0
-500000000000 47140
+47140
 450 450 450 450 450 
 100 100
 punch
@@ -104,7 +104,7 @@ Test mob
 ~
 human~
 A B 0 0
-500 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -122,7 +122,7 @@ Cell is here.
 ~
 bio-android~
 ARS Td 0 0
-250000000000 25000
+25000
 1 353 353 1 353 
 1 100
 punch
@@ -138,11 +138,11 @@ The Monster who hides in the Shadows is here looking.
 ~
 bio-android~
 AFRS HJTZc -1000 0
-1000000000000 100000
+100000
 560 560 560 560 560 
 100 -31072
 punch
-1000 1000 1000 1000
+0 0 0 0
 0 0 0 0
 stand stand none 27000
 AHMV ABCDEFGHIJK large unknown
@@ -153,12 +153,12 @@ az~
 ~
 ~
 human~
-0 H 1000 0
-500000000000 70710
+A H 1000 0
+70710
 480 480 480 480 480 
 100 100
 slash
-7071 7071 7071 7071
+0 0 0 0
 0 0 0 0
 stand stand male 22704
 AHMV ABCDEFGHIJK large unknown
@@ -170,7 +170,7 @@ A small green hedge is here.
 ~
 human~
 AH 0 0 0
-300000000 1732
+1732
 125 125 125 125 125 
 100 100
 none
@@ -186,7 +186,7 @@ A little butterfly is flying softly.
 ~
 human~
 AH 0 0 0
-1000000000 1581
+1581
 88 88 88 88 88 
 100 100
 slash

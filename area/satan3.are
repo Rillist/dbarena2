@@ -20,7 +20,7 @@ unnecessary, but that he wears it anyway to accent his rugged pirate look.
 ~
 human~
 AB 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -40,11 +40,11 @@ Blurg is a four leged beast with no skin driping blood everywhere and long whip 
 ~
 human~
 AB 0 0 0
-800000000000 89442
+89442
 532 532 532 532 532 
 100 100
 punch
-8 8 8 8
+0 0 0 0
 0 0 0 0
 stand stand none 25535
 0 ABCDEHQ large unknown

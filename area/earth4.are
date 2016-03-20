@@ -19,7 +19,7 @@ enough to tear most people apart.
 ~
 bear~
 AGP 0 -300 0
-200000 44
+44
 70 70 70 70 70 
 100 100
 punch
@@ -37,7 +37,7 @@ Not as big as some of the older bucks this one could still hurt someone.
 ~
 dog~
 AGP 0 300 0
-150000 38
+38
 69 69 69 69 69 
 100 100
 punch
@@ -53,7 +53,7 @@ A soaring eagle
 ~
 human~
 AGP 0 0 0
-100000 105
+105
 35 50 50 30 70 
 100 100
 punch
@@ -72,7 +72,7 @@ A large black bear looking to weight about 400lbs.
 ~
 human~
 AGP 0 0 0
-750000 86
+86
 74 74 74 74 74 
 100 100
 punch
@@ -91,7 +91,7 @@ A huge black bear that looks to weight in at about 650 lbs.
 ~
 human~
 AGP 0 0 0
-900000 63
+63
 45 45 45 45 45 
 100 100
 claw
@@ -110,7 +110,7 @@ A baby dinosaur eating something that was killed recently.
 ~
 human~
 AGP 0 0 0
-1500000 122
+122
 77 77 77 77 77 
 100 100
 punch
@@ -130,7 +130,7 @@ here looking for a meal.
 ~
 human~
 AGP 0 0 0
-3000000 173
+173
 80 80 80 80 80 
 100 100
 punch
@@ -148,7 +148,7 @@ A large red adult T-rex
 ~
 human~
 AGP 0 0 0
-5000000 223
+223
 83 83 83 83 83 
 100 100
 punch
@@ -166,7 +166,7 @@ A large blue adult T-rex
 ~
 human~
 AGP 0 0 0
-4000000 200
+200
 82 82 82 82 82 
 100 100
 chomp
@@ -184,7 +184,7 @@ A large android that looks identical to a human man
 ~
 android~
 AGRS 0 0 0
-5000000 223
+223
 83 83 83 83 83 
 100 100
 punch
@@ -200,7 +200,7 @@ An android looking much like a human female is here
 ~
 android~
 AGS 0 0 0
-10000000 316
+316
 88 88 88 88 88 
 100 100
 punch
@@ -216,7 +216,7 @@ A large brown rock covered in dirt
 ~
 human~
 AGQ 0 -9000 0
-125 0
+0
 35 35 35 35 35 
 100 100
 punch

@@ -20,7 +20,7 @@ suppossed to be looking for something ?  Get back to work !
 ~
 cat~
 A Z -750 0
-10000 33
+33
 5 5 5 5 5 
 100 100
 punch
@@ -36,7 +36,7 @@ Frieza is here picking off people left and right.
 ~
 icer~
 A 0 -750 0
-80000000000 94280
+94280
 220 220 220 220 220 
 100 100
 punch
@@ -52,9 +52,9 @@ Buuu~
 Buu is very fat and child like.  He likes the simple things in life and
 likes to turn people into candy!!!  
 ~
-majin~
+human~
 A 0 0 0
-190000000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -72,7 +72,7 @@ The Receptionist for the Annual Genki Dama Rp Tournament is wearing a
 ~
 human~
 AB 0 0 0
-7 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -91,7 +91,7 @@ A Hologram Computer rests here, waiting for input.
 ~
 human~
 A 0 0 0
-1000 10
+10
 5 5 5 5 5 
 100 100
 punch
@@ -110,7 +110,7 @@ A Level One Warrior stands here looking very afraid.
 ~
 human~
 AR 0 0 0
-1000000 333
+333
 5 5 5 5 5 
 100 100
 punch
@@ -130,7 +130,7 @@ A Level Two Warrior stands here on guard.
 ~
 human~
 AR 0 0 0
-10000000 1054
+1054
 15 15 15 15 15 
 100 100
 punch
@@ -150,7 +150,7 @@ A Level Three Warrior stands here ready to attack.
 ~
 human~
 AR 0 0 0
-50000000 2357
+2357
 34 34 34 34 34 
 100 100
 punch
@@ -170,7 +170,7 @@ A Level Four Warrior stands here with confidence.
 ~
 human~
 AS 0 0 0
-100000000 3333
+3333
 48 48 48 48 48 
 100 100
 punch

@@ -1,10 +1,10 @@
 ../area/social.are
-../area/help_wiz.are
-../area/help_skills.are
-../area/help_rom.are
-../area/help_olc.are
-../area/help_new.are
 ../area/help.are
+../area/help_new.are
+../area/help_olc.are
+../area/help_rom.are
+../area/help_skills.are
+../area/help_wiz.are
 ../area/limbo.are
 ../area/aehall.are
 ../area/android1.are

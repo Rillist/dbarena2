@@ -17,7 +17,7 @@ A biomess oozing along the floor
 ~
 human~
 AGQ 0 0 0
-100000000 500
+500
 50 50 50 50 50 
 100 100
 punch
@@ -35,7 +35,7 @@ icerian bot~
 ~
 android~
 AS 0 0 0
-800000000 1414
+1414
 84 84 84 84 84 
 100 100
 punch
@@ -57,7 +57,7 @@ sort, and the other is twisted in rage.
 ~
 android~
 AGS T 0 0
-400000000 2000
+2000
 130 130 130 130 130 
 100 100
 punch
@@ -76,7 +76,7 @@ words, with a foreign tongue hard to understand.
 ~
 human~
 ABGJY 0 -1000 0
-40 38729
+38729
 371 371 371 371 371 
 100 100
 punch
@@ -94,7 +94,7 @@ The clan barkeepe
 ~
 icer~
 ABGYa 0 0 0
-100000 15
+15
 8 8 8 8 8 
 100 100
 punch
@@ -110,7 +110,7 @@ A huge {DBlack {SRottweiler{x
 ~
 wolf~
 APab TZ 0 0
-1680 2
+2
 5 5 5 5 5 
 100 100
 punch
@@ -135,7 +135,7 @@ out a name.  The name says Kaath as it begins to shudder and ooze slime.
 ~
 snake~
 ABIab T 0 0
-1680 2
+2
 5 5 5 5 5 
 100 100
 punch
@@ -152,7 +152,7 @@ A Gordon Setter with Black and Brown fur waits here
 ~
 wolf~
 ABIab TZ 0 0
-1234 1
+1
 5 5 5 5 5 
 100 100
 punch

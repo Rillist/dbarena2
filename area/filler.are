@@ -19,7 +19,7 @@ Yagtoe, A robed hunchbacked being.
 ~
 human~
 ABS 0 -1000 0
-1600000000 42163
+42163
 250 220 220 250 220 
 100 100
 punch
@@ -39,7 +39,7 @@ Kondoor, an Icerian Yagtoe minion.
 ~
 icer~
 AS 0 -1000 0
-3000000000 5477
+5477
 177 177 177 177 177 
 100 100
 punch
@@ -57,7 +57,7 @@ Stiefan, a human Yagtoe lacky.
 ~
 human~
 A 0 -1000 0
-2000000000 4472
+4472
 165 165 165 165 165 
 100 100
 punch
@@ -75,7 +75,7 @@ Perfect Cell, a biologically perfect warrior.
 ~
 bio-android~
 AS 0 -1000 0
-125000000 1118
+1118
 112 112 112 112 112 
 100 100
 punch
@@ -91,7 +91,7 @@ Oolong~
 ~
 human~
 AP 0 -100 0
-4 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -109,7 +109,7 @@ Crotonius, a minion of Yagtoe.
 ~
 saiya-jin~
 A 0 -1000 0
-75000000 866
+866
 106 106 106 106 106 
 100 100
 punch
@@ -126,11 +126,11 @@ Fat Janemba~
 ~
 human~
 ARS 0 -1000 0
-50000000000000 707106
+707106
 1000 1000 1000 1000 1000 
 100 100
 punch
-7071 7071 7071 7071
+0 0 0 0
 0 0 0 0
 stand stand none 71796
 AHMV ABCDEFGHIJK huge unknown
@@ -144,11 +144,11 @@ To be written...
 ~
 saiya-jin~
 ABRS 0 1000 0
-1000000000000 100000
+100000
 560 560 560 560 560 
 100 100
 punch
-1000 1000 1000 1000
+0 0 0 0
 0 0 0 0
 stand stand male 27000
 AHMV ABCDEFGHIJK large unknown

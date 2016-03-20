@@ -17,7 +17,7 @@ A marching band welcoming competitors with much fanfare
 ~
 human~
 AB 0 1000 0
-5000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -36,7 +36,7 @@ young monk~
 ~
 human~
 A 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -54,7 +54,7 @@ An old monk writing down names of registering fighters
 ~
 human~
 AB 0 0 0
-5000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -72,7 +72,7 @@ An old monk, directing spectators to the stands
 ~
 human~
 AB 0 0 0
-5000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -93,7 +93,7 @@ The owner of the snack bar selling various products
 ~
 human~
 AB 0 0 0
-4000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -111,7 +111,7 @@ A short and rather fat doctor.
 ~
 human~
 Aa 0 0 0
-100 0
+0
 10 10 10 10 10 
 100 100
 none

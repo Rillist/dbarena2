@@ -17,7 +17,7 @@ A large, black cat roaming around here
 ~
 human~
 AFGP 0 0 0
-600000000 8164
+8164
 119 119 119 119 119 
 100 100
 punch
@@ -35,7 +35,7 @@ A guard checking for tenants' pass
 ~
 human~
 ABGR 0 0 0
-500000000 200
+200
 8 8 8 8 8 
 100 100
 punch
@@ -56,7 +56,7 @@ Bob is raking the grounds with some sort of rake
 ~
 human~
 AGW 0 0 0
-550000000 7817
+7817
 114 114 114 114 114 
 100 100
 punch
@@ -73,7 +73,7 @@ A strange black flower.
 ~
 human~
 AB 0 -200 0
-800000000 9428
+9428
 138 138 138 138 138 
 100 100
 punch
@@ -91,7 +91,7 @@ An eccentric botanist in a white coat
 ~
 bio-android~
 AGS 0 0 0
-700000000 8819
+8819
 129 129 129 129 129 
 100 100
 punch
@@ -107,7 +107,7 @@ A humming meditator
 ~
 human~
 ABS 0 0 0
-1200000000 11547
+11547
 169 169 169 169 169 
 100 100
 punch
@@ -125,7 +125,7 @@ Ladifolia the pixie
 ~
 human~
 AS 0 0 0
-1000000000 10540
+10540
 155 155 155 155 155 
 100 100
 punch
@@ -143,7 +143,7 @@ A small blue poison arrow frog
 ~
 human~
 A 0 0 0
-800000000 9428
+9428
 138 138 138 138 138 
 100 100
 punch
@@ -161,7 +161,7 @@ A travelling salesman is standing here
 ~
 human~
 AG 0 0 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -179,7 +179,7 @@ Susa
 ~
 saiya-jin~
 AGQRY 0 0 0
-10000000000 6666
+6666
 188 188 188 188 188 
 100 100
 punch
@@ -195,7 +195,7 @@ Raven Kamasaki
 ~
 saiya-jin~
 AGQ 0 0 0
-5000000000 4714
+4714
 162 162 162 162 162 
 100 100
 punch
@@ -211,7 +211,7 @@ XtraPhobia
 ~
 saiya-jin~
 AGRY 0 0 0
-1000000000 2108
+2108
 118 118 118 118 118 
 100 100
 punch
@@ -227,7 +227,7 @@ A guard is here patroling.
 ~
 icer~
 AB 0 0 0
-10000000000 5000
+5000
 158 158 158 158 158 
 7000 7000
 punch
@@ -243,7 +243,7 @@ Changer
 ~
 human~
 ABYd 0 0 0
-100 2
+2
 5 5 5 5 5 
 100 100
 punch
@@ -261,7 +261,7 @@ A woman with a {bblue{x blazer
 ~
 human~
 ABQ 0 0 0
-10000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -279,7 +279,7 @@ A tall man with {bblue{x blazer
 ~
 human~
 ABQ 0 0 0
-10000 0
+0
 10 10 10 10 10 
 100 100
 none

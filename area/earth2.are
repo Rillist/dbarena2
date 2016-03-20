@@ -20,7 +20,7 @@ black hair.  He has a fair but rough complexion and is always smiling.
 ~
 human~
 ABGR Ja 100 0
-500000 235
+235
 50 50 50 50 50 
 100 100
 punch
@@ -43,7 +43,7 @@ brown hair and big brown eyes.
 ~
 human~
 AG 0 750 0
-400000 210
+210
 45 45 45 45 45 
 100 100
 punch
@@ -62,7 +62,7 @@ A man in uniform that has a wild look in his eyes.
 ~
 elf~
 ABG J 750 0
-50000 55
+55
 20 20 20 20 20 
 100 100
 punch
@@ -80,7 +80,7 @@ liqours and flies hang about him.  He's very disgusting.
 ~
 human~
 ABG J 0 0
-5000 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -99,7 +99,7 @@ lesson, from his bitter expression and clenched fists.
 ~
 human~
 AFG J -500 0
-75000 68
+68
 25 25 25 25 25 
 100 100
 punch
@@ -117,7 +117,7 @@ and keeping the inmates safe from one another.
 ~
 human~
 ABGR J 750 0
-85000 20
+20
 35 35 35 35 35 
 100 100
 punch
@@ -136,7 +136,7 @@ A short fat woman with green eyes is here.
 ~
 human~
 ABG J 750 0
-10 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -156,7 +156,7 @@ very attractive.
 ~
 human~
 AG J 750 0
-10000 7
+7
 5 5 5 5 5 
 100 100
 punch
@@ -176,7 +176,7 @@ they're ok.
 ~
 human~
 AG J 500 0
-5000 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -195,7 +195,7 @@ One day, this boy plans to be a doctor.
 ~
 human~
 AG 0 0 0
-7500 2
+2
 5 5 5 5 5 
 100 100
 punch
@@ -212,7 +212,7 @@ A man lies here suffering in agony. He looks very old and decrepit.
 ~
 human~
 ABG J 0 0
-20 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -229,7 +229,7 @@ He's quite sleek and sly.
 ~
 saiya-jin~
 ABG BJPQ 1000 0
-5000 3333333
+3333333
 220 220 220 220 220 
 100 100
 punch
@@ -250,7 +250,7 @@ smells like he's not bathed either.  This man is in very poor shape.
 ~
 human~
 AG 0 0 0
-35000 62
+62
 35 35 35 35 35 
 100 100
 punch
@@ -270,7 +270,7 @@ eaten in a few days.
 ~
 human~
 AG 0 0 0
-25000 31
+31
 15 15 15 15 15 
 100 100
 punch
@@ -290,7 +290,7 @@ slicked back and his nose in the air, he's very high class.
 ~
 human~
 ABGJK J 0 0
-10000000 1054
+1054
 15 15 15 15 15 
 100 100
 punch
@@ -310,7 +310,7 @@ She always bears a smile, hoping to be tipped largely.
 ~
 human~
 ABGJK 0 0 0
-1000 3
+3
 5 5 5 5 5 
 100 100
 punch
@@ -333,7 +333,7 @@ food.
 ~
 human~
 ABGP J 250 0
-750 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -351,7 +351,7 @@ A short man with a white apron stands before you.
 ~
 human~
 AG 0 0 0
-1000000000 7905
+7905
 141 141 141 141 141 
 100 100
 punch
@@ -369,7 +369,7 @@ A large man with buldging muscles stands here.
 ~
 human~
 ABGS J 250 0
-12000000000 14907
+14907
 220 220 220 220 220 
 100 100
 punch
@@ -388,7 +388,7 @@ The zen master sits here meditating in his quiet corner.
 ~
 human~
 ABGS J 1000 0
-20000000 1490
+1490
 22 22 22 22 22 
 100 100
 punch
@@ -413,7 +413,7 @@ sampling his cooking.
 ~
 human~
 ABG J 750 0
-1000 500
+500
 10 10 10 10 10 
 100 100
 slap
@@ -433,7 +433,7 @@ HOW ODD !!!!!
 ~
 human~
 ABGLP J 0 0
-2500 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -452,7 +452,7 @@ A citizen of Satan City wanders about the city doing their daily routine.
 ~
 human~
 AGP J 0 0
-10000 33
+33
 10 10 10 10 10 
 100 100
 punch
@@ -469,7 +469,7 @@ A police officer walks the streets, keeping it safe for everyone.
 ~
 human~
 AGR J 750 0
-200000 149
+149
 27 27 27 27 27 
 100 100
 punch
@@ -486,7 +486,7 @@ A ratty child with ragged clothing plays here.
 ~
 human~
 AGP J 200 0
-3000 13
+13
 10 10 10 10 10 
 100 100
 punch
@@ -504,7 +504,7 @@ school that Gohan attended.
 ~
 human~
 AGP J 0 0
-2500 16
+16
 7 7 7 7 7 
 100 100
 punch
@@ -521,7 +521,7 @@ A lady with a purse and a credit card, watch out !
 ~
 human~
 AGP J 100 0
-95 3
+3
 5 5 5 5 5 
 100 100
 punch
@@ -538,7 +538,7 @@ A lady is here and she's ready to shop, look out world, here she comes !
 ~
 human~
 AGP J 0 0
-125 2
+2
 5 5 5 5 5 
 100 100
 punch
@@ -556,7 +556,7 @@ cop one day.
 ~
 human~
 AGR J 150 0
-900 10
+10
 5 5 5 5 5 
 100 100
 punch
@@ -575,7 +575,7 @@ might break if you hit him too hard.
 ~
 human~
 ABG J 100 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -594,7 +594,7 @@ cash wallet, watch out.
 ~
 human~
 ABG J 100 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -612,7 +612,7 @@ An odd looking man is here dressed in unusual apparel.
 ~
 human~
 ABG J 100 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -630,7 +630,7 @@ A very rich man stands here selling all kinds of jewelry.
 ~
 human~
 ABG J 100 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -649,7 +649,7 @@ wool cap down over his ears to keep them warm.
 ~
 human~
 AGR 0 1 0
-4000 21
+21
 5 5 5 5 5 
 100 100
 punch
@@ -668,7 +668,7 @@ A huge smelly black rat it here.
 ~
 human~
 AGP 0 0 0
-150 4
+4
 5 5 5 5 5 
 100 100
 punch
@@ -688,7 +688,7 @@ over things as he tried to make his way back to his ship.
 ~
 human~
 AGR 0 0 0
-2500 16
+16
 5 5 5 5 5 
 100 100
 punch
@@ -707,7 +707,7 @@ A man cloaked in black wanders about here.
 ~
 namek~
 AGS 0 0 0
-500000 235
+235
 5 5 5 5 5 
 100 100
 punch
@@ -725,7 +725,7 @@ A cloaked figure roams about Satan City.
 ~
 human~
 AS P 0 0
-100000000 1000
+1000
 110 110 110 110 110 
 100 100
 punch
@@ -745,7 +745,7 @@ he's coming toward you, oh no !
 ~
 namek~
 AG 0 0 0
-1000 10
+10
 5 5 5 5 5 
 10 100
 punch
