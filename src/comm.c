@@ -1168,6 +1168,26 @@ char *get_colour_percent (long long int num, long long int denom) {
     return buf;
 }
 
+char *get_colour_percent_rev (long long int num, long long int denom) {
+    static char buf[3];
+    long long int percent = 100 * num / denom;
+    if (percent > 90)
+        sprintf (buf, "{R");
+    else if (percent > 75)
+        sprintf (buf, "{r");
+    else if (percent > 60)
+        sprintf (buf, "{y");
+    else if (percent > 45)
+        sprintf (buf, "{Y");
+    else if (percent > 30)
+        sprintf (buf, "{W");
+    else if (percent > 15)
+        sprintf (buf, "{g");
+    else
+        sprintf (buf, "{G");
+    return buf;
+}
+
 
 /*
  * Bust a prompt (player settable prompt)
