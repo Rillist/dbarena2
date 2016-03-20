@@ -186,7 +186,7 @@ void violence_update (void)
             if (HAS_TRIGGER_MOB (ch, TRIG_HPCNT))
                 p_hprct_trigger (ch, victim);
         }
-		
+
 		for ( obj = ch->carrying; obj; obj = obj_next )
 		{
 			obj_next = obj->next_content;
@@ -326,7 +326,7 @@ bool mobai_warrior (CHAR_DATA *ch, CHAR_DATA *victim) {
     int n, sn;
 
     // Below 10% health, 1 in 3 chance
-    if (number_range(1, 3) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 10) {
+    if (IS_SET (ch->act, ACT_WIMPY) && number_range(1, 3) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 10) {
         if (ch->balance < 7)
             do_function (ch, &do_retreat, "");
         else
@@ -434,7 +434,7 @@ bool mobai_kiwarrior (CHAR_DATA *ch, CHAR_DATA *victim) {
     int n, sn;
 
     // Below 10% health, 1 in 3 chance
-    if (number_range(1, 3) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 10) {
+    if (IS_SET (ch->act, ACT_WIMPY) && number_range(1, 3) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 10) {
         if (ch->balance < 7)
             do_function (ch, &do_retreat, "");
         else
@@ -579,7 +579,7 @@ void mob_hit (CHAR_DATA * ch, CHAR_DATA * victim, int dt) {
 		return;
 
 
-	if (ch->ki < 1) {
+	if (IS_SET (ch->act, ACT_WIMPY) && ch->ki < 1) {
         if (ch->balance < 7)
             do_function (ch, &do_retreat, "");
         else
@@ -590,7 +590,7 @@ void mob_hit (CHAR_DATA * ch, CHAR_DATA * victim, int dt) {
 	// Animals
 	if (IS_SET(ch->act, ACT_ANIMAL)) {
 		// Below 25% health, 1 in 2 chance
-		if (number_range(1, 2) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 25) {
+		if (IS_SET (ch->act, ACT_WIMPY) && number_range(1, 2) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 25) {
             if (ch->balance < 7)
                 do_function (ch, &do_retreat, "");
             else
@@ -614,7 +614,7 @@ void mob_hit (CHAR_DATA * ch, CHAR_DATA * victim, int dt) {
 	// Everything else defaults to ACT_CIVILIAN behavior
 	else {
 		// Below 10% health, 1 in 3 chance
-		if (number_range(1, 3) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 10) {
+		if (IS_SET (ch->act, ACT_WIMPY) && number_range(1, 3) == 1 && 100 * ch->hit / UMAX(1,ch->max_hit) < 10) {
 		    if (ch->balance < 7)
                 do_function (ch, &do_retreat, "");
             else
@@ -1278,7 +1278,7 @@ bool is_safe_spell (CHAR_DATA * ch, CHAR_DATA * victim, bool area)
             if (IS_SET (victim->act, PLR_HOSTILE)
                 || IS_SET (victim->act, PLR_THIEF))
                 return FALSE;
-            
+
             //if (!is_clan (victim))
             //    return TRUE;
         }
@@ -1419,7 +1419,7 @@ void update_pos (CHAR_DATA * victim)
         victim->position = POS_UNCONSCIOUS;
         return;
     }
-    
+
     if (victim->hit <= -11)
         victim->position = POS_DEAD;
     else if (victim->hit <= -6)
@@ -1828,10 +1828,10 @@ struct finishMoveData finishMoveTable[] = {
 		                       "You form a small ball of ki and throw it at $N's head, landing a direct shot to the face!  $N's body falls in a heap to the ground, completely decapitated!",
 	                           "$n forms a small ball of ki and throws it at your head, landing a direct shot to your face!  You fall in a heap to the ground, completely decapitated!"},
 	{&gsn_energy_ball,  4, -1, "Ki flares up around $n as $e forms a ball of energy above $s head and throws it at $N, watching it explode in a bright light!",
-	                           "Ki flares up around you as you form a ball of energy above your head and throw it at $N, watching it explode in a bright light!", 
+	                           "Ki flares up around you as you form a ball of energy above your head and throw it at $N, watching it explode in a bright light!",
 	                           "Ki flares up around $n as $e forms a ball of energy above $s head and throws it at you.  The ball explodes in a bright light!"},
-    {&gsn_energy_ball,  6, -1, "$N wavers, about to fall, when $n creates a small, powerful ball of energy and throws it at $S chest, hollowing out where $S heart used to be!", 
-	                           "$N wavers, about to fall, when you create a small, powerful ball of energy and throws it at $S chest, hollowing out where $S heart used to be!", 
+    {&gsn_energy_ball,  6, -1, "$N wavers, about to fall, when $n creates a small, powerful ball of energy and throws it at $S chest, hollowing out where $S heart used to be!",
+	                           "$N wavers, about to fall, when you create a small, powerful ball of energy and throws it at $S chest, hollowing out where $S heart used to be!",
 							   "You waver, about to fall, when $n creates a small, powerful ball of energy and throws it at your chest, hollowing out where your heart used to be!"},
 	{&gsn_energy_ball,  8, -1, "$n charges up a good sized ball of energy and throws it at $N, taking $S entire head off just above the shoulders!",
 	                           "You charge up a good sized ball of energy and throws it at $N, taking $S entire head off just above the shoulders!",
@@ -1857,7 +1857,7 @@ void FinishMessage (CHAR_DATA * pCh, CHAR_DATA * pVictim, long long int llDam, i
 	if (nDt < 0 || nDt > MAX_SKILL) {
 		dam_message (pCh, pVictim, llDam, nDt, bImmune);
 		return;
-	}    
+	}
 
 	for (i = 0; finishMoveTable[i].pGsn; ++i) {
         // See if its the right skill
@@ -1867,7 +1867,7 @@ void FinishMessage (CHAR_DATA * pCh, CHAR_DATA * pVictim, long long int llDam, i
 		if (finishMoveTable[i].nTransform != -1 && finishMoveTable[i].nTransform != GetTrans(pCh))
 			continue;
 		// Check if skill is closer to the character's actual skill, but don't want to go over
-		if (nMove == -1 || 
+		if (nMove == -1 ||
 			(finishMoveTable[i].nSkillLvl > finishMoveTable[nMove].nSkillLvl &&
              finishMoveTable[i].nSkillLvl <= get_skill(pCh, nDt)))
 			nMove = i;
@@ -1875,7 +1875,7 @@ void FinishMessage (CHAR_DATA * pCh, CHAR_DATA * pVictim, long long int llDam, i
 	if (nMove == -1) {
 		dam_message (pCh, pVictim, llDam, nDt, bImmune);
 		return;
-	}    
+	}
 
     if (llDam > 0) {
         sprintf (szBuf1, "%s (%Ld)", finishMoveTable[nMove].szToRoom, llDam);
@@ -2420,8 +2420,8 @@ void do_disarm (CHAR_DATA * ch, char *argument)
 
     /* find weapon skills */
     ch_weapon = get_skill(ch, get_weapon_sn(ch));
-    vict_weapon = get_skill(victim, get_weapon_sn(victim)); 
-    ch_vict_weapon = get_skill(ch, get_weapon_sn(victim)); 
+    vict_weapon = get_skill(victim, get_weapon_sn(victim));
+    ch_vict_weapon = get_skill(ch, get_weapon_sn(victim));
 
     /* modifiers */
 
@@ -3182,7 +3182,7 @@ void skill_hyperpunch (CHAR_DATA *ch, void *vo, int target) {
         if (number_range(1,100) < (skill - 120))
             ++nNumAttacks;
             */
-        nNumAttacks = URANGE(1, skill / 50, 4);            
+        nNumAttacks = URANGE(1, skill / 50, 4);
 
         for (i = 0; i < nNumAttacks; ++i) {
             if (!check_hit(ch, vch, gsn_hand_to_hand, get_defend_skill(vch, DEF_DODGE|DEF_PARRY|DEF_SHIELD), 1, i == 0 ? TRUE : FALSE)) {
@@ -3476,7 +3476,7 @@ void skill_energy_slash (CHAR_DATA *ch, void *vo, int target) {
 		sendch("Your target has left the room.\n\r",ch);
 		return;
 	}
-      
+
     wield = get_eq_char(ch, WEAR_WIELD);
     if (wield == NULL)
         return;
