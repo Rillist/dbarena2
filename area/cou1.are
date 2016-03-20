@@ -72,17 +72,18 @@ This guy looks like he will be an easy battle.
 mpmload 403
 ~
 human~
-ABG 0 0 0
+ABGR 0 0 0
 200
-3 3 10 3 5 
-150 400
+3 3 3 3 30 
+70 400
 punch
 0 0 0 0
 0 0 0 0
-stand stand none 25
-b ADEFKOX medium unknown
+stand stand male 25
+b BCDEFIKOX medium unknown
 F for AHMV
-F par BCGHIJ
+F par AGHJ
+M DEATH 403 100~
 #404
 fighter~
 A Fighter~
@@ -91,17 +92,18 @@ A Fighter is here looking nervous.
 Mpmload 404
 ~
 human~
-ABGP 0 0 0
+ABGR 0 10 0
 200
-10 10 10 10 10 
-150 400
+10 7 7 10 50 
+70 400
 slap
 0 0 0 0
 0 0 0 0
 stand stand female 50
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFIK medium unknown
+F for AHV
+F par GHJ
+M DEATH 404 100~
 #405
 better fighter~
 A Better Fighter~
@@ -111,17 +113,18 @@ Mpmload 405
 punch
 ~
 human~
-ABGP 0 -50 0
+ABGR 0 25 0
 200
-15 25 15 10 15 
-150 400
+15 15 15 10 45 
+85 400
 punch
 0 0 0 0
 0 0 0 0
 stand stand male 100
-b ADEFKOX medium unknown
+b ABCDEFGHIK medium unknown
 F for AHMV
-F par BCGHIJ
+F par J
+M DEATH 405 100~
 #406
 advanced fighter~
 An Advanced Fighter~
@@ -213,17 +216,18 @@ This guy looks like he will be an easy battle.
 mpmload 410
 ~
 human~
-ABGP 0 0 0
+ABGR 0 0 0
 200
-4 10 4 3 3 
-150 400
+3 3 3 3 30 
+70 400
 punch
 0 0 0 0
 0 0 0 0
 stand stand none 25
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+MV ABCDEFIJK medium unknown
+F for AH
+F par GH
+M DEATH 410 100~
 #411
 fighter~
 A Fighter~
@@ -234,15 +238,15 @@ Mpmload 411
 human~
 ABGP 0 0 0
 200
-10 10 10 10 10 
+6 6 6 6 40 
 150 400
 slap
 0 0 0 0
 0 0 0 0
-stand stand none 50
-b ADEFKOX medium unknown
+stand stand male 50
+b ABCDEFGIJK medium unknown
 F for AHMV
-F par BCGHIJ
+F par H
 #412
 better fighter~
 A Better Fighter~
@@ -594,7 +598,7 @@ latex~
 1
 armor R AG
 ABCD ABCD ABCD ABCD 0
-500 1 500 P
+500 1 200 P
 A
 1 2
 #403
@@ -605,7 +609,7 @@ latex~
 1
 armor R AG
 ABCD ABCD ABCD ABCD 0
-100 1 500 P
+100 1 200 P
 A
 2 2
 #404
@@ -616,7 +620,7 @@ A pair of white pants are laying here.~
 1
 armor R AF
 ABCD ABCD ABCD ABCD 0
-100 1 450 P
+100 1 100 P
 A
 1 1
 #405
@@ -627,7 +631,7 @@ A pair of black pants are laying here.~
 1
 armor R AF
 ABCD ABCD ABCD ABCD 0
-100 1 450 P
+100 1 100 P
 A
 2 1
 #406
@@ -638,11 +642,11 @@ A pair of camo pants are laying here.~
 1
 armor R AF
 ABCD ABCD ABCD ABCD 0
-100 1 500 P
-A
-2 2
+100 1 300 P
 A
 1 -1
+A
+2 2
 #407
 white shirt~
 a {wWhite{x shirt {w[{rSTR{w:{R1{w]{x~
@@ -651,7 +655,7 @@ A white shirt is laying here.~
 1
 armor R AD
 ABCD ABCD ABCD ABCD 0
-100 1 450 P
+100 1 100 P
 A
 1 1
 #408
@@ -662,7 +666,7 @@ A black shirt is laying here.~
 1
 armor R AD
 ABCD ABCD ABCD ABCD 0
-100 1 250 P
+100 1 100 P
 A
 2 1
 #409
@@ -673,11 +677,11 @@ A camo shirt is laying here.~
 1
 armor R AD
 ABCD ABCD ABCD ABCD 0
-100 1 500 P
-A
-1 -1
+100 1 300 P
 A
 2 2
+A
+1 -1
 #410
 white gloves~
 a pair of {wWhite{x gloves {w[{rSTR{w:{R2{w]{x~
@@ -686,7 +690,7 @@ A pair of white gloves are laying here.~
 1
 armor R AH
 ABCD ABCD ABCD ABCD 0
-100 1 500 P
+100 1 200 P
 A
 1 2
 #411
@@ -697,7 +701,7 @@ A pair of black gloves are laying here.~
 1
 armor R AH
 ABCD ABCD ABCD ABCD 0
-100 1 500 P
+100 1 200 P
 A
 2 2
 #412
@@ -710,11 +714,11 @@ armor RX AK
 ADE ADE ADE ADE 0
 100 1 1000 P
 A
-13 100
+20 1
 A
 12 100
 A
-20 1
+13 100
 #413
 ii battle armor~
 Class II battle armor~
@@ -725,11 +729,11 @@ armor RX AK
 BEF BEF BEF BEF 0
 1000 1 10000 P
 A
-20 2
+13 1000
 A
 12 1000
 A
-13 1000
+20 2
 #414
 iii battle armor~
 Class III battle armor~
@@ -740,11 +744,11 @@ armor RX AK
 ABDG ABDG ABDG ABDG 0
 10000 1 100000 P
 A
-20 3
+13 10000
 A
 12 10000
 A
-13 10000
+20 3
 #415
 iv battle armor~
 Class IV battle armor~
@@ -755,11 +759,11 @@ armor RX AK
 CFG CFG CFG CFG 0
 100000 1 1000000 P
 A
-20 4
+13 100000
 A
 12 100000
 A
-13 100000
+20 4
 #416
 i scouter~
 a class I Scouter {w[{gINT{w:{G1{w]{x~
@@ -803,9 +807,9 @@ armor ABX AD
 0 0 0 0 0
 1000000 1 25000 P
 A
-4 1
-A
 3 3
+A
+4 1
 #420
 v scouter~
 a class V Scouter {w[{gINT{w:{G3{cWIL{w:{C2{w]{x~
@@ -816,9 +820,9 @@ armor Xa AS
 0 0 0 0 0
 10000000 1 50000 P
 A
-3 3
-A
 4 2
+A
+3 3
 #421
 vi scouter~
 a class VI Scouter {w[{gINT{w:{G3{cWIL{w:{C3{w]{x~
@@ -829,9 +833,9 @@ armor Xa AS
 0 0 0 0 0
 100000000 1 100000 P
 A
-3 3
-A
 4 3
+A
+3 3
 #422
 a brightly glowing orb~
 a brightly glowing orb~
@@ -1864,6 +1868,7 @@ D5
 ~
 ~
 0 -1 411
+M 1000 H 1000
 S
 #463
 Equipment Repair Lab~
@@ -2891,6 +2896,7 @@ D4
 ~
 ~
 0 -1 511
+M 1000 H 1000
 S
 #563
 Equipment Repair Lab~
@@ -3008,15 +3014,15 @@ G 0 418 0 A class iii scouter {w[{gint{w:{g3{w]{x is given to The store owner
 G 0 419 0 A class iv scouter {w[{gint{w:{g3{cwil{w:{c1{w]{x is given to The store owner
 G 0 420 0 A class v scouter {w[{gint{w:{g3{cwil{w:{c2{w]{x is given to The store owner
 G 0 421 0 A class vi scouter {w[{gint{w:{g3{cwil{w:{c3{w]{x is given to The store owner
-M 0 403 1 434 1 Load A Newbie Fighter
+M 0 403 4 434 1 Load A Newbie Fighter
 M 0 417 1 434 1 Load An Apprentice Medic
-M 0 403 1 435 1 Load A Newbie Fighter
-M 0 403 1 436 1 Load A Newbie Fighter
-M 0 403 1 437 1 Load A Newbie Fighter
-M 0 404 1 438 1 Load A Fighter
-M 0 404 1 439 1 Load A Fighter
-M 0 404 1 440 1 Load A Fighter
-M 0 404 1 441 1 Load A Fighter
+M 0 403 4 435 1 Load A Newbie Fighter
+M 0 403 4 436 1 Load A Newbie Fighter
+M 0 403 4 437 1 Load A Newbie Fighter
+M 0 404 4 438 1 Load A Fighter
+M 0 404 4 439 1 Load A Fighter
+M 0 404 4 440 1 Load A Fighter
+M 0 404 4 441 1 Load A Fighter
 M 0 405 1 442 1 Load A Better Fighter
 M 0 405 1 443 1 Load A Better Fighter
 M 0 417 1 443 1 Load An Apprentice Medic
@@ -3069,10 +3075,11 @@ G 0 418 0 A class iii scouter {w[{gint{w:{g3{w]{x is given to The store owner
 G 0 419 0 A class iv scouter {w[{gint{w:{g3{cwil{w:{c1{w]{x is given to The store owner
 G 0 420 0 A class v scouter {w[{gint{w:{g3{cwil{w:{c2{w]{x is given to The store owner
 G 0 421 0 A class vi scouter {w[{gint{w:{g3{cwil{w:{c3{w]{x is given to The store owner
-M 0 410 1 534 1 Load A Newbie Fighter
+M 0 410 4 534 1 Load A Newbie Fighter
 M 0 417 1 534 1 Load An Apprentice Medic
-M 0 410 1 535 1 Load A Newbie Fighter
-M 0 410 1 536 1 Load A Newbie Fighter
+M 0 410 4 535 1 Load A Newbie Fighter
+M 0 410 4 536 1 Load A Newbie Fighter
+M 0 410 4 537 1 Load A Newbie Fighter
 M 0 410 1 537 1 Load A Newbie Fighter
 M 0 411 1 538 1 Load A Fighter
 M 0 411 1 539 1 Load A Fighter
@@ -3119,13 +3126,17 @@ S
 
 
 #MOBPROGS
+#403
+mob mload 403
+~
+#404
+load mload 404
+~
+#405
+load mload 405
+~
 #410
--
->
--
--
- 
- 
+mob mload 410
 ~
 #417
 echo _whi $I asks, 'Do you need some medical assistance?'
