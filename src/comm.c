@@ -1250,6 +1250,19 @@ void bust_a_prompt (CHAR_DATA * ch)
                 sprintf (buf2, "%s%d{x", get_colour_percent(ch->balance, 10), ch->balance);
                 i = buf2;
                 break;
+            case 'B':
+                if(ch->fighting != NULL)
+                {
+                    sprintf (buf2, "%s%d{x", get_colour_percent_rev(ch->fighting->balance, 10), ch->fighting->balance);
+                } else {
+                    sprintf (buf2, "{W%d{x", 0);
+                }
+                i = buf2;
+                break;
+            case 'c':
+                sprintf (buf2, "%s", "\n\r");
+                i = buf2;
+                break;
             case 'e':
                 found = FALSE;
                 doors[0] = '\0';
@@ -1270,8 +1283,8 @@ void bust_a_prompt (CHAR_DATA * ch)
                 sprintf (buf2, "%s", doors);
                 i = buf2;
                 break;
-            case 'c':
-                sprintf (buf2, "%s", "\n\r");
+            case 'g':
+                sprintf (buf2, "%ld", ch->zenni);
                 i = buf2;
                 break;
             case 'h':
@@ -1290,6 +1303,14 @@ void bust_a_prompt (CHAR_DATA * ch)
                 sprintf (buf2, "{G%d{x", ch->max_ki);
                 i = buf2;
                 break;
+            case 'o':
+                sprintf (buf2, "%s", olc_ed_name (ch));
+                i = buf2;
+                break;
+            case 'O':
+                sprintf (buf2, "%s", olc_ed_vnum (ch));
+                i = buf2;
+                break;
             case 'p':
 				sprintf (buf2, "%s", format_pl(ch->nCurPl * ch->llPl / 100));
                 i = buf2;
@@ -1298,10 +1319,10 @@ void bust_a_prompt (CHAR_DATA * ch)
 				sprintf (buf2, "%s", format_pl(ch->llPl));
                 i = buf2;
                 break;
-            case 'g':
-                sprintf (buf2, "%ld", ch->zenni);
-                i = buf2;
-                break;
+            case 'q':
+				sprintf (buf2, "%ds", ch->charge / PULSE_SECOND);
+				i = buf2;
+				break;
             case 'r':
                 if (ch->in_room != NULL)
                     sprintf (buf2, "%s",
@@ -1322,33 +1343,40 @@ void bust_a_prompt (CHAR_DATA * ch)
                     sprintf (buf2, " ");
                 i = buf2;
                 break;
-            case 'z':
-                if (IS_IMMORTAL (ch) && ch->in_room != NULL)
-                    sprintf (buf2, "%s", ch->in_room->area->name);
-                else
-                    sprintf (buf2, " ");
+            case 't':
+                if(ch->fighting != NULL)
+                {
+                    sprintf (buf2, "%s%d{x", get_colour_percent(ch->fighting->hit, ch->fighting->max_hit), ch->fighting->hit);
+                } else {
+                    sprintf (buf2, "{W%d{x", 0);
+                }
+                i = buf2;
+                break;
+            case 'T':
+                if(ch->fighting != NULL)
+                {
+                    sprintf (buf2, "{G%d{x", ch->fighting->max_hit);
+                } else {
+                    sprintf (buf2, "{W%d{x", 0);
+                }
                 i = buf2;
                 break;
 			case 'w':
 				sprintf (buf2, "%ds", (ch->wait > ch->wait_skill ? ch->wait : ch->wait_skill) / PULSE_SECOND);
 				i = buf2;
 				break;
-			case 'q':
-				sprintf (buf2, "%ds", ch->charge / PULSE_SECOND);
-				i = buf2;
-				break;
+			case 'z':
+                if (IS_IMMORTAL (ch) && ch->in_room != NULL)
+                    sprintf (buf2, "%s", ch->in_room->area->name);
+                else
+                    sprintf (buf2, " ");
+                i = buf2;
+                break;
             case '%':
                 sprintf (buf2, "%%");
                 i = buf2;
                 break;
-            case 'o':
-                sprintf (buf2, "%s", olc_ed_name (ch));
-                i = buf2;
-                break;
-            case 'O':
-                sprintf (buf2, "%s", olc_ed_vnum (ch));
-                i = buf2;
-                break;
+
         }
         ++str;
         while ((*point = *i) != '\0')
