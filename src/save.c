@@ -195,8 +195,8 @@ void fwrite_char (CHAR_DATA * ch, FILE * fp)
         fprintf (fp, "Desc %s~\n", ch->description);
     if (ch->immtitle != NULL)
     fprintf( fp, "Immtitle %s~\n",  ch->immtitle);
-    if (ch->prompt != NULL || !str_cmp (ch->prompt, "{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{X%b{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x")
-        || !str_cmp (ch->prompt, "<Wa[%w] Ch[%q] Ba[%b]>%c<Hp[%h] Ki[%k] PL[%p/%P]>"))
+    if (ch->prompt != NULL || !str_cmp (ch->prompt, "{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{x%b{R/{x%B{R]{D Ta{R[{x%t{R/{x%T{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x%c")
+        || !str_cmp (ch->prompt, "<Wa[%w] Ch[%q] Ba[%b] Ta[%t/%T]>%c<Hp[%h] Ki[%k] PL[%p/%P]>"))
         fprintf (fp, "Prom %s~\n", ch->prompt);
     fprintf (fp, "Race %s~\n", pc_race_table[ch->race].name);
     if (ch->clan)
@@ -587,7 +587,7 @@ bool load_char_obj (DESCRIPTOR_DATA * d, char *name)
     ch->race = race_lookup ("human");
     ch->act = PLR_NOSUMMON;
     ch->comm = COMM_COMBINE | COMM_PROMPT;
-    ch->prompt = str_dup ("{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{X%b{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x");
+    ch->prompt = str_dup ("{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{x%b{R/{x%B{R]{D Ta{R[{x%t{R/{x%T{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x%c");
     ch->pcdata->confirm_delete = FALSE;
 	ch->pcdata->board = &boards[DEFAULT_BOARD];
     ch->pcdata->pwd = str_dup ("");

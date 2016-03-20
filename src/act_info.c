@@ -1059,7 +1059,7 @@ void do_prompt (CHAR_DATA * ch, char *argument)
     }
 
     if (!strcmp (argument, "all"))
-        strcpy (buf, "{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{X%b{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x");
+        strcpy (buf, "{W<{DWa{R[{x%w{R]{D Ch{R[{X%q{R]{D Ba{R[{x%b{R/{x%B{R]{D Ta{R[{x%t{R/{x%T{R]{W>{x%c{W<{DHp{R[{x%h{R]{D Ki{R[{x%k{R]{D PL{R[{x%p{R/{x%P{R]{W>{x%c");
     else
     {
         if (strlen (argument) > 100)
