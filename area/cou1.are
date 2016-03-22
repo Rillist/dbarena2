@@ -130,21 +130,21 @@ advanced fighter~
 An Advanced Fighter~
 An Advanced Fighter is here jumping around practicing his moves.
 ~
-Mpmload 406
-kick
+Kick
 ~
 human~
-ABGP 0 -100 0
+ABGPR 0 50 0
 200
-15 35 15 15 15 
-150 400
+20 20 20 20 75 
+80 400
 punch
 0 0 0 0
 0 0 0 0
 stand stand male 400
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFHK medium unknown
+F for AHV
+F par GIJ
+M DEATH 406 100~
 #407
 supreme fighter~
 A Supreme Fighter~
@@ -155,17 +155,18 @@ punch
 kick
 ~
 human~
-ABGP 0 -300 0
+ABGS 0 100 0
 200
-20 46 20 20 20 
+20 30 20 20 100 
 150 400
 pierce
 0 0 0 0
 0 0 0 0
 stand stand female 500
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFGHIK medium unknown
+F for AHV
+F par J
+M DEATH 407 100~
 #408
 ultimate fighter~
 An Ultimate Fighter~
@@ -176,17 +177,18 @@ Mpmload 208
 kamehameha
 ~
 human~
-ABGP 0 -500 0
+ABGS 0 200 0
 200
-25 55 25 25 25 
+25 40 25 25 125 
 150 400
 slash
 0 0 0 0
 0 0 0 0
 stand stand male 500
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFGIK medium unknown
+F for AHV
+F par HJ
+M DEATH 408 100~
 #409
 master fighter~
 The Master Fighter~
@@ -196,17 +198,18 @@ Mpmload 409
 'gallic gun'
 ~
 human~
-ABGP 0 -750 0
+ABGRS 0 400 0
 200
-30 100 30 30 30 
-150 400
+30 40 30 30 175 
+100 400
 slash
 0 0 0 0
 0 0 0 0
 stand stand male 1000
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFGIK medium unknown
+F for AHV
+F par HJ
+M DEATH 409 100~
 #410
 newbie fighter~
 A Newbie Fighter~
@@ -236,17 +239,18 @@ A Fighter is here looking nervous.
 Mpmload 411
 ~
 human~
-ABGP 0 0 0
+ABGR 0 -10 0
 200
-6 6 6 6 40 
-150 400
+10 7 7 10 50 
+70 400
 slap
 0 0 0 0
 0 0 0 0
-stand stand male 50
-b ABCDEFGIJK medium unknown
-F for AHMV
+stand stand female 50
+M ABCDEFGIJK medium unknown
+F for AHV
 F par H
+M DEATH 411 100~
 #412
 better fighter~
 A Better Fighter~
@@ -256,17 +260,18 @@ Mpmload 412
 punch
 ~
 human~
-ABGP 0 50 0
+ABGR 0 -25 0
 200
-15 25 15 15 15 
-150 400
+15 15 15 10 45 
+85 400
 punch
 0 0 0 0
 0 0 0 0
 stand stand male 100
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFGHK medium unknown
+F for AHV
+F par IJ
+M DEATH 412 100~
 #413
 advanced fighter~
 An Advanced Fighter~
@@ -276,17 +281,18 @@ Mpmload 413
 kick
 ~
 human~
-ABGP 0 100 0
+ABGP 0 -50 0
 200
-15 35 15 15 15 
-150 400
+20 20 20 20 75 
+80 400
 punch
 0 0 0 0
 0 0 0 0
 stand stand male 400
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFHIJK medium unknown
+F for AHV
+F par G
+M DEATH 413 100~
 #414
 supreme fighter~
 A Supreme Fighter~
@@ -297,17 +303,17 @@ punch
 kick
 ~
 human~
-ABGP 0 500 0
+ABGS 0 -100 0
 200
-20 46 20 20 20 
+20 30 20 20 100 
 150 400
 pierce
 0 0 0 0
 0 0 0 0
-stand stand none 500
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+stand stand female 500
+M ABCDEFGHIJK medium unknown
+F for AHV
+M DEATH 414 100~
 #415
 ultimate fighter~
 An Ultimate Fighter~
@@ -318,17 +324,17 @@ Mpmload 415
 kamehameha
 ~
 human~
-ABGP 0 500 0
+ABGS 0 -200 0
 200
-25 55 25 25 25 
+25 40 25 25 125 
 150 400
 slash
 0 0 0 0
 0 0 0 0
-stand stand none 500
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+stand stand male 500
+M ABCDEFGHIJK medium unknown
+F for AHV
+M DEATH 415 100~
 #416
 master fighter~
 The Master Fighter~
@@ -338,17 +344,18 @@ Mpmload 416
 'gallic gun'
 ~
 human~
-ABGP 0 750 0
+ABGS 0 -400 0
 200
-30 100 30 30 30 
-150 400
+30 40 30 30 175 
+100 400
 slash
 0 0 0 0
 0 0 0 0
 stand stand male 1000
-b ADEFKOX medium unknown
-F for AHMV
-F par BCGHIJ
+M ABCDEFGIJK medium unknown
+F for AHV
+F par H
+M DEATH 416 100~
 #417
 medic~
 An Apprentice Medic~
@@ -3023,29 +3030,29 @@ M 0 404 4 438 1 Load A Fighter
 M 0 404 4 439 1 Load A Fighter
 M 0 404 4 440 1 Load A Fighter
 M 0 404 4 441 1 Load A Fighter
-M 0 405 1 442 1 Load A Better Fighter
-M 0 405 1 443 1 Load A Better Fighter
+M 0 405 4 442 1 Load A Better Fighter
+M 0 405 4 443 1 Load A Better Fighter
 M 0 417 1 443 1 Load An Apprentice Medic
-M 0 405 1 444 1 Load A Better Fighter
-M 0 405 1 445 1 Load A Better Fighter
-M 0 406 1 446 1 Load An Advanced Fighter
-M 0 406 1 447 1 Load An Advanced Fighter
-M 0 406 1 448 1 Load An Advanced Fighter
-M 0 406 1 449 1 Load An Advanced Fighter
-M 0 407 1 450 1 Load A Supreme Fighter
-M 0 407 1 451 1 Load A Supreme Fighter
-M 0 407 1 452 1 Load A Supreme Fighter
-M 0 407 1 453 1 Load A Supreme Fighter
+M 0 405 4 444 1 Load A Better Fighter
+M 0 405 4 445 1 Load A Better Fighter
+M 0 406 4 446 1 Load An Advanced Fighter
+M 0 406 4 447 1 Load An Advanced Fighter
+M 0 406 4 448 1 Load An Advanced Fighter
+M 0 406 4 449 1 Load An Advanced Fighter
+M 0 407 4 450 1 Load A Supreme Fighter
+M 0 407 4 451 1 Load A Supreme Fighter
+M 0 407 4 452 1 Load A Supreme Fighter
+M 0 407 4 453 1 Load A Supreme Fighter
 M 0 417 1 453 1 Load An Apprentice Medic
-M 0 408 1 454 1 Load An Ultimate Fighter
+M 0 408 4 454 1 Load An Ultimate Fighter
 M 0 417 1 454 1 Load An Apprentice Medic
-M 0 408 1 455 1 Load An Ultimate Fighter
-M 0 408 1 456 1 Load An Ultimate Fighter
-M 0 408 1 457 1 Load An Ultimate Fighter
-M 0 409 1 458 1 Load The Master Fighter
-M 0 409 1 459 1 Load The Master Fighter
-M 0 409 1 460 1 Load The Master Fighter
-M 0 409 1 461 1 Load The Master Fighter
+M 0 408 4 455 1 Load An Ultimate Fighter
+M 0 408 4 456 1 Load An Ultimate Fighter
+M 0 408 4 457 1 Load An Ultimate Fighter
+M 0 409 6 458 1 Load The Master Fighter
+M 0 409 6 459 1 Load The Master Fighter
+M 0 409 6 460 1 Load The Master Fighter
+M 0 409 6 461 1 Load The Master Fighter
 M 0 421 2 463 1 Load A Scientist
 M 0 426 1 470 1 Load An Icer Transporter
 M 0 401 2 514 1 Load The Master
@@ -3081,38 +3088,39 @@ M 0 410 4 535 1 Load A Newbie Fighter
 M 0 410 4 536 1 Load A Newbie Fighter
 M 0 410 4 537 1 Load A Newbie Fighter
 M 0 410 1 537 1 Load A Newbie Fighter
-M 0 411 1 538 1 Load A Fighter
-M 0 411 1 539 1 Load A Fighter
-M 0 411 1 540 1 Load A Fighter
-M 0 411 1 541 1 Load A Fighter
-M 0 412 1 542 1 Load A Better Fighter
+M 0 411 4 538 1 Load A Fighter
+M 0 411 4 539 1 Load A Fighter
+M 0 411 4 540 1 Load A Fighter
+M 0 411 4 541 1 Load A Fighter
+M 0 412 4 542 1 Load A Better Fighter
 M 0 417 1 542 1 Load An Apprentice Medic
+M 0 412 4 543 1 Load A Better Fighter
 M 0 412 1 543 1 Load A Better Fighter
+M 0 412 4 544 1 Load A Better Fighter
 M 0 412 1 544 1 Load A Better Fighter
-M 0 412 1 545 1 Load A Better Fighter
-M 0 413 1 546 1 Load An Advanced Fighter
-M 0 413 1 547 1 Load An Advanced Fighter
-M 0 413 1 548 1 Load An Advanced Fighter
-M 0 413 1 549 1 Load An Advanced Fighter
-M 0 414 1 550 1 Load A Supreme Fighter
+M 0 412 4 545 1 Load A Better Fighter
+M 0 413 4 546 1 Load An Advanced Fighter
+M 0 413 4 547 1 Load An Advanced Fighter
+M 0 413 4 548 1 Load An Advanced Fighter
+M 0 413 4 549 1 Load An Advanced Fighter
+M 0 414 4 550 1 Load A Supreme Fighter
 M 0 417 1 550 1 Load An Apprentice Medic
-M 0 414 1 551 1 Load A Supreme Fighter
-M 0 414 1 552 1 Load A Supreme Fighter
-M 0 414 1 553 1 Load A Supreme Fighter
-M 0 415 1 554 1 Load An Ultimate Fighter
-M 0 415 1 555 1 Load An Ultimate Fighter
-M 0 415 1 556 1 Load An Ultimate Fighter
-M 0 415 1 557 1 Load An Ultimate Fighter
-M 0 416 1 558 1 Load The Master Fighter
-M 0 417 1 558 1 Load An Apprentice Medic
-M 0 416 1 559 1 Load The Master Fighter
-M 0 416 1 560 1 Load The Master Fighter
-M 0 416 1 561 1 Load The Master Fighter
+M 0 414 4 551 1 Load A Supreme Fighter
+M 0 414 4 552 1 Load A Supreme Fighter
+M 0 414 4 553 1 Load A Supreme Fighter
+M 0 415 4 554 1 Load An Ultimate Fighter
+M 0 415 4 555 1 Load An Ultimate Fighter
+M 0 415 4 556 1 Load An Ultimate Fighter
+M 0 415 4 557 1 Load An Ultimate Fighter
+M 0 416 6 558 1 Load The Master Fighter
+M 0 416 6 559 1 Load The Master Fighter
+M 0 416 6 560 1 Load The Master Fighter
+M 0 416 6 561 1 Load The Master Fighter
 M 0 421 2 563 1 Load A Scientist
-M 0 416 1 564 1 Load The Master Fighter
-M 0 416 1 565 1 Load The Master Fighter
-M 0 409 1 566 1 Load The Master Fighter
-M 0 409 1 567 1 Load The Master Fighter
+M 0 416 6 564 1 Load The Master Fighter
+M 0 416 6 565 1 Load The Master Fighter
+M 0 409 6 566 1 Load The Master Fighter
+M 0 409 6 567 1 Load The Master Fighter
 S
 
 
@@ -3130,13 +3138,43 @@ S
 mob mload 403
 ~
 #404
-load mload 404
+mob mload 404
 ~
 #405
-load mload 405
+mob mload 405
+~
+#406
+mob mload 406
+~
+#407
+mob mload 407
+~
+#408
+mob mload 408
+~
+#409
+mob mload 409
 ~
 #410
 mob mload 410
+~
+#411
+mob mload 411
+~
+#412
+mob mload 412
+~
+#413
+mob mload 413
+~
+#414
+mob mload 414
+~
+#415
+mob mload 415
+~
+#416
+mob mload 416
 ~
 #417
 echo _whi $I asks, 'Do you need some medical assistance?'
