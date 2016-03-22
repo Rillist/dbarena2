@@ -4,13 +4,13 @@
 	<Project>
 		<Option title="dba2" />
 		<Option makefile_is_custom="1" />
-		<Option execution_dir="/home/chris/Desktop/dba2/src" />
+		<Option execution_dir="src" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
 				<Option output="src/dbarena" prefix_auto="1" extension_auto="1" />
-				<Option working_dir="/home/chris/Desktop/dba2/src" />
+				<Option working_dir="src" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
