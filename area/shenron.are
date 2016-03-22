@@ -44,8 +44,8 @@ none
 0 0 0 0
 stand stand male 1000
 AHMV ABCDEFGHIJK large unknown
-M SPEECH 4200 help~
 M SPEECH 4201 please~
+M SPEECH 4200 help~
 #4202
 lift manager~
 Lift manager~
@@ -62,8 +62,8 @@ none
 0 0 0 0
 stand stand male 1000
 AHMV ABCDEFGHIJK large unknown
-M GREET 4206 100~
 M DELAY 4207 100~
+M GREET 4206 100~
 #4203
 charon~
 Charon~
@@ -228,8 +228,8 @@ stand stand male 0
 M ABCDEFGK large unknown
 F for AHV
 F par HIJ
-M SPEECH 4205 sandworm~
 M GREET 4204 100~
+M SPEECH 4205 sandworm~
 #4211
 sandworm worm~
 a gigantic sandworm~
@@ -379,8 +379,8 @@ Ancient guacamole & salsa~
 weapon IXY AN
 exotic 50000000 50 shock ABCDEGH
 0 -31072 0 P
-O RANDOM 4201 60~
 O SPEECH 4200 wrath~
+O RANDOM 4201 60~
 #4297
 boots~
 leather boots~

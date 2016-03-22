@@ -916,10 +916,10 @@ to the close wall theres a cute {gGreen Couch{g to sit upon.
 0 4 0
 E
 sign~
+$ithe first of the names of the mobile/object itself (doesn't work on rooms).
 ~
 E
 sign~
-$ithe first of the names of the mobile/object itself (doesn't work on rooms).
 ~
 S
 #0

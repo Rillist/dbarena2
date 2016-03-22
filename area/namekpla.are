@@ -121,8 +121,8 @@ none
 0 DK 0 0
 stand stand none 0
 AHMV ABCDEFGHIJK medium unknown
-M DELAY 3801 100~
 M GREET 3800 100~
+M DELAY 3801 100~
 #3806
 namek~
 {G a strong namek.~
@@ -373,16 +373,16 @@ trash 0 0
 0 0 0 0 0
 0 0 0 P
 E
-feet~
-long {Y "How to entertain a stupid person for hours", look at it's eyes
+tail~
+{Y "How to entertain an idiot for hours"- - look at it's feet
 ~
 E
 eyes~
 long {Y "How to entertain a not-so-smart-person for hours", look at it's tail
 ~
 E
-tail~
-{Y "How to entertain an idiot for hours"- - look at it's feet
+feet~
+long {Y "How to entertain a stupid person for hours", look at it's eyes
 ~
 #3801
 blasts~

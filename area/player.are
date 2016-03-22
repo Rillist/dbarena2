@@ -45,9 +45,9 @@ stand stand male 105
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 3502 100~
-M DELAY 3503 100~
 M DEATH 3504 100~
+M DELAY 3503 100~
+M GREET 3502 100~
 #3502
 Bob~
 Gardner Bob~
@@ -289,8 +289,8 @@ stand stand male 0
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M SPEECH 3507 yes~
 M GREET 3501 100~
+M SPEECH 3507 yes~
 #0
 
 
@@ -813,12 +813,12 @@ they are covered with blinds.
 ~
 0 8 0
 E
-screen~
+message~
 TV Off feature is disabled, please call the manufacturer and get the password. 
 Call 1-900-tv off is off(15zenni per second after the first second)
 ~
 E
-message~
+screen~
 TV Off feature is disabled, please call the manufacturer and get the password. 
 Call 1-900-tv off is off(15zenni per second after the first second)
 ~
@@ -842,8 +842,8 @@ D4
 ~
 ~
 1 0 3503
-R SPEECH 3502 tv on~
 R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
 S
 #3503
 Trezin and Kyja's Bedroom~
@@ -1083,12 +1083,12 @@ with the numbers '01' and '02' upon their doors.
 ~
 0 8 0
 E
-east~
-You see a door with the number '02' placed upon it.  
-~
-E
 west~
 You see a door with the number '01' placed upon it.  
+~
+E
+east~
+You see a door with the number '02' placed upon it.  
 ~
 D0
 ~
@@ -1115,12 +1115,12 @@ numbers '03' and '04' upon their doors.
 ~
 0 8 0
 E
-west~
-You see a door with the number '03' placed upon it.
-~
-E
 east~
 You see a door with the number '04' placed upon it.  
+~
+E
+west~
+You see a door with the number '03' placed upon it.
 ~
 D0
 ~
@@ -1147,12 +1147,12 @@ numbers '05' and '06' upon their doors.
 ~
 0 8 0
 E
-east~
-You see a door with the number '06' placed upon it.  
-~
-E
 west~
 You see a door with the number '05' placed upon it.  
+~
+E
+east~
+You see a door with the number '06' placed upon it.  
 ~
 D0
 ~
@@ -1179,12 +1179,12 @@ numbers '07' and '08' upon their doors.
 ~
 0 8 0
 E
-east~
-You see a door with the number '08' placed upon the door.  
-~
-E
 west~
 You see a door with the number '07' placed upon the door.  
+~
+E
+east~
+You see a door with the number '08' placed upon the door.  
 ~
 D0
 ~
@@ -1211,12 +1211,12 @@ and '10' upon their doors.
 ~
 0 8 0
 E
-west~
-You see a door with the number '09' placed upon the door.  
-~
-E
 east~
 You see a door with the number '10' placed upon the door.  
+~
+E
+west~
+You see a door with the number '09' placed upon the door.  
 ~
 D1
 ~
@@ -1286,8 +1286,8 @@ D3
 ~
 ~
 0 0 3524
-R SPEECH 3502 tv on~
 R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
 S
 #3524
 A small bedroom~
@@ -1320,8 +1320,8 @@ D3
 ~
 ~
 1 3525 3517
-R SPEECH 3502 tv on~
 R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
 S
 #3526
 A small bedroom~
@@ -1420,8 +1420,8 @@ D3
 ~
 ~
 0 0 3532
-R SPEECH 3502 tv on~
 R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
 S
 #3532
 A small bedroom~
@@ -1454,8 +1454,8 @@ D3
 ~
 ~
 1 3533 3519
-R SPEECH 3502 tv on~
 R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
 S
 #3534
 A small bedroom~
@@ -1554,8 +1554,8 @@ D3
 ~
 ~
 0 0 3540
-R SPEECH 3502 tv on~
 R SPEECH 3501 tv off~
+R SPEECH 3502 tv on~
 S
 #3540
 A small bedroom~
@@ -1735,12 +1735,12 @@ turquoise diamonds embroidered upon it's surface.
 ~
 0 8 0
 E
-message~
+screen~
 TV Off feature is disabled, please call the manufacturer and get the password. 
 Call 1-900-tv off is off(15zenni per second after the first second)
 ~
 E
-screen~
+message~
 TV Off feature is disabled, please call the manufacturer and get the password. 
 Call 1-900-tv off is off(15zenni per second after the first second)
 ~
@@ -1764,8 +1764,8 @@ D4
 ~
 ~
 1 3515 3554
-R SPEECH 3501 tv off~
 R SPEECH 3502 tv on~
+R SPEECH 3501 tv off~
 S
 #3550
 Sparring Sphere~

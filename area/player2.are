@@ -43,8 +43,8 @@ stand stand none 0
 0 0 large unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GRALL 4798 100~
 M SPEECH 4797 yes~
+M GRALL 4798 100~
 #4797
 Mezmeri~
 {xA Mezmerzi~
@@ -481,8 +481,8 @@ D0
 ~
 ~
 0 0 4700
-R SPEECH 3510 done~
 R SPEECH 4700 fill~
+R SPEECH 3510 done~
 S
 #4706
 Theater Room~
@@ -540,8 +540,8 @@ D3
 ~
 ~
 0 0 4753
-R SPEECH 4723 on~
 R SPEECH 4724 off~
+R SPEECH 4723 on~
 S
 #4752
 Armorine's Bedroom~
@@ -595,9 +595,9 @@ D2
 ~
 0 0 4751
 M 500 H 500
-R SPEECH 4720 fill~
-R SPEECH 4721 drain~
 R SPEECH 4722 done~
+R SPEECH 4721 drain~
+R SPEECH 4720 fill~
 S
 #4756
 Training Room~
@@ -728,8 +728,8 @@ wall, it currently shows the {YAndroid{D Elite{x symbol, but it will show
 you a image if you tell it to.  
 ~
 0 12 0
-R SPEECH 4796 namek~
 R SPEECH 4797 vegeta~
+R SPEECH 4796 namek~
 S
 #4768
 Zierk's Bedroom~

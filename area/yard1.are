@@ -279,8 +279,8 @@ stand stand male 140
 0 0 large unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 305 100~
 M BRIBE 308 1000~
+M GREET 305 100~
 #335
 Sand Worm~
 Sand Worm~
@@ -318,8 +318,8 @@ stand stand male 140
 0 0 large unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 306 100~
 M BRIBE 309 20000~
+M GREET 306 100~
 #337
 Yardrat Teacher~
 Yardrat Teacher~
@@ -338,8 +338,8 @@ stand stand none 140
 0 0 large unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 307 100~
 M BRIBE 310 100000~
+M GREET 307 100~
 #338
 Baby Sandworm~
 Baby Sandworm~

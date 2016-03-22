@@ -1085,15 +1085,15 @@ S
 Do not Mod Room !~
 ~
 0 4 0
-R SPEECH 4396 prog1~
 R DELAY 4397 100~
+R SPEECH 4396 prog1~
 S
 #4398
 Transport Shuttle~
 ~
 0 4 0
-R DELAY 4398 100~
 R ACT 4399 sits~
+R DELAY 4398 100~
 S
 #4399
 Gohan's Room~

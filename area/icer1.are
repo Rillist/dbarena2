@@ -169,10 +169,10 @@ none
 0 0 0 0
 stand stand none 0
 AHMV ABCDEFGHIJK medium unknown
-M GREET 708 100~
-M SPEECH 707 yes~
-M SPEECH 706 33476~
 M SPEECH 709 no~
+M SPEECH 706 33476~
+M SPEECH 707 yes~
+M GREET 708 100~
 #709
 janitor robot~
 the robo-janitor~

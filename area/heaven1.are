@@ -27,8 +27,8 @@ stand stand none 0
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 3100 100~
 M SPEECH 3111 yes~
+M GREET 3100 100~
 #3101
 south kai~
 South Kai~
@@ -145,8 +145,8 @@ stand stand none 0
 MV ABE medium unknown
 F for AH
 F par CDFGHIJK
-M SPEECH 3105 yes~
 M GREET 3106 100~
+M SPEECH 3105 yes~
 #3107
 gatekeeper~
 the gatekeeper~
@@ -168,8 +168,8 @@ stand stand none 0
 MV ABE medium unknown
 F for AH
 F par CDFGHIJK
-M SPEECH 3104 yes~
 M GREET 3107 100~
+M SPEECH 3104 yes~
 #3108
 gatekeeper~
 the gatekeeper~
@@ -191,8 +191,8 @@ stand stand none 0
 MV ABE medium unknown
 F for AH
 F par CDFGHIJK
-M SPEECH 3103 yes~
 M GREET 3108 100~
+M SPEECH 3103 yes~
 #3109
 gatekeeper~
 the gatekeeper~
@@ -214,8 +214,8 @@ stand stand none 0
 MV ABE medium unknown
 F for AH
 F par CDFGHIJK
-M SPEECH 3102 yes~
 M GREET 3109 100~
+M SPEECH 3102 yes~
 #3110
 gatekeeper~
 the gatekeeper~
@@ -237,8 +237,8 @@ stand stand none 0
 MV ABE medium unknown
 F for AH
 F par CDFGHIJK
-M SPEECH 3101 yes~
 M GREET 3110 100~
+M SPEECH 3101 yes~
 #3111
 fighter~
 a practicing fighter~
@@ -433,8 +433,8 @@ stand stand none 105
 MV AB medium unknown
 F for AH
 F par CDEFGHIJK
-M GRALL 3147 100~
 M DEATH 3146 100~
+M GRALL 3147 100~
 #3150
 Grand Kai~
 Grand Kai~
@@ -453,8 +453,8 @@ stand stand none 0
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M ACT 3151 bow~
 M SPEECH 3152 home~
+M ACT 3151 bow~
 #3198
 slug~
 a slug~

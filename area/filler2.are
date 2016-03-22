@@ -75,18 +75,16 @@ furniture 0 0
 A 0 E 0 0
 0 0 0 P
 E
-chair~
-With grooved arms, a reclining back and hydrolic pressure rings,
-the chair appears to be fashioned for perpetual, tedious hours
-behind the desk.
+chrome~
+With grooved arms, a reclining back and hydrolic pressure rings, the chair
+appears to be fashioned for perpetual, tedious hours behind the desk.
 ~
 E
-chair~
-With grooved arms, a reclining back and hydrolic pressure rings, the
-chair appears to be fashioned for perpetual, tedious hours behind the desk. 
+chrome~
+appears to be fashioned for perpetual, tedious hours behind the desk.
 ~
 E
-chair~
+chrome~
 With grooved arms, a reclining back and hydrolic pressure rings, the chair
 appears to be fashioned for perpetual, tedious hours behind the desk.
 ~
@@ -96,18 +94,20 @@ With grooved arms, a reclining back and hydrolic pressure rings, the chair
 appears to be fashioned for perpetual, tedious hours behind the desk.
 ~
 E
-chrome~
+chair~
 With grooved arms, a reclining back and hydrolic pressure rings, the chair
 appears to be fashioned for perpetual, tedious hours behind the desk.
 ~
 E
-chrome~
-appears to be fashioned for perpetual, tedious hours behind the desk.
+chair~
+With grooved arms, a reclining back and hydrolic pressure rings, the
+chair appears to be fashioned for perpetual, tedious hours behind the desk. 
 ~
 E
-chrome~
-With grooved arms, a reclining back and hydrolic pressure rings, the chair
-appears to be fashioned for perpetual, tedious hours behind the desk.
+chair~
+With grooved arms, a reclining back and hydrolic pressure rings,
+the chair appears to be fashioned for perpetual, tedious hours
+behind the desk.
 ~
 #4802
 desk granite angled~
@@ -119,55 +119,7 @@ furniture 0 0
 B 0 EG 0 0
 0 0 0 P
 E
-desk~
-Formatted at a one-hundred-and-forty-five-degree angle,
-facing out to the room from the corner, the desk proves to be
-a comforting, work-efficient and tactical advantage; on the angled
-section of the desk, three computer monitors cover the surface, and two
-keyboards fill the last of the gap. On its opposite end, the portion used for handling actual
-face-to-face business; a neatly arranged stack of papers, laser- and regular pens, and 
-pencils are placed into an iron-grid cup. The latter section of the furniture's surface gives
-an open view of the room, its monstrous fireplace, and the only exit within the quarters.
-~
-E
-desk~
-Formatted at a one-hundred-and-forty-five-degree angle, facing out to the room from the 
-corner, the desk proves to be a comforting, work-efficient and tactical advantage; on the
-angled section of the desk, three computer monitors cover the surface, and two key-
-boards fill the last of the gap. On its opposite end, the portion used for handling actual
-face-to-face business; a neatly arranged stack of papers, laser- and regular pens, and
-pencils are placed into an iron-grid cup. The latter section of the furniture's surface gives
-an open view of the room, its monstrous fireplace, and the only exit within the quarters.
-~
-E
-desk~
-~
-E
-desk~
-Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
-room from the corner, the desk proves to be a comforting, work-efficient and
-tactical advantage; on the angled section of the desk, three computer
-monitors cover the surface, and two key- boards fill the last of the gap. 
-On its opposite end, the portion used for handling actual face-to-face
-business; a neatly arranged stack of papers, laser- and regular pens, and
-pencils are placed into an iron-grid cup.  The latter section of the
-furniture's surface gives an open view of the room, its monstrous fireplace,
-and the only exit within the quarters.  
-~
-E
-desk~
-Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
-room from the corner, the desk proves to be a comforting, work-efficient and
-tactical advantage; on the angled section of the desk, three computer moni-
-tors cover the surface, and two keyboards fill the last of the gap. On its 
-opposite end, the portion used for handling actual face-to-face business; a 
-neatly arranged stack of papers, laser- and regular pens, and pencils are 
-placed into an iron-grid cup.  The latter section of the furniture's surface gives 
-an open view of the room, its monstrous fireplace, and the only exit within 
-the quarters.
-~
-E
-desk~
+angled~
 Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
 room from the corner, the desk proves to be a comforting, work-efficient and
 tactical advantage; on the angled section of the desk, three computer moni-
@@ -191,7 +143,7 @@ gives an open view of the room, its monstrous fireplace, and the only exit
 within the quarters.
 ~
 E
-angled~
+desk~
 Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
 room from the corner, the desk proves to be a comforting, work-efficient and
 tactical advantage; on the angled section of the desk, three computer moni-
@@ -201,6 +153,54 @@ neatly arranged stack of papers, laser- and regular pens, and pencils are
 placed into an iron-grid cup.  The latter section of the furniture's surface 
 gives an open view of the room, its monstrous fireplace, and the only exit 
 within the quarters.
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer moni-
+tors cover the surface, and two keyboards fill the last of the gap. On its 
+opposite end, the portion used for handling actual face-to-face business; a 
+neatly arranged stack of papers, laser- and regular pens, and pencils are 
+placed into an iron-grid cup.  The latter section of the furniture's surface gives 
+an open view of the room, its monstrous fireplace, and the only exit within 
+the quarters.
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the
+room from the corner, the desk proves to be a comforting, work-efficient and
+tactical advantage; on the angled section of the desk, three computer
+monitors cover the surface, and two key- boards fill the last of the gap. 
+On its opposite end, the portion used for handling actual face-to-face
+business; a neatly arranged stack of papers, laser- and regular pens, and
+pencils are placed into an iron-grid cup.  The latter section of the
+furniture's surface gives an open view of the room, its monstrous fireplace,
+and the only exit within the quarters.  
+~
+E
+desk~
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle, facing out to the room from the 
+corner, the desk proves to be a comforting, work-efficient and tactical advantage; on the
+angled section of the desk, three computer monitors cover the surface, and two key-
+boards fill the last of the gap. On its opposite end, the portion used for handling actual
+face-to-face business; a neatly arranged stack of papers, laser- and regular pens, and
+pencils are placed into an iron-grid cup. The latter section of the furniture's surface gives
+an open view of the room, its monstrous fireplace, and the only exit within the quarters.
+~
+E
+desk~
+Formatted at a one-hundred-and-forty-five-degree angle,
+facing out to the room from the corner, the desk proves to be
+a comforting, work-efficient and tactical advantage; on the angled
+section of the desk, three computer monitors cover the surface, and two
+keyboards fill the last of the gap. On its opposite end, the portion used for handling actual
+face-to-face business; a neatly arranged stack of papers, laser- and regular pens, and 
+pencils are placed into an iron-grid cup. The latter section of the furniture's surface gives
+an open view of the room, its monstrous fireplace, and the only exit within the quarters.
 ~
 #4803
 seat fashioned 1 blue-green plush~
@@ -213,28 +213,20 @@ A 0 E 0 0
 0 0 0 P
 E
 plush~
-Deep bluish-green textures mirror velvet material, highlighting different tones
-in specific lighting. This chair, almost the size of a loveseat, reveals comfort
-and dedication in its creation, manifesting a dynamic ability to release the
-pressure pent-up in joints and relax muscles.
-~
-E
-plush~
-Deep bluish-green textures mirror velvet material, highlighting different
-tones in specific lighting. This chair, almost the size of a loveseat, re-
-veals comfort and dedication in its creation, manifesting a dynamic 
-ability to release the pressure pent-up in joints and relax muscles.
- 
-~
-E
-plush~
 Deep bluish-green textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
 ~
 E
-chair~
+blue-green~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+1~
 Deep bluish-green textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
@@ -276,14 +268,7 @@ comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
 ~
 E
-1~
-Deep bluish-green textures mirror velvet material, highlighting different
-tones in specific lighting. This chair, almost the size of a loveseat, reveals
-comfort and dedication in its creation, manifesting a dynamic ability to
-release the pressure pent-up in joints and relax muscles.
-~
-E
-blue-green~
+chair~
 Deep bluish-green textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
@@ -296,6 +281,21 @@ tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
 ~
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, re-
+veals comfort and dedication in its creation, manifesting a dynamic 
+ability to release the pressure pent-up in joints and relax muscles.
+ 
+~
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different tones
+in specific lighting. This chair, almost the size of a loveseat, reveals comfort
+and dedication in its creation, manifesting a dynamic ability to release the
+pressure pent-up in joints and relax muscles.
+~
 #4804
 insipid rug fur~
 a great expanse of miraculously soft fur~
@@ -306,7 +306,7 @@ furniture 0 0
 AC 0 EG 0 0
 0 0 0 P
 E
-insipid~
+rug~
 Thick and wild, the fur becomes a metaphorical spread of grass, sinking 
 when pushed upon, and enveloping by affected strands of hair. Its size 
 appears to be roughly twenty-feet-by-fourteen-feet in its rugged circum-
@@ -324,7 +324,7 @@ not sewn together from multiple creatures. With precise examination, it
 becomes palapble that the rug is merely corporeal to its original hide.
 ~
 E
-rug~
+insipid~
 Thick and wild, the fur becomes a metaphorical spread of grass, sinking 
 when pushed upon, and enveloping by affected strands of hair. Its size 
 appears to be roughly twenty-feet-by-fourteen-feet in its rugged circum-
@@ -342,7 +342,7 @@ furniture 0 0
 C 0 EG BD 0
 0 0 0 P
 E
-monolithic~
+bed~
 Low-set on a mattress that has no give between the bed and the floor itself, 
 the comfortable level zeniths at a nirvana of placidity. Blankets of wool-like 
 material cover the bed in a layered array, leaving the two monolithic pillows 
@@ -356,7 +356,7 @@ material cover the bed in a layered array, leaving the two monolithic pillows
 open and welcoming.
 ~
 E
-bed~
+monolithic~
 Low-set on a mattress that has no give between the bed and the floor itself, 
 the comfortable level zeniths at a nirvana of placidity. Blankets of wool-like 
 material cover the bed in a layered array, leaving the two monolithic pillows 
@@ -372,19 +372,7 @@ trash 0 0
 0 0 0 0 0
 0 0 0 P
 E
-roaring~
-Unkempt flames roil, tossing and turning within the natural hearth, blazing 
-with an insignia of past remembrance. The rockface holds a rugged appear-
-ance, as it moves out into the room obtrusively before sinking back at a 
-sharp angle, where the fire is held. The meniscus, crescent, in the wall 
-bears a dynamic explosion of depth and superiority, expanding the berth 
-retrogressively as well as across. The further back the eye can see, the 
-more flames and dancing lights can be perceived. Tantalizing and alluring 
-as it may appear, one could possibly get lost for hours in sporadic thought 
-when gazing within these multi-colored flames of uncanny longevity.
-~
-E
-fire~
+erratic~
 Unkempt flames roil, tossing and turning within the natural hearth, blazing 
 with an insignia of past remembrance. The rockface holds a rugged appear-
 ance, as it moves out into the room obtrusively before sinking back at a 
@@ -408,7 +396,19 @@ as it may appear, one could possibly get lost for hours in sporadic thought
 when gazing within these multi-colored flames of uncanny longevity.
 ~
 E
-erratic~
+fire~
+Unkempt flames roil, tossing and turning within the natural hearth, blazing 
+with an insignia of past remembrance. The rockface holds a rugged appear-
+ance, as it moves out into the room obtrusively before sinking back at a 
+sharp angle, where the fire is held. The meniscus, crescent, in the wall 
+bears a dynamic explosion of depth and superiority, expanding the berth 
+retrogressively as well as across. The further back the eye can see, the 
+more flames and dancing lights can be perceived. Tantalizing and alluring 
+as it may appear, one could possibly get lost for hours in sporadic thought 
+when gazing within these multi-colored flames of uncanny longevity.
+~
+E
+roaring~
 Unkempt flames roil, tossing and turning within the natural hearth, blazing 
 with an insignia of past remembrance. The rockface holds a rugged appear-
 ance, as it moves out into the room obtrusively before sinking back at a 
@@ -429,7 +429,7 @@ fountain 0 0
 -1 1 'coffee' 0 0
 0 0 0 P
 E
-rul'modhae~
+panel~
 Chrome with bluish tones grant the image of metallic crystal, each swirl 
 made from a finely utilized torch. One meniscus ahs its pattern distorted by 
 an opening with a glass screen. The mechanics reveal its ability to retract 
@@ -449,7 +449,7 @@ the upper portion of the panel, words of another dialect are written, stating,
 "Rul'Modhae" in an eloquent manner while glowing a gentle neon blue.
 ~
 E
-panel~
+rul'modhae~
 Chrome with bluish tones grant the image of metallic crystal, each swirl 
 made from a finely utilized torch. One meniscus ahs its pattern distorted by 
 an opening with a glass screen. The mechanics reveal its ability to retract 
@@ -468,29 +468,29 @@ furniture 0 0
 A 0 E 0 0
 0 0 0 P
 E
-plush~
-Deep bluish-green textures mirror velvet material, highlighting different
-tones in specific lighting. This chair, almost the size of a loveseat, reveals
-comfort and dedication in its creation, manifesting a dynamic ability to
-release the pressure pent-up in joints and relax muscles.
-~
-E
 fashioned~
-Deep bluish-green textures mirror velvet material, highlighting different
-tones in specific lighting. This chair, almost the size of a loveseat, reveals
-comfort and dedication in its creation, manifesting a dynamic ability to
-release the pressure pent-up in joints and relax muscles.
-~
-E
-seat~
-Deep bluish-green textures mirror velvet material, highlighting different
+Deep blue-violet textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
 ~
 E
 2~
-Deep bluish-green textures mirror velvet material, highlighting different
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+plush~
+Deep blue-violet textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+seat~
+Deep blue-violet textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
@@ -503,29 +503,29 @@ comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
 ~
 E
-seat~
-Deep blue-violet textures mirror velvet material, highlighting different
-tones in specific lighting. This chair, almost the size of a loveseat, reveals
-comfort and dedication in its creation, manifesting a dynamic ability to
-release the pressure pent-up in joints and relax muscles.
-~
-E
-plush~
-Deep blue-violet textures mirror velvet material, highlighting different
-tones in specific lighting. This chair, almost the size of a loveseat, reveals
-comfort and dedication in its creation, manifesting a dynamic ability to
-release the pressure pent-up in joints and relax muscles.
-~
-E
 2~
-Deep blue-violet textures mirror velvet material, highlighting different
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+seat~
+Deep bluish-green textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.
 ~
 E
 fashioned~
-Deep blue-violet textures mirror velvet material, highlighting different
+Deep bluish-green textures mirror velvet material, highlighting different
+tones in specific lighting. This chair, almost the size of a loveseat, reveals
+comfort and dedication in its creation, manifesting a dynamic ability to
+release the pressure pent-up in joints and relax muscles.
+~
+E
+plush~
+Deep bluish-green textures mirror velvet material, highlighting different
 tones in specific lighting. This chair, almost the size of a loveseat, reveals
 comfort and dedication in its creation, manifesting a dynamic ability to
 release the pressure pent-up in joints and relax muscles.

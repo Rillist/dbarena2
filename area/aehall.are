@@ -49,8 +49,8 @@ D0
 ~
 ~
 1 4794 4662
-R SPEECH 4798 exile~
 R SPEECH 4799 satan~
+R SPEECH 4798 exile~
 S
 #4662
 A Hallway~
@@ -136,9 +136,9 @@ D2
 ~
 ~
 0 0 4663
-R SPEECH 4797 vegeta~
-R SPEECH 4796 namek~
 R SPEECH 4699 earth~
+R SPEECH 4796 namek~
+R SPEECH 4797 vegeta~
 S
 #4666
 Training Complex~

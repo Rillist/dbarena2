@@ -28,10 +28,10 @@ punch
 0 0 0 0
 stand stand male 80
 AHMV ABCDEFGHIJK large unknown
-M SPEECH 901 loser~
-M ACT 902 bow~
-M GREET 900 100~
 M ACT 931 errupt~
+M GREET 900 100~
+M ACT 902 bow~
+M SPEECH 901 loser~
 #901
 felipe~
 Felipe~
@@ -51,8 +51,8 @@ punch
 0 0 0 0
 stand stand male 80
 AHMV ABCDEFGHIJK large unknown
-M KILL 904 100~
 M GREET 903 100~
+M KILL 904 100~
 #902
 A backup officer~
 a backup officer~
@@ -125,8 +125,8 @@ punch
 0 0 B Z
 stand stand female 30
 AHMV ABCDEFGHIJK medium unknown
-M GREET 906 100~
 M EXIT 907 1~
+M GREET 906 100~
 #906
 A receptionist~
 a receptionist~
@@ -237,9 +237,9 @@ punch
 0 0 B Z
 stand stand none 105
 AHMV ABCDEFGHIJK medium unknown
-M SPEECH 910 one~
-M SPEECH 911 two~
 M SPEECH 912 three~
+M SPEECH 911 two~
+M SPEECH 910 one~
 #912
 A fireman~
 a fireman~
@@ -298,8 +298,8 @@ punch
 0 0 B 0
 stand stand male 105
 AHMV ABCDEFGHIJK small unknown
-M BRIBE 913 500~
 M GREET 914 100~
+M BRIBE 913 500~
 #915
 A waitress~
 a waitress~
@@ -320,8 +320,8 @@ stand stand none 10
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M SPEECH 916 refill~
 M SPEECH 915 table~
+M SPEECH 916 refill~
 #916
 A belligerant man~
 a man~
@@ -377,8 +377,8 @@ punch
 0 0 B 0
 stand stand male 105
 AHMV ABCDEFGHIJK medium unknown
-M BRIBE 920 7500~
 M EXIT 919 3~
+M BRIBE 920 7500~
 #919
 The zen master~
 the zen master~
@@ -396,13 +396,13 @@ punch
 0 0 B 0
 stand stand male 105
 AHMV ABCDEFGHIJK medium unknown
-M SPEECH 921 hi~
-M SPEECH 921 hello~
-M SPEECH 921 greetings~
-M SPEECH 921 what's~
-M SPEECH 921 master~
-M SPEECH 923 senzu~
 M SPEECH 922 riddle~
+M SPEECH 923 senzu~
+M SPEECH 921 master~
+M SPEECH 921 what's~
+M SPEECH 921 greetings~
+M SPEECH 921 hello~
+M SPEECH 921 hi~
 #920
 A cajun chef~
 a cajun chef~
@@ -421,8 +421,8 @@ slap
 0 0 B 0
 stand stand male 200
 AHMV ABCDEFGHIJK medium unknown
-M SPEECH 925 sample~
 M GREET 924 100~
+M SPEECH 925 sample~
 #921
 an asian man~
 an asian man~
@@ -441,8 +441,8 @@ none
 0 0 B Z
 stand stand male 200
 AHMV ABCDEFGHIJK medium unknown
-M EXIT 927 1~
 M GREET 926 100~
+M EXIT 927 1~
 #922
 a citizen~
 a citizen~
@@ -715,8 +715,8 @@ punch
 0 0 0 0
 stand stand none 80
 AHMV ABCDEFGHIJK medium unknown
-M SPEECH 932 holochamber~
 M GREET 933 100~
+M SPEECH 932 holochamber~
 #937
 A Cloaked Figure~
 cloaked figure~
@@ -2984,14 +2984,14 @@ city was abandoned a long time ago.
 ~
 0 0 1
 E
-east~
-~
-E
 door~
 A HUGE SIGN SITS BY THIS HOUSE READING:
  
 For Sale, Please contact Vegeta if interested
 in buying. 
+~
+E
+east~
 ~
 D0
 ~
@@ -3053,17 +3053,17 @@ city was abandoned a long time ago.
 ~
 0 0 1
 E
+west~
+A HUGE SIGN NEAR THE HOUSE READS:
+For sale by owner by Vegeta. Please contact
+him if you wish to buy this property.
+~
+E
 door~
 A HUGE SIGN NEAR THE HOUSE READS:
  
 For sale by Vegeta, please contact him if you
 wish to buy this property.
-~
-E
-west~
-A HUGE SIGN NEAR THE HOUSE READS:
-For sale by owner by Vegeta. Please contact
-him if you wish to buy this property.
 ~
 D0
 ~

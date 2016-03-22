@@ -17,7 +17,7 @@ Lola is a short brown eyed with long red hair
 ~
 human~
 ABGR 0 0 0
-1000000000 0
+0
 150 150 150 150 150 
 100 100
 none
@@ -39,7 +39,7 @@ harsh enviroment.
 ~
 human~
 ABGRb 0 0 0
-1000000000 7905
+7905
 141 141 141 141 141 
 100 100
 punch
@@ -49,9 +49,9 @@ stand stand none 100
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 1905 100~
-M BRIBE 1997 100~
 M BRIBE 1999 4000~
+M BRIBE 1997 100~
+M GREET 1905 100~
 #1903
 servant bathroom~
 a bathroom servant~
@@ -60,7 +60,7 @@ A servant selling stuff
 ~
 human~
 ABGQ 0 0 0
-1 0
+0
 5 5 5 5 5 
 100 100
 punch
@@ -70,8 +70,8 @@ stand stand none 0
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M SPEECH 1904 done~
 M GREET 1903 100~
+M SPEECH 1904 done~
 #1904
 guard~
 a guard~
@@ -82,7 +82,7 @@ whomever dares approch the box.
 ~
 icer~
 ABGR 0 0 0
-500000000 14
+14
 5 5 5 5 5 
 100 100
 punch
@@ -99,7 +99,7 @@ A soldier is patroling the area
 ~
 human~
 AGR 0 0 0
-10000000 316
+316
 88 88 88 88 88 
 100 100
 punch
@@ -117,7 +117,7 @@ A soldier is patroling the area
 ~
 android~
 A 0 0 0
-10000000000 10000
+10000
 218 218 218 218 218 
 100 100
 punch
@@ -133,7 +133,7 @@ A librarian willing to help to find a book
 ~
 human~
 ABGb 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -151,7 +151,7 @@ A man with a strong staute and wears army clothes
 ~
 human~
 ABGR 0 0 0
-250000000 1581
+1581
 122 122 122 122 122 
 100 100
 punch
@@ -171,7 +171,7 @@ The dog, a huskey, is sniffing the cold ground to find the trail to his master.
 ~
 dog~
 AGP 0 0 0
-250000000 0
+0
 10 10 10 10 10 
 100 0
 none
@@ -188,7 +188,7 @@ The small boy is wearing a wooly coat, keeping him warm from the blowing wind.
 ~
 human~
 AGQ 0 0 0
-12000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -207,7 +207,7 @@ The woman seems friendly enough. She treats all her clients with great care so t
 ~
 human~
 ABGQ 0 0 0
-100 0
+0
 10 10 10 10 10 
 100 0
 none
@@ -227,7 +227,7 @@ A friendly man selling some drinks and snacks
 ~
 human~
 ABG 0 0 0
-250000000 1
+1
 10 10 10 10 10 
 100 100
 none
@@ -249,7 +249,7 @@ going out than coming in.
 ~
 namek~
 ABGa 0 0 0
-2000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -266,7 +266,7 @@ A lookout soldier being very watchful
 ~
 human~
 ABGR 0 0 0
-300000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -284,7 +284,7 @@ An old man telling a story
 ~
 human~
 ABGQY 0 0 0
-1000000 0
+0
 10 15 20 10 10 
 100 100
 none
@@ -294,8 +294,8 @@ sit sit male 0
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 1966 100~
 M ACT 1967 hair turns golden, and a burning golden aura surrounds~
+M GREET 1966 100~
 #1970
 drill sargeant~
 the drill sargeant~
@@ -304,7 +304,7 @@ The Drill Sargeant giving tips to recruits
 ~
 human~
 ABGJ 0 0 0
-3000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -326,7 +326,7 @@ to her.
 ~
 human~
 ABG 0 0 0
-2000000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -336,9 +336,9 @@ stand stand female 0
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M ACT 1920 sits~
-M GREET 1921 100~
 M SPEECH 1922 yes~
+M GREET 1921 100~
+M ACT 1920 sits~
 #1974
 nicolo octopus~
 Nicolo~
@@ -351,7 +351,7 @@ bone.
 ~
 human~
 AGP 0 0 0
-100000000 0
+0
 100 100 100 100 100 
 100 100
 none
@@ -371,7 +371,7 @@ type up a letter and send requests to the general all at the same time.
 ~
 human~
 ABGU 0 0 0
-300000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -389,7 +389,7 @@ A voice activated toilet
 ~
 human~
 ABG 0 0 0
-12 0
+0
 10 10 10 10 10 
 100 0
 none
@@ -408,7 +408,7 @@ The shopkeepe is here selling supplies
 ~
 human~
 ABG 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -426,7 +426,7 @@ A soldier is patroling the area
 ~
 human~
 AGR 0 0 0
-30000000 547
+547
 97 97 97 97 97 
 100 100
 punch
@@ -444,7 +444,7 @@ The armor shopkeepe is making something special
 ~
 human~
 ABG 0 0 0
-0 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -462,7 +462,7 @@ The weapons shopkeepe is checking his inventory.
 ~
 human~
 ABG 0 0 0
-3000 0
+0
 10 10 10 10 10 
 100 100
 none
@@ -483,7 +483,7 @@ north, there seems to have a square-shaped crack on the wall.
 ~
 human~
 ABGR 0 0 0
-1000000000 0
+0
 200 200 200 200 200 
 100 100
 none
@@ -503,7 +503,7 @@ This one's for you, Thaur
 ~
 namek~
 ACRS 0 0 0
-5000000000 7071
+7071
 192 192 192 192 192 
 100 100
 punch
@@ -519,7 +519,7 @@ General Lucas, head of the Exile Army Base
 ~
 human~
 ABGR 0 0 0
-9000000000 6324
+6324
 184 184 184 184 184 
 100 100
 punch
@@ -538,7 +538,7 @@ A corporal writing up some orders
 ~
 human~
 ABGR 0 0 0
-30000 57
+57
 5 5 5 5 5 
 100 100
 punch
@@ -556,7 +556,7 @@ A recruit listening carefully to get the technique down flat
 ~
 human~
 ABR 0 0 0
-1500000 408
+408
 5 5 5 5 5 
 100 100
 punch
@@ -2625,25 +2625,25 @@ The hallway continues to the south where it meats with some stairs.
 E
 inscriptions~
 On the northern door:
+    General's Office
+ 
+ On both the eastern and western doors:
+    Briefing Room
+~
+E
+inscriptions~
+On the northern door:
+    General's Office
+ On both the eastern and western doors:
+    Briefing Room
+~
+E
+inscriptions~
+On the northern door:
   General's Office
  
 On both the eastern and western doors:
   Briefing Room
-~
-E
-inscriptions~
-On the northern door:
-    General's Office
- On both the eastern and western doors:
-    Briefing Room
-~
-E
-inscriptions~
-On the northern door:
-    General's Office
- 
- On both the eastern and western doors:
-    Briefing Room
 ~
 D0
 ~

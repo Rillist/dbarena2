@@ -77,12 +77,12 @@ the police station.
 ~
 0 0 0
 E
-desk~
-A desk sits here, overflowing with paperwork.
-~
-E
 phone~
 An annoying phone sits here, ringing off the hook.
+~
+E
+desk~
+A desk sits here, overflowing with paperwork.
 ~
 D1
 ~
@@ -183,12 +183,12 @@ to end up.
 ~
 0 0 0
 E
-cot~
-A small cot lies here, just big enough for one person to lie on.
-~
-E
 personal~
 You can't look at that ! It's personal.
+~
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
 ~
 D2
 ~
@@ -204,12 +204,12 @@ to end up.
 ~
 0 0 0
 E
-cot~
-A small cot lies here, just big enough for one person to lie on.
-~
-E
 personal~
 You can't look at that ! It's personal.
+~
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
 ~
 D2
 ~
@@ -225,12 +225,12 @@ to end up.
 ~
 0 0 0
 E
-cot~
-A small cot lies here, just big enough for one person to lie on.
-~
-E
 personal~
 You can't look at that ! It's personal.
+~
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
 ~
 D0
 ~
@@ -246,12 +246,12 @@ to end up.
 ~
 0 0 0
 E
-cot~
-A small cot lies here, just big enough for one person to lie on.
-~
-E
 personal~
 You can't look at that ! It's personal.
+~
+E
+cot~
+A small cot lies here, just big enough for one person to lie on.
 ~
 D0
 ~
@@ -521,14 +521,14 @@ an excellent party place.
 ~
 0 0 0
 E
-stage~
-A big stage is here, perfect for band performances.
-~
-E
 sign~
 A sign reads:
  
 BINGO- every Thursday and Saturday at 5 pm. Don't be late !
+~
+E
+stage~
+A big stage is here, perfect for band performances.
 ~
 D1
 ~

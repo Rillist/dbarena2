@@ -26,8 +26,8 @@ S 0 ACDEFGKLMNOPQRTXYZ 0
 stand stand male 0
 AHM ABCDEFGHIJKPQUVX small unknown
 F for V
-M GREET 2600 100~
 M SPEECH 2601 heal~
+M GREET 2600 100~
 #2601
 john jonny~
 Jonny-5 the android~
@@ -98,8 +98,8 @@ none
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
-M BRIBE 2601 100~
 M GREET 2600 100~
+M BRIBE 2601 100~
 #2606
 Human trainer~
 A human trainer~

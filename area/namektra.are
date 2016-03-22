@@ -47,8 +47,8 @@ stand stand none 100
 AHM EF medium unknown
 F for V
 F par ABCDGHIJK
-M SPEECH 3602 hello~
 M GREET 3601 100~
+M SPEECH 3602 hello~
 #3602
 no name~
 (no short description)~
@@ -796,19 +796,19 @@ weapon 0 AN
 sword 99 99 cleave E
 0 0 0 P
 A
-1 150
-A
-4 170
-A
-2 200
-A
-5 140
-A
-3 60
+12 13372258
 A
 13 13372258
 A
-12 13372258
+3 60
+A
+5 140
+A
+2 200
+A
+4 170
+A
+1 150
 #3690
 cape~
 a red cape, with a symbol of the zed sword~
@@ -2177,20 +2177,20 @@ A small dirt path~
 ~
 0 1024 2
 E
-west~
-A gift shop... I wonder whats in there
-~
-E
-east~
-A Chinese restaurant... mmmm smells yummy.
+bushes~
+{gThere a some small bushes here.{x
 ~
 E
 trees~
 {gThere a some small trees here.{x
 ~
 E
-bushes~
-{gThere a some small bushes here.{x
+east~
+A Chinese restaurant... mmmm smells yummy.
+~
+E
+west~
+A gift shop... I wonder whats in there
 ~
 D0
 ~
@@ -2239,12 +2239,12 @@ A small dirt path~
 ~
 0 0 2
 E
-bushes~
-{gThere are some small bushes here.{x
-~
-E
 trees~
 {gThere are some small trees here.{x
+~
+E
+bushes~
+{gThere are some small bushes here.{x
 ~
 D0
 ~
@@ -2269,12 +2269,12 @@ A sign-up Office~
 ~
 0 0 0
 E
-desk~
-There is nothing special about it.
-~
-E
 banner~
 {yA large white banner, hanging from the wall, has {MTenkaichi Budokai{y written on it in Japanese Kanji.
+~
+E
+desk~
+There is nothing special about it.
 ~
 D1
 ~
@@ -2414,12 +2414,12 @@ some very brutal battles took place in this very spot.
 ~
 0 1024 2
 E
-bushes~
-{gThere are some small bushes here.{x
-~
-E
 trees~
 {gThere are some small trees here.{x
+~
+E
+bushes~
+{gThere are some small bushes here.{x
 ~
 D0
 ~
@@ -2460,20 +2460,20 @@ A gym~
 ~
 0 1024 0
 E
-note~
-{yA small note with the words written on it: "{MI have become very sick, excuse my absence -{mGym Trainer"{y... odd.{x
-~
-E
-desk~
-{yNothing special here, there is a {Gnote {yin the center though.{x
+punching~
+{yA bag of sand hanging from the ceiling... that you punch.{x
 ~
 E
 speedbag~
 {yA small bag filled with air, that you keep hitting, and see how long you can keep it bouncing.{x
 ~
 E
-punching~
-{yA bag of sand hanging from the ceiling... that you punch.{x
+desk~
+{yNothing special here, there is a {Gnote {yin the center though.{x
+~
+E
+note~
+{yA small note with the words written on it: "{MI have become very sick, excuse my absence -{mGym Trainer"{y... odd.{x
 ~
 D0
 ~
@@ -2499,20 +2499,20 @@ A hospital~
 ~
 0 1024 0
 E
-notepad~
-{yThe doctor is keeping it close to his chest, so you can't see anything written on it.{x
-~
-E
-doctor~
-{yA young man who looks in his early twenties.  He is wearing a clean, white lab coat.{x
+cots~
+{yA cot for a large sized person with an {Bicee-pak{y next to it.{x
 ~
 E
 icee-pak~
 {yA small pak of ice for injuries.{x
 ~
 E
-cots~
-{yA cot for a large sized person with an {Bicee-pak{y next to it.{x
+doctor~
+{yA young man who looks in his early twenties.  He is wearing a clean, white lab coat.{x
+~
+E
+notepad~
+{yThe doctor is keeping it close to his chest, so you can't see anything written on it.{x
 ~
 D2
 ~

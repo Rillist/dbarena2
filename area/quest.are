@@ -80,9 +80,9 @@ none
 0 Z 0 0
 stand stand none 0
 AHMV ABCDEFGHIJK large unknown
-M SPEECH 3728 fight~
-M SPEECH 3727 watch~
 M GREET 3726 100~
+M SPEECH 3727 watch~
+M SPEECH 3728 fight~
 #3789
 Hologram Computer~
 hologram computer~
@@ -120,8 +120,8 @@ stand stand none 90
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M DEATH 3787 100~
 M SPEECH 3789 exit~
+M DEATH 3787 100~
 #3791
 Level Two Warrior~
 a level two warrior~
@@ -140,8 +140,8 @@ stand stand none 105
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M DEATH 3787 100~
 M SPEECH 3789 exit~
+M DEATH 3787 100~
 #3792
 Level Three Warrior~
 A Level Three Warrior~
@@ -160,8 +160,8 @@ stand stand none 105
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M DEATH 3787 100~
 M SPEECH 3789 exit~
+M DEATH 3787 100~
 #3793
 Level Four Warrior~
 A Level Four Warrior~
@@ -180,8 +180,8 @@ stand stand none 105
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M DEATH 3787 100~
 M SPEECH 3789 exit~
+M DEATH 3787 100~
 #0
 
 
@@ -278,7 +278,7 @@ armor X ADO
 0 0 0 0 0
 100 1 10000 P
 E
-shirt~
+look~
 {c                           nnn{Cmmm
  {c            \||\       ;;;;%%%{C@@@@@@       \ //,
  {c             V|/     %;;%%%%%{C@@@@@@@@@@  ===Y//
@@ -300,7 +300,7 @@ shirt~
                              {B({c-{CG{c-{B){Rtm
 ~
 E
-look~
+shirt~
 {c                           nnn{Cmmm
  {c            \||\       ;;;;%%%{C@@@@@@       \ //,
  {c             V|/     %;;%%%%%{C@@@@@@@@@@  ===Y//

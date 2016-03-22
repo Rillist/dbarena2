@@ -49,9 +49,9 @@ none
 CFH KL 0 S
 stand stand none 100000
 ABGHKMZ ABCDEFGHIJKQVX large unknown
-M GREET 2402 100~
-M SPEECH 2403 yes~
 M SPEECH 2404 3~
+M SPEECH 2403 yes~
+M GREET 2402 100~
 #2402
 Nomed the shop owner~
 Nomed the shop owner~
@@ -320,9 +320,9 @@ none
 CI 0 Q S
 stand stand none 10
 AHMV ABCDEFGHIJK large unknown
-M SPEECH 2413 hello~
-M SPEECH 2413 hello?~
 M GREET 2411 100~
+M SPEECH 2413 hello?~
+M SPEECH 2413 hello~
 #2416
 Ogre~
 Red Ogre~
@@ -414,8 +414,8 @@ stand stand none 0
 E 0 small unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GREET 2451 100~
 M DEATH 2452 100~
+M GREET 2451 100~
 #2497
 cat~
 Puar~
@@ -450,8 +450,8 @@ punch
 CI CQ 0 0
 stand stand none 90
 AHMV ABCDEFGHIJK small unknown
-M GREET 2415 100~
 M DELAY 2416 100~
+M GREET 2415 100~
 #2499
 ogre~
 a waiting ogre~
@@ -470,8 +470,8 @@ stand stand male 0
 0 0 giant unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GRALL 2499 100~
 M DELAY 2498 100~
+M GRALL 2499 100~
 #0
 
 
@@ -495,8 +495,8 @@ unknown~
 weapon 0 AN
 exotic 0 0 smash F
 1000 5 10000 P
-O SPEECH 2402 retract~
 O SPEECH 2401 extend~
+O SPEECH 2402 retract~
 #2402
 Hell's Blade~
 hell's Blade~
@@ -678,13 +678,13 @@ armor 0 AD
 0 0 0 0 0
 0 0 0 P
 E
+insignia~
+{W=Z={x
+~
+E
 gi~
 The {rorange{x gi is made of tough material so it resists practically all
 hits.  On the left breast, an insignia can be seen.  
-~
-E
-insignia~
-{W=Z={x
 ~
 #2498
 shirt~

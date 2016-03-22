@@ -17,11 +17,11 @@ An Arlian Guard stands here, eyeing you.
 ~
 human~
 A T 0 0
-100000000 0
+0
 50 50 10 50 50 
 100 100
 punch
-1 0 0 0
+0 0 0 0
 FIK 0 0 0
 stand stand none 2000
 0 ABCDEFGHIJK large unknown
@@ -34,7 +34,7 @@ An Arlian Shopkeeper stands here, looking at you.
 ~
 human~
 AB 0 0 0
-1000 2
+2
 35 35 35 35 35 
 100 100
 punch
@@ -52,11 +52,11 @@ One of the two Arlian Gate Guards is here, staring you down.
 ~
 human~
 A JTc 0 0
-2500000000000 158
+158
 28 28 28 28 28 
 100 100
 punch
-1 1 1 1
+0 0 0 0
 0 0 0 0
 stand stand male 1405
 0 ABCDEFGHIM giant unknown

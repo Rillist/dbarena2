@@ -85,12 +85,12 @@ stand stand male 500
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M SPEECH 208 elbow~
-M SPEECH 207 kick~
-M GREET 200 100~
-M SPEECH 201 yes~
-M SPEECH 204 bash~
 M SPEECH 205 sweep~
+M SPEECH 204 bash~
+M SPEECH 201 yes~
+M GREET 200 100~
+M SPEECH 207 kick~
+M SPEECH 208 elbow~
 #204
 medium android~
 A Medium sized android~
@@ -186,8 +186,8 @@ punch
 0 0 0 0
 stand stand male 0
 AHMV ABCDEFGHIJK medium unknown
-M GREET 207 100~
 M SPEECH 209 full~
+M GREET 207 100~
 #211
 Goko~
 A man named Goko~
@@ -263,11 +263,11 @@ armor 0 AD
 AC AC AC AC 0
 1000 1 50 P
 E
-bag~
+gym~
 This bag is basic training bag for capsule corp training.  
 ~
 E
-gym~
+bag~
 This bag is basic training bag for capsule corp training.  
 ~
 #201

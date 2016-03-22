@@ -293,8 +293,8 @@ punch
 0 0 0 0
 sit sit none 49
 AHMV ABCDEFGHIJK large unknown
-M SPEECH 4417 yes~
 M GREET 4416 100~
+M SPEECH 4417 yes~
 #4417
 Bo~
 {DBo {RBludsken{x~
@@ -3029,8 +3029,8 @@ D1
 ~
 ~
 1 4426 4495
-R ACT 4498 has arrived~
 R GRALL 4498 100~
+R ACT 4498 has arrived~
 S
 #4499
 Drug Store~

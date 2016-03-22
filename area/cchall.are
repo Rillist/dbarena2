@@ -17,7 +17,7 @@ Guard
 ~
 human~
 AB B 0 0
-500 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -25,8 +25,8 @@ punch
 0 0 0 0
 stand stand none 118
 AHMV ABCDEFGHIJK large unknown
-M ACT 5300 holds a capsule corps. keycard~
 M ACT 5301 closes.~
+M ACT 5300 holds a capsule corps. keycard~
 #5301
 5301~
 guard~
@@ -35,7 +35,7 @@ Guard
 ~
 human~
 AB B 0 0
-500 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -43,8 +43,8 @@ punch
 0 0 0 0
 stand stand none 118
 AHMV ABCDEFGHIJK large unknown
-M ACT 5303 closes.~
 M ACT 5302 holds~
+M ACT 5303 closes.~
 #5302
 capsule shop~
 A {WCapsule {RCorp. {xShopkeeper~
@@ -53,7 +53,7 @@ A {WCapsule {RCorp. {xShopkeeper is here.
 ~
 human~
 AB 0 0 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -70,7 +70,7 @@ Summara, the {WCapsule {RCorp. {xTrainer is here.
 ~
 human~
 ABJ 0 0 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -87,7 +87,7 @@ A Scientist is here.
 ~
 human~
 AB 0 0 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch
@@ -103,7 +103,7 @@ The Receptionist is sitting behind her desk.
 ~
 human~
 AB 0 0 0
-1000 1
+1
 5 5 5 5 5 
 100 100
 punch

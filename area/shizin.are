@@ -78,8 +78,8 @@ punch
 0 0 0 0
 stand stand male 30919
 AHMV ABCDEFGHIJK large unknown
-M GRALL 2301 100~
 M BRIBE 2300 100000~
+M GRALL 2301 100~
 #2304
 Kibito~
 Kabito~
@@ -603,8 +603,8 @@ D4
 ~
 ~
 0 0 2315
-R ACT 2305 leaves~
 R RANDOM 2304 50~
+R ACT 2305 leaves~
 S
 #2315
 Climbing the Sacred Mountian~

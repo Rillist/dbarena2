@@ -118,10 +118,10 @@ punch
 FH 0 0 0
 stand stand none 160
 AGV ACDEFJKQV large unknown
-M SPEECH 4605 follow~
-M SPEECH 4604 sabre~
-M SPEECH 4602 sit~
 M SPEECH 4608 come~
+M SPEECH 4602 sit~
+M SPEECH 4604 sabre~
+M SPEECH 4605 follow~
 #4606
 Thrax~
 {GThrax{x the Virus~

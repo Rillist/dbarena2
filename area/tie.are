@@ -82,9 +82,9 @@ sit sit male 0
 MV 0 medium unknown
 F for AH
 F par ABCDEFGHIJK
-M GREET 3403 100~
-M SPEECH 3404 fight~
 M SPEECH 3401 watch~
+M SPEECH 3404 fight~
+M GREET 3403 100~
 #3405
 owner snack bar~
 the snack bar owner~

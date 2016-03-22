@@ -66,9 +66,9 @@ stand stand male 105
 0 0 medium unknown
 F for AHMV
 F par ABCDEFGHIJK
-M GRALL 3301 100~
-M ACT 3303 whisper~
 M ACT 3305 says~
+M ACT 3303 whisper~
+M GRALL 3301 100~
 #3303
 Droshnia~
 Droshnia~
@@ -125,9 +125,9 @@ stand stand male 4000
 V 0 medium unknown
 F for AHM
 F par ABCDEFGHIJK
-M GRALL 3306 100~
-M DELAY 3399 100~
 M SPEECH 3398 ok~
+M DELAY 3399 100~
+M GRALL 3306 100~
 #3306
 deer herd~
 A herd of deer~
@@ -355,10 +355,10 @@ crush
 FHIM 0 0 0
 stand stand male 4037
 AHMV ABCDEFGHIJK huge unknown
-M RANDOM 3341 10~
-M FIGHT 3344 50~
-M FIGHT 3343 10~
 M GRALL 3342 40~
+M FIGHT 3343 10~
+M FIGHT 3344 50~
+M RANDOM 3341 10~
 #3399
 monster~
 a icer S.E.S. soldier~
